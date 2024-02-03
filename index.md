@@ -33,10 +33,9 @@ Check out my [publications](publications/) and [research](research/) for more in
 
 <br>
 **Contact**<br>
-Alfred Wegener Institute, Helmholtz Centre for Polar and Marine Research
-Telegrafenberg A45 
-14473 Potsdam, Germany   
-email: alexander.robinson@awi.de<br>
+Alfred Wegener Institute, Helmholtz Centre for Polar and Marine Research    
+Telegrafenberg A45  
+14473 Potsdam, Germany  
 
 [<img src="/files/orcid-logo.png" alt="Alexander Robinson" width="60px" style="float: left;margin-right: 35px;margin-top: 6px;margin-bottom: 0px;">](http://orcid.org/0000-0003-3519-5293)
 [<img src="/files/Scholar.png" alt="Alexander Robinson" width="120px" style="float: left;margin-right:15px;margin-top: 4px;margin-bottom: 0px;">](https://scholar.google.es/citations?user=3cU6ewMAAAAJ&amp;hl=en)

@@ -9,8 +9,8 @@
 title: Alexander Robinson
 email: alexander.robinson@awi.de
 description: > # this means to ignore newlines until "baseurl:"
-  Ramón y Cajal Professor<br>    
-  at Universidad Carlos III de Madrid
+  Senior scientist<br>    
+  at Alfred Wegener Institute, Helmholtz Centre for Polar and Marine Research
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://alex-robinson.github.io" # the base hostname & protocol for your site
 twitter_username:
