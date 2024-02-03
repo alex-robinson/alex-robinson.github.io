@@ -6,8 +6,7 @@ permalink: /
 
 <h2>Welcome!</h2>
 
-<!-- ![Fontina Petrakopoulou](/files/pic2021.png){:style="float: left;margin-right: 20px;margin-top: 7px;" width="40px"} -->
-<img src="/files/figs/fontina_profile2_2021.png" alt="Fontina Petrakopoulou" width="250px" style="float: right;margin-left: 70px;margin-top: 7px;margin-bottom: 5px">
+<img src="files/figs/alex_profile_bw_cropped.jpg" alt="Alexander Robinson" width="250px" style="float: right;margin-left: 70px;margin-top: 7px;margin-bottom: 5px">
 
 I am a climate scientist and glaciologist with expertise in several areas. My work falls into three primary research lines:
 
