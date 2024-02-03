@@ -9,28 +9,36 @@ permalink: /
 <!-- ![Fontina Petrakopoulou](/files/pic2021.png){:style="float: left;margin-right: 20px;margin-top: 7px;" width="40px"} -->
 <img src="/files/figs/fontina_profile2_2021.png" alt="Fontina Petrakopoulou" width="250px" style="float: right;margin-left: 70px;margin-top: 7px;margin-bottom: 5px">
 
-In 2024 I took over the <a href="https://www.tu.berlin/energietechnik" target="_blank">Department Chair of Energy Engineering and Climate Protection of Technische Universität Berlin</a>.
+I am a climate scientist and glaciologist with expertise in several areas. My work falls into three primary research lines:
 
-The goal of the Department is to study and develop energy conversion processes and methods that support the sustainable development in the energy sector. The tools we use are simulation software and analyses based on costs, economics and environmental impacts. By focusing on original structures, we aim to target knowledge gaps on sustainable power plants for hybrid and polygeneration (renewable- and fossil-based) for zero-emission and zero-water operation.
+**Earth System Complexity.**
+I lead the Earth System Complexity group at AWI-Potsdam. Our work is focused on understanding long time-scale Earth system stability and large-scale feedbacks in the context of past glacial cycles and future climate change (e.g., 
+<a href="https://www.nature.com/articles/nclimate1449" target="_blank">Robinson et al., Nat. Clim. Change, 2012</a>; 
+<a href="https://www.nature.com/articles/ncomms16008" target="_blank">Robinson et al., Nat. Comm., 2017</a>).
 
-<!-- We work on the simulation and optimization of energy conversion processes using thermodynamic, economic and environmental criteria. The systems we study include, among others, renewable- and fossil-based power plants, biofuel generation processes and zero-emission energy processes (including CO2 capture). 
+**Climate extremes and risks.**
+To assess future societal risk due to climate change, I am interested in the modeling and analysis of extreme and abrupt climate events (e.g., 
+<a href="https://iopscience.iop.org/article/10.1088/1748-9326/8/3/034018" target="_blank">Coumou and Robinson, Env. Res. Lett., 2013</a>; 
+<a href="https://www.nature.com/articles/s41586-018-0006-5" target="_blank">Caesar et al., Nat., 2018</a>; 
+<a href="https://www.nature.com/articles/s41586-018-0006-5" target="_blank">Robinson et al., npj Atmos.Nat., 2021</a>).
 
-Come work with us and be part of a forward thinking research group. We are open to new ideas and we support innovative and attractive proposals. Contact me by e-mail with a CV and your research interests.-->
+**Energy-system resilience.**
+Here I work to support the resilient design of hybrid renewable energy generation systems for changing climatic conditions (e.g., 
+<a href="https://www.sciencedirect.com/science/article/abs/pii/S0960148116304414?via%3Dihub" target="_blank">Petrakopoulou et al., Re. Ener., 2016</a>; 
+<a href="https://www.sciencedirect.com/science/article/abs/pii/S0959652620328614?via%3Dihub" target="_blank">Petrakopoulou et al., J. Clean. Prod., 2020</a>).
 
-Take a look at [my **research lines** here](http://fontina-petrakopoulou.github.io/research/) and a short [**Curriculum Vitae** here](http://fontina-petrakopoulou.github.io/files/CV_Petrakopoulou.pdf).
+Check out my [publications](publications/) and [research](research/) for more information about my work.
 
-<!-- We are always looking for motivated students and researchers to come work with us and be part of a forward thinking research group. We are open to new ideas and we support innovative and attractive proposals. Contact me by e-mail with a CV and your research interests. -->
+<b>I am always interested in starting new collaborations. Please contact me!</b><br/>
 
 
 <br>
 **Contact**<br>
-Technische Universität Berlin    
-Institut für Energietechnik und Klimaschutz   
-Sekr. KT 1   
-Marchstr. 18    
-10587 Berlin    
-Tel.: +49 30 314-22181     
-email: fontina.petrakopoulou@tu-berlin.de<br>
-[<img src="/files/orcid-logo.png" alt="Fontina Petrakopoulou" width="60px" style="float: left;margin-right: 35px;margin-top: 6px;margin-bottom: 0px;">](http://orcid.org/0000-0001-6878-4591)
-[<img src="/files/Scholar.png" alt="Fontina Petrakopoulou" width="120px" style="float: left;margin-right:15px;margin-top: 4px;margin-bottom: 0px;">](https://scholar.google.es/citations?user=LLgloUsAAAAJ&amp;hl=en)
-[<img src="/files/researchgate-dss.png" alt="Fontina Petrakopoulou" width="30px" style="float: left;margin-right: 0px;margin-top: 4px;margin-bottom: 0px;">](https://www.researchgate.net/profile/Fontina_Petrakopoulou)
+Alfred Wegener Institute, Helmholtz Centre for Polar and Marine Research
+Telegrafenberg A45 
+14473 Potsdam, Germany   
+email: alexander.robinson@awi.de<br>
+
+[<img src="/files/orcid-logo.png" alt="Alexander Robinson" width="60px" style="float: left;margin-right: 35px;margin-top: 6px;margin-bottom: 0px;">](http://orcid.org/0000-0003-3519-5293)
+[<img src="/files/Scholar.png" alt="Alexander Robinson" width="120px" style="float: left;margin-right:15px;margin-top: 4px;margin-bottom: 0px;">](https://scholar.google.es/citations?user=3cU6ewMAAAAJ&amp;hl=en)
+[<img src="/files/researchgate-dss.png" alt="Alexander Robinson" width="30px" style="float: left;margin-right: 0px;margin-top: 4px;margin-bottom: 0px;">](https://www.researchgate.net/profile/Alexander-Robinson-8)
