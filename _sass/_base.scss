@@ -57,6 +57,9 @@ figure > img {
 }
 
 figcaption {
+    margin: auto;
+    width: 60%;
+    padding: 10px;
     font-size: $small-font-size;
     font-weight: bold;
     color: $grey-color;
