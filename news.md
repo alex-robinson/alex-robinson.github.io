@@ -6,8 +6,15 @@ permalink: /news/
 
 ### 2022-03-17: ERC Consolidator grant project FORCLIMA funded
 
+.center {
+  line-height: 200px;
+  height: 200px;
+  border: 3px solid green;
+  text-align: center;
+}
+
 <img src="/files/news/2022-03-17-forclima/forclima-graphic-1.png" alt="FORCLIMA outline" width="1100px" style="float: center; margin-right: 10px; margin-top: 5px; margin-bottom: 5px">
-<div class="figcaption">
+<div class="center">
     Tipping elements to be investigated in FORCLIMA.
 </div>
 
