@@ -7,7 +7,7 @@ permalink: /publications/
 
 **Summary**
 
-- <a href="#articles">50 ISI articles</a>
+- <a href="#articles">51 ISI articles</a>
 - <a href="#reports">4 peer-reviewed commissioned reports</a>
 - 30+ conference presentations (8 invited)
 
@@ -23,7 +23,7 @@ Scopus profile
 <h1 id="articles">Articles</h1>
 
 [
-<!-- <a href="#2024">2024</a>, -->
+<a href="#2024">2024</a>,
 <a href="#2023">2023</a>,
 <a href="#2022">2022</a>,
 <a href="#2021">2021</a>, 
@@ -45,7 +45,11 @@ Scopus profile
 
 <!-- <h3>In progress</h3> -->
 
-<!-- <h3 id="2024">2024</h3>  -->
+<h3 id="2024">2024</h3>
+
+<p>
+[51] Petrakopoulou, F. and <b>Robinson, A.</b>: Evaluation of a concentrated solar power plant under meteorological and climatological forcing, Energy Reports, 11, 4776–4783, https://doi.org/10.1016/j.egyr.2024.04.044, 2024.
+</p>
 
 <h3 id="2023">2023</h3>
 
