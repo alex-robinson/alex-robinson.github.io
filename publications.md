@@ -7,7 +7,7 @@ permalink: /publications/
 
 **Summary**
 
-- <a href="#articles">51 ISI articles</a>
+- <a href="#articles">52 ISI articles</a>
 - <a href="#reports">4 peer-reviewed commissioned reports</a>
 - 30+ conference presentations (8 invited)
 
@@ -46,6 +46,10 @@ Scopus profile
 <!-- <h3>In progress</h3> -->
 
 <h3 id="2024">2024</h3>
+
+<p>
+[52] Swierczek-Jereczek, J., Montoya, M., Latychev, K., <b>Robinson, A.</b>, Alvarez-Solas, J., and Mitrovica, J.: FastIsostasy v1.0 – a regional, accelerated 2D glacial isostatic adjustment (GIA) model accounting for the lateral variability of the solid Earth, Geosci. Model Dev., 17, 5263–5290, https://doi.org/10.5194/gmd-17-5263-2024, 2024.
+</p>
 
 <p>
 [51] Petrakopoulou, F. and <b>Robinson, A.</b>: Evaluation of a concentrated solar power plant under meteorological and climatological forcing, Energy Reports, 11, 4776–4783, https://doi.org/10.1016/j.egyr.2024.04.044, 2024.
