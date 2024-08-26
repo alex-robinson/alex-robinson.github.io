@@ -26,7 +26,7 @@ Here I work to support the resilient design of hybrid renewable energy generatio
 <a href="https://www.sciencedirect.com/science/article/abs/pii/S0960148116304414?via%3Dihub" target="_blank">Petrakopoulou et al., Re. Ener., 2016</a>; 
 <a href="https://www.sciencedirect.com/science/article/abs/pii/S0959652620328614?via%3Dihub" target="_blank">Petrakopoulou et al., J. Clean. Prod., 2020</a>).
 
-Check out my [publications](publications/) and [research](research/) for more information about my work.
+Check out my [publications](publications/) and [news](news/) for more information about my work.
 
 <b>I am always interested in starting new collaborations. Please contact me!</b><br/>
 
