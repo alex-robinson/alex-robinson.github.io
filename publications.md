@@ -7,7 +7,7 @@ permalink: /publications/
 
 **Summary**
 
-- <a href="#articles">53 ISI articles</a>
+- <a href="#articles">54 ISI articles</a>
 - <a href="#reports">4 peer-reviewed commissioned reports</a>
 - 30+ conference presentations (8 invited)
 
@@ -46,6 +46,10 @@ Scopus profile
 <!-- <h3>In progress</h3> -->
 
 <h3 id="2024">2024</h3>
+
+<p>
+[54] Seroussi, H., Pelle, T., Lipscomb, W. H., Abe‐Ouchi, A., Albrecht, T., Alvarez‐ Solas, J., Asay‐Davis, X., Barre, J.‐B., Berends, C. J., Bernales, J., Blasco, J., Caillet, J., Chandler, D. M., Coulon, V., Cullather, R., Dumas, C., Galton‐Fenzi, B. K., Garbe, J., Gillet‐Chaulet, F., Gladstone, R., Goelzer, H., Golledge, N., Greve, R., Gudmundsson, G. H., Han, H. K., Hillebrand, T. R., Hoffman, M. J., Huybrechts, P., Jourdain, N. C., Klose, A. K., Langebroek, P. M., Leguy, G. R., Lowry, D. P., Mathiot, P., Montoya, M., Morlighem, M., Nowicki, S., Pattyn, F., Payne, A. J., Quiquet, A., Reese, R., <b>Robinson, A.</b>, Saraste, L., Simon, E. G., Sun, S., Twarog, J. P., Trusel, L. D., Urruty, B., Van Breedam, J., van de Wal, R. S. W., Wang, Y., Zhao, C. and Zwinger, T.: Evolution of the Antarctic Ice Sheet over the next three centuries from an ISMIP6 model ensemble. Earth's Future, 12, e2024EF004561. https://doi.org/10.1029/ 2024EF004561, 2024.
+</p>
 
 <p>
 [53] Tabone, I., <b>Robinson, A.</b>, Montoya, M., and Alvarez-Solas, J.: Holocene thinning in central Greenland controlled by the Northeast Greenland Ice Stream, Nat. Comm., 15, 6434, https://doi.org/10.1038/s41467-024-50772-5, 2024.
