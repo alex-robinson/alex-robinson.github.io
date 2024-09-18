@@ -7,7 +7,7 @@ permalink: /publications/
 
 **Summary**
 
-- <a href="#articles">55 ISI articles</a>
+- <a href="#articles">56 ISI articles</a>
 - <a href="#reports">4 peer-reviewed commissioned reports</a>
 - 30+ conference presentations (8 invited)
 
@@ -46,6 +46,10 @@ Scopus profile
 <!-- <h3>In progress</h3> -->
 
 <h3 id="2024">2024</h3>
+
+<p>
+[56] Moreno-Parada, D., <b>Robinson, A.</b>, Montoya, M., and Alvarez-Solas, J.: Analytical solutions for the advective–diffusive ice column in the presence of strain heating, The Cryosphere, 18, 4215–4232, https://doi.org/10.5194/tc-18-4215-2024, 2024.
+</p>
 
 <p>
 [55] Blasco, J., Tabone, I., Moreno-Parada, D., <b>Robinson, A.</b>, Alvarez-Solas, J., Pattyn, F., and Montoya, M.: Antarctic tipping points triggered by the mid-Pliocene warm climate, Clim. Past, 20, 1919–1938, https://doi.org/10.5194/cp-20-1919-2024, 2024.
