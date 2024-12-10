@@ -11,7 +11,7 @@ permalink: /
 I am a climate scientist and glaciologist with expertise in several areas. My work falls into three primary research lines:
 
 **Earth System Complexity.**
-I lead the Earth System Complexity group at AWI-Potsdam. Our work is focused on understanding long time-scale Earth system stability and large-scale feedbacks in the context of past glacial cycles and future climate change (e.g., 
+I lead the <a href="https://www.awi.de/en/science/geosciences/polar-terrestrial-environmental-systems/research-foci/earth-system-complexity.html" target="_blank">Earth System Complexity group</a> at AWI-Potsdam. Our work is focused on understanding long time-scale Earth system stability and large-scale feedbacks in the context of past glacial cycles and future climate change (e.g., 
 <a href="https://www.nature.com/articles/nclimate1449" target="_blank">Robinson et al., Nat. Clim. Change, 2012</a>; 
 <a href="https://www.nature.com/articles/ncomms16008" target="_blank">Robinson et al., Nat. Comm., 2017</a>).
 
