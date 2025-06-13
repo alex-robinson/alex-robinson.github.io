@@ -4,6 +4,10 @@ title: Media
 permalink: /media/
 ---
 
+<h3 id="2025">2023</h3>
+
+<a href="https://www.carbonbrief.org/guest-post-how-climate-change-is-fuelling-record-breaking-extreme-weather/" target="_blank">Guest post: How climate change is fuelling record-breaking extreme weather</a>. Carbon Brief. 13 Jun 2025.
+
 <h3 id="2023">2023</h3>
 
 <a href="https://www.nature.com/articles/d41586-023-03250-9" target="_blank">Greenland’s massive ice sheet is melting — here’s how to save it</a>. Nature. 19 Oct 2023.

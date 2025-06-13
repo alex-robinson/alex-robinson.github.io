@@ -7,9 +7,9 @@ permalink: /publications/
 
 **Summary**
 
-- <a href="#articles">58 ISI articles</a>
+- <a href="#articles">59 ISI articles</a>
 - <a href="#reports">4 peer-reviewed commissioned reports</a>
-- 30+ conference presentations (8 invited)
+- 40+ conference presentations (8 invited)
 
 <a href="https://scholar.google.com/citations?user=3cU6ewMAAAAJ&hl=en" target="_blank">
 Google Scholar profile
@@ -23,6 +23,7 @@ Scopus profile
 <h1 id="articles">Articles</h1>
 
 [
+<a href="#2025">2025</a>,
 <a href="#2024">2024</a>,
 <a href="#2023">2023</a>,
 <a href="#2022">2022</a>,
@@ -45,14 +46,20 @@ Scopus profile
 
 <!-- <h3>In progress</h3> -->
 
+<h3 id="2025">2025</h3>
+
+<p>
+[59] Fischer, E. M., Bador, M., Huser, R., Kendon, E. J., <b>Robinson, A.</b> and Sippel, S.: Record-breaking extremes in a warming climate, Nat. Rev. Earth & Env., https://doi.org/10.1038/s43017-025-00681-y, 2025.
+</p>
+
 <h3 id="2024">2024</h3>
 
 <p>
-Rieckh, T., Born, A., <b>Robinson, A.</b>, Law, R., and Gülle, G.: Design and performance of ELSA v2.0: an isochronal model for ice-sheet layer tracing, Geosci. Model Dev., 17, 6987–7000, https://doi.org/10.5194/gmd-17-6987-2024, 2024.
+[58] Rieckh, T., Born, A., <b>Robinson, A.</b>, Law, R., and Gülle, G.: Design and performance of ELSA v2.0: an isochronal model for ice-sheet layer tracing, Geosci. Model Dev., 17, 6987–7000, https://doi.org/10.5194/gmd-17-6987-2024, 2024.
 </p>
 
 <p>
-Juarez-Martinez, A., Blasco, J., <b>Robinson, A.</b>, Montoya, M., and Alvarez-Solas, J.: Antarctic sensitivity to oceanic melting parameterizations, The Cryosphere, 18, 4257–4283, https://doi.org/10.5194/tc-18-4257-2024, 2024.
+[57] Juarez-Martinez, A., Blasco, J., <b>Robinson, A.</b>, Montoya, M., and Alvarez-Solas, J.: Antarctic sensitivity to oceanic melting parameterizations, The Cryosphere, 18, 4257–4283, https://doi.org/10.5194/tc-18-4257-2024, 2024.
 </p>
 
 <p>
