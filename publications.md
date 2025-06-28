@@ -49,6 +49,10 @@ Scopus profile
 <h3 id="2025">2025</h3>
 
 <p>
+[60] Pérez-Montero, S., Alvarez-Solas, J., Swierczek-Jereczek, J., Moreno-Parada, D., <b>Robinson, A.</b>, and Montoya, M.: A simple physical model for glacial cycles, Earth Syst. Dynam., 16, 915–937, https://doi.org/10.5194/esd-16-915-2025, 2025.
+</p>
+
+<p>
 [59] Fischer, E. M., Bador, M., Huser, R., Kendon, E. J., <b>Robinson, A.</b> and Sippel, S.: Record-breaking extremes in a warming climate, Nat. Rev. Earth & Env., https://doi.org/10.1038/s43017-025-00681-y, 2025.
 </p>
 
