@@ -7,7 +7,7 @@ permalink: /publications/
 
 **Summary**
 
-- <a href="#articles">59 ISI articles</a>
+- <a href="#articles">60 scientific articles</a>
 - <a href="#reports">4 peer-reviewed commissioned reports</a>
 - 40+ conference presentations (8 invited)
 
