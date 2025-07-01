@@ -7,7 +7,7 @@ permalink: /publications/
 
 **Summary**
 
-- <a href="#articles">60 scientific articles</a>
+- <a href="#articles">61 scientific articles</a>
 - <a href="#reports">4 peer-reviewed commissioned reports</a>
 - 40+ conference presentations (8 invited)
 
@@ -47,6 +47,10 @@ Scopus profile
 <!-- <h3>In progress</h3> -->
 
 <h3 id="2025">2025</h3>
+
+<p>
+[61] Moreno-Parada, D., <b>Robinson, A.</b>, Montoya, M., and Alvarez-Solas, J.: Description and validation of the ice-sheet model Nix v1.0, Geosci. Model Dev., 18, 3895–3919, https://doi.org/10.5194/gmd-18-3895-2025, 2025.
+</p>
 
 <p>
 [60] Pérez-Montero, S., Alvarez-Solas, J., Swierczek-Jereczek, J., Moreno-Parada, D., <b>Robinson, A.</b>, and Montoya, M.: A simple physical model for glacial cycles, Earth Syst. Dynam., 16, 915–937, https://doi.org/10.5194/esd-16-915-2025, 2025.
