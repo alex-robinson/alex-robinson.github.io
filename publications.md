@@ -76,7 +76,7 @@ Scopus profile
 
 <p>
 [55] Blasco, J., Tabone, I., Moreno-Parada, D., <b>Robinson, A.</b>, Alvarez-Solas, J., Pattyn, F., and Montoya, M.: Antarctic tipping points triggered by the mid-Pliocene warm climate, Clim. Past, 20, 1919–1938, https://doi.org/10.5194/cp-20-1919-2024, 2024.
-</b>
+</p>
 
 <p>
 [54] Seroussi, H., Pelle, T., Lipscomb, W. H., Abe‐Ouchi, A., Albrecht, T., Alvarez‐ Solas, J., Asay‐Davis, X., Barre, J.‐B., Berends, C. J., Bernales, J., Blasco, J., Caillet, J., Chandler, D. M., Coulon, V., Cullather, R., Dumas, C., Galton‐Fenzi, B. K., Garbe, J., Gillet‐Chaulet, F., Gladstone, R., Goelzer, H., Golledge, N., Greve, R., Gudmundsson, G. H., Han, H. K., Hillebrand, T. R., Hoffman, M. J., Huybrechts, P., Jourdain, N. C., Klose, A. K., Langebroek, P. M., Leguy, G. R., Lowry, D. P., Mathiot, P., Montoya, M., Morlighem, M., Nowicki, S., Pattyn, F., Payne, A. J., Quiquet, A., Reese, R., <b>Robinson, A.</b>, Saraste, L., Simon, E. G., Sun, S., Twarog, J. P., Trusel, L. D., Urruty, B., Van Breedam, J., van de Wal, R. S. W., Wang, Y., Zhao, C. and Zwinger, T.: Evolution of the Antarctic Ice Sheet over the next three centuries from an ISMIP6 model ensemble. Earth's Future, 12, e2024EF004561. https://doi.org/10.1029/ 2024EF004561, 2024.
