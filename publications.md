@@ -7,7 +7,7 @@ permalink: /publications/
 
 **Summary**
 
-- <a href="#articles">61 scientific articles</a>
+- <a href="#articles">62 scientific articles</a>
 - <a href="#reports">4 peer-reviewed commissioned reports</a>
 - 40+ conference presentations (8 invited)
 
@@ -23,6 +23,7 @@ Scopus profile
 <h1 id="articles">Articles</h1>
 
 [
+<a href="#2026">2026</a>,
 <a href="#2025">2025</a>,
 <a href="#2024">2024</a>,
 <a href="#2023">2023</a>,
@@ -45,6 +46,12 @@ Scopus profile
 <br /><br />
 
 <!-- <h3>In progress</h3> -->
+
+<h3 id="2026">2026</h3>
+
+<p>
+[62] Gutiérrez-González, L., <b>Robinson, A.</b>, Alvarez-Solas, J., Tabone, I., Swierczek-Jereczek, J., Moreno-Parada, D., and Montoya, M.: Hysteresis of the Greenland ice sheet from the Last Glacial Maximum to the future, The Cryosphere, 20, 1139–1162, https://doi.org/10.5194/tc-20-1139-2026, 2026.
+</p>
 
 <h3 id="2025">2025</h3>
 
