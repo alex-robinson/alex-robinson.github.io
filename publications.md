@@ -7,7 +7,7 @@ permalink: /publications/
 
 **Summary**
 
-- <a href="#articles">62 scientific articles</a>
+- <a href="#articles">63 scientific articles</a>
 - <a href="#reports">4 peer-reviewed commissioned reports</a>
 - 40+ conference presentations (8 invited)
 
@@ -48,6 +48,10 @@ Scopus profile
 <!-- <h3>In progress</h3> -->
 
 <h3 id="2026">2026</h3>
+
+<p>
+[63] Pérez-Montero, S., Alvarez-Solas, J., Swierczek-Jereczek, J., Moreno-Parada, D., <b>Robinson, A.</b>, and Montoya, M.: Exploring the Mid-Pleistocene transition with a simple physical model, Clim. Past, 22, 625–646, https://doi.org/10.5194/cp-22-625-2026, 2026.
+</p>
 
 <p>
 [62] Gutiérrez-González, L., <b>Robinson, A.</b>, Alvarez-Solas, J., Tabone, I., Swierczek-Jereczek, J., Moreno-Parada, D., and Montoya, M.: Hysteresis of the Greenland ice sheet from the Last Glacial Maximum to the future, The Cryosphere, 20, 1139–1162, https://doi.org/10.5194/tc-20-1139-2026, 2026.
