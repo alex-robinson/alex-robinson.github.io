@@ -7,9 +7,9 @@ permalink: /publications/
 
 **Summary**
 
-- <a href="#articles">63 scientific articles</a>
+- <a href="#articles">64 scientific articles</a>
 - <a href="#reports">4 peer-reviewed commissioned reports</a>
-- 40+ conference presentations (8 invited)
+- 50+ conference presentations (8 invited)
 
 <a href="https://scholar.google.com/citations?user=3cU6ewMAAAAJ&hl=en" target="_blank">
 Google Scholar profile
@@ -48,6 +48,10 @@ Scopus profile
 <!-- <h3>In progress</h3> -->
 
 <h3 id="2026">2026</h3>
+
+<p>
+[64] Bochow, N., Hess, P., and <b>Robinson, A.</b>: Physics-constrained generative machine learning-based high-resolution downscaling of Greenland's surface mass balance and surface temperature, The Cryosphere, 20, 1841–1866, https://doi.org/10.5194/tc-20-1841-2026, 2026.
+</p>
 
 <p>
 [63] Pérez-Montero, S., Alvarez-Solas, J., Swierczek-Jereczek, J., Moreno-Parada, D., <b>Robinson, A.</b>, and Montoya, M.: Exploring the Mid-Pleistocene transition with a simple physical model, Clim. Past, 22, 625–646, https://doi.org/10.5194/cp-22-625-2026, 2026.
