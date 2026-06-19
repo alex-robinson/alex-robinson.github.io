@@ -50,6 +50,10 @@ Scopus profile
 <h3 id="2026">2026</h3>
 
 <p>
+Kypke, K., Montoya, M., <b>Robinson, A.</b>, Alvarez-Solas, J., Swierczek-Jereczek, J., and Ditlevsen, P.: Chaotic fluctuations in Greenland ice streams limit predictability of ice sheet collapse, Earth Syst. Dynam., 17, 769–794, https://doi.org/10.5194/esd-17-769-2026, 2026.
+</p>
+
+<p>
 [64] Bochow, N., Hess, P., and <b>Robinson, A.</b>: Physics-constrained generative machine learning-based high-resolution downscaling of Greenland's surface mass balance and surface temperature, The Cryosphere, 20, 1841–1866, https://doi.org/10.5194/tc-20-1841-2026, 2026.
 </p>
 
