@@ -1,0 +1,31 @@
+name: scan
+
+on:
+  schedule:
+    - cron: "0 6 * * *"   # 06:00 UTC daily
+  workflow_dispatch: {}
+
+permissions:
+  contents: write
+
+jobs:
+  scan:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      # Install paper-feeder, score, and write the digest into feed/.
+      # State lives in .paper-feeder/ (a dot-dir Jekyll excludes from the build).
+      - uses: alex-robinson/paper-feeder@v0.1.0
+        with:
+          config: config
+          data: .paper-feeder
+          docs: feed          # served at https://alex-robinson.github.io/feed/
+
+      - name: Commit results
+        run: |
+          git config user.name  "paper-feeder"
+          git config user.email "actions@github.com"
+          git add feed/ .paper-feeder/
+          git diff --staged --quiet || git commit -m "papers: $(date -I)"
+          git push
