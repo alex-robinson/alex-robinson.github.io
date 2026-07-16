@@ -9,11 +9,26 @@
 #                                        internal spaces also match hyphens
 #   {pattern: "ice[- ]sheets?", weight: 3, label: "ice sheet"}   raw regex
 #
+# PLURALS: `term` is word-boundary anchored, so a singular term does NOT match
+# its plural — "ice sheet" misses "ice sheets", "CMIP" misses "CMIP6". Use
+# `pattern` with `s?` (and your own \b) whenever the plural is common.
+#
+# POLICY — general vocabulary over proper nouns. Model, dataset and project
+# names (Yelmo, PISM, RACMO, EPICA, ISMIP...) are deliberately absent: a paper
+# using them also describes its science in general terms, so it matches anyway.
+# Matching is case-insensitive, which makes short acronyms noisy (\bGRACE\b
+# hits the ordinary noun). Only standard abbreviations for phenomena/periods
+# with no general synonym are kept: AMOC, GIA, LGM, MIS.
+#
 # Score per paper = sum over matching entries of
 #   weight * title_boost   (term in title)  +  weight   (term in abstract).
 # Papers scoring >= publish_min_score go in the digest; the rest feed
 # serendipity. An `exclude` match vetoes a paper outright — use it to kill
 # known false positives.
+#
+# WEIGHT GUIDE (at title_boost 2.0 / publish_min_score 3.0): a weight-2 term in
+# a title scores 4 and publishes the paper on its own. Weight-1 terms score 2
+# and need a second match — that is the tier for broad context words.
 
 title_boost: 2.0
 publish_min_score: 3.0
@@ -21,56 +36,197 @@ serendipity_count: 3
 
 include:
   # --- core: ice-sheet dynamics & stability -------------------------------
-  - {term: "ice sheet", weight: 3}
-  - {pattern: "ice[- ]sheet model(l)?ing", weight: 5, label: "ice-sheet modelling"}
-  - {term: "ice stream", weight: 4}
-  - {term: "ice shelf", weight: 4}
-  - {term: "grounding line", weight: 4}
+  - {pattern: "\\bice[\\s-]?sheets?\\b", weight: 3, label: "ice sheet"}
+  - {pattern: "\\bice[\\s-]?sheet model(l)?ing\\b", weight: 5, label: "ice-sheet modelling"}
+  - {pattern: "\\bice streams?\\b", weight: 4, label: "ice stream"}
+  - {pattern: "\\bice shel(f|ves)\\b", weight: 4, label: "ice shelf"}
+  - {pattern: "\\bgrounding[\\s-]lines?\\b", weight: 4, label: "grounding line"}
   - {term: "marine ice sheet instability", weight: 5}
   - {term: "subglacial", weight: 4}
-  - {term: "basal melt", weight: 3}
+  - {term: "subglacial hydrology", weight: 4}
   - {term: "ice dynamics", weight: 3}
+  - {pattern: "\\bice flow\\b", weight: 3, label: "ice flow"}
+  - {term: "ice rheology", weight: 3}
+  - {pattern: "\\bbasal (friction|drag)\\b", weight: 4, label: "basal friction/drag"}
+  - {term: "geothermal heat flux", weight: 4}
+  - {term: "englacial", weight: 4}
+  - {pattern: "\\bisochrones?\\b", weight: 3, label: "isochrone"}
+  - {pattern: "\\bbuttressing\\b", weight: 4, label: "buttressing"}
+  - {term: "cryosphere", weight: 3}
+  - {term: "glaciology", weight: 2}
+  - {pattern: "\\bglaciers?\\b", weight: 1, label: "glacier"}
   - {term: "Antarctic", weight: 2}
   - {term: "Antarctica", weight: 2}
   - {term: "Greenland", weight: 2}
   - {term: "West Antarctic", weight: 3}
+  - {pattern: "\\bpolar\\b", weight: 1, label: "polar"}
+  - {pattern: "\\bArctic\\b", weight: 1, label: "Arctic"}
 
-  # --- tipping points / abrupt change -------------------------------------
-  - {term: "tipping point", weight: 4}
-  - {term: "tipping element", weight: 5}
-  - {term: "abrupt change", weight: 3}
+  # --- paleo ice sheets ---------------------------------------------------
+  - {term: "Laurentide", weight: 5}
+  - {term: "Eurasian ice sheet", weight: 5}
+  - {pattern: "\\bNorthern Hemisphere ice sheets?\\b", weight: 4, label: "NH ice sheets"}
+  - {term: "Fennoscandian", weight: 4}
+  - {term: "Northeast Greenland Ice Stream", weight: 5}
+
+  # --- surface mass balance & melt ----------------------------------------
+  - {term: "surface mass balance", weight: 4}
+  - {pattern: "\\bsurface melt(ing)?\\b", weight: 3, label: "surface melt"}
+  - {pattern: "\\bbasal melt(ing)?\\b", weight: 3, label: "basal melt"}
+  - {pattern: "\\bmeltwater\\b", weight: 2, label: "meltwater"}
+  - {term: "surface energy balance", weight: 4}
+  - {term: "energy balance model", weight: 3}
+  - {pattern: "\\balbedo\\b", weight: 2, label: "albedo"}
+  - {pattern: "\\bfirn\\b", weight: 3, label: "firn"}
+  - {pattern: "\\bsnowpack\\b", weight: 1, label: "snowpack"}
+  - {pattern: "\\bcalving\\b", weight: 3, label: "calving"}
+  - {pattern: "\\boutlet glaciers?\\b", weight: 3, label: "outlet glacier"}
+  - {pattern: "\\bice discharge\\b", weight: 3, label: "ice discharge"}
+  - {pattern: "\\bmass loss\\b", weight: 2, label: "mass loss"}
+
+  # --- ice-ocean interaction ----------------------------------------------
+  - {pattern: "\\bice[\\s-]ocean interactions?\\b", weight: 4, label: "ice-ocean interaction"}
+  - {pattern: "\\bsub[\\s-]?shelf melt(ing)?\\b", weight: 4, label: "sub-shelf melt"}
+  - {pattern: "\\bsubmarine melt(ing)?\\b", weight: 4, label: "submarine melt"}
+  - {pattern: "\\btidewater glaciers?\\b", weight: 3, label: "tidewater glacier"}
+  - {pattern: "\\bicebergs?\\b", weight: 2, label: "iceberg"}
+  - {pattern: "\\bsea ice\\b", weight: 1, label: "sea ice"}
+
+  # --- tipping points / abrupt change / dynamical systems -----------------
+  - {pattern: "\\btipping points?\\b", weight: 4, label: "tipping point"}
+  - {pattern: "\\btipping elements?\\b", weight: 5, label: "tipping element"}
+  - {pattern: "\\babrupt (climate )?changes?\\b", weight: 3, label: "abrupt change"}
   - {term: "hysteresis", weight: 3}
-  - {term: "bifurcation", weight: 2}
+  - {pattern: "\\bbifurcations?\\b", weight: 2, label: "bifurcation"}
+  - {pattern: "\\bcritical thresholds?\\b", weight: 4, label: "critical threshold"}
+  - {term: "multistability", weight: 4}
+  - {term: "multistable", weight: 3}
+  - {pattern: "\\bovershoot(ing)?\\b", weight: 3, label: "overshoot"}
+  - {term: "irreversible", weight: 2}
+  - {pattern: "\\bdynamical systems?\\b", weight: 2, label: "dynamical system"}
+  - {term: "stochastic forcing", weight: 2}
+  - {term: "noise-induced", weight: 3}
+  - {term: "predictability", weight: 2}
 
-  # --- paleoclimate / data assimilation -----------------------------------
+  # --- ocean circulation / AMOC -------------------------------------------
+  - {term: "Atlantic meridional overturning circulation", weight: 5}
+  - {pattern: "\\bAMOC\\b", weight: 5, label: "AMOC"}
+  - {term: "overturning circulation", weight: 4}
+  - {term: "thermohaline circulation", weight: 3}
+  - {term: "ocean circulation", weight: 2}
+  - {term: "Southern Ocean", weight: 2}
+  - {term: "sea surface temperature", weight: 1}
+
+  # --- paleoclimate & glacial cycles --------------------------------------
   - {pattern: "pal(a)?eoclimat(e|ic)", weight: 3, label: "paleoclimate"}
-  - {term: "deglaciation", weight: 4}
+  - {pattern: "\\bdeglaciations?\\b", weight: 4, label: "deglaciation"}
   - {term: "last glacial maximum", weight: 4}
-  - {term: "interglacial", weight: 3}
+  - {pattern: "\\bLGM\\b", weight: 4, label: "LGM"}
+  - {pattern: "\\binterglacials?\\b", weight: 3, label: "interglacial"}
+  - {term: "last interglacial", weight: 4}
+  - {term: "Eemian", weight: 5}
+  - {pattern: "\\bDansgaard[\\s\\-‐-―]?Oeschger\\b", weight: 5, label: "Dansgaard-Oeschger"}
+  - {pattern: "\\bHeinrich events?\\b", weight: 5, label: "Heinrich event"}
+  - {pattern: "\\bmillennial[\\s-]scale\\b", weight: 4, label: "millennial-scale"}
+  - {pattern: "\\bglacial cycles?\\b", weight: 4, label: "glacial cycle"}
+  - {term: "glacial inception", weight: 5}
+  - {pattern: "\\bmid[\\s-]pleistocene transition\\b", weight: 5, label: "Mid-Pleistocene transition"}
+  - {term: "orbital forcing", weight: 4}
+  - {term: "insolation", weight: 3}
+  - {term: "marine isotope stage", weight: 4}
+  - {pattern: "\\bMIS[\\s-]?\\d", weight: 4, label: "MIS stage"}
+  - {term: "Holocene", weight: 2}
+  - {term: "Pliocene", weight: 3}
+  - {term: "Quaternary", weight: 2}
+  - {pattern: "\\bice cores?\\b", weight: 3, label: "ice core"}
   - {term: "proxy reconstruction", weight: 3}
+  - {pattern: "\\bprox(y|ies)\\b", weight: 1, label: "proxy"}
   - {term: "data assimilation", weight: 3}
-  - {term: "ice core", weight: 3}
+  - {term: "transient simulation", weight: 3}
+  - {pattern: "\\boxygen isotopes?\\b", weight: 3, label: "oxygen isotope"}
+  - {pattern: "(δ|delta[\\s-])18O\\b", weight: 2, label: "d18O"}
+  - {pattern: "\\bsediment cores?\\b", weight: 2, label: "sediment core"}
+  - {pattern: "\\bforaminifera\\b", weight: 2, label: "foraminifera"}
+  - {term: "cosmogenic", weight: 3}
+  - {term: "exposure dating", weight: 3}
+  - {term: "radiocarbon", weight: 2}
 
-  # --- glacial isostatic adjustment ---------------------------------------
+  # --- glacial isostatic adjustment / solid earth --------------------------
   - {term: "glacial isostatic adjustment", weight: 5}
   - {pattern: "\\bGIA\\b", weight: 4, label: "GIA"}
+  - {term: "isostasy", weight: 4}
   - {term: "sea level", weight: 2}
-  - {term: "sea-level rise", weight: 3}
+  - {pattern: "\\bsea[\\s-]level rise\\b", weight: 3, label: "sea-level rise"}
+  - {term: "relative sea level", weight: 3}
+  - {pattern: "\\bsea[\\s-]level fingerprints?\\b", weight: 4, label: "sea-level fingerprint"}
   - {term: "solid earth", weight: 3}
   - {term: "mantle viscosity", weight: 3}
+  - {term: "bedrock deformation", weight: 4}
+  - {term: "viscoelastic", weight: 2}
+  - {term: "lithosphere", weight: 2}
+  - {term: "geoid", weight: 2}
+
+  # --- permafrost & boreal (AWI-ESC themes) --------------------------------
+  - {term: "permafrost", weight: 4}
+  - {term: "boreal forest", weight: 4}
+  - {term: "carbon cycle", weight: 2}
 
   # --- Earth system / long-timescale modeling -----------------------------
-  - {term: "Earth system model", weight: 4}
-  - {term: "coupled climate model", weight: 3}
+  - {pattern: "\\bEarth system models?\\b", weight: 4, label: "Earth system model"}
+  - {term: "Earth system", weight: 1}
+  - {pattern: "\\bcoupled climate models?\\b", weight: 3, label: "coupled climate model"}
+  - {pattern: "\\bregional climate models?\\b", weight: 3, label: "regional climate model"}
   - {term: "model intercomparison", weight: 3}
-  - {term: "CMIP", weight: 2}
+  - {pattern: "\\bCMIP\\d?\\b", weight: 2, label: "CMIP"}
   - {term: "climate dynamics", weight: 2}
+  - {term: "climate sensitivity", weight: 3}
+  - {pattern: "\\bclimate feedbacks?\\b", weight: 2, label: "climate feedback"}
+  - {term: "radiative forcing", weight: 1}
+  - {term: "greenhouse gas", weight: 1}
+  - {pattern: "\\bCO2\\b", weight: 1, label: "CO2"}
+  - {term: "reanalysis", weight: 1}
 
-  # --- specific ice-sheet / GIA model names -------------------------------
-  - {pattern: "\\bYelmo\\b", weight: 5, label: "Yelmo"}
-  - {pattern: "\\bPISM\\b", weight: 5, label: "PISM"}
-  - {term: "Elmer/Ice", weight: 5}
-  - {pattern: "\\bCISM\\b", weight: 4, label: "CISM"}
+  # --- numerics & model machinery -----------------------------------------
+  - {pattern: "\\bnumerical (method|model|scheme)s?\\b", weight: 1, label: "numerical method"}
+  - {term: "finite element", weight: 1}
+  - {term: "finite difference", weight: 1}
+  - {term: "unstructured mesh", weight: 2}
+  - {term: "adaptive mesh refinement", weight: 2}
+  - {pattern: "\\bsolvers?\\b", weight: 1, label: "solver"}
+  - {pattern: "parameteri[sz]ations?", weight: 2, label: "parameterization"}
+  - {term: "spin-up", weight: 2}
+  - {term: "higher-order", weight: 1}
+
+  # --- uncertainty, inference, machine learning ----------------------------
+  - {term: "uncertainty quantification", weight: 3}
+  - {term: "perturbed parameter ensemble", weight: 4}
+  - {term: "model calibration", weight: 2}
+  - {term: "Bayesian", weight: 2}
+  - {pattern: "\\bemulators?\\b", weight: 3, label: "emulator"}
+  - {pattern: "\\bensembles?\\b", weight: 1, label: "ensemble"}
+  - {term: "sensitivity analysis", weight: 1}
+  - {term: "machine learning", weight: 1}
+  - {pattern: "\\bneural networks?\\b", weight: 1, label: "neural network"}
+  - {term: "downscaling", weight: 3}
+  - {term: "surrogate model", weight: 3}
+
+  # --- observations --------------------------------------------------------
+  - {term: "satellite altimetry", weight: 3}
+  - {term: "remote sensing", weight: 1}
+  - {pattern: "\\bice[\\s-]penetrating radar\\b", weight: 3, label: "ice-penetrating radar"}
+
+  # --- extremes & broad climate context (weight 1 = needs a second match) ---
+  - {pattern: "\\bheat ?waves?\\b", weight: 3, label: "heat wave"}
+  - {pattern: "\\bheat extremes?\\b", weight: 3, label: "heat extreme"}
+  - {pattern: "\\bextreme events?\\b", weight: 2, label: "extreme event"}
+  - {pattern: "\\bclimate extremes?\\b", weight: 3, label: "climate extreme"}
+  - {term: "record-breaking", weight: 3}
+  - {term: "climate change", weight: 1}
+  - {term: "global warming", weight: 1}
+  - {pattern: "\\bSSP\\d", weight: 2, label: "SSP"}
+  - {pattern: "\\bRCP\\d", weight: 2, label: "RCP"}
+  - {pattern: "\\bIPCC\\b", weight: 1, label: "IPCC"}
+  - {term: "emission scenario", weight: 1}
 
 exclude:
   # kill known polysemy false positives (word-boundary matched)
@@ -81,6 +237,7 @@ exclude:
   - "tumor"
   - "clinical trial"
   - "stock market"
+  - "additive manufacturing"
 
 # --- optional LLM rerank seam (off by default; see src/paper_feeder/rerank.py) ---
 llm_rerank:
