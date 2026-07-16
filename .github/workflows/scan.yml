@@ -16,7 +16,7 @@ jobs:
 
       # Install paper-feeder, score, and write the digest into feed/.
       # State lives in .paper-feeder/ (a dot-dir Jekyll excludes from the build).
-      - uses: alex-robinson/paper-feeder@v0.1.8
+      - uses: alex-robinson/paper-feeder@v0.1.9
         with:
           config: config
           data: .paper-feeder
