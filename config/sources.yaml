@@ -44,6 +44,15 @@ openalex:
   queries:
     - {name: cryosphere, filter: "primary_topic.id:T10644"}     # Cryospheric studies and observations
     - {name: paleoclimate, filter: "primary_topic.id:T10017"}   # Geology and Paleoclimatology Research
+  # Citations of my core cryosphere/paleoclimate papers (Scholar-style alerts).
+  # score_boost gives partial credit — a citing paper still needs some topical
+  # signal to clear publish_min_score, so citations from unrelated fields (my
+  # broad climate-impacts papers attract plenty) stay out. Deliberately NOT my
+  # most-cited papers; these are the topically core ones.
+    - name: cites-me
+      score_boost: 2
+      lookback_days: 180   # citations trickle in and are indexed late
+      filter: "cites:W2897498392|W1970866483|W2770103723|W4402229072|W4387730333|W4214540129|W2553339343|W1982345626|W2143602567|W2010594743|W2164162301|W2516967240|W297089026|W4288084487|W2729847169|W2027390906"
   # ISSN pulls for journals without a working RSS feed.
   issns:
     - "0022-1430"   # Journal of Glaciology
