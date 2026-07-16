@@ -44,15 +44,24 @@ openalex:
   queries:
     - {name: cryosphere, filter: "primary_topic.id:T10644"}     # Cryospheric studies and observations
     - {name: paleoclimate, filter: "primary_topic.id:T10017"}   # Geology and Paleoclimatology Research
-  # Citations of my core cryosphere/paleoclimate papers (Scholar-style alerts).
-  # score_boost gives partial credit — a citing paper still needs some topical
-  # signal to clear publish_min_score, so citations from unrelated fields (my
-  # broad climate-impacts papers attract plenty) stay out. Deliberately NOT my
-  # most-cited papers; these are the topically core ones.
+  # Citations of ALL my papers with >=1 citation (Scholar-style alerts).
+  # No pre-selection of which papers to track: score_boost gives partial
+  # credit and the lexicon does the filtering, so citations from unrelated
+  # fields (landslides, photovoltaics, plant biology) drop out on their own.
+  # Split into chunks because OpenAlex OR-lists are bounded; the shared name
+  # means they all render as one 'cites-me' label.
     - name: cites-me
-      score_boost: 2
+      score_boost: 1
       lookback_days: 180   # citations trickle in and are indexed late
-      filter: "cites:W2897498392|W1970866483|W2770103723|W4402229072|W4387730333|W4214540129|W2553339343|W1982345626|W2143602567|W2010594743|W2164162301|W2516967240|W297089026|W4288084487|W2729847169|W2027390906"
+      filter: "cites:W2794728810|W2222344029|W2101948993|W2606511507|W2143602567|W2087159960|W2104974899|W3202378922|W2282352865|W2897498392|W2197490289|W1924329527|W22019620|W2010594743|W2164162301|W1970866483|W2255587686|W2516967240|W4402229072|W4387730333|W4288084487|W2729847169|W4214540129|W4410867002|W297089026|W2322848917|W2770103723|W3041538752|W2406219410|W2553339343|W1982345626|W2978013226|W2027390906|W2107560176|W2965465160|W25467696|W2767281084|W3126965763|W4312192901|W3121856994"
+    - name: cites-me
+      score_boost: 1
+      lookback_days: 180   # citations trickle in and are indexed late
+      filter: "cites:W4378219454|W2017893146|W4402651308|W4402649507|W4411717629|W1981270954|W2741710455|W2957572639|W4401179133|W2895797689|W4400507616|W2083058824|W2288634359|W2948390773|W2079092954|W2888233535|W4402316127|W4396533843|W1583339586|W4230593471|W4232183750|W3015323368|W3016595172|W4402579683|W2122553998|W2918270914|W2167836835|W4319297476|W1541272024|W2591760809|W3123551072|W4231020642|W4247410040|W2223734541|W4241759845|W4411427472|W2768555868|W4220699090|W4389734148|W4244709868"
+    - name: cites-me
+      score_boost: 1
+      lookback_days: 180   # citations trickle in and are indexed late
+      filter: "cites:W4250005031|W3087517025|W3192910808|W4214639185|W4232652017|W4391145882|W2999615695|W3196563778|W3206526088|W4232292139|W4317989669|W4321501504|W4248863055|W4414874732|W1691310016|W2783379510|W2974800811|W3021011153|W4236349626|W4239088395|W4244149284|W4308578943|W4386889977|W4388651463|W4389306885|W4390748219|W4392760447|W4393875043|W4411291669|W4411325895|W4412426437|W4415171476"
   # ISSN pulls for journals without a working RSS feed.
   issns:
     - "0022-1430"   # Journal of Glaciology
