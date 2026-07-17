@@ -2,7 +2,7 @@ name: scan
 
 on:
   schedule:
-    - cron: "0 4 * * *"   # 04:00 UTC = 06:00 CEST
+    - cron: "42 4 * * *"   # 04:42 UTC = 06:42 CEST; off-peak minute fires closer to on-time
   workflow_dispatch: {}
 
 permissions:
