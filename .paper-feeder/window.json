@@ -5590,6 +5590,28 @@
     "first_seen": "2026-07-19"
   },
   {
+    "title": "WP-MIP: An Artificial Intelligence, Hybrid, and Physically Based Model Intercomparison Project for Weather Prediction",
+    "journal": "arXiv physics.ao-ph",
+    "source": "rss:arxiv-ao-ph",
+    "url": "https://arxiv.org/abs/2604.16643",
+    "doi": null,
+    "abstract": "arXiv:2604.16643v2 Announce Type: replace Abstract: Rapid progress in the field of machine-learning for weather prediction has led to the emergence of algorithms whose forecasting skill can exceed that of traditional physically based models. This development represents an opportunity to improve the quality of forecasting services provided by operational centers, particularly given the speed at which machine-learning based models generate predictions. Despite the clear promise of these systems, questions remain about the ability of the current generation of machine-learning models to generate physically consistent predictions of the full suite of required forecast fields under all conditions. Answering these questions will require careful comparisons between the well-understood physically based models, current state-of-the-art machine-learning models, and the hybrid models that combine elements of these two archetypes. The Weather Prediction Model Intercomparison Project (WP-MIP) is a World Meteorological Organization-supported initiative whose initial goal is to create a centralized database of physically based, machine-learning, and hybrid model forecasts to enable a distributed assessment and evaluation effort. The first instance of WP-MIP focuses on global deterministic predictions using both center-specific and common initializations to facilitate sensitivity studies. Forecasts contributed by institutions across six continents will be used to develop AI-ready verification techniques that highlight the strengths and weaknesses of each class of prediction system, with the goal of establishing best-practice guidance to model developers and national weather centers. The broad engagement of the operational and forecast-evaluation communities in WP-MIP will ensure that the project results are highly relevant to the development and deployment of next-generation weather prediction systems.",
+    "authors": [
+      "Ron McTaggart-Cowan, Linus Magnusson, Inna Polichtchouk, Duncan Ackerley, Martin Koehler, Barbara Casati, Jan-Huey Chen, Debra Hudson, Masashi Ujiie, Nurizana Amir Aziz, Massimo Bonavita, Zied Ben Bouallegue, Catherine de Burgh-Day, Stephane Chamberland, Kyounngmi Cho, Caio A. S. Coelho, Rostislav Fadeev, Manuel Fuentes, Jorge L. Garcia Franco, Claude Gilbert, Bruno S. Guimaraes, Chris Harris, Michelle Harrold, Syed Husain, Molly James, Alex Kaltenbaugh, Marta Koch, Paulo Y. Kubota, Eun-Hee Lee, Chen Li, Wei Li, Weiwei Li, Llorenc Lledo, Nicholas Loveday, Chrstian Lussana, Zubiar Maalick, Mohau J. Mateyisi, Amy McGovern, Koos van der Merwe, Joel Miller, Marion Mittermaier, Richard Mladek, Kathryn Newman, Andre L. O. Neves, John Pill, Roland Potthast, Maheswar Pradhan, Subhrajit Rath, David S. Richardson, Leo Separovic, Michelle Simoes Reboita, Gregor Skok, Ankur Srivastava, Mikhail Tolstykh, Zhuo Wang, Beth J. Woodham, Fanglin Yang, Radomir Zaripov, Gan Zhang, Hongyan Zhu"
+    ],
+    "is_editorial": false,
+    "abstract_missing": false,
+    "always_include": false,
+    "score_boost": 0.0,
+    "score": 10.0,
+    "matched": [
+      "model intercomparison",
+      "machine learning"
+    ],
+    "published": "2026-07-21",
+    "first_seen": "2026-07-21"
+  },
+  {
     "title": "Seismic Traveltime Tomography With Deep Neural Network Reparameterization: The Method and Its Application to Central Chile",
     "journal": "JGR Solid Earth",
     "source": "rss:jgr-solidearth",
@@ -8248,6 +8270,25 @@
     "first_seen": "2026-07-20"
   },
   {
+    "title": "The Greenland GNSS Network (GNET): geodetic grade GNSS measurements of Greenland's 3D bedrock displacement from 1995–2025",
+    "journal": "Earth System Science Data",
+    "source": "rss:essd",
+    "url": "https://doi.org/10.5194/essd-18-5117-2026",
+    "doi": "10.5194/essd-18-5117-2026",
+    "abstract": "The Greenland GNSS Network (GNET): geodetic grade GNSS measurements of Greenland's 3D bedrock displacement from 1995–2025 Christian Solgaard, Finn Bo Madsen, Malte Winther-Dahl, Thomas Henry Nylen, Danjal Longfors Berg, Ole Bjerregaard, Javed Hassan, Per Knudsen, Michael Bevis, and Shfaqat Abbas Khan Earth Syst. Sci. Data, 18, 5117–5142, https://doi.org/10.5194/essd-18-5117-2026, 2026 The Greenland GNSS (Global Navigation Satellite Systems) Network consists of more than 70 high-grade GNSS stations placed along the perimeter of Greenland. With this work, we present the processed position solutions for the 20+ year record in a daily resolution. Along with the processed time series, we also publish the extensive metadata record for the network and raw data. A comparison with other subsets of the data showed an increased stability in the full processed dataset we publish here.",
+    "authors": [],
+    "is_editorial": false,
+    "abstract_missing": false,
+    "always_include": false,
+    "score_boost": 0.0,
+    "score": 6.0,
+    "matched": [
+      "Greenland"
+    ],
+    "published": "2026-07-20",
+    "first_seen": "2026-07-21"
+  },
+  {
     "title": "Unraveling Dissolution‐Precipitation Evolution in Basalt During Supercritical CO2‐Water‐Rock (CWR) Interaction: A Mesoscale Mechanical Perspective",
     "journal": "JGR Solid Earth",
     "source": "rss:jgr-solidearth",
@@ -8841,6 +8882,33 @@
     ],
     "published": "2026-07-17",
     "first_seen": "2026-07-19"
+  },
+  {
+    "title": "Spatiotemporal Dynamics of Glacier Changes in Tibet from 1990 to 2025",
+    "journal": "Remote Sensing",
+    "source": "openalex:cryosphere",
+    "url": "https://doi.org/10.3390/rs18142389",
+    "doi": "10.3390/rs18142389",
+    "abstract": "Glaciers serve as sensitive indicators of climate change, yet the automated extraction of glacier boundaries over large areas and long time periods remains challenging. To resolve this issue, we proposed a remote sensing indicator system based on the Google Earth Engine (GEE) platform (spectral, textural, topographic features and band differences) and applied a random forest (RF) algorithm to establish an automatic classification method. Based on this framework, the study analyzed the spatiotemporal changes in Tibet’s glaciers from 1990 to 2025. The results indicated that: (1) Validation using 30% of the data points showed overall accuracy (OA) was 92.10%, Kappa coefficient of 0.86 and F1-score of 91.53% for glacier classification. (2) The total glacier area retreated from 38,968 km2 during 1990–1997 to 22,026 km2 during 2024–2025, with the retreat mainly concentrated in southeastern Tibet. (3) Glacier area peaked at 5500 m, with clean glaciers and debris-covered glaciers accounting for 42% and 55% of the total glacier area, respectively. (4) Between 1990 and 2025, the Yarlung Tsangpo River basin exhibited the fastest glacier retreat rate, while the Qiangtang basin showed signs of stabilization. This study provides a theoretical basis for identifying glacier boundaries over large areas in high-altitude regions.",
+    "authors": [
+      "Peng Yu",
+      "Huan Yu",
+      "Kangkang Li",
+      "Jinrui Fan",
+      "Qing Wang"
+    ],
+    "is_editorial": false,
+    "abstract_missing": false,
+    "always_include": false,
+    "score_boost": 0.0,
+    "score": 5.0,
+    "matched": [
+      "glacier",
+      "remote sensing",
+      "climate change"
+    ],
+    "published": "2026-07-17",
+    "first_seen": "2026-07-21"
   },
   {
     "title": "Rising dust pollution across Europe in a changing climate",
@@ -10393,6 +10461,34 @@
     "first_seen": "2026-07-20"
   },
   {
+    "title": "The spatial dipole pattern of Holocene precipitation in the eastern China monsoon region and its role in driving the synchronous north-south development of Neolithic cultures and early Chinese civilization",
+    "journal": "Science China Earth Sciences",
+    "source": "openalex:paleoclimate",
+    "url": "https://doi.org/10.1007/s11430-025-1904-1",
+    "doi": "10.1007/s11430-025-1904-1",
+    "abstract": null,
+    "authors": [
+      "Fahu Chen",
+      "Zhiping Zhang",
+      "Gao Yu",
+      "Jie Chen",
+      "Zhuangzhuang Bai",
+      "Shengqian Chen",
+      "Jianhui Chen",
+      "Jia Xin"
+    ],
+    "is_editorial": false,
+    "abstract_missing": true,
+    "always_include": false,
+    "score_boost": 0.0,
+    "score": 4.0,
+    "matched": [
+      "Holocene"
+    ],
+    "published": "2026-07-15",
+    "first_seen": "2026-07-21"
+  },
+  {
     "title": "Differences in physiological tolerance to global warming caused the Permian–Triassic transition between the Paleozoic and Modern faunas",
     "journal": "PNAS",
     "source": "rss:pnas",
@@ -11900,6 +11996,89 @@
     ],
     "published": "2026-07-18",
     "first_seen": "2026-07-20"
+  },
+  {
+    "title": "Hydraulic Stimulation Experiments Attempting to Enhance Induced Seismicity for Earthquake Physics Research",
+    "journal": "JGR Solid Earth",
+    "source": "rss:jgr-solidearth",
+    "url": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2026JB033768?af=R",
+    "doi": "10.1029/2026jb033768",
+    "abstract": "Journal of Geophysical Research: Solid Earth, Volume 131, Issue 7, July 2026.",
+    "authors": [
+      "Valentin Samuel Gischig, \nMen‐Andrin Meier, \nAurora Lambiase, \nDanyang Jiang, \nMarian Hertrich, \nNima Gholizadeh Doonechaly, \nMohammadreza Jalali, \nAntonio Pio Rinaldi, \nStefano Aretusini, \nKathrin Behnen, \nKai E. N. Bröker, \nAlberto Ceccato, \nVictor Clasen Repollés, \nJohn Clinton, \nLuca Dal Zilio, \nPascal Edme, \nThomas Haag, \nRebecca Hochreutener, \nAlexandra Lightfoot, \nCara Magnabosco, \nFrédérick Massin, \nHansruedi Maurer, \nMaria Mesimeri, \nLeila Mizrahi, \nFrancesco Mosconi, \nAnne Obermann, \nKadek Palgunadi, \nEdoardo Pezzulli, \nGiulio Poggiali, \nGiacomo Pozzi, \nMartina Rosskopf, \nLuca Scarabello, \nRyan Schultz, \nMiriam L. Schwarz, \nPaul A. Selvadurai, \nAlexis Shakas, \nElena Spagnuolo, \nMariano Supino, \nLu Tian, \nElisa Tinti, \nKatinka Tuinstra, \nMeleza Liliana Vargas, \nLinus Villiger, \nZhe Wang, \nAlba Zappone, \nEric Zimmermann, \nJordan Aaron, \nFlorian Amann, \nMassimo Cocco, \nStefan Wiemer, \nDomenico Giardini"
+    ],
+    "is_editorial": false,
+    "abstract_missing": false,
+    "always_include": false,
+    "score_boost": 0.0,
+    "score": 3.0,
+    "matched": [
+      "solid earth"
+    ],
+    "published": "2026-07-19",
+    "first_seen": "2026-07-21"
+  },
+  {
+    "title": "Structure and Origin of an Active Hydrothermal System in NW Svalbard: A Combined Magnetotelluric and Gas‐Water Isotope Study",
+    "journal": "JGR Solid Earth",
+    "source": "rss:jgr-solidearth",
+    "url": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025JB033374?af=R",
+    "doi": "10.1029/2025jb033374",
+    "abstract": "Journal of Geophysical Research: Solid Earth, Volume 131, Issue 7, July 2026.",
+    "authors": [
+      "Alexander Minakov, \nHorst Kämpf, \nDeniz Varılsüha, \nKim Senger, \nMaxim Smirnov, \nSamuel Niedermann, \nMartin Zimmer, \nMaik Neukirch, \nPeter Betlem, \nAnniken Helland‐Hansen, \nRafael Horota, \nAgnes Kontny, \nSverre Planke, \nSebastian Tappe, \nMaria Telmon, \nDmitry Zastrozhnov"
+    ],
+    "is_editorial": false,
+    "abstract_missing": false,
+    "always_include": false,
+    "score_boost": 0.0,
+    "score": 3.0,
+    "matched": [
+      "solid earth"
+    ],
+    "published": "2026-07-19",
+    "first_seen": "2026-07-21"
+  },
+  {
+    "title": "Multi‐Stage Lithospheric Destruction of the North China Craton: Evidence From a Magnetotelluric Array Study",
+    "journal": "JGR Solid Earth",
+    "source": "rss:jgr-solidearth",
+    "url": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2024JB029739?af=R",
+    "doi": "10.1029/2024jb029739",
+    "abstract": "Journal of Geophysical Research: Solid Earth, Volume 131, Issue 7, July 2026.",
+    "authors": [
+      "Gaofeng Ye, \nBaochun Li, \nSheng Jin, \nWenbo Wei, \nLetian Zhang, \nHao Dong, \nChengliang Xie, \nYaotian Yin, \nShaohuai Sun, \nJien Dong, \nCheng Liu, \nCe Yang, \nHaoxiang Yin"
+    ],
+    "is_editorial": false,
+    "abstract_missing": false,
+    "always_include": false,
+    "score_boost": 0.0,
+    "score": 3.0,
+    "matched": [
+      "solid earth"
+    ],
+    "published": "2026-07-19",
+    "first_seen": "2026-07-21"
+  },
+  {
+    "title": "Glacial Lake Observatory (GLO): annual  dataset of glacial lakes in Nepal and  transboundary catchments (2017–2024)",
+    "journal": "Earth System Science Data",
+    "source": "rss:essd",
+    "url": "https://doi.org/10.5194/essd-18-5143-2026",
+    "doi": "10.5194/essd-18-5143-2026",
+    "abstract": "Glacial Lake Observatory (GLO): annual dataset of glacial lakes in Nepal and transboundary catchments (2017–2024) Lauren D. Rawlins, C. Scott Watson, Rakesh Bhambri, Nitesh Khadka, and Mohan B. Chand Earth Syst. Sci. Data, 18, 5143–5165, https://doi.org/10.5194/essd-18-5143-2026, 2026 Glacial lakes are expanding as glaciers melt in High Mountain Asia. These lakes store meltwater but can trigger dangerous outburst floods (GLOFs), threatening downstream communities. Using satellite imagery and deep learning, we mapped lakes across the Nepal-transboundary region (2017–2024) and found rapid growth, especially in the Koshi basin. This research supports the Glacial Lake Observatory, which will enable long-term monitoring and hazard reduction.",
+    "authors": [],
+    "is_editorial": false,
+    "abstract_missing": false,
+    "always_include": false,
+    "score_boost": 0.0,
+    "score": 3.0,
+    "matched": [
+      "glacier",
+      "meltwater"
+    ],
+    "published": "2026-07-21",
+    "first_seen": "2026-07-21"
   },
   {
     "title": "Editorial and peer review dynamics at elite general science journals",
