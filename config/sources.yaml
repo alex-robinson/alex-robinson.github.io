@@ -30,7 +30,11 @@ rss:
   - {name: james, url: "https://agupubs.onlinelibrary.wiley.com/feed/19422466/most-recent", journal: "JAMES"}
   - {name: earths-future, url: "https://agupubs.onlinelibrary.wiley.com/feed/23284277/most-recent", journal: "Earth's Future"}
   # Copernicus
-  - {name: tc, url: "https://tc.copernicus.org/xml/rss2_0.xml", journal: "The Cryosphere"}
+  # always_include: whole-journal follow — every paper passes, bypassing the
+  # score threshold (exclude terms still veto). Use for on-topic journals you
+  # want in full.
+  - {name: tc, url: "https://tc.copernicus.org/xml/rss2_0.xml", journal: "The Cryosphere", always_include: true}
+  - {name: gmd, url: "https://gmd.copernicus.org/xml/rss2_0.xml", journal: "Geoscientific Model Development", always_include: true}
   - {name: cp, url: "https://cp.copernicus.org/xml/rss2_0.xml", journal: "Climate of the Past"}
   - {name: esd, url: "https://esd.copernicus.org/xml/rss2_0.xml", journal: "Earth System Dynamics"}
   - {name: essd, url: "https://essd.copernicus.org/xml/rss2_0.xml", journal: "Earth System Science Data"}
