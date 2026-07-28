@@ -32,31 +32,38 @@
     "first_seen": "2026-07-26"
   },
   {
-    "title": "From Multistability to Collapse: Rate-Induced Tipping of the Atlantic Meridional Overturning Circulation Under Linear and Periodic Freshwater Forcing",
-    "journal": "Physica D Nonlinear Phenomena",
-    "source": "openalex:cites-me",
-    "url": "https://doi.org/10.1016/j.physd.2026.135340",
-    "doi": "10.1016/j.physd.2026.135340",
-    "abstract": null,
+    "title": "Evidence of a Weichselian MIS 3 proglacial lake south of Dogger Bank (southern North Sea)",
+    "journal": "Quaternary Science Reviews",
+    "source": "openalex:paleoclimate",
+    "url": "https://doi.org/10.1016/j.quascirev.2026.110190",
+    "doi": "10.1016/j.quascirev.2026.110190",
+    "abstract": "Offshore evidence for Weichselian glacial influence in the southern North Sea prior to the Last Glacial Maximum (LGM) remains sparse and discontinuously preserved, limiting reconstructions of ice extent and timing. Here, we present a detailed reconstruction of a previously unrecognised buried glaciolacustrine basin south of Dogger Bank, providing new insights into pre-LGM Weichselian glaciation. Integrated analysis of high-resolution 2D sub-bottom profiler data and sediment cores reveals a basin-like depocenter, covering a surface of ∼69 km 2 and infilled by massive, fine-grained lacustrine sediments containing abundant ice-rafted debris, interpreted as dropstones. These deposits indicate sustained ice influence and sedimentation in an ice-proximal lake setting. Detailed, multi-method core analyses tightly constrain sediment accumulation to late Marine Isotope Stage (MIS) 3 (ca. 32-30 ka), yielding a high-resolution, directly dated offshore record of glacial influence in the southern North Sea before the LGM. The glaciolacustrine succession is locally overlain by glaciofluvial outwash deposits associated with LGM ice retreat (ca. 18 ka), while elsewhere it is truncated by younger Holocene incised channels and marine sediments. These findings support reconstructions placing a late MIS 3 ice margin in the study area and reveal a complex buried glaciated landscape of small, ice-proximal basins and ponds in the southern North Sea.",
     "authors": [
-      "Jicheng Duan",
-      "Chris Budd",
-      "Irene Moroz",
-      "Zhouchao Wei",
-      "Yiwen Chen"
+      "Despo Kyriakoudi",
+      "Marc De Batist",
+      "Morgan Vervoort",
+      "Thomas Mestdagh",
+      "Tine Missiaen",
+      "Michael Grant",
+      "Tom Hill",
+      "Tim Kinnaird",
+      "Ruth Plets"
     ],
     "is_editorial": false,
-    "abstract_missing": true,
+    "abstract_missing": false,
     "always_include": false,
-    "score_boost": 1.0,
-    "score": 27.0,
+    "score_boost": 0.0,
+    "score": 28.0,
     "matched": [
-      "multistability",
-      "Atlantic meridional overturning circulation",
-      "overturning circulation"
+      "last glacial maximum",
+      "LGM",
+      "marine isotope stage",
+      "MIS stage",
+      "Holocene",
+      "sediment core"
     ],
-    "published": "2026-07-01",
-    "first_seen": "2026-07-20"
+    "published": "2026-07-26",
+    "first_seen": "2026-07-28"
   },
   {
     "title": "Chronological analysis of &amp;#948;18O data from the NGRIP ice core (Greenland), characteristics of solar climate, and large-scale climatic events in the Northern Hemisphere during the Holocene",
@@ -117,6 +124,30 @@
     ],
     "published": "2026-07-24",
     "first_seen": "2026-07-24"
+  },
+  {
+    "title": "Memory operator ensembles indicate proximity to criticality in simulated AMOC transitions",
+    "journal": "arXiv physics.ao-ph",
+    "source": "rss:arxiv-ao-ph",
+    "url": "https://arxiv.org/abs/2607.24310",
+    "doi": null,
+    "abstract": "arXiv:2607.24310v1 Announce Type: cross Abstract: Classical early-warning signals assume that recovery slows near a tipping point, but in a well-studied CESM simulation of AMOC collapse, autocorrelation and variance decrease instead. We develop a preregistered diagnostic that uses only past data to estimate the slowest mode of a memory operator fitted to the evolving overturning structure. The operator ensemble produces an exploratory alarm 77 years before collapse, compared with 29 years for a physics-based freshwater-transport indicator. A blind test on the recovery branch does not validate the same timing rule, supporting interpretation of the diagnostic as a proximity measure rather than a universal clock. In nine additional simulations, it warns before all four finite-rate forced transitions but not before three rapid noise-induced collapses available only as scalar AMOC records. Matched ablations show that the signal depends on long-timescale memory and vertical overturning structure rather than trend, forcing, or multivariate information alone.",
+    "authors": [
+      "Mauricio Herrera-Mar\\'in"
+    ],
+    "is_editorial": false,
+    "abstract_missing": false,
+    "always_include": false,
+    "score_boost": 0.0,
+    "score": 25.0,
+    "matched": [
+      "tipping point",
+      "noise-induced",
+      "AMOC",
+      "ensemble"
+    ],
+    "published": "2026-07-28",
+    "first_seen": "2026-07-28"
   },
   {
     "title": "MAPCast: A Convection Allowing MPAS Emulator for Ensemble-based Background Error Covariance Estimation Toward Multi-Scale Data Assimilation",
@@ -194,52 +225,6 @@
     ],
     "published": "2026-07-21",
     "first_seen": "2026-07-23"
-  },
-  {
-    "title": "SWOT High‐Rate Raster Data Reveals Antarctic Ice Shelf Motion and Change in Response to Ocean and Ice Dynamics",
-    "journal": "Geophysical Research Letters",
-    "source": "rss:grl",
-    "url": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2026GL122539?af=R",
-    "doi": "10.1029/2026gl122539",
-    "abstract": "Geophysical Research Letters, Volume 53, Issue 14, 28 July 2026.",
-    "authors": [
-      "S. L. Howard, \nZ. S. Katz, \nL. Padman, \nM. R. Siegfried, \nE. Abrahams, \nT. M. Snow"
-    ],
-    "is_editorial": false,
-    "abstract_missing": false,
-    "always_include": false,
-    "score_boost": 0.0,
-    "score": 18.0,
-    "matched": [
-      "ice shelf",
-      "ice dynamics",
-      "Antarctic"
-    ],
-    "published": "2026-07-18",
-    "first_seen": "2026-07-20"
-  },
-  {
-    "title": "Late Holocene stabilization of Conway Ice Ridge",
-    "journal": "The Cryosphere",
-    "source": "rss:tc",
-    "url": "https://doi.org/10.5194/tc-20-3977-2026",
-    "doi": "10.5194/tc-20-3977-2026",
-    "abstract": "Late Holocene stabilization of Conway Ice Ridge Andrew O. Hoffman, Paul T. Summers, Jenny Suckale, Knut Christianson, Ginny Catania, and Howard Conway The Cryosphere, 20, 3977–4003, https://doi.org/10.5194/tc-20-3977-2026, 2026 In Antarctica, fast-flowing ice streams drive most ice loss. Radar data from Conway Ice Ridge reveal that the van der Veen and Mercer Ice Streams were wider ~3000 years ago and narrowed progressively. Numerical modeling demonstrates that small thickness changes can rapidly alter shear-margin locations. These findings offer crucial insights into Late Holocene Ice Sheet readvance.",
-    "authors": [],
-    "is_editorial": false,
-    "abstract_missing": false,
-    "always_include": false,
-    "score_boost": 0.0,
-    "score": 18.0,
-    "matched": [
-      "ice sheet",
-      "ice stream",
-      "cryosphere",
-      "Antarctica",
-      "Holocene"
-    ],
-    "published": "2026-07-20",
-    "first_seen": "2026-07-20"
   },
   {
     "title": "SARMelt: MGLANet-driven high-resolution surface melt mapping of circum-Antarctic ice shelves from Sentinel-1 imagery during 2015–2023",
@@ -335,6 +320,33 @@
     ],
     "published": "2026-07-27",
     "first_seen": "2026-07-27"
+  },
+  {
+    "title": "Canopy-mediated climate feedbacks in the boreal continuous permafrost zone",
+    "journal": "Nature Climate Change",
+    "source": "rss:nclimate",
+    "url": "https://www.nature.com/articles/s41558-026-02692-z",
+    "doi": "10.1038/s41558-026-02692-z",
+    "abstract": "Nature Climate Change, Published online: 27 July 2026; doi:10.1038/s41558-026-02692-z Soil carbon stocks are greater than biomass carbon in boreal forests. This study shows that tree canopies thermally protect more carbon in permafrost from thaw than is stored in biomass, highlighting the need to consider carbon impacts of forest disturbance and conservation on an ecosystem scale.",
+    "authors": [
+      "S. M. Stuenzi",
+      "G. Grosse",
+      "F. Miesner",
+      "S. Westermann",
+      "M. Langer"
+    ],
+    "is_editorial": false,
+    "abstract_missing": false,
+    "always_include": false,
+    "score_boost": 0.0,
+    "score": 17.0,
+    "matched": [
+      "permafrost",
+      "climate feedback",
+      "climate change"
+    ],
+    "published": null,
+    "first_seen": "2026-07-28"
   },
   {
     "title": "Riukojietna, a small low-altitude ice cap that may have persisted through the Holocene: evidence from combining cosmogenic multi-nuclide dating and lacustrine sediment records",
@@ -618,32 +630,6 @@
     "first_seen": "2026-07-26"
   },
   {
-    "title": "From ice to atmosphere: reviewing the coupled dynamics of heat fluxes in the cryosphere",
-    "journal": "Geoscience Letters",
-    "source": "openalex:cryosphere",
-    "url": "https://doi.org/10.1186/s40562-026-00484-z",
-    "doi": "10.1186/s40562-026-00484-z",
-    "abstract": "Abstract The interaction between glaciers and the atmosphere is generally recognized to affect melt rates, surface energy budgets, and even short-lived weather extremes in high mountain ranges. However, the Himalayan system remains hard to observe due to steep terrain and very few long-term data from the glacier surface. In winter, conditions in valleys such as Hunza or in the central Karakoram are not conducive to keeping instruments intact, increasing the uncertainty about how latent and sensible heat fluxes contribute to snow and ice melt, local moisture behavior, and temperature regimes. Recent observations in the field and model results indicate that turbulent heat exchange can drive glacier cooling and sublimation and can generate small-scale feedbacks that may interact with regional flow. At the same time, uncertainties persist linked to sparse measurements, debris-covered glacier surfaces, and a loose connection between atmospheric and cryospheric models in complex terrain. This review synthesizes current knowledge on turbulent heat flux dynamics in the Himalayas, with brief excursions into the Andes, Alps, and other cold mountain systems. The objective is to identify the key processes driving melt and to reveal the gaps that hinder confident projections of meltwater and climate sensitivity in High Mountain Asia.",
-    "authors": [
-      "Nasir Ilyas",
-      "Iqbal",
-      "Muhammad Faisal Riaz"
-    ],
-    "is_editorial": false,
-    "abstract_missing": false,
-    "always_include": false,
-    "score_boost": 0.0,
-    "score": 12.0,
-    "matched": [
-      "cryosphere",
-      "glacier",
-      "meltwater",
-      "climate sensitivity"
-    ],
-    "published": "2026-07-18",
-    "first_seen": "2026-07-20"
-  },
-  {
     "title": "Future Global Warming Constrained by Observed AMOC Strength",
     "journal": "Geophysical Research Letters",
     "source": "rss:grl",
@@ -787,6 +773,31 @@
     ],
     "published": "2026-07-21",
     "first_seen": "2026-07-24"
+  },
+  {
+    "title": "Svalbard glacier calving front changes from the 1930s to the 1970s from archived satellite and aerial images",
+    "journal": "The Cryosphere",
+    "source": "rss:tc",
+    "url": "https://doi.org/10.5194/tc-20-4133-2026",
+    "doi": "10.5194/tc-20-4133-2026",
+    "abstract": "We retrieved front locations for 171 Svalbard tidewater glaciers in the 1960s and 1970s, from Landsat images and – for the first time in this region – declassified intelligence satellite photographs. We compared our results to aerial photographs from the 1930s and calculated that these glaciers retreated by about 1 km between 1936 and 1978. We also discovered one undocumented glacier surge (a rapid front advance), precised the time frames of two others, and documented two other glacier advances.",
+    "authors": [
+      "Loris Danjou",
+      "Eero Rinne",
+      "Erik Schytt Mannerfelt"
+    ],
+    "is_editorial": false,
+    "abstract_missing": false,
+    "always_include": true,
+    "score_boost": 0.0,
+    "score": 12.0,
+    "matched": [
+      "glacier",
+      "calving",
+      "tidewater glacier"
+    ],
+    "published": "2026-07-28",
+    "first_seen": "2026-07-28"
   },
   {
     "title": "Disentangling Forced and Internal Climate Variability in Single Realizations using Dynamic Mode Decomposition with Control",
@@ -1241,37 +1252,6 @@
     "first_seen": "2026-07-26"
   },
   {
-    "title": "Paleohydrologic conditions in the Mojave Desert during the last deglaciation recorded by core-to-shore lacustrine records",
-    "journal": "Quaternary Science Reviews",
-    "source": "openalex:paleoclimate",
-    "url": "https://doi.org/10.1016/j.quascirev.2026.110171",
-    "doi": "10.1016/j.quascirev.2026.110171",
-    "abstract": null,
-    "authors": [
-      "Gavin Piccione",
-      "Matthew Kirby",
-      "Jaxson Stephen",
-      "Anna Dubey",
-      "Alejandra Torres",
-      "Matias Gibertoni",
-      "Alondra Ruiz Contreras",
-      "Robert Leeper",
-      "Angela Daneshmand",
-      "Justin Custado",
-      "Daniel Ibarra"
-    ],
-    "is_editorial": false,
-    "abstract_missing": true,
-    "always_include": false,
-    "score_boost": 0.0,
-    "score": 8.0,
-    "matched": [
-      "deglaciation"
-    ],
-    "published": "2026-07-18",
-    "first_seen": "2026-07-20"
-  },
-  {
     "title": "Investigating the drivers of wintertime Southern Ocean sea-ice leads using random forest algorithms",
     "journal": "The Cryosphere",
     "source": "rss:tc",
@@ -1639,26 +1619,6 @@
     ],
     "published": "2026-07-24",
     "first_seen": "2026-07-26"
-  },
-  {
-    "title": "Local-scale variability in snow chemistry drives distinct microbial communities in Alpine seasonal snowpack",
-    "journal": "The Cryosphere",
-    "source": "rss:tc",
-    "url": "https://doi.org/10.5194/tc-20-3959-2026",
-    "doi": "10.5194/tc-20-3959-2026",
-    "abstract": "Local-scale variability in snow chemistry drives distinct microbial communities in Alpine seasonal snowpack Anastasiia Kosolapova, Romain Castro, Ferran Romero, Catherine Larose, and Ianina Altshuler The Cryosphere, 20, 3959–3975, https://doi.org/10.5194/tc-20-3959-2026, 2026 Seasonal snow acts as a dynamic medium, accumulating atmospheric particles and microorganisms, creating unique microbial habitats in alpine environments. At the local scale, snow depth, not valley location, mainly drives chemical composition and bacterial community structure, while elevation predicts community differences across sites. Diversity drops within just 10–15 cm depth, reflecting distinct atmospheric sources and rapid post-depositional selection at centimetre scales.",
-    "authors": [],
-    "is_editorial": false,
-    "abstract_missing": false,
-    "always_include": false,
-    "score_boost": 0.0,
-    "score": 6.0,
-    "matched": [
-      "cryosphere",
-      "snowpack"
-    ],
-    "published": "2026-07-20",
-    "first_seen": "2026-07-20"
   },
   {
     "title": "The Greenland GNSS Network (GNET): geodetic grade GNSS measurements of Greenland's 3D bedrock displacement from 1995–2025",
@@ -2245,115 +2205,54 @@
     "first_seen": "2026-07-26"
   },
   {
-    "title": "Advancing Aquifer Characterization Through the Integration of Satellite Geodesy, Geomechanics, and Bayesian Inference",
-    "journal": "Geophysical Research Letters",
-    "source": "rss:grl",
-    "url": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025GL117023?af=R",
-    "doi": "10.1029/2025gl117023",
-    "abstract": "Geophysical Research Letters, Volume 53, Issue 14, 28 July 2026.",
+    "title": "Transition to double-cell mock Walker circulations with surface warming explained by periodic convection",
+    "journal": "arXiv physics.ao-ph",
+    "source": "rss:arxiv-ao-ph",
+    "url": "https://arxiv.org/abs/2607.23001",
+    "doi": null,
+    "abstract": "arXiv:2607.23001v1 Announce Type: new Abstract: Idealized mock Walker simulations are widely used to study the interactions between overturning circulation and convection in the tropics. Previous studies documented a transition from a single-cell to a double-cell mock Walker circulation when the average sea surface temperature exceeds 300 K. Here, we ascribe the transition to the emergence of periodic convection with warming due to stronger convectively-coupled waves. In cold simulations, the warm pool is dominated by steady deep convection, which results in a single overturning cell. In hot simulations, the warm pool is alternately dominated by deep convection and a stratiform mode, resulting in lower and upper cells respectively. This study suggests that the Walker circulation in a warmer climate may feature complex structural changes in addition to a weakening in strength, and highlights the profound impacts of convection on overturning circulation.",
     "authors": [
-      "Amal Alghamdi, \nMarc A. Hesse, \nJingyi Chen, \nOmar Ghattas"
+      "Heng Quan",
+      "Yi Zhang",
+      "Guy Dagan",
+      "Stephan Fueglistaler"
     ],
     "is_editorial": false,
     "abstract_missing": false,
     "always_include": false,
     "score_boost": 0.0,
-    "score": 4.0,
+    "score": 5.0,
     "matched": [
-      "Bayesian"
+      "overturning circulation",
+      "sea surface temperature"
     ],
-    "published": "2026-07-18",
-    "first_seen": "2026-07-20"
+    "published": "2026-07-28",
+    "first_seen": "2026-07-28"
   },
   {
-    "title": "Three Decades of Glacial Changes on the Western Antarctic Peninsula Revealed by Historical Aerial and High‐Resolution Satellite Imagery",
-    "journal": "Geophysical Research Letters",
-    "source": "rss:grl",
-    "url": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2026GL122660?af=R",
-    "doi": "10.1029/2026gl122660",
-    "abstract": "Geophysical Research Letters, Volume 53, Issue 14, 28 July 2026.",
+    "title": "Global-mean surface air temperature change overestimates global warming rate",
+    "journal": "arXiv physics.ao-ph",
+    "source": "rss:arxiv-ao-ph",
+    "url": "https://arxiv.org/abs/2607.23541",
+    "doi": null,
+    "abstract": "arXiv:2607.23541v1 Announce Type: new Abstract: Current climate policies are targeted at slowing down the global warming rate, or the global mean surface air temperature (SAT) change ({\\Delta}Tmean), which is measured by the arithmetic mean approach under the assumption that SAT changes are symmetrically distributed. However, in reality, the SAT change is asymmetric in nature and its influence on the {\\Delta}Tmean interpretation seldom received attention in previous research about climate change. This study theorizes, based on the image histogram approach, that while {\\Delta}Tmean measures the Earth's overall SAT change, it yields a value larger than the global-scale SAT change ({\\Delta}Tgs) because of the asymmetrical distribution of SAT change. Results show that {\\Delta}Tmean is greater than that based on {\\Delta}Tgs by 0.19-0.23{\\deg}C from 2000-2019, relative to the global SAT in 1979. In future climate projections, where more significant inhomogeneous warming is expected, the disagreement between {\\Delta}Tmean and {\\Delta}Tgs reach 0.27-0.54{\\deg}C by the end of the 21st century (2080-2099) under different emission scenarios. The large difference between {\\Delta}Tmean and {\\Delta}Tgs implies that there is a net positive regional-scale warming effect over the globe which is mainly contributed by Arctic Amplification. This paper constitutes a warning that extreme regional warming effects could have large impacts on the interpretation of {\\Delta}Tmean, which is often considered in climate assessments and policies making, and illustrates the limitations and cautions inherent in using {\\Delta}Tmean as the only indicator of the global warming rate.",
     "authors": [
-      "Vijaya Kumar Thota, \nThorsten Seehaus, \nMatthias H. Braun"
+      "Jeremy Cheuk-Hin Leung",
+      "Qiuying Gan",
+      "Banglin Zhang"
     ],
     "is_editorial": false,
     "abstract_missing": false,
     "always_include": false,
     "score_boost": 0.0,
-    "score": 4.0,
+    "score": 5.0,
     "matched": [
-      "Antarctic"
+      "Arctic",
+      "climate change",
+      "global warming"
     ],
-    "published": "2026-07-18",
-    "first_seen": "2026-07-20"
-  },
-  {
-    "title": "Post‐1990s Warming of Circumpolar Deep Water Off West Antarctica and Its Drivers",
-    "journal": "JGR Oceans",
-    "source": "rss:jgr-oceans",
-    "url": "https://onlinelibrary.wiley.com/doi/10.1029/2025JC023856?af=R",
-    "doi": "10.1029/2025jc023856",
-    "abstract": "Journal of Geophysical Research: Oceans, Volume 131, Issue 7, July 2026.",
-    "authors": [
-      "Brendon Y. Damini, \nTiago S. Dotto, \nKaren J. Heywood, \nAlberto C. Naveira Garabato, \nRob A. Hall, \nMauricio M. Mata, \nRodrigo Kerr"
-    ],
-    "is_editorial": false,
-    "abstract_missing": false,
-    "always_include": false,
-    "score_boost": 0.0,
-    "score": 4.0,
-    "matched": [
-      "Antarctica"
-    ],
-    "published": "2026-07-18",
-    "first_seen": "2026-07-20"
-  },
-  {
-    "title": "Postfrontal Deep Convection Over the Southern Ocean and Orographic Precipitation Enhancement Over Tasmania",
-    "journal": "JGR Atmospheres",
-    "source": "rss:jgr-atmospheres",
-    "url": "https://onlinelibrary.wiley.com/doi/10.1029/2025JD045240?af=R",
-    "doi": "10.1029/2025jd045240",
-    "abstract": "Journal of Geophysical Research: Atmospheres, Volume 131, Issue 14, 28 July 2026.",
-    "authors": [
-      "Artur Gevorgyan, \nSteven Siems, \nYi Huang, \nLuis Ackermann, \nT. Alinejadtabrizi"
-    ],
-    "is_editorial": false,
-    "abstract_missing": false,
-    "always_include": false,
-    "score_boost": 0.0,
-    "score": 4.0,
-    "matched": [
-      "Southern Ocean"
-    ],
-    "published": "2026-07-18",
-    "first_seen": "2026-07-20"
-  },
-  {
-    "title": "Holocene vegetation change, climate variability, and human impacts on the Seki Basin (southwestern Türkiye): Evidence from a multiproxy approach",
-    "journal": "Palaeogeography Palaeoclimatology Palaeoecology",
-    "source": "openalex:paleoclimate",
-    "url": "https://doi.org/10.1016/j.palaeo.2026.114053",
-    "doi": "10.1016/j.palaeo.2026.114053",
-    "abstract": null,
-    "authors": [
-      "Zahra Hashemi",
-      "Demet Biltekin",
-      "Alan M. Greaves",
-      "Sena Akçer-Ön",
-      "Zeki Bora Ön",
-      "Memet Namık Çağatay",
-      "Ömer Yetemen"
-    ],
-    "is_editorial": false,
-    "abstract_missing": true,
-    "always_include": false,
-    "score_boost": 0.0,
-    "score": 4.0,
-    "matched": [
-      "Holocene"
-    ],
-    "published": "2026-07-14",
-    "first_seen": "2026-07-20"
+    "published": "2026-07-28",
+    "first_seen": "2026-07-28"
   },
   {
     "title": "The spatial dipole pattern of Holocene precipitation in the eastern China monsoon region and its role in driving the synchronous north-south development of Neolithic cultures and early Chinese civilization",
@@ -3000,30 +2899,62 @@
     "first_seen": "2026-07-27"
   },
   {
-    "title": "Spatiotemporal changes of soil profile salinization in Xinjiang and their response to glacial runoff variations",
-    "journal": "CATENA",
-    "source": "openalex:cryosphere",
-    "url": "https://doi.org/10.1016/j.catena.2026.110431",
-    "doi": "10.1016/j.catena.2026.110431",
-    "abstract": "Currently, the understanding of root-zone soil salinization—which critically influences vegetation growth—and its response to ongoing glacier retreat remains limited, hindering objective assessments of vegetation health and hydrological effects in arid regions. To address these issues, this study simulated profile soil salinization (0–100 cm) across the Mountain-Oasis-Desert System (MODS) in Xinjiang using a Random Forest (RF) model. Glacier runoff from 1960 to 2022 was simulated for multiple Xinjiang basins using the Open Global Glacier Model (OGGM), and the Geodetector model was employed to elucidate the response mechanisms linking soil salinization to glacial runoff and other environmental variables. Results show that soil salinization in Xinjiang exhibits a general increasing trend, characterized by surface accumulation (0–10 cm > 40–60 cm > 10–20 cm > 60–100 cm > 20–40 cm), although patterns differ between oasis and desert regions. Over the past 60 years, glacier meltwater runoff has increased in most river basins. In some basins (e.g., JSR, URB, ETNR), glacier runoff peaked before 2014, with the maximum value not exceeding 0.3 Gt. The largest annual glacier meltwater runoff occurred in the YarRB (4.48 Gt), followed by the WeiRB (3.66 Gt), the Ili River Basin (2.67 Gt), and the AksR (2.62 Gt). With increasing soil depth, dominant controls shift from climatic variables to soil physicochemical properties and topography, while the interactive effect between glacial runoff and other environmental variables becomes increasingly pronounced. Notably, glacial runoff exerts its strongest influence on the 60–100 cm layer, and this impact continues to intensify across basins, with an annual mean factor detection q-value reaching 0.63. This study is the first regional-scale quantitative investigation in Xinjiang to reveal the relationship between glacial runoff and deep soil salinization. These findings provide valuable insights for water resource management, salinization control, and ecological environmental protection.",
+    "title": "Tectonic Tremor Reveals Slow Deformation Along the Antarctic–South American Subduction Zone",
+    "journal": "Geophysical Research Letters",
+    "source": "rss:grl",
+    "url": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2026GL124449?af=R",
+    "doi": "10.1029/2026gl124449",
+    "abstract": "Geophysical Research Letters, Volume 53, Issue 14, 28 July 2026.",
     "authors": [
-      "Baozhong He",
-      "Jianli Ding",
-      "Wenjiang Huang",
-      "Yuehua Chen",
-      "Changbao Shao"
+      "K. Azúa",
+      "S. Ruiz",
+      "S. Ide"
     ],
     "is_editorial": false,
     "abstract_missing": false,
     "always_include": false,
     "score_boost": 0.0,
-    "score": 3.0,
+    "score": 4.0,
     "matched": [
-      "glacier",
-      "meltwater"
+      "Antarctic"
     ],
-    "published": "2026-07-18",
-    "first_seen": "2026-07-20"
+    "published": "2026-07-27",
+    "first_seen": "2026-07-28"
+  },
+  {
+    "title": "The loess–paleosol–cryptotephra sequence at Otkaznoe (Stavropol region, Russia): New insights into Middle to Late Quaternary subaerial stratigraphy in the Southern East European Plain",
+    "journal": "Quaternary International",
+    "source": "openalex:paleoclimate",
+    "url": "https://doi.org/10.1016/j.quaint.2026.110413",
+    "doi": "10.1016/j.quaint.2026.110413",
+    "abstract": null,
+    "authors": [
+      "Е. А. Константинов",
+      "В. В. Пономарева",
+      "Н. В. Сычев",
+      "Maxim Portnyagin",
+      "В. Д. Щербаков",
+      "Elena Mazneva",
+      "Daria N. Laskina",
+      "P. G. Panin",
+      "Fatima G. Kurbanova",
+      "V. I. Dudanova",
+      "R. V. Veselovskiy",
+      "А. Л. Захаров",
+      "M. N. Lazareva",
+      "Marina V. Khmeleva",
+      "R. N. Kurbanov"
+    ],
+    "is_editorial": false,
+    "abstract_missing": true,
+    "always_include": false,
+    "score_boost": 0.0,
+    "score": 4.0,
+    "matched": [
+      "Quaternary"
+    ],
+    "published": "2026-07-26",
+    "first_seen": "2026-07-28"
   },
   {
     "title": "Hydraulic Stimulation Experiments Attempting to Enhance Induced Seismicity for Earthquake Physics Research",
@@ -3799,6 +3730,86 @@
     "first_seen": "2026-07-27"
   },
   {
+    "title": "Effects of Phase Interconnection and Chemical Interactions on the Strength of Experimentally Deformed Quartz‐Phlogopite Mixtures",
+    "journal": "JGR Solid Earth",
+    "source": "rss:jgr-solidearth",
+    "url": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2026JB034852?af=R",
+    "doi": "10.1029/2026jb034852",
+    "abstract": "Journal of Geophysical Research: Solid Earth, Volume 131, Issue 7, July 2026.",
+    "authors": [
+      "Laura Airaghi",
+      "Khadija Alaoui",
+      "Gabriel Serrano‐López",
+      "Hugues Raimbourg",
+      "Holger Stünitz",
+      "Jacques Précigout",
+      "Ida Di Carlo",
+      "Cécile Genevois",
+      "Weijia Zhan"
+    ],
+    "is_editorial": false,
+    "abstract_missing": false,
+    "always_include": false,
+    "score_boost": 0.0,
+    "score": 3.0,
+    "matched": [
+      "solid earth"
+    ],
+    "published": "2026-07-26",
+    "first_seen": "2026-07-28"
+  },
+  {
+    "title": "A Plate‐Based Model for Reconciling Geodetic and Geologic Vertical Deformation Across Taiwan",
+    "journal": "JGR Solid Earth",
+    "source": "rss:jgr-solidearth",
+    "url": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2026JB034114?af=R",
+    "doi": "10.1029/2026jb034114",
+    "abstract": "Journal of Geophysical Research: Solid Earth, Volume 131, Issue 7, July 2026.",
+    "authors": [
+      "Ping‐Chen Chiang",
+      "Kaj M. Johnson",
+      "Kuo‐En Ching",
+      "Ray Y. Chuang",
+      "Brian J. Yanites",
+      "Sayan Das",
+      "Nadine McQuarrie"
+    ],
+    "is_editorial": false,
+    "abstract_missing": false,
+    "always_include": false,
+    "score_boost": 0.0,
+    "score": 3.0,
+    "matched": [
+      "solid earth"
+    ],
+    "published": "2026-07-26",
+    "first_seen": "2026-07-28"
+  },
+  {
+    "title": "MErSiM v1.0: resolving biases in global silicate weathering model with a data-driven surface erosion module",
+    "journal": "Geoscientific Model Development",
+    "source": "rss:gmd",
+    "url": "https://doi.org/10.5194/gmd-19-6857-2026",
+    "doi": "10.5194/gmd-19-6857-2026",
+    "abstract": "By using artificial intelligence and geological measurements, we built a machine learning model that accurately shows how landscapes erode. With this module included we developed a new silicate weatherig model, named MErSiM v1.0, which corrected a major overestimation of weathering flux in models simulating Earth’s long-term carbon cycle. This revealed that Earth's natural ability to remove atmospheric carbon dioxide is profoundly weaker under intense warming than previously understood.",
+    "authors": [
+      "Jiaxi Zhao",
+      "Yonggang Liu",
+      "Yongyun Hu"
+    ],
+    "is_editorial": false,
+    "abstract_missing": false,
+    "always_include": true,
+    "score_boost": 0.0,
+    "score": 3.0,
+    "matched": [
+      "carbon cycle",
+      "machine learning"
+    ],
+    "published": "2026-07-28",
+    "first_seen": "2026-07-28"
+  },
+  {
     "title": "A high-resolution urban CO2 transport model with anthropogenic and biogenic fluxes",
     "journal": "Geoscientific Model Development",
     "source": "rss:gmd",
@@ -4279,5 +4290,32 @@
     "matched": [],
     "published": "2026-07-24",
     "first_seen": "2026-07-25"
+  },
+  {
+    "title": "copan:LPJmL: a new hybrid modelling framework for dynamic land use and agricultural management",
+    "journal": "Geoscientific Model Development",
+    "source": "rss:gmd",
+    "url": "https://doi.org/10.5194/gmd-19-6829-2026",
+    "doi": "10.5194/gmd-19-6829-2026",
+    "abstract": "We present a new modelling framework that combines simulations of environmental change and human decision-making in an integrated approach. It allows researchers to explore how farming decisions affect land, water, and climate, and how these environmental changes influence future decisions. By connecting people and nature, it helps investigate food security, climate adaptation, and sustainability challenges, and supports the development of more realistic scenarios of future environmental change.",
+    "authors": [
+      "Jannes Breier",
+      "Luana Schwarz",
+      "Hannah Prawitz",
+      "Werner von Bloh",
+      "Christoph Müller",
+      "Stephen Björn Wirth",
+      "Max Bechthold",
+      "Dieter Gerten",
+      "Jonathan F. Donges"
+    ],
+    "is_editorial": false,
+    "abstract_missing": false,
+    "always_include": true,
+    "score_boost": 0.0,
+    "score": 0.0,
+    "matched": [],
+    "published": "2026-07-28",
+    "first_seen": "2026-07-28"
   }
 ]
