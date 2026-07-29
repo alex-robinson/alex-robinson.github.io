@@ -377,77 +377,30 @@
     "first_seen": "2026-07-27"
   },
   {
-    "title": "The new plant functional diversity model JeDi-BACH (version 1.0) in the ICON Earth System Model (version 1.0)",
-    "journal": "Geoscientific Model Development",
-    "source": "rss:gmd",
-    "url": "https://doi.org/10.5194/gmd-19-6357-2026",
-    "doi": "10.5194/gmd-19-6357-2026",
-    "abstract": "We introduce the new plant functional diversity model JeDi-BACH, a novel tool that integrates the Jena Diversity Model (JeDi) within the land component of the ICON Earth System Model. JeDi-BACH captures a richer set of plant trait variations based on environmental filtering and functional tradeoffs without a priori knowledge of the vegetation types. JeDi-BACH represents a significant advancement in modeling the complex interactions between plant functional diversity and climate.",
+    "title": "CMIP6-MedPlus dataset: climate projections for the Mediterranean region using statistical downscaling",
+    "journal": "Earth System Science Data",
+    "source": "rss:essd",
+    "url": "https://doi.org/10.5194/essd-2026-337",
+    "doi": "10.5194/essd-2026-337",
+    "abstract": "Preprint under review for ESSD (discussion: open, 0 comments) CMIP6-MedPlus is an open-access climate dataset for the extended Mediterranean region, developed from CMIP6 simulations to support climate impact studies. It provides daily precipitation and near-surface air temperature at 0.25° spatial resolution from 1985 to 2100. The dataset is generated through a two-step statistical downscaling framework, in which a convolutional neural network first refines global climate model output and quantile delta mapping is then applied to correct biases.",
     "authors": [
-      "Pin-Hsin Hu",
-      "Christian H. Reick",
-      "Reiner Schnur",
-      "Axel Kleidon",
-      "Martin Claussen"
+      "Valeria Todaro",
+      "Daniele Secci",
+      "Marco D'Oria",
+      "Maria Giovanna Tanda"
     ],
     "is_editorial": false,
     "abstract_missing": false,
-    "always_include": true,
+    "always_include": false,
     "score_boost": 0.0,
-    "score": 15.0,
+    "score": 16.0,
     "matched": [
-      "Earth system model",
-      "Earth system"
+      "CMIP",
+      "neural network",
+      "downscaling"
     ],
-    "published": "2026-07-16",
-    "first_seen": "2026-07-21"
-  },
-  {
-    "title": "CMIP7 data request: ocean and sea  ice priorities and opportunities",
-    "journal": "Geoscientific Model Development",
-    "source": "rss:gmd",
-    "url": "https://doi.org/10.5194/gmd-19-6043-2026",
-    "doi": "10.5194/gmd-19-6043-2026",
-    "abstract": "The ocean and sea ice are central to Earth's climate system, influencing global heat and carbon cycles, weather patterns, and sea level rise. Here the earth system model variables needed for studies of the ocean and sea ice are prioritized and requested. These requested variables were developed through an international, community-based process.",
-    "authors": [
-      "Baylor Fox-Kemper",
-      "Patricia DeRepentigny",
-      "Anne Marie Treguier",
-      "Christian Stepanek",
-      "Eleanor O'Rourke",
-      "Chloe Mackallah",
-      "Alberto Meucci",
-      "Yevgeny Aksenov",
-      "Paul J. Durack",
-      "Nicole Feldl",
-      "Oluwayemi Garuba",
-      "Vanessa Hernaman",
-      "Céline Heuzé",
-      "Doroteaciro Iovino",
-      "Gaurav Madan",
-      "André L. Marquez",
-      "François Massonnet",
-      "Jenny Mecking",
-      "Dhrubajyoti Samanta",
-      "Patrick C. Taylor",
-      "Wan-Ling Tseng",
-      "Martin Vancoppenolle"
-    ],
-    "is_editorial": false,
-    "abstract_missing": false,
-    "always_include": true,
-    "score_boost": 0.0,
-    "score": 15.0,
-    "matched": [
-      "sea ice",
-      "sea level",
-      "sea-level rise",
-      "Earth system model",
-      "Earth system",
-      "CMIP"
-    ],
-    "published": "2026-07-09",
-    "first_seen": "2026-07-21"
+    "published": "2026-07-28",
+    "first_seen": "2026-07-29"
   },
   {
     "title": "Freshly calved icebergs from Sermeq Kujalleq in Kangia,  Greenland: is their blue ice temperate?",
@@ -600,6 +553,33 @@
     "first_seen": "2026-07-26"
   },
   {
+    "title": "The dynamic response of Pine Island Glacier to two decades of intermittent ice shelf regrounding",
+    "journal": "Nature Communications",
+    "source": "rss:ncomms",
+    "url": "https://www.nature.com/articles/s41467-026-75648-8",
+    "doi": "10.1038/s41467-026-75648-8",
+    "abstract": "Nature Communications, Published online: 29 July 2026; doi:10.1038/s41467-026-75648-8 Through satellite observations and numerical modelling, this study reveals intermittent regrounding beneath Pine Island Ice Shelf and shows it added little resistance to flow, but may have helped trigger rifting responsible for causing acceleration.",
+    "authors": [
+      "Trystan Surawy-Stepney",
+      "Benjamin J. Wallis",
+      "Anna E. Hogg",
+      "Ian Joughin",
+      "Stephen L. Cornford",
+      "Pierre Dutrieux"
+    ],
+    "is_editorial": false,
+    "abstract_missing": false,
+    "always_include": false,
+    "score_boost": 0.0,
+    "score": 14.0,
+    "matched": [
+      "ice shelf",
+      "glacier"
+    ],
+    "published": null,
+    "first_seen": "2026-07-29"
+  },
+  {
     "title": "Quantifying subsurface fracture damage in glaciers using fiber-optic seismology",
     "journal": "Science Advances",
     "source": "openalex:cryosphere",
@@ -628,74 +608,6 @@
     ],
     "published": "2026-07-23",
     "first_seen": "2026-07-26"
-  },
-  {
-    "title": "Future Global Warming Constrained by Observed AMOC Strength",
-    "journal": "Geophysical Research Letters",
-    "source": "rss:grl",
-    "url": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025GL118802?af=R",
-    "doi": "10.1029/2025gl118802",
-    "abstract": "Geophysical Research Letters, Volume 53, Issue 14, 28 July 2026.",
-    "authors": [
-      "Xiaojie Hao",
-      "Xianyao Chen",
-      "Tobias Spiegl",
-      "Jan Streffing",
-      "Lu Niu",
-      "Gerrit Lohmann"
-    ],
-    "is_editorial": false,
-    "abstract_missing": false,
-    "always_include": false,
-    "score_boost": 0.0,
-    "score": 12.0,
-    "matched": [
-      "AMOC",
-      "global warming"
-    ],
-    "published": "2026-07-20",
-    "first_seen": "2026-07-21"
-  },
-  {
-    "title": "Precipitation Reconstruction in the Asian Monsoon Region During the 4.2 ka Event With Paleoclimate Data Assimilation",
-    "journal": "JGR Atmospheres",
-    "source": "rss:jgr-atmospheres",
-    "url": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025JD045745?af=R",
-    "doi": "10.1029/2025jd045745",
-    "abstract": "Journal of Geophysical Research: Atmospheres, Volume 131, Issue 14, 28 July 2026.",
-    "authors": [
-      "Fangmiao Xing",
-      "Liang Ning",
-      "Zhengyu Liu",
-      "Jian Liu",
-      "Michael E. Mann",
-      "Fen Wu",
-      "Lili Lei",
-      "Yongjin Wang",
-      "Lingfeng Wan",
-      "Xin Jia",
-      "Hai Xu",
-      "Liangcheng Tan",
-      "Mi Yan",
-      "Weiyi Sun",
-      "Deliang Chen",
-      "Huayu Lu",
-      "Qin Wen",
-      "Kan Zhao",
-      "Kefan Chen",
-      "Yanmin Qin"
-    ],
-    "is_editorial": false,
-    "abstract_missing": false,
-    "always_include": false,
-    "score_boost": 0.0,
-    "score": 12.0,
-    "matched": [
-      "paleoclimate",
-      "data assimilation"
-    ],
-    "published": "2026-07-20",
-    "first_seen": "2026-07-21"
   },
   {
     "title": "Climate Change and Outdoor Sport in Chile: A Review of Impacts, Risks, and Adaptation",
@@ -800,6 +712,34 @@
     "first_seen": "2026-07-28"
   },
   {
+    "title": "Retrogressive Thaw Slump Morphology and Dynamics in Saline Permafrost in Northeast Greenland",
+    "journal": "JGR Earth Surface",
+    "source": "rss:jgr-earthsurface",
+    "url": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025JF008848?af=R",
+    "doi": "10.1029/2025jf008848",
+    "abstract": "Journal of Geophysical Research: Earth Surface, Volume 131, Issue 7, July 2026.",
+    "authors": [
+      "S. Eppinger",
+      "T. H. Lorentzen",
+      "M. Angelopoulos",
+      "T. Ingeman‐Nielsen",
+      "D. A. Rudd",
+      "M. Marcer",
+      "M. Krautblatter"
+    ],
+    "is_editorial": false,
+    "abstract_missing": false,
+    "always_include": false,
+    "score_boost": 0.0,
+    "score": 12.0,
+    "matched": [
+      "Greenland",
+      "permafrost"
+    ],
+    "published": "2026-07-28",
+    "first_seen": "2026-07-29"
+  },
+  {
     "title": "Disentangling Forced and Internal Climate Variability in Single Realizations using Dynamic Mode Decomposition with Control",
     "journal": "arXiv physics.ao-ph",
     "source": "rss:arxiv-ao-ph",
@@ -885,28 +825,6 @@
     ],
     "published": "2026-07-24",
     "first_seen": "2026-07-26"
-  },
-  {
-    "title": "WP-MIP: An Artificial Intelligence, Hybrid, and Physically Based Model Intercomparison Project for Weather Prediction",
-    "journal": "arXiv physics.ao-ph",
-    "source": "rss:arxiv-ao-ph",
-    "url": "https://arxiv.org/abs/2604.16643",
-    "doi": null,
-    "abstract": "arXiv:2604.16643v2 Announce Type: replace Abstract: Rapid progress in the field of machine-learning for weather prediction has led to the emergence of algorithms whose forecasting skill can exceed that of traditional physically based models. This development represents an opportunity to improve the quality of forecasting services provided by operational centers, particularly given the speed at which machine-learning based models generate predictions. Despite the clear promise of these systems, questions remain about the ability of the current generation of machine-learning models to generate physically consistent predictions of the full suite of required forecast fields under all conditions. Answering these questions will require careful comparisons between the well-understood physically based models, current state-of-the-art machine-learning models, and the hybrid models that combine elements of these two archetypes. The Weather Prediction Model Intercomparison Project (WP-MIP) is a World Meteorological Organization-supported initiative whose initial goal is to create a centralized database of physically based, machine-learning, and hybrid model forecasts to enable a distributed assessment and evaluation effort. The first instance of WP-MIP focuses on global deterministic predictions using both center-specific and common initializations to facilitate sensitivity studies. Forecasts contributed by institutions across six continents will be used to develop AI-ready verification techniques that highlight the strengths and weaknesses of each class of prediction system, with the goal of establishing best-practice guidance to model developers and national weather centers. The broad engagement of the operational and forecast-evaluation communities in WP-MIP will ensure that the project results are highly relevant to the development and deployment of next-generation weather prediction systems.",
-    "authors": [
-      "Ron McTaggart-Cowan, Linus Magnusson, Inna Polichtchouk, Duncan Ackerley, Martin Koehler, Barbara Casati, Jan-Huey Chen, Debra Hudson, Masashi Ujiie, Nurizana Amir Aziz, Massimo Bonavita, Zied Ben Bouallegue, Catherine de Burgh-Day, Stephane Chamberland, Kyounngmi Cho, Caio A. S. Coelho, Rostislav Fadeev, Manuel Fuentes, Jorge L. Garcia Franco, Claude Gilbert, Bruno S. Guimaraes, Chris Harris, Michelle Harrold, Syed Husain, Molly James, Alex Kaltenbaugh, Marta Koch, Paulo Y. Kubota, Eun-Hee Lee, Chen Li, Wei Li, Weiwei Li, Llorenc Lledo, Nicholas Loveday, Chrstian Lussana, Zubiar Maalick, Mohau J. Mateyisi, Amy McGovern, Koos van der Merwe, Joel Miller, Marion Mittermaier, Richard Mladek, Kathryn Newman, Andre L. O. Neves, John Pill, Roland Potthast, Maheswar Pradhan, Subhrajit Rath, David S. Richardson, Leo Separovic, Michelle Simoes Reboita, Gregor Skok, Ankur Srivastava, Mikhail Tolstykh, Zhuo Wang, Beth J. Woodham, Fanglin Yang, Radomir Zaripov, Gan Zhang, Hongyan Zhu"
-    ],
-    "is_editorial": false,
-    "abstract_missing": false,
-    "always_include": false,
-    "score_boost": 0.0,
-    "score": 10.0,
-    "matched": [
-      "model intercomparison",
-      "machine learning"
-    ],
-    "published": "2026-07-21",
-    "first_seen": "2026-07-21"
   },
   {
     "title": "Enhanced Tidal Mixing Strengthened and Stabilized the AMOC During the Bølling–Allerød",
@@ -1250,6 +1168,28 @@
     ],
     "published": "2026-07-23",
     "first_seen": "2026-07-26"
+  },
+  {
+    "title": "Using Cosmic Rays to Predict the Weather: Meteorological Data Assimilation of Atmospheric Muon Flux Data",
+    "journal": "arXiv physics.ao-ph",
+    "source": "rss:arxiv-ao-ph",
+    "url": "https://arxiv.org/abs/2509.04627",
+    "doi": null,
+    "abstract": "arXiv:2509.04627v2 Announce Type: replace Abstract: Numerical weather prediction requires initial estimates of the atmospheric state. Since the atmospheric density field is intricately woven into the atmosphere's governing equations, advancing atmospheric density estimation will improve numerical weather prediction. However, current meteorological instrumentation cannot directly measure the atmospheric density field over large volumes. Existing techniques rely on sparse point measurements, limiting our ability to accurately estimate the three-dimensional atmospheric density field. One potential solution is to employ measurements of the atmospheric muon flux. Atmospheric muons are particles produced when energetic atomic nuclei (cosmic rays) collide with nuclei in the upper atmosphere, producing a shower of secondary particles (muons) that propagates to the Earth's surface. The surface atmospheric muon flux is known to be proportional to the local atmospheric density field, implying that this technique can be used as a measurement of atmospheric density. This study examines the potential for using atmospheric muon flux measurements to improve atmospheric state estimation via a case study of simulated atmospheric muon observations in the path of tropical cyclone Freddy. We show that improvement in data assimilation performance can be achieved using data from a relatively small astroparticle detector, well within the capabilities of existing astroparticle technology. We additionally show that the improvements to atmospheric state estimates associated with muon flux assimilation are at least partially unique to muon flux measurements, as comparable surface pressure point measurements do not reproduce a similar effect.",
+    "authors": [
+      "William Luszczak",
+      "Man-Yau Chan"
+    ],
+    "is_editorial": false,
+    "abstract_missing": false,
+    "always_include": false,
+    "score_boost": 0.0,
+    "score": 9.0,
+    "matched": [
+      "data assimilation"
+    ],
+    "published": "2026-07-29",
+    "first_seen": "2026-07-29"
   },
   {
     "title": "Investigating the drivers of wintertime Southern Ocean sea-ice leads using random forest algorithms",
@@ -1621,117 +1561,6 @@
     "first_seen": "2026-07-26"
   },
   {
-    "title": "The Greenland GNSS Network (GNET): geodetic grade GNSS measurements of Greenland's 3D bedrock displacement from 1995–2025",
-    "journal": "Earth System Science Data",
-    "source": "rss:essd",
-    "url": "https://doi.org/10.5194/essd-18-5117-2026",
-    "doi": "10.5194/essd-18-5117-2026",
-    "abstract": "The Greenland GNSS Network (GNET): geodetic grade GNSS measurements of Greenland's 3D bedrock displacement from 1995–2025 Christian Solgaard, Finn Bo Madsen, Malte Winther-Dahl, Thomas Henry Nylen, Danjal Longfors Berg, Ole Bjerregaard, Javed Hassan, Per Knudsen, Michael Bevis, and Shfaqat Abbas Khan Earth Syst. Sci. Data, 18, 5117–5142, https://doi.org/10.5194/essd-18-5117-2026, 2026 The Greenland GNSS (Global Navigation Satellite Systems) Network consists of more than 70 high-grade GNSS stations placed along the perimeter of Greenland. With this work, we present the processed position solutions for the 20+ year record in a daily resolution. Along with the processed time series, we also publish the extensive metadata record for the network and raw data. A comparison with other subsets of the data showed an increased stability in the full processed dataset we publish here.",
-    "authors": [],
-    "is_editorial": false,
-    "abstract_missing": false,
-    "always_include": false,
-    "score_boost": 0.0,
-    "score": 6.0,
-    "matched": [
-      "Greenland"
-    ],
-    "published": "2026-07-20",
-    "first_seen": "2026-07-21"
-  },
-  {
-    "title": "Brief communication: Temperature-driven shrinkage of a disappearing Himalayan glacier",
-    "journal": "The Cryosphere",
-    "source": "rss:tc",
-    "url": "https://doi.org/10.5194/tc-20-4005-2026",
-    "doi": "10.5194/tc-20-4005-2026",
-    "abstract": "Glacier AX010 in Nepal, monitored since the 1970s, has been shrinking at an accelerating rate, mainly due to rising temperatures. Drone surveys, modeling, and reanalysis data show mass loss began in the early 1970s and intensified after 2000. While rising temperatures drive shrinkage, precipitation changes have neither accelerated nor mitigated mass loss. At the current rate, the glacier may disappear within 10–20 years.",
-    "authors": [
-      "Koji Fujita",
-      "Rijan B. Kayastha"
-    ],
-    "is_editorial": false,
-    "abstract_missing": false,
-    "always_include": true,
-    "score_boost": 0.0,
-    "score": 6.0,
-    "matched": [
-      "glacier",
-      "mass loss",
-      "reanalysis"
-    ],
-    "published": "2026-07-21",
-    "first_seen": "2026-07-21"
-  },
-  {
-    "title": "The next generation sea-ice model neXtSIM, version 2",
-    "journal": "Geoscientific Model Development",
-    "source": "rss:gmd",
-    "url": "https://doi.org/10.5194/gmd-19-6467-2026",
-    "doi": "10.5194/gmd-19-6467-2026",
-    "abstract": "This paper introduces a new version of the neXtSIM sea-ice model. NeXtSIM is unique among sea-ice models in how it represents sea-ice dynamics, focusing on features such as cracks and ridges and how these impact interactions between the atmosphere and ocean where sea ice is present. The new version introduces some physical parameterisations and model options detailed and explained in the paper. Following the paper's publication, the neXtSIM code will be released publicly for the first time.",
-    "authors": [
-      "Einar Ólason",
-      "Guillaume Boutin",
-      "Timothy Williams",
-      "Anton Korosov",
-      "Heather Regan",
-      "Jonathan Rheinlænder",
-      "Pierre Rampal",
-      "Daniela Flocco",
-      "Abdoulaye Samaké",
-      "Richard Davy",
-      "Timothy Spain",
-      "Sean Chua"
-    ],
-    "is_editorial": false,
-    "abstract_missing": false,
-    "always_include": true,
-    "score_boost": 0.0,
-    "score": 6.0,
-    "matched": [
-      "ice dynamics",
-      "sea ice",
-      "parameterization"
-    ],
-    "published": "2026-07-17",
-    "first_seen": "2026-07-21"
-  },
-  {
-    "title": "Machine learning significantly improves the simulation of hourly-to-yearly scale cloud nuclei concentration and radiative forcing in polluted atmosphere",
-    "journal": "Geoscientific Model Development",
-    "source": "rss:gmd",
-    "url": "https://doi.org/10.5194/gmd-19-6403-2026",
-    "doi": "10.5194/gmd-19-6403-2026",
-    "abstract": "In this study, a new framework of cloud condensation nuclei (CCN) prediction in polluted region has been developed and it achieves well prediction of hourly-to-yearly scale across North China Plain. The study reveals the machine learning model can largely reduce the uncertainty in simulating cloud radiative forcing, illustrating the high sensitivity of climate forcing to changes in CCN. This improvement of our new model would be helpful to aerosols climate effect assessment in models.",
-    "authors": [
-      "Jingye Ren",
-      "Songjian Zou",
-      "Honghao Xu",
-      "Guiquan Liu",
-      "Zhe Wang",
-      "Anran Zhang",
-      "Chuanfeng Zhao",
-      "Min Hu",
-      "Dongjie Shang",
-      "Lizi Tang",
-      "Ru-Jin Huang",
-      "Yele Sun",
-      "Fang Zhang"
-    ],
-    "is_editorial": false,
-    "abstract_missing": false,
-    "always_include": true,
-    "score_boost": 0.0,
-    "score": 6.0,
-    "matched": [
-      "radiative forcing",
-      "machine learning"
-    ],
-    "published": "2026-07-17",
-    "first_seen": "2026-07-21"
-  },
-  {
     "title": "Long-term distribution of radiocarbon in the Pacific Ocean within prevailing climate change",
     "journal": "Journal of Environmental Radioactivity",
     "source": "openalex:paleoclimate",
@@ -1959,31 +1788,30 @@
     "first_seen": "2026-07-27"
   },
   {
-    "title": "Spatiotemporal Dynamics of Glacier Changes in Tibet from 1990 to 2025",
-    "journal": "Remote Sensing",
-    "source": "openalex:cryosphere",
-    "url": "https://doi.org/10.3390/rs18142389",
-    "doi": "10.3390/rs18142389",
-    "abstract": "Glaciers serve as sensitive indicators of climate change, yet the automated extraction of glacier boundaries over large areas and long time periods remains challenging. To resolve this issue, we proposed a remote sensing indicator system based on the Google Earth Engine (GEE) platform (spectral, textural, topographic features and band differences) and applied a random forest (RF) algorithm to establish an automatic classification method. Based on this framework, the study analyzed the spatiotemporal changes in Tibet’s glaciers from 1990 to 2025. The results indicated that: (1) Validation using 30% of the data points showed overall accuracy (OA) was 92.10%, Kappa coefficient of 0.86 and F1-score of 91.53% for glacier classification. (2) The total glacier area retreated from 38,968 km2 during 1990–1997 to 22,026 km2 during 2024–2025, with the retreat mainly concentrated in southeastern Tibet. (3) Glacier area peaked at 5500 m, with clean glaciers and debris-covered glaciers accounting for 42% and 55% of the total glacier area, respectively. (4) Between 1990 and 2025, the Yarlung Tsangpo River basin exhibited the fastest glacier retreat rate, while the Qiangtang basin showed signs of stabilization. This study provides a theoretical basis for identifying glacier boundaries over large areas in high-altitude regions.",
+    "title": "Constraining eruption timing and duration at Taranaki volcano, New Zealand, using Late Holocene stalagmites",
+    "journal": "Bulletin of Volcanology",
+    "source": "openalex:paleoclimate",
+    "url": "https://doi.org/10.1007/s00445-026-02017-0",
+    "doi": "10.1007/s00445-026-02017-0",
+    "abstract": "Abstract Robust hazard assessment at dormant stratovolcanoes requires high-resolution eruption chronologies, yet these are often limited by incomplete proximal deposits and poorly constrained ages. Speleothems can preserve tephra particles and volcanogenic trace element signals datable using high-precision 230 Th/U chronologies. However, accurate eruption timings are affected by transfer delays of volcanogenic signals in distal cave systems beneath thick epikarst. Here, we investigate Late Holocene (1094 AD –recent) stalagmites from a shallow cave proximal to Taranaki volcano (New Zealand), where cave geometry and location along the primary tephra dispersal axis provide an opportunity to test whether primary tephra preservation improves reconstruction of eruption timing and duration. Laser-induced breakdown spectroscopy mapping of Si, K, and Ti identified several particle-rich layers, of which two comprise pristine tephra based on clustered glass and titanomagnetite compositions as well as grain morphologies indicating narrow grain-size distributions and increased particle angularity. These incorporated tephra particles correspond to the Te Popo and Burrell episodes and were dated using 230 Th/U at 1196 AD ± 31 and 1568 AD ± 41, respectively. Each tephra layer comprises three distinct tephra-rich laminae, indicating multiple eruption pulses. Growth rates across tephra-bearing laminae indicate eruptive pulses lasted several months and were separated by short repose periods, suggesting that each episode lasted around 2.5 years. Particle-rich layers deposited in the late nineteenth–twentieth centuries contain non-volcanic detritus and heterogeneous grains, consistent with dust and soil-derived material mobilised during landscape modification. These results demonstrate that proximal speleothems can be used to improve volcanic hazard assessments by providing precise information on the timing and duration of volcanic eruptions.",
     "authors": [
-      "Peng Yu",
-      "Huan Yu",
-      "Kangkang Li",
-      "Jinrui Fan",
-      "Qing Wang"
+      "Nathan Collins",
+      "Shane J. Cronin",
+      "John Hellstrom",
+      "Ingrid A. Ukstins",
+      "Cynthia Werner",
+      "Kathleen A. Campbell"
     ],
     "is_editorial": false,
     "abstract_missing": false,
     "always_include": false,
     "score_boost": 0.0,
-    "score": 5.0,
+    "score": 6.0,
     "matched": [
-      "glacier",
-      "remote sensing",
-      "climate change"
+      "Holocene"
     ],
-    "published": "2026-07-17",
-    "first_seen": "2026-07-21"
+    "published": "2026-07-27",
+    "first_seen": "2026-07-29"
   },
   {
     "title": "Deep Learning-Based 4D Reconstruction of Arctic Ocean Hydrography and derived Geostrophic Currents from Satellite and In Situ Observations",
@@ -2255,32 +2083,40 @@
     "first_seen": "2026-07-28"
   },
   {
-    "title": "The spatial dipole pattern of Holocene precipitation in the eastern China monsoon region and its role in driving the synchronous north-south development of Neolithic cultures and early Chinese civilization",
-    "journal": "Science China Earth Sciences",
-    "source": "openalex:paleoclimate",
-    "url": "https://doi.org/10.1007/s11430-025-1904-1",
-    "doi": "10.1007/s11430-025-1904-1",
-    "abstract": null,
+    "title": "Arctic aerosol and meteorological observations using airborne and ground-based systems in spring 2024",
+    "journal": "Earth System Science Data",
+    "source": "rss:essd",
+    "url": "https://doi.org/10.5194/essd-2026-411",
+    "doi": "10.5194/essd-2026-411",
+    "abstract": "Preprint under review for ESSD (discussion: open, 0 comments) This article combines measurements from an uncrewed aerial system, a tethered balloon system and a surface flux gradient system to study aerosol particles and meteorological parameters at the Arctic site Ny-Ålesund, Svalbard, in spring 2024. The vertical and horizontal observations from the ground to 1.3 kilometres above sea level show strong aerosol variability in correlation with specific meteorological conditions, providing a valuable basis for understanding Arctic aerosol processes.",
     "authors": [
-      "Fahu Chen",
-      "Zhiping Zhang",
-      "Gao Yu",
-      "Jie Chen",
-      "Zhuangzhuang Bai",
-      "Shengqian Chen",
-      "Jianhui Chen",
-      "Jia Xin"
+      "Malte Schuchard",
+      "Konrad Bärfuss",
+      "Lutz Bretschneider",
+      "Thomas Conrath",
+      "Andreas Held",
+      "Ralf Käthner",
+      "Mona Kellermann",
+      "Astrid Lampert",
+      "Theresa Mathes",
+      "Joshua Müller",
+      "Christian Pilz",
+      "Andreas Schlerf",
+      "Holger Siebert",
+      "Birgit Wehner",
+      "Barbara Harm-Altstädter"
     ],
     "is_editorial": false,
-    "abstract_missing": true,
+    "abstract_missing": false,
     "always_include": false,
     "score_boost": 0.0,
-    "score": 4.0,
+    "score": 5.0,
     "matched": [
-      "Holocene"
+      "Arctic",
+      "sea level"
     ],
-    "published": "2026-07-15",
-    "first_seen": "2026-07-21"
+    "published": "2026-07-28",
+    "first_seen": "2026-07-29"
   },
   {
     "title": "Increased Frequency, Duration, and Area of Winter Polynyas North of Greenland in a Warming Climate",
@@ -2957,87 +2793,54 @@
     "first_seen": "2026-07-28"
   },
   {
-    "title": "Hydraulic Stimulation Experiments Attempting to Enhance Induced Seismicity for Earthquake Physics Research",
-    "journal": "JGR Solid Earth",
-    "source": "rss:jgr-solidearth",
-    "url": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2026JB033768?af=R",
-    "doi": "10.1029/2026jb033768",
-    "abstract": "Journal of Geophysical Research: Solid Earth, Volume 131, Issue 7, July 2026.",
+    "title": "Interannual Variability of Mean Winds and the Semidiurnal Tide in the Antarctic Summer Mesosphere‐Lower Thermosphere",
+    "journal": "JGR Atmospheres",
+    "source": "rss:jgr-atmospheres",
+    "url": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025JD046204?af=R",
+    "doi": "10.1029/2025jd046204",
+    "abstract": "Journal of Geophysical Research: Atmospheres, Volume 131, Issue 14, 28 July 2026.",
     "authors": [
-      "Valentin Samuel Gischig, \nMen‐Andrin Meier, \nAurora Lambiase, \nDanyang Jiang, \nMarian Hertrich, \nNima Gholizadeh Doonechaly, \nMohammadreza Jalali, \nAntonio Pio Rinaldi, \nStefano Aretusini, \nKathrin Behnen, \nKai E. N. Bröker, \nAlberto Ceccato, \nVictor Clasen Repollés, \nJohn Clinton, \nLuca Dal Zilio, \nPascal Edme, \nThomas Haag, \nRebecca Hochreutener, \nAlexandra Lightfoot, \nCara Magnabosco, \nFrédérick Massin, \nHansruedi Maurer, \nMaria Mesimeri, \nLeila Mizrahi, \nFrancesco Mosconi, \nAnne Obermann, \nKadek Palgunadi, \nEdoardo Pezzulli, \nGiulio Poggiali, \nGiacomo Pozzi, \nMartina Rosskopf, \nLuca Scarabello, \nRyan Schultz, \nMiriam L. Schwarz, \nPaul A. Selvadurai, \nAlexis Shakas, \nElena Spagnuolo, \nMariano Supino, \nLu Tian, \nElisa Tinti, \nKatinka Tuinstra, \nMeleza Liliana Vargas, \nLinus Villiger, \nZhe Wang, \nAlba Zappone, \nEric Zimmermann, \nJordan Aaron, \nFlorian Amann, \nMassimo Cocco, \nStefan Wiemer, \nDomenico Giardini"
+      "R. A. Vincent",
+      "J.‐H. Kim",
+      "C. Lee",
+      "G. Jee",
+      "D. J. Murphy",
+      "I. M. Reid"
     ],
     "is_editorial": false,
     "abstract_missing": false,
     "always_include": false,
     "score_boost": 0.0,
-    "score": 3.0,
+    "score": 4.0,
     "matched": [
-      "solid earth"
+      "Antarctic"
     ],
-    "published": "2026-07-19",
-    "first_seen": "2026-07-21"
+    "published": "2026-07-27",
+    "first_seen": "2026-07-29"
   },
   {
-    "title": "Structure and Origin of an Active Hydrothermal System in NW Svalbard: A Combined Magnetotelluric and Gas‐Water Isotope Study",
-    "journal": "JGR Solid Earth",
-    "source": "rss:jgr-solidearth",
-    "url": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025JB033374?af=R",
-    "doi": "10.1029/2025jb033374",
-    "abstract": "Journal of Geophysical Research: Solid Earth, Volume 131, Issue 7, July 2026.",
+    "title": "New evidence for an early holocene humid phase in the Middle East: The Damghan playa record (Northern Iran)",
+    "journal": "Quaternary International",
+    "source": "openalex:paleoclimate",
+    "url": "https://doi.org/10.1016/j.quaint.2026.110409",
+    "doi": "10.1016/j.quaint.2026.110409",
+    "abstract": null,
     "authors": [
-      "Alexander Minakov, \nHorst Kämpf, \nDeniz Varılsüha, \nKim Senger, \nMaxim Smirnov, \nSamuel Niedermann, \nMartin Zimmer, \nMaik Neukirch, \nPeter Betlem, \nAnniken Helland‐Hansen, \nRafael Horota, \nAgnes Kontny, \nSverre Planke, \nSebastian Tappe, \nMaria Telmon, \nDmitry Zastrozhnov"
+      "Arefe Shabani eraghi",
+      "Ghasem Azizi",
+      "M Yamani",
+      "Blas L. Valero‐Garcés"
     ],
     "is_editorial": false,
-    "abstract_missing": false,
+    "abstract_missing": true,
     "always_include": false,
     "score_boost": 0.0,
-    "score": 3.0,
+    "score": 4.0,
     "matched": [
-      "solid earth"
+      "Holocene"
     ],
-    "published": "2026-07-19",
-    "first_seen": "2026-07-21"
-  },
-  {
-    "title": "Multi‐Stage Lithospheric Destruction of the North China Craton: Evidence From a Magnetotelluric Array Study",
-    "journal": "JGR Solid Earth",
-    "source": "rss:jgr-solidearth",
-    "url": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2024JB029739?af=R",
-    "doi": "10.1029/2024jb029739",
-    "abstract": "Journal of Geophysical Research: Solid Earth, Volume 131, Issue 7, July 2026.",
-    "authors": [
-      "Gaofeng Ye, \nBaochun Li, \nSheng Jin, \nWenbo Wei, \nLetian Zhang, \nHao Dong, \nChengliang Xie, \nYaotian Yin, \nShaohuai Sun, \nJien Dong, \nCheng Liu, \nCe Yang, \nHaoxiang Yin"
-    ],
-    "is_editorial": false,
-    "abstract_missing": false,
-    "always_include": false,
-    "score_boost": 0.0,
-    "score": 3.0,
-    "matched": [
-      "solid earth"
-    ],
-    "published": "2026-07-19",
-    "first_seen": "2026-07-21"
-  },
-  {
-    "title": "Glacial Lake Observatory (GLO): annual  dataset of glacial lakes in Nepal and  transboundary catchments (2017–2024)",
-    "journal": "Earth System Science Data",
-    "source": "rss:essd",
-    "url": "https://doi.org/10.5194/essd-18-5143-2026",
-    "doi": "10.5194/essd-18-5143-2026",
-    "abstract": "Glacial Lake Observatory (GLO): annual dataset of glacial lakes in Nepal and transboundary catchments (2017–2024) Lauren D. Rawlins, C. Scott Watson, Rakesh Bhambri, Nitesh Khadka, and Mohan B. Chand Earth Syst. Sci. Data, 18, 5143–5165, https://doi.org/10.5194/essd-18-5143-2026, 2026 Glacial lakes are expanding as glaciers melt in High Mountain Asia. These lakes store meltwater but can trigger dangerous outburst floods (GLOFs), threatening downstream communities. Using satellite imagery and deep learning, we mapped lakes across the Nepal-transboundary region (2017–2024) and found rapid growth, especially in the Koshi basin. This research supports the Glacial Lake Observatory, which will enable long-term monitoring and hazard reduction.",
-    "authors": [],
-    "is_editorial": false,
-    "abstract_missing": false,
-    "always_include": false,
-    "score_boost": 0.0,
-    "score": 3.0,
-    "matched": [
-      "glacier",
-      "meltwater"
-    ],
-    "published": "2026-07-21",
-    "first_seen": "2026-07-21"
+    "published": "2026-07-27",
+    "first_seen": "2026-07-29"
   },
   {
     "title": "Temporal horizons in US climate change news",
@@ -3810,176 +3613,217 @@
     "first_seen": "2026-07-28"
   },
   {
-    "title": "A high-resolution urban CO2 transport model with anthropogenic and biogenic fluxes",
-    "journal": "Geoscientific Model Development",
-    "source": "rss:gmd",
-    "url": "https://doi.org/10.5194/gmd-19-6417-2026",
-    "doi": "10.5194/gmd-19-6417-2026",
-    "abstract": "Cities need better tools to understand where carbon dioxide comes from and how it moves through streets and green spaces. We developed a computer model that simulates carbon dioxide in cities at fine detail, including emissions from human activities and exchanges with vegetation. Tests in London and against independent observations showed that the model reproduces daily and seasonal patterns well. The results can help improve estimates of urban emissions and support climate action in cities.",
+    "title": "The quantum ensemble variational optimization algorithm: Applications to molecular inverse design",
+    "journal": "PNAS",
+    "source": "rss:pnas",
+    "url": "https://www.pnas.org/doi/abs/10.1073/pnas.2531186123?af=R",
+    "doi": "10.1073/pnas.2531186123?af=r",
+    "abstract": "Proceedings of the National Academy of Sciences, Volume 123, Issue 30, July 2026. SignificanceMolecular inverse design is a classically exponential problem that could greatly benefit from quantum computing. Here, we introduce the quantum ensemble variational optimization (QEVO), a quantum algorithm that encodes molecules into a ...",
     "authors": [
-      "Linfeng Li",
-      "Jie Zheng",
-      "Fangxin Fang"
+      "Francesco CalcagnoDelmar G. A. CabralIvan RivaltaVictor S. Batistaahttps://ror.org/01111rn36Department of Industrial Chemistry",
+      "Alma Mater Studiorum University of Bologna",
+      "Bologna 40129",
+      "Italybhttps://ror.org/01111rn36Center for Chemical Catalysis - C3",
+      "Alma Mater Studiorum University of Bologna",
+      "Bologna 40129",
+      "Italychttps://ror.org/03v76x132Department of Chemistry",
+      "Yale University",
+      "New Haven",
+      "CT 06520dhttps://ror.org/03v76x132Yale Quantum Institute",
+      "Yale University",
+      "New Haven",
+      "CT 06511"
     ],
     "is_editorial": false,
     "abstract_missing": false,
-    "always_include": true,
+    "always_include": false,
     "score_boost": 0.0,
-    "score": 2.0,
+    "score": 3.0,
     "matched": [
-      "CO2"
+      "ensemble"
     ],
-    "published": "2026-07-17",
-    "first_seen": "2026-07-21"
+    "published": null,
+    "first_seen": "2026-07-29"
   },
   {
-    "title": "mLDNDCv1.0: a machine learning-based surrogate of LandscapeDNDC for optimising cropping systems in Denmark",
-    "journal": "Geoscientific Model Development",
-    "source": "rss:gmd",
-    "url": "https://doi.org/10.5194/gmd-19-6335-2026",
-    "doi": "10.5194/gmd-19-6335-2026",
-    "abstract": "This study develops a fast, data‑driven tool to virtually test millions of ways to manage winter wheat fields in Denmark, without running slow process-based crop models each time. It finds fertilizer, residue, manure, catch crop and irrigation strategies that cut nitrogen pollution and greenhouse gases while increasing yields and soil carbon, all without using more fertilizer overall.",
+    "title": "Record-low 2025 and 2026 ice extents restore Arctic winter sea-ice decline",
+    "journal": "PNAS",
+    "source": "rss:pnas",
+    "url": "https://www.pnas.org/doi/abs/10.1073/pnas.2614134123?af=R",
+    "doi": "10.1073/pnas.2614134123?af=r",
+    "abstract": "Proceedings of the National Academy of Sciences, Volume 123, Issue 30, July 2026. Recent analyses have suggested that the decadal rate of Arctic winter sea-ice extent decline weakened in the early 2020s, with 20-y trends becoming statistically insignificant. Here we show from more up-to-date observations that the exceptionally low 2025 ...",
     "authors": [
-      "Meshach Ojo Aderele",
-      "Edwin Haas",
-      "Licheng Liu",
-      "João Serra",
-      "David Kraus",
-      "Klaus Butterbach-Bahl",
-      "Jaber Rahimi"
+      "Duo ChanAlessandro SilvanoSimon A. Joseyahttps://ror.org/01ryk1543Physical Oceanography",
+      "School of Ocean",
+      "Earth Science",
+      "University of Southampton",
+      "Southampton SO14 3ZH",
+      "United Kingdombhttps://ror.org/00874hx02Global Climate Group",
+      "National Oceanography Centre",
+      "Southampton SO14 3ZH",
+      "United Kingdom"
     ],
     "is_editorial": false,
     "abstract_missing": false,
-    "always_include": true,
+    "always_include": false,
     "score_boost": 0.0,
-    "score": 2.0,
-    "matched": [
-      "machine learning"
-    ],
-    "published": "2026-07-15",
-    "first_seen": "2026-07-21"
-  },
-  {
-    "title": "The Boundary Layer Dispersion and Footprint Model:  a fast numerical solver of the Eulerian steady-state  advection-diffusion equation",
-    "journal": "Geoscientific Model Development",
-    "source": "rss:gmd",
-    "url": "https://doi.org/10.5194/gmd-19-6259-2026",
-    "doi": "10.5194/gmd-19-6259-2026",
-    "abstract": "Understanding how greenhouse gases and pollutants move through the atmosphere is crucial. A new model, the Boundary Layer Dispersion and Footprint Model (BLDFM), tracks their movement. Unlike previous models, BLDFM uses a numerical approach without simplifying assumptions. It is flexible and can be used for climate impact studies and industrial emissions monitoring. Our testing and comparison results show BLDFM's potential as a valuable research tool.",
-    "authors": [
-      "Mark Schlutow",
-      "Ray Chew",
-      "Mathias Göckede"
-    ],
-    "is_editorial": false,
-    "abstract_missing": false,
-    "always_include": true,
-    "score_boost": 0.0,
-    "score": 2.0,
-    "matched": [
-      "solver"
-    ],
-    "published": "2026-07-13",
-    "first_seen": "2026-07-21"
-  },
-  {
-    "title": "HyperGas 1.0: a python package for analyzing hyperspectral data for greenhouse gases from retrieval to emission rate quantification",
-    "journal": "Geoscientific Model Development",
-    "source": "rss:gmd",
-    "url": "https://doi.org/10.5194/gmd-19-5979-2026",
-    "doi": "10.5194/gmd-19-5979-2026",
-    "abstract": "Reducing emissions of greenhouse gases such as methane and carbon dioxide is essential for addressing climate change. We developed HyperGas, an open tool that uses hyperspectral satellite images to retrieve and detect greenhouse gas plumes. It helps scientists locate emission sources, estimate their strength, and examine uncertainties through an easy workflow and visual app. Our goal is to make tracking human-made emissions more accurate and accessible, supporting better climate monitoring.",
-    "authors": [
-      "Xin Zhang",
-      "Joannes D. Maasakkers",
-      "Tobias A. de Jong",
-      "Paul Tol",
-      "Frances Reuland",
-      "Adam R. Brandt",
-      "Eric A. Kort",
-      "Taylor J. Adams",
-      "Ilse Aben"
-    ],
-    "is_editorial": false,
-    "abstract_missing": false,
-    "always_include": true,
-    "score_boost": 0.0,
-    "score": 2.0,
-    "matched": [
-      "greenhouse gas",
-      "climate change"
-    ],
-    "published": "2026-07-13",
-    "first_seen": "2026-07-21"
-  },
-  {
-    "title": "Cleo: the numerical methods of a new superdroplet model including a droplet breakup algorithm (v0.52.0)",
-    "journal": "Geoscientific Model Development",
-    "source": "rss:gmd",
-    "url": "https://doi.org/10.5194/gmd-19-6121-2026",
-    "doi": "10.5194/gmd-19-6121-2026",
-    "abstract": "We are developing a model called CLEO, a type of “Superdroplet Model” (SDM) for cloud microphysics, to try to overcome some of the issues faced by climate models which are caused by errors in cloud modelling. Here we describe the equations for cloud microphysics CLEO uses and how we solve them, such as to see how water-droplets move around and grow/shrink in the atmosphere. We also provide some demonstrations of the microphysical processes we model to show that CLEO works as intended.",
-    "authors": [
-      "Clara J. A. Bayley",
-      "Ann Kristin Naumann",
-      "Florian Poydenot",
-      "Raphaela Vogel",
-      "Bjorn Stevens",
-      "Shin-Ichiro Shima"
-    ],
-    "is_editorial": false,
-    "abstract_missing": false,
-    "always_include": true,
-    "score_boost": 0.0,
-    "score": 2.0,
-    "matched": [
-      "numerical method"
-    ],
-    "published": "2026-07-09",
-    "first_seen": "2026-07-21"
-  },
-  {
-    "title": "ICON coupled to HAM-lite 1.0 in limited-area mode:  an efficient framework for targeted kilometer-scale  simulations with interactive aerosols",
-    "journal": "Geoscientific Model Development",
-    "source": "rss:gmd",
-    "url": "https://doi.org/10.5194/gmd-19-6167-2026",
-    "doi": "10.5194/gmd-19-6167-2026",
-    "abstract": "Understanding climate effects of airborne particles requires computer models that can represent small-scale dynamics. We introduce a new regional configuration of a kilometre-scale aerosol–climate model and apply it to air pollution in Central Europe, sea spray in the Atlantic Arctic, and smoke and dust over Australia. The simulations reproduce key particle patterns and variability, but also reveal limitations due to simplified sources and chemistry. The results guide future model improvements.",
-    "authors": [
-      "Bernd Heinold",
-      "Philipp Weiss",
-      "Sadhitro De",
-      "Anne Kubin",
-      "Jason Müller",
-      "Fabian Senf",
-      "Philip Stier",
-      "Ina Tegen"
-    ],
-    "is_editorial": false,
-    "abstract_missing": false,
-    "always_include": true,
-    "score_boost": 0.0,
-    "score": 1.0,
+    "score": 3.0,
     "matched": [
       "Arctic"
     ],
-    "published": "2026-07-10",
-    "first_seen": "2026-07-21"
+    "published": null,
+    "first_seen": "2026-07-29"
   },
   {
-    "title": "New framework for benchmarking decadal predictions leveraging the PCMDI Metric Package with interactive visualization",
+    "title": "The 2026 western US snow drought was about four times more likely due to climate change",
+    "journal": "PNAS",
+    "source": "rss:pnas",
+    "url": "https://www.pnas.org/doi/abs/10.1073/pnas.2612961123?af=R",
+    "doi": "10.1073/pnas.2612961123?af=r",
+    "abstract": "Proceedings of the National Academy of Sciences, Volume 123, Issue 30, July 2026. In the spring of 2026, anomalously low snow conditions in the western United States threatened winter recreation and water supplies. Here, we investigate: to what extent was this snow drought attributable to the climate change that has occurred since the ...",
+    "authors": [
+      "Adrienne M. MarshallMarianne CowherdStefan RahimiYuhong Yeahttps://ror.org/04raf6v53Hydrologic Science",
+      "Egineering Program",
+      "Colorado School of Mines",
+      "Golden",
+      "CO 80401bhttps://ror.org/02w0trx84Department of Earth Sciences",
+      "Montana State University",
+      "Bozeman",
+      "MT 59717chttps://ror.org/01485tq96Department of Atmospheric Science",
+      "University of Wyoming",
+      "Laramie",
+      "WY 82071"
+    ],
+    "is_editorial": false,
+    "abstract_missing": false,
+    "always_include": false,
+    "score_boost": 0.0,
+    "score": 3.0,
+    "matched": [
+      "climate change"
+    ],
+    "published": null,
+    "first_seen": "2026-07-29"
+  },
+  {
+    "title": "Thermal Structure of the Icelandic Crust From Curie Point Depth",
+    "journal": "JGR Solid Earth",
+    "source": "rss:jgr-solidearth",
+    "url": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2024JB030552?af=R",
+    "doi": "10.1029/2024jb030552",
+    "abstract": "Journal of Geophysical Research: Solid Earth, Volume 131, Issue 7, July 2026.",
+    "authors": [
+      "Linghui Meng",
+      "Shuang Liu",
+      "Shan Xu",
+      "Gillian R. Foulger",
+      "Xiangyun Hu"
+    ],
+    "is_editorial": false,
+    "abstract_missing": false,
+    "always_include": false,
+    "score_boost": 0.0,
+    "score": 3.0,
+    "matched": [
+      "solid earth"
+    ],
+    "published": "2026-07-27",
+    "first_seen": "2026-07-29"
+  },
+  {
+    "title": "The Upper Mantle Structure Beneath the Pamir, Tianshan and Adjacent Regions",
+    "journal": "JGR Solid Earth",
+    "source": "rss:jgr-solidearth",
+    "url": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025JB032859?af=R",
+    "doi": "10.1029/2025jb032859",
+    "abstract": "Journal of Geophysical Research: Solid Earth, Volume 131, Issue 7, July 2026.",
+    "authors": [
+      "Yang Pan",
+      "Xuewei Bao",
+      "Kecheng Zhou",
+      "Mengfan Jiang"
+    ],
+    "is_editorial": false,
+    "abstract_missing": false,
+    "always_include": false,
+    "score_boost": 0.0,
+    "score": 3.0,
+    "matched": [
+      "solid earth"
+    ],
+    "published": "2026-07-27",
+    "first_seen": "2026-07-29"
+  },
+  {
+    "title": "Evaluation of representation of seasonally frozen ground characteristics in Land Surface Models: JSBACH and CLM",
+    "journal": "The Cryosphere",
+    "source": "rss:tc",
+    "url": "https://doi.org/10.5194/tc-20-4157-2026",
+    "doi": "10.5194/tc-20-4157-2026",
+    "abstract": "Seasonally frozen ground strongly influences land–atmosphere interactions, yet its simulation remains uncertain in land surface models. This study evaluates 2 standalone LSM simulations forced by reanalysis data (1986-2022) and validates results against reference observations at 26 Russian sites. Results show contrasting biases linked to snow insulation and freeze–thaw processes, highlighting the need for improved snow and soil parameterizations.",
+    "authors": [
+      "Mittal Parmar",
+      "Kristina Fröhlich",
+      "Antonella Sanna",
+      "Tobias Stacke",
+      "Marianna Benassi",
+      "Zhicheng Luo",
+      "Daniele Peano",
+      "Bodo Ahrens"
+    ],
+    "is_editorial": false,
+    "abstract_missing": false,
+    "always_include": true,
+    "score_boost": 0.0,
+    "score": 3.0,
+    "matched": [
+      "reanalysis",
+      "parameterization"
+    ],
+    "published": "2026-07-28",
+    "first_seen": "2026-07-29"
+  },
+  {
+    "title": "Socio-economic instability and food insecurity drive extinction risk under climate change: Insights from the Vulnerable West African giraffe",
+    "journal": "Biological Conservation",
+    "source": "openalex:cites-me",
+    "url": "https://doi.org/10.1016/j.biocon.2026.112015",
+    "doi": "10.1016/j.biocon.2026.112015",
+    "abstract": null,
+    "authors": [
+      "Mara Vukelić",
+      "Simon Valle",
+      "Viktoriia Radchuk",
+      "Abdoul Razack Moussa Zabeirou",
+      "Julian Fennessy",
+      "Thomas Rabeil",
+      "Karolína Brandlová"
+    ],
+    "is_editorial": false,
+    "abstract_missing": true,
+    "always_include": false,
+    "score_boost": 1.0,
+    "score": 3.0,
+    "matched": [
+      "climate change"
+    ],
+    "published": "2026-07-28",
+    "first_seen": "2026-07-29"
+  },
+  {
+    "title": "Integrating reservoirs and lakes in the  CoSWAT global hydrological model",
     "journal": "Geoscientific Model Development",
     "source": "rss:gmd",
-    "url": "https://doi.org/10.5194/gmd-19-6189-2026",
-    "doi": "10.5194/gmd-19-6189-2026",
-    "abstract": "As climate risks grow, society needs reliable predictions for the coming years and decades. We developed a framework to collectively compare climate prediction systems and examine their performances on global temperature, rainfall, and sea ice. As a complementary to traditional analyses, our new framework offers tracking evolution of model performance in simulation time, helping scientists and stakeholders better understand strengths and limits of decadal climate prediction.",
+    "url": "https://doi.org/10.5194/gmd-19-6879-2026",
+    "doi": "10.5194/gmd-19-6879-2026",
+    "abstract": "Global water models help us understand how human activities and climate change affect water resources. One of them is the CoSWAT Global Model. In this study we enhanced this model by adding a better representations of lakes, reservoirs, and irrigation demand. Evaluation shows these changes improve river flow simulation and enable explicit assessment of lake and reservoir water balances, producing a more robust tool for global freshwater studies.",
     "authors": [
-      "Jung Choi",
-      "Jiwoo Lee",
-      "Kristin Chang",
-      "Paul A. Ullrich",
-      "Peter J. Gleckler",
-      "Sang-Yoon Jun"
+      "Jose P. Teran",
+      "Celray J. Chawanda",
+      "Albert Nkwasa",
+      "Inne Vanderkelen",
+      "Jeffrey G. Arnold",
+      "Ann Van Griensven"
     ],
     "is_editorial": false,
     "abstract_missing": false,
@@ -3987,190 +3831,10 @@
     "score_boost": 0.0,
     "score": 1.0,
     "matched": [
-      "sea ice"
+      "climate change"
     ],
-    "published": "2026-07-10",
-    "first_seen": "2026-07-21"
-  },
-  {
-    "title": "Modelling diffusion, decay and ingrowth of U–Pb isotopes in zircon",
-    "journal": "Geoscientific Model Development",
-    "source": "rss:gmd",
-    "url": "https://doi.org/10.5194/gmd-19-6571-2026",
-    "doi": "10.5194/gmd-19-6571-2026",
-    "abstract": "This study examines how high temperatures can alter the geochemical record in zircon crystals used to date rock events. Using computer simulations, we model how movement of atoms, radioactive decay, and the formation of new elements interact in a zircon under changing heat conditions. Our simulation is compared with measurements from rocks in southern India to estimate temperature history of the region. The work aims to improve insights from rock dating and our understanding of Earth's past.",
-    "authors": [
-      "Ben S. Knight",
-      "Chris Clark"
-    ],
-    "is_editorial": false,
-    "abstract_missing": false,
-    "always_include": true,
-    "score_boost": 0.0,
-    "score": 0.0,
-    "matched": [],
-    "published": "2026-07-21",
-    "first_seen": "2026-07-21"
-  },
-  {
-    "title": "Accurate and robust geometric algorithms  for regridding on the sphere",
-    "journal": "Geoscientific Model Development",
-    "source": "rss:gmd",
-    "url": "https://doi.org/10.5194/gmd-19-6545-2026",
-    "doi": "10.5194/gmd-19-6545-2026",
-    "abstract": "Accurate data transfer between different grids is essential in climate and weather modeling. This study analyzes the geometric operations that underpin such transfers on the spherical Earth, identifies gaps and limitations in current methods, and introduces improved algorithms to ensure accuracy, reliability, and performance for next-generation modeling and data analysis systems.",
-    "authors": [
-      "Hongyu Chen",
-      "Paul A. Ullrich",
-      "Julian Panetta",
-      "David Marsico",
-      "Moritz Hanke",
-      "Rajeev Jain",
-      "Chengzhu Zhang",
-      "Robert L. Jacob"
-    ],
-    "is_editorial": false,
-    "abstract_missing": false,
-    "always_include": true,
-    "score_boost": 0.0,
-    "score": 0.0,
-    "matched": [],
-    "published": "2026-07-21",
-    "first_seen": "2026-07-21"
-  },
-  {
-    "title": "Interpretation and representation in geomodels: the POKIMON  ontology for formalizing geomodelling knowledge",
-    "journal": "Geoscientific Model Development",
-    "source": "rss:gmd",
-    "url": "https://doi.org/10.5194/gmd-19-6517-2026",
-    "doi": "10.5194/gmd-19-6517-2026",
-    "abstract": "3D geoscience models lack transparency about the interpretation process and the assumption to model and represent geological entities, limiting explainability, reproducibility, and automation. To address this, we present POKIMON (Processes, Observations, Knowledge, Information, and Modelling ONtology), an ontology that formalizes the expert knowledge, interpretative aspects, and geological entities descriptions underlying 3D geomodelling, enhancing understanding, transparency, and knowledge-driven automation.",
-    "authors": [
-      "Imadeddine Laouici",
-      "Boyan Brodaric",
-      "Christelle Loiselet",
-      "Gautier Laurent"
-    ],
-    "is_editorial": false,
-    "abstract_missing": false,
-    "always_include": true,
-    "score_boost": 0.0,
-    "score": 0.0,
-    "matched": [],
-    "published": "2026-07-20",
-    "first_seen": "2026-07-21"
-  },
-  {
-    "title": "JCM v1.1: a differentiable, intermediate-complexity atmospheric model",
-    "journal": "Geoscientific Model Development",
-    "source": "rss:gmd",
-    "url": "https://doi.org/10.5194/gmd-19-6451-2026",
-    "doi": "10.5194/gmd-19-6451-2026",
-    "abstract": "We introduce version 1.1 of the JAX Circulation Model (JCM), an open-source atmosphere model. JCM is written in JAX, a framework for high-performance Python code that supports automatic differentiation (automated calculation of how sensitive any program output is to any input). JCM's differentiability and modular design make it easier to train, test, and combine physical-theory-based and data-driven model components, thus providing a flexible and modern platform to facilitate climate research.",
-    "authors": [
-      "Ellen H. Davenport",
-      "J. Varan Madan",
-      "Rebecca Gjini",
-      "Jared Brzenski",
-      "Benjamin Crawford",
-      "Nick Ho",
-      "Tien-Yiao Hsu",
-      "Yueshan Liang",
-      "Zhixing Liu",
-      "Veeramakali Manivannan",
-      "Eric Pham",
-      "Rohith Vutukuru",
-      "Andrew I. L. Williams",
-      "Zhiqi Yang",
-      "Rose Yu",
-      "Nicholas J. Lutsko",
-      "Stephan Hoyer",
-      "Duncan Watson-Parris"
-    ],
-    "is_editorial": false,
-    "abstract_missing": false,
-    "always_include": true,
-    "score_boost": 0.0,
-    "score": 0.0,
-    "matched": [],
-    "published": "2026-07-17",
-    "first_seen": "2026-07-21"
-  },
-  {
-    "title": "CarboKitten.jl – an open source toolkit  for carbonate stratigraphic modeling",
-    "journal": "Geoscientific Model Development",
-    "source": "rss:gmd",
-    "url": "https://doi.org/10.5194/gmd-19-6207-2026",
-    "doi": "10.5194/gmd-19-6207-2026",
-    "abstract": "Coral reefs and limestones hold crucial records of Earth's climate history, but scientists have lacked accessible tools to simulate how these systems form over thousands to millions of years. We developed CarboKitten, free software that models how tropical sediments and associated organisms grow under changing sea levels and environmental conditions. The program runs fast on standard computers and can test scientific theories about how these geological features preserve the Earth's history.",
-    "authors": [
-      "Johan Hidding",
-      "Emilia Jarochowska",
-      "Niklas Hohmann",
-      "Xianyi Liu",
-      "Peter Burgess",
-      "Hanno Spreeuw"
-    ],
-    "is_editorial": false,
-    "abstract_missing": false,
-    "always_include": true,
-    "score_boost": 0.0,
-    "score": 0.0,
-    "matched": [],
-    "published": "2026-07-13",
-    "first_seen": "2026-07-21"
-  },
-  {
-    "title": "Development of the TCWA2 bulk cloud microphysics scheme and its integration with a dual-polarization radar operator for forecasting applications",
-    "journal": "Geoscientific Model Development",
-    "source": "rss:gmd",
-    "url": "https://doi.org/10.5194/gmd-19-6231-2026",
-    "doi": "10.5194/gmd-19-6231-2026",
-    "abstract": "We developed a new cloud microphysics scheme that links simulated cloud and precipitation particles with radar signals. Idealized squall line and a real thunderstorm case in Taiwan show that the scheme produces physically meaningful storm structures and encouraging radar comparisons, while further refinement is still needed for ice particles, hydrometeor orientation, and radar-viewing assumptions.",
-    "authors": [
-      "Tzu-Chin Tsai",
-      "Jen-Ping Chen",
-      "Zhiquan Liu",
-      "Siou-Ying Jiang",
-      "Rong Kong",
-      "Ying-Jhang Wu",
-      "Junmei Ban",
-      "Ling-Feng Hsiao",
-      "Yu-Shuang Tang",
-      "Pao-Liang Chang",
-      "Jing-Shan Hong"
-    ],
-    "is_editorial": false,
-    "abstract_missing": false,
-    "always_include": true,
-    "score_boost": 0.0,
-    "score": 0.0,
-    "matched": [],
-    "published": "2026-07-13",
-    "first_seen": "2026-07-21"
-  },
-  {
-    "title": "Cleo: the fundamental design of a new superdroplet model for high computational performance (v0.39.0)",
-    "journal": "Geoscientific Model Development",
-    "source": "rss:gmd",
-    "url": "https://doi.org/10.5194/gmd-19-6099-2026",
-    "doi": "10.5194/gmd-19-6099-2026",
-    "abstract": "Cloud microphysics is a leading source of error in both regional and global climate models and this limits our ability to understand the Earth’s climate and how it is changing. However a fairly new type of model called a Superdroplet Model (SDM) may improve both regional and global models if it can be made cost-efficient enough. Hence we are introducing a novel version of SDM, called CLEO, and it's key features that make it efficient, especially on very high performance, exascale, computers.",
-    "authors": [
-      "Clara J. A. Bayley",
-      "Tobias Kölling",
-      "Ann Kristin Naumann",
-      "Raphaela Vogel",
-      "Bjorn Stevens"
-    ],
-    "is_editorial": false,
-    "abstract_missing": false,
-    "always_include": true,
-    "score_boost": 0.0,
-    "score": 0.0,
-    "matched": [],
-    "published": "2026-07-09",
-    "first_seen": "2026-07-21"
+    "published": "2026-07-29",
+    "first_seen": "2026-07-29"
   },
   {
     "title": "Modeling PFAS in the global atmosphere – the PRIEST extension for the ICON-ART modeling framework",
@@ -4317,5 +3981,78 @@
     "matched": [],
     "published": "2026-07-28",
     "first_seen": "2026-07-28"
+  },
+  {
+    "title": "Editorial Expression of Concern: Carcinoma-produced factors activate myeloid cells through TLR2 to stimulate metastasis",
+    "journal": "Nature",
+    "source": "rss:nature",
+    "url": "https://www.nature.com/articles/s41586-026-10923-8",
+    "doi": "10.1038/s41586-026-10923-8",
+    "abstract": "Nature, Published online: 28 July 2026; doi:10.1038/s41586-026-10923-8 Editorial Expression of Concern: Carcinoma-produced factors activate myeloid cells through TLR2 to stimulate metastasis",
+    "authors": [
+      "Sunhwa Kim",
+      "Hiroyuki Takahashi",
+      "Wan-Wan Lin",
+      "Pascal Descargues",
+      "Sergei Grivennikov",
+      "Youngjun Kim",
+      "Jun-Li Luo",
+      "Michael Karin"
+    ],
+    "is_editorial": true,
+    "abstract_missing": false,
+    "always_include": false,
+    "score_boost": 0.0,
+    "score": 0.0,
+    "matched": [],
+    "published": null,
+    "first_seen": "2026-07-29"
+  },
+  {
+    "title": "Comparing high spatial and temporal resolution snow depth measurements and modelling results in an avalanche release area",
+    "journal": "The Cryosphere",
+    "source": "rss:tc",
+    "url": "https://doi.org/10.5194/tc-20-4185-2026",
+    "doi": "10.5194/tc-20-4185-2026",
+    "abstract": "The spatial variability of snow depth distribution in avalanche release areas is key for avalanche forecasting but is strongly influenced by the interaction of wind with the terrain. We generate maps of high resolution snow depth changes during three snowfall events by using low-cost terrestrial laser scanner measurements and compare them to the results of selected snow depth distribution models. We show that basic terrain derivations have the highest correlations to our measurement results.",
+    "authors": [
+      "Pia Ruttner",
+      "Nora Helbig",
+      "Annelies Voordendag",
+      "Andreas Wieser",
+      "Yves Bühler"
+    ],
+    "is_editorial": false,
+    "abstract_missing": false,
+    "always_include": true,
+    "score_boost": 0.0,
+    "score": 0.0,
+    "matched": [],
+    "published": "2026-07-28",
+    "first_seen": "2026-07-29"
+  },
+  {
+    "title": "Munition piles in the German Baltic Sea: inventory  and maritime hazard perspectives",
+    "journal": "Earth System Science Data",
+    "source": "rss:essd",
+    "url": "https://doi.org/10.5194/essd-18-5563-2026",
+    "doi": "10.5194/essd-18-5563-2026",
+    "abstract": "Sea-dumped munitions are a threat to economic activities at sea. This study presents the first comprehensive dataset of munition piles in the German Baltic Sea. It was created by mapping, annotating, and analysing three major dump sites. The results show that the piles differ greatly in their size and composition. Many piles lie close to protected areas and a sediment dump site. The dataset can aid discussions on monitoring, risk assessment and prioritisation of piles for clearance.",
+    "authors": [
+      "Torsten Frey",
+      "Mareike Keller",
+      "Jochen Mohrmann",
+      "Alexander Pechmann",
+      "Samar Ensenbach",
+      "Jens Greinert"
+    ],
+    "is_editorial": true,
+    "abstract_missing": false,
+    "always_include": false,
+    "score_boost": 0.0,
+    "score": 0.0,
+    "matched": [],
+    "published": "2026-07-29",
+    "first_seen": "2026-07-29"
   }
 ]
