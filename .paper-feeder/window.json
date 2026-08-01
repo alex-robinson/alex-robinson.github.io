@@ -133,6 +133,37 @@
     "first_seen": "2026-07-30"
   },
   {
+    "title": "A criterion for safe overshoot in coupled tipping systems",
+    "journal": "Chaos An Interdisciplinary Journal of Nonlinear Science",
+    "source": "openalex:cites-me",
+    "url": "https://doi.org/10.1063/5.0332433",
+    "doi": "10.1063/5.0332433",
+    "abstract": "Abrupt transitions are a central concern in climate and ecological research and may arise when critical thresholds known as tipping points are crossed. However, previous work has shown that finite-time overshoots of tipping points can be safe, and that such behavior is captured by an inverse-square-law criterion when overshoots are sufficiently small and slow. So far studied in isolated systems with external drivers, (un)safe overshoots may also emerge from interactions between subsystems. Here, we investigate safe-overshoot phenomena in unidirectionally coupled slow-fast systems featuring both nonlinear interactions and coupling through time derivatives. Specifically, we derive a criterion for the occurrence of safe overshoots analogous to the inverse-square law for isolated systems, but adapted to interactive settings, and expressed explicitly in terms of the timescale separation and coupling strength between subsystems. We illustrate these results using two conceptual models in which the Atlantic Meridional Overturning Circulation interacts with either the Amazon rainforest or the Greenland Ice Sheet.",
+    "authors": [
+      "Sacha Sinet",
+      "N. A. M. Delmeire",
+      "Paul Ritchie",
+      "Henk A. Dijkstra",
+      "Anna S. von der Heydt"
+    ],
+    "is_editorial": false,
+    "abstract_missing": false,
+    "always_include": false,
+    "score_boost": 1.0,
+    "score": 32.0,
+    "matched": [
+      "ice sheet",
+      "Greenland",
+      "tipping point",
+      "critical threshold",
+      "overshoot",
+      "Atlantic meridional overturning circulation",
+      "overturning circulation"
+    ],
+    "published": "2026-07-01",
+    "first_seen": "2026-08-01"
+  },
+  {
     "title": "AMOC slowdown amplifies North Atlantic salinity variability to unprecedented levels",
     "journal": "Nature Communications",
     "source": "openalex:cites-me",
@@ -289,37 +320,34 @@
     "first_seen": "2026-07-31"
   },
   {
-    "title": "Flexible generation of daily Earth system model projections across radiative forcing scenarios",
-    "journal": "arXiv physics.ao-ph",
-    "source": "rss:arxiv-ao-ph",
-    "url": "https://arxiv.org/abs/2607.21382",
-    "doi": null,
-    "abstract": "arXiv:2607.21382v1 Announce Type: new Abstract: Earth system model (ESM) projections of the climate system's response to anthropogenic forcing are central to assess the impacts of climate change and inform adaptation and mitigation policies. However, given their high computational cost, projections are only made for a limited set of standardized forcing scenarios with limited temporal extent, such as the Shared Socioeconomic Pathways (SSPs), the spatiotemporal resolution remains too low for direct impact assessments, and uncertainties cannot be comprehensively quantified. Recent data-driven models offer efficient and accurate high-resolution simulations for weather prediction, but cannot extrapolate to future greenhouse gas concentrations because they cannot capture the responses to unprecedented forcing, limiting their value for climate change projections. Here, we combine response theory with a tailored generative machine learning framework to address this challenge. Our approach extracts the physical forced response to radiative forcing from monthly low-resolution ESM fields, and uses this response to guide a generative model to infer consistent daily global high-resolution temperature and precipitation projections. Our probabilistic approach generalizes across ESMs and provides long-term, bias-corrected responses to radiative forcing at high spatiotemporal resolution. It efficiently generates large ensembles needed for uncertainty quantification, effectively fills the gaps between existing SSPs, and readily extends climate projections to 2300 and beyond. Our framework hence complements ESM projections by providing efficient, stable, and high spatiotemporal resolution long-term climate projection ensembles across emission scenarios, enabling detailed impact assessment and exploration of long-term climate commitment.",
+    "title": "Impact of Flux Gate Location on Antarctic Mass Balance via Input-Output Method",
+    "journal": "The international archives of the photogrammetry, remote sensing and spatial information sciences/International archives of the photogrammetry, remote sensing and spatial information sciences",
+    "source": "openalex:cryosphere",
+    "url": "https://doi.org/10.5194/isprs-archives-xlix-b3-2026-847-2026",
+    "doi": "10.5194/isprs-archives-xlix-b3-2026-847-2026",
+    "abstract": "Abstract. In the context of global warming, studies have shown that the Antarctic Ice Sheet (AIS) has been experiencing continuous mass loss, constituting a significant contribution to global sea level rise. Utilizing an optimized input-output method (IOM), this study evaluates the 2013–2022 mass balance of eight widely studied Antarctic drainage basins. By integrating RACMO2.4 surface mass balance (SMB), BedMachine ice thickness, and ITS_LIVE annual velocity, we quantify the sensitivity of mass balance estimates to flux gate (FG) location. Results demonstrate that while flux estimates along disparate radar tracks vary by &lt;4%, discrepancies between grounding line and flight-line-based gates can reach 20%, highlighting the importance of flux gate selection. Regional assessments reveal a pronounced regime shift in East Antarctica: basins previously in near-balance or slight loss—including the Amery region and Basins 12–13—transitioned to significant mass accumulation post-2020, primarily driven by a sharp increase in SMB. In contrast, the Amundsen Sea sector in West Antarctica exhibited sustained and accelerating mass loss, with net deficits increasing from −163.9±15.3 Gt a−1 (2013–2019) to −179.2±15.5 Gt a−1 (2020–2022). This divergence stems from the dominance of anomalous precipitation in the East versus persistent ice flux acceleration in the West.",
     "authors": [
-      "Yu Huang",
-      "Sebastian Bathiany",
-      "Shangshang Yang",
-      "Philipp Hess",
-      "Michael Aich",
-      "Niklas Boers"
+      "Yixiang Tian",
+      "Shuwei Jia"
     ],
     "is_editorial": false,
     "abstract_missing": false,
     "always_include": false,
     "score_boost": 0.0,
-    "score": 25.0,
+    "score": 27.0,
     "matched": [
-      "Earth system model",
-      "Earth system",
-      "radiative forcing",
-      "greenhouse gas",
-      "uncertainty quantification",
-      "ensemble",
-      "machine learning",
-      "climate change"
+      "ice sheet",
+      "grounding line",
+      "Antarctic",
+      "Antarctica",
+      "surface mass balance",
+      "mass loss",
+      "sea level",
+      "sea-level rise",
+      "global warming"
     ],
-    "published": "2026-07-24",
-    "first_seen": "2026-07-24"
+    "published": "2026-07-30",
+    "first_seen": "2026-08-01"
   },
   {
     "title": "Memory operator ensembles indicate proximity to criticality in simulated AMOC transitions",
@@ -513,6 +541,43 @@
     "first_seen": "2026-07-31"
   },
   {
+    "title": "Holocene hydroclimate events recorded by Mg-calcite and protodolomite in Lake Balaton (Hungary)",
+    "journal": "Quaternary Science Reviews",
+    "source": "openalex:paleoclimate",
+    "url": "https://doi.org/10.1016/j.quascirev.2026.110186",
+    "doi": "10.1016/j.quascirev.2026.110186",
+    "abstract": "Lake Balaton, the largest shallow lake in Central Europe, is highly sensitive to evaporation–inflow balance and provides an important archive of Holocene hydroclimate change. We reconstructed Holocene lake-level and moisture-availability changes using a high-resolution multi-proxy sediment record integrating age-modelled sediment stratigraphy, micro-XRF geochemistry, stable isotopes (δ 13 C, δ 18 O), grain size, XRD mineralogy and nanoscale TEM characterization of carbonate phases to identify the climatic drivers of hydrological change. Two major evaporative phases at ∼8050–7350 and ∼5450–4500 cal yr BP are marked by elevated Mg/Ca ratios and synchronous δ 13 C and δ 18 O maxima, indicating strongly reduced inflow, enhanced evaporation and substantially lower lake levels. The earlier interval represents the strongest evaporative phase in the record and followed the 8.2 ka event. The later interval reflects fluctuating hydrological conditions and alternating low- and high-stand phases during the onset of Neoglacial cooling. The first evaporative event coincided with post-8.2 ka summer warming linked to reinvigoration of the Atlantic Meridional Overturning Circulation (AMOC), whereas the second corresponded to widespread mid-Holocene hydroclimatic instability across Europe and the Mediterranean. This event was followed by the deepest lake phase between 4500 and 1900 cal yr BP. Our results demonstrate that Lake Balaton sensitively recorded both North Atlantic and Mediterranean hydroclimate forcings and provide new evidence for prolonged post-8.2 ka summer drought and mid-Holocene hydrological instability in Central Europe.",
+    "authors": [
+      "Enikő K. Magyari",
+      "Ivett Pálfi",
+      "Attila Demény",
+      "György Czuppon",
+      "Péter Pekker",
+      "Zoltán May",
+      "Ferenc Visnovitz",
+      "Ferenc Kristály",
+      "Daniel Veres",
+      "János Korponai",
+      "Ilona Pál",
+      "Mihály Molnár",
+      "Mihály Pósfai"
+    ],
+    "is_editorial": false,
+    "abstract_missing": false,
+    "always_include": false,
+    "score_boost": 0.0,
+    "score": 21.0,
+    "matched": [
+      "Atlantic meridional overturning circulation",
+      "AMOC",
+      "overturning circulation",
+      "Holocene",
+      "proxy"
+    ],
+    "published": "2026-07-30",
+    "first_seen": "2026-08-01"
+  },
+  {
     "title": "The TIPMIP Earth system model experiment protocol: phase 1",
     "journal": "Geoscientific Model Development",
     "source": "rss:gmd",
@@ -604,6 +669,31 @@
     ],
     "published": "2026-07-23",
     "first_seen": "2026-07-26"
+  },
+  {
+    "title": "34°S Atlantic Meridional Freshwater Transport Set by Northern Hemisphere Ice Sheets and Meltwater in the Past 22,000 years",
+    "journal": "JGR Oceans",
+    "source": "rss:jgr-oceans",
+    "url": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2026JC024371?af=R",
+    "doi": "10.1029/2026jc024371",
+    "abstract": "Journal of Geophysical Research: Oceans, Volume 131, Issue 8, August 2026.",
+    "authors": [
+      "Xiao Zhang",
+      "Jian Cao",
+      "Libin Ma"
+    ],
+    "is_editorial": false,
+    "abstract_missing": false,
+    "always_include": false,
+    "score_boost": 0.0,
+    "score": 18.0,
+    "matched": [
+      "ice sheet",
+      "NH ice sheets",
+      "meltwater"
+    ],
+    "published": "2026-07-30",
+    "first_seen": "2026-08-01"
   },
   {
     "title": "Combined and autonomous online measurement of water isotopes in snowflakes and atmospheric water vapor in East Antarctica",
@@ -729,6 +819,43 @@
     "first_seen": "2026-07-31"
   },
   {
+    "title": "Limited remineralization of Arctic permafrost-derived organic carbon in nearshore marine sediments",
+    "journal": "Nature Geoscience",
+    "source": "rss:ngeo",
+    "url": "https://www.nature.com/articles/s41561-026-02060-8",
+    "doi": "10.1038/s41561-026-02060-8",
+    "abstract": "Nature Geoscience, Published online: 31 July 2026; doi:10.1038/s41561-026-02060-8 Only 10% of organic carbon from thawing Pleistocene permafrost in the Arctic that is buried in marine sediments ends up re-entering the active carbon cycle, according to a carbon isotope analysis of sediments from off Qikiqtaruk (Herschel Island) in Canada.",
+    "authors": [
+      "Manuel Ruben",
+      "Bingbing Wei",
+      "Anabel von Jackowski",
+      "Jens Hefter",
+      "Torben Gentz",
+      "Florence Schubotz",
+      "Heidi Taubner",
+      "Bo Liu",
+      "Michael Fritz",
+      "Anna Irrgang",
+      "Walter Geibert",
+      "Maarten Boersma",
+      "Gabriel A. Juma",
+      "Silla Thomsen",
+      "Gesine Mollenhauer"
+    ],
+    "is_editorial": false,
+    "abstract_missing": false,
+    "always_include": false,
+    "score_boost": 0.0,
+    "score": 17.0,
+    "matched": [
+      "Arctic",
+      "permafrost",
+      "carbon cycle"
+    ],
+    "published": null,
+    "first_seen": "2026-08-01"
+  },
+  {
     "title": "Riukojietna, a small low-altitude ice cap that may have persisted through the Holocene: evidence from combining cosmogenic multi-nuclide dating and lacustrine sediment records",
     "journal": "Climate of the Past",
     "source": "rss:cp",
@@ -783,66 +910,32 @@
     "first_seen": "2026-07-29"
   },
   {
-    "title": "Evolution of the Antarctic Ice Sheet from 2000–2300 and beyond: model sensitivity and uncertainty analysis using MPAS-Albany Land Ice",
-    "journal": "The Cryosphere",
-    "source": "rss:tc",
-    "url": "https://doi.org/10.5194/tc-20-4061-2026",
-    "doi": "10.5194/tc-20-4061-2026",
-    "abstract": "We present new simulations that complement our contribution to the ISMIP6-Antarctica-2300 ensemble. We find significant mass loss after 2300 under both low-emissions and present-day forcing. Thermal evolution is extremely important, with fixed temperature yielding up to almost twice as much mass loss as simulations with evolving temperature. External forcing uncertainty, rather than parameter uncertainty, dominates the ensemble spread after 2050.",
+    "title": "Multidecadal Changes in ENSO Drive a Substantial Decline in West Antarctic Sea Ice Predictability",
+    "journal": "Geophysical Research Letters",
+    "source": "rss:grl",
+    "url": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2026GL123531?af=R",
+    "doi": "10.1029/2026gl123531",
+    "abstract": "Geophysical Research Letters, Volume 53, Issue 15, 16 August 2026.",
     "authors": [
-      "Trevor R. Hillebrand",
-      "Matthew J. Hoffman",
-      "Holly K. Han",
-      "Mauro Perego",
-      "Alexander O. Hager",
-      "Andrew Nolan",
-      "Xylar Asay-Davis",
-      "Stephen F. Price",
-      "Jerry Watkins",
-      "Max Carlson"
-    ],
-    "is_editorial": false,
-    "abstract_missing": false,
-    "always_include": true,
-    "score_boost": 0.0,
-    "score": 15.0,
-    "matched": [
-      "ice sheet",
-      "Antarctic",
-      "Antarctica",
-      "mass loss",
-      "ensemble"
-    ],
-    "published": "2026-07-24",
-    "first_seen": "2026-07-24"
-  },
-  {
-    "title": "All climate models are wrong but wrong models are useful: Why, where, and how?",
-    "journal": "PLOS Climate",
-    "source": "rss:plos-climate",
-    "url": "https://journals.plos.org/climate/article?id=10.1371/journal.pclm.0001000",
-    "doi": "10.1371/journal.pclm.0001000",
-    "abstract": "by Hervé Douville In the present essay, I first argue that current Earth System Models (ESMs) are not the Achilles’ heel for the design of climate change mitigation policies. In particular, the comparison of illustrative rather than predictive socio-economic scenarios does not justify the implementation of km-scale ESMs. I also claim that km-scale models is not a priority within the framework of the Coupled Model Intercomparison Project (CMIP), and that adaptation policies should be designed as risk management strategies requiring, above all, better sampling of other sources of uncertainty than the current resolution of climate models. Analyzing the impacts of climate change requires large ensembles of simulations, which also involves a trade-off with spatial resolution. Such ensembles also offer new opportunities for an improved model calibration and an easier assessment of their forced response. Conventional ESMs thus remain extremely useful as long as they are not misinterpreted as perfect replicas of the Earth system. Given the increasing emergence of climate change in observations, they will undoubtedly be far less of a hindrance to the next IPCC report than the lack of continuous and controlled instrumental data.",
-    "authors": [
-      "Hervé Douville"
+      "Yunhe Wang",
+      "Xiaojun Yuan",
+      "Xiaofeng Li",
+      "Yibin Ren",
+      "Bernard Wang"
     ],
     "is_editorial": false,
     "abstract_missing": false,
     "always_include": false,
     "score_boost": 0.0,
-    "score": 15.0,
+    "score": 16.0,
     "matched": [
-      "Earth system model",
-      "Earth system",
-      "model intercomparison",
-      "CMIP",
-      "model calibration",
-      "ensemble",
-      "climate change",
-      "IPCC"
+      "Antarctic",
+      "West Antarctic",
+      "sea ice",
+      "predictability"
     ],
-    "published": "2026-07-23",
-    "first_seen": "2026-07-24"
+    "published": "2026-07-30",
+    "first_seen": "2026-08-01"
   },
   {
     "title": "Bed Topography and Subglacial Conditions of Denman Glacier, East Antarctica: Insights From Magnetotelluric Data and Interdisciplinary Studies",
@@ -931,6 +1024,37 @@
     "first_seen": "2026-07-30"
   },
   {
+    "title": "Andean wetlands: Seasonal variability and their interactions with the cryosphere",
+    "journal": "Journal of Hydrology Regional Studies",
+    "source": "openalex:cryosphere",
+    "url": "https://doi.org/10.1016/j.ejrh.2026.103808",
+    "doi": "10.1016/j.ejrh.2026.103808",
+    "abstract": "Study region The Vilcanota Urubamba Basin in southern Peru includes fragile wetland ecosystems that play a key role in mountain hydrology and support grazing for Andean communities. Study focus Mapping of wetlands variability is missing, limiting our understanding of their characteristics, seasonality and link with the cryosphere. We characterise wetland distribution, seasonality and persistence and evaluate their spatial association with glaciers and seasonal snow. Using Landsat 7 and 8 imagery, we build three-month seasonal land cover maps from 2013 to 2022 using a Random Forest classification and an Albedo Retrieval approach. New hydrological insights for the region Wetland area decreases by 38% from the end of the wet season (October to December) to the end of the dry season (July to September). Pixel transitions indicate that wetlands primarily transform to and from agricultural and pasture lands. Highly persistent wetlands are located above 4600 m a.s.l. and closer to glaciers than less persistent wetlands. We identified three wetland seasonal drying patterns. Basins with delayed and slow dry-out wetlands were more common at higher elevations but were not always in glacierised catchments, suggesting meltwater may maintain wetlands in the early dry season. We provide the first large-scale picture of wetland seasonality, and the basis for modelling the processes that sustain wetlands in tropical high mountains.",
+    "authors": [
+      "Joshua Castro",
+      "Catriona L. Fyffe",
+      "Thomas E. Shaw",
+      "Evan S. Miles",
+      "Emily Potter",
+      "Martin Hoelzle",
+      "Vinisha Varghese",
+      "Francesca Pellicciotti"
+    ],
+    "is_editorial": false,
+    "abstract_missing": false,
+    "always_include": false,
+    "score_boost": 0.0,
+    "score": 14.0,
+    "matched": [
+      "cryosphere",
+      "glacier",
+      "meltwater",
+      "albedo"
+    ],
+    "published": "2026-07-30",
+    "first_seen": "2026-08-01"
+  },
+  {
     "title": "Quantifying subsurface fracture damage in glaciers using fiber-optic seismology",
     "journal": "Science Advances",
     "source": "openalex:cryosphere",
@@ -986,29 +1110,30 @@
     "first_seen": "2026-07-31"
   },
   {
-    "title": "Top-of-atmosphere radiation over the last millennium reconstructed from proxies",
-    "journal": "Journal of Climate",
+    "title": "Holocene sea-surface temperature as a regional driver of environmental shifts and its effects on humans of La Paz Bay, Gulf of California",
+    "journal": "The Holocene",
     "source": "openalex:paleoclimate",
-    "url": "https://doi.org/10.1175/jcli-d-25-0568.1",
-    "doi": "10.1175/jcli-d-25-0568.1",
-    "abstract": "Abstract Earth’s energy imbalance at the top of the atmosphere is a key climate system metric, but its natural variability is poorly constrained by the short observational record and large uncertainty in coupled climate models. While existing ocean heat content reconstructions offer a longer perspective, they cannot separate the contributions of shortwave and longwave radiation, obscuring the underlying processes. We extend the energy-budget record into the pre-industrial period by reconstructing the top-of-atmosphere radiation and related surface variables over the last millennium (850–2000 CE) using data assimilation, combining proxy data and dynamics from a coupled climate emulator. Validation reveals skill in the reconstructed radiation fields, especially in the global mean and the tropics. We find that the well-documented last-millennium cooling trend coincides with persistent energy loss, largest early in the millennium, and a reduction in upper-ocean heat content. The cooling trend differs by season and latitude, and is associated with anomalies in outgoing longwave radiation suggestive of an eastward shift in Indo–Pacific convection. Following large volcanic eruptions, ocean heat content anomalies persist for 10–20 years on average, supporting previous evidence that multidecadal cooling was forced by decadally paced eruptions. The reconstruction also reveals that the current rate of energy gain is unprecedented relative to the period before 1850.",
+    "url": "https://doi.org/10.1177/09596836261468260",
+    "doi": "10.1177/09596836261468260",
+    "abstract": "Past oceanic characteristics can be reconstructed via δ 18 O in bivalve shells, enabling the study of climatic patterns that affected marine and human communities. Through the novel analysis of δ 18 O in Pinctada mazatlanica shells from a 14 C dated Holocene coastal camp we calculated Holocene summer SSTs of La Paz Bay, Baja California Sur, México. Presently summer δ 18 O of P. mazatlanica is −1.8 ± 0.2‰, varying between −1.3‰ and −1.9‰ during the last 8.4 ka. For the years 8413 BP, 7726 BP and 7046 BP, δ 18 O was 0.2–0.1‰ higher than current values, suggesting slightly colder sea surface temperature (SST), while in 7795 BP, values were 0.1‰ lower, suggesting slightly warmer SST. In 6936 BP and 2093 BP, values were 0.4–0.5‰ higher, suggesting significantly colder SSTs. Periods of low (high) SST were characterized by arid (humid) conditions and high (low) marine primary productivity (MPP), favouring human presence (absence) throughout the Holocene. Our results, like those of other paleoceanographic studies, align with orbital forcing and its effects on SST and MPP, which affected human settlement patterns at regional and global scales.",
     "authors": [
-      "Dominik Stiller",
-      "Gregory J. Hakim"
+      "Fernando Arenas",
+      "Harumi Fujita",
+      "Diana Medina-Contreras",
+      "Alberto Sánchez"
     ],
     "is_editorial": false,
     "abstract_missing": false,
     "always_include": false,
     "score_boost": 0.0,
-    "score": 12.0,
+    "score": 13.0,
     "matched": [
-      "proxy",
-      "data assimilation",
-      "coupled climate model",
-      "emulator"
+      "sea surface temperature",
+      "orbital forcing",
+      "Holocene"
     ],
-    "published": "2026-07-21",
-    "first_seen": "2026-07-24"
+    "published": "2026-07-30",
+    "first_seen": "2026-08-01"
   },
   {
     "title": "Svalbard glacier calving front changes from the 1930s to the 1970s from archived satellite and aerial images",
@@ -1218,33 +1343,28 @@
     "first_seen": "2026-07-31"
   },
   {
-    "title": "Reassessing Last Glacial Maximum Cooling With Proxy‐Constrained Emergent Relationships",
-    "journal": "Geophysical Research Letters",
-    "source": "rss:grl",
-    "url": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2026GL123083?af=R",
-    "doi": "10.1029/2026gl123083",
-    "abstract": "Geophysical Research Letters, Volume 53, Issue 14, 28 July 2026.",
+    "title": "&lt;b&gt;No Ice Age but Melt Age after the Flood&lt;/b&gt;",
+    "journal": "Truth in Research",
+    "source": "openalex:paleoclimate",
+    "url": "https://doi.org/10.67690/q4594f02",
+    "doi": "10.67690/q4594f02",
+    "abstract": "Conventional geology interprets Pleistocene deposits, erosional landforms, transported erratics, buried tunnel valleys, and megafaunal remains within a framework of repeated glacial–interglacial cycles. Most modern young-earth creationist models instead place a single Ice Age after the Genesis Flood, commonly proposing approximately 500 years of ice-sheet growth followed by 200 years of melting. However, these post-Flood models face difficulties explaining how sufficient snowfall could accumulate over continental interiors while the continents remained warm and precipitation from heated oceans tended to fall as rain. This paper proposes an alternative model in which major ice sheets formed during the Flood itself and subsequently underwent a comparatively rapid post-Flood “Melt Age.” In this model, explosive release from the fountains of the great deep, volcanic activity, high atmospheric moisture, reduced solar heating beneath extensive cloud cover, and hail formation within towering storm systems produced rapid atmospheric cooling and floating polar ice caps during the inundatory stage of the Flood. Meanwhile, thick deposits of warm sediment and widespread igneous activity maintained elevated temperatures within the continental crust. During the recessive stage, differential vertical tectonics raised the continents toward the floating ice masses, grounding them and forcing pressurized Floodwater and sediment-laden subglacial flows across the emerging land surfaces. These catastrophic flows are proposed to account for deeply incised tunnel valleys, channelized erosion, transported megalithic erratics, and the removal of large volumes of Pleistocene sediment into offshore basins such as the Gulf of Mexico. Long-distance rock transport traditionally attributed to slow glacial creep is instead interpreted as the result of rapid subglacial debris flows. Pleistocene megafauna and Paleolithic human remains are interpreted as Flood-buried pre-Flood organisms rather than inhabitants of a prolonged post-Flood Ice Age. Following the grounding of the ice caps, residual continental heat drove rapid melting, filling subglacial channels and completing a short-lived Melt Age. This model places Pleistocene glaciation, erosion, sedimentation, and mass extinction within the final stages of a single catastrophic Flood year.",
     "authors": [
-      "A. Hou",
-      "T. Caley",
-      "T. Extier",
-      "M. Chevalier",
-      "M. Brugère",
-      "D. Swingedouw",
-      "M. Kageyama",
-      "P. Braconnot"
+      "Stef J. Heerema"
     ],
     "is_editorial": false,
     "abstract_missing": false,
     "always_include": false,
     "score_boost": 0.0,
-    "score": 10.0,
+    "score": 11.0,
     "matched": [
-      "last glacial maximum",
-      "proxy"
+      "ice sheet",
+      "subglacial",
+      "polar",
+      "interglacial"
     ],
-    "published": "2026-07-22",
-    "first_seen": "2026-07-24"
+    "published": "2026-07-26",
+    "first_seen": "2026-08-01"
   },
   {
     "title": "Dansgaard‐Oeschger Events Recorded in Low‐Latitude Marine Sediments and Teleconnection With High‐Latitude Climate Variations",
@@ -1364,6 +1484,31 @@
     "first_seen": "2026-07-30"
   },
   {
+    "title": "Improved Representation of Surface Emissivity Effects on Longwave Radiation in a Coupled Earth System Model",
+    "journal": "Geophysical Research Letters",
+    "source": "rss:grl",
+    "url": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025GL120504?af=R",
+    "doi": "10.1029/2025gl120504",
+    "abstract": "Geophysical Research Letters, Volume 53, Issue 15, 16 August 2026.",
+    "authors": [
+      "Lili Manzo",
+      "Charles S. Zender",
+      "Erin E. Thomas",
+      "Andrew Roberts"
+    ],
+    "is_editorial": false,
+    "abstract_missing": false,
+    "always_include": false,
+    "score_boost": 0.0,
+    "score": 10.0,
+    "matched": [
+      "Earth system model",
+      "Earth system"
+    ],
+    "published": "2026-07-30",
+    "first_seen": "2026-08-01"
+  },
+  {
     "title": "Initial survey of blue ice areas for the recovery of old ice in the Sør Rondane mountains (Dronning Maud Land, East Antarctica)",
     "journal": "Open Research Europe",
     "source": "openalex:cryosphere",
@@ -1478,68 +1623,6 @@
     ],
     "published": "2026-07-30",
     "first_seen": "2026-07-30"
-  },
-  {
-    "title": "Reply to Rana and Singh: Critical thresholds and critical actions for evolvable AI",
-    "journal": "PNAS",
-    "source": "rss:pnas",
-    "url": "https://www.pnas.org/doi/abs/10.1073/pnas.2619586123?af=R",
-    "doi": "10.1073/pnas.2619586123?af=r",
-    "abstract": "Proceedings of the National Academy of Sciences, Volume 123, Issue 29, July 2026.",
-    "authors": [
-      "Viktor MüllerLuc SteelsEörs Szathmáryahttps://ror.org/01jsq2704Department of Plant Systematics",
-      "Ecology",
-      "Theoretical Biology",
-      "Eötvös Loránd University",
-      "Budapest 1117",
-      "Hungarybhttps://ror.org/01jsq2704National Laboratory for Health Security",
-      "Eötvös Loránd University",
-      "Budapest 1117",
-      "HungarycClass for Natural Sciences",
-      "Royal Flemish Academy of Belgium for Science",
-      "the Arts",
-      "Brussels 1000",
-      "BelgiumdCenter for the Conceptual Foundations of Science",
-      "Pöcking 82343",
-      "Germanyehttps://ror.org/04bhfmv97Institute of Evolution",
-      "Hungarian Research Network Centre for Ecological Research",
-      "Budapest 1121",
-      "Hungary"
-    ],
-    "is_editorial": false,
-    "abstract_missing": false,
-    "always_include": false,
-    "score_boost": 0.0,
-    "score": 8.0,
-    "matched": [
-      "critical threshold"
-    ],
-    "published": null,
-    "first_seen": "2026-07-24"
-  },
-  {
-    "title": "Assessing alternative to numerical dating methods for deglaciation in the central Italian Alps",
-    "journal": "CATENA",
-    "source": "openalex:paleoclimate",
-    "url": "https://doi.org/10.1016/j.catena.2026.110452",
-    "doi": "10.1016/j.catena.2026.110452",
-    "abstract": null,
-    "authors": [
-      "Alessandro Longhi",
-      "Damiano Monticelli",
-      "Dan Morgan",
-      "Mauro Guglielmin"
-    ],
-    "is_editorial": false,
-    "abstract_missing": true,
-    "always_include": false,
-    "score_boost": 0.0,
-    "score": 8.0,
-    "matched": [
-      "deglaciation"
-    ],
-    "published": "2026-07-22",
-    "first_seen": "2026-07-24"
   },
   {
     "title": "Snow cover over the Iberian mountains in km-scale global climate simulations: Evaluation and projected changes",
@@ -1688,55 +1771,32 @@
     "first_seen": "2026-07-26"
   },
   {
-    "title": "Interseasonal Hysteresis and Linearity Among Surface Energy Fluxes and Soil Water Content in Observations, Reanalyses, and Model Simulations",
-    "journal": "Geophysical Research Letters",
-    "source": "rss:grl",
-    "url": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2026GL121975?af=R",
-    "doi": "10.1029/2026gl121975",
-    "abstract": "Geophysical Research Letters, Volume 53, Issue 14, 28 July 2026.",
-    "authors": [
-      "Sungyoon Kim",
-      "Paul A. Dirmeyer",
-      "Eunkyo Seo",
-      "Daisuke Tokuda",
-      "Megan D. Fowler"
-    ],
-    "is_editorial": false,
-    "abstract_missing": false,
-    "always_include": false,
-    "score_boost": 0.0,
-    "score": 6.0,
-    "matched": [
-      "hysteresis"
-    ],
-    "published": "2026-07-22",
-    "first_seen": "2026-07-24"
-  },
-  {
-    "title": "SFG-UNet: A State-Space-Guided U-Net for Glacier Segmentation in Optical Remote Sensing Imagery",
-    "journal": "Engineering Research Express",
+    "title": "Assessing glacier dynamics and thermal variability through remote sensing and local perception",
+    "journal": "Frontiers in Water",
     "source": "openalex:cryosphere",
-    "url": "https://doi.org/10.1088/2631-8695/ae8f09",
-    "doi": "10.1088/2631-8695/ae8f09",
-    "abstract": "Abstract Glacier segmentation in optical remote sensing imagery remains challenging in complex mountain environments due to fragmented glacier structures, blurred boundaries, seasonal snow confusion, terrain shadows, bare rock, and cloud interference. To address these issues, this study proposes a state-space-guided U-Net framework, termed SFG-UNet, for glacier segmentation in optical remote sensing imagery. The model introduces a Long-range State Space Block (LSSB) in the encoder to enhance global contextual representation, an SSM-guided Frequency Decoupling and Boundary Calibration Module (SFBCM) in the skip pathway to refine low- and high-frequency features, and a Semantic-Guided Full-Scale Gated Fusion module (SGFG) in the decoder to improve selective multi-scale feature aggregation. Experiments were conducted on a self-built Landsat-8/9 glacier dataset from the Animaqing Snow Mountain region and an independent public DL4GAM Alps dataset for external validation. On the Animaqing dataset, SFG-UNet achieved 95.71% Accuracy, 95.04% Dice, 90.08 &amp;#xD;% Kappa, and 90.61% MIoU, outperforming representative CNN-based, attention-based, Transformer-based, frequency-domain, glacier-oriented, and SSM-based segmentation methods. On the external DL4GAM Alps dataset, SFG-UNet also achieved the best overall performance, with 89.86% Accuracy, 89.12% Dice, 81.02% Kappa, and 83.64% MIoU. Seasonal, scenario-based, complexity, ablation, and residual error analyses further demonstrate that SFG-UNet improves glacier continuity, boundary recovery, and robustness under complex optical imaging conditions while maintaining an acceptable computational cost.&amp;#xD;",
+    "url": "https://doi.org/10.3389/frwa.2026.1872053",
+    "doi": "10.3389/frwa.2026.1872053",
+    "abstract": "Introduction Glaciers in the Garhwal Himalaya are highly sensitive to climate change and play a critical role in sustaining downstream water resources, ecosystems, and local livelihoods. This study evaluates glacier dynamics and thermal variability in the upper Bhilangana watershed, with a particular focus on the Khatling Glacier and its tributaries, while incorporating local perceptions of environmental change. Methods Multi-temporal Landsat imagery from 2010, 2013, 2016, 2019, 2022, and 2025 was analyzed to derive the Normalized Difference Snow Index (NDSI), Land Surface Temperature (LST), and debris-cover extent. Glacier and debris-cover boundaries were delineated through image interpretation and digitization. LST was retrieved using emissivity-corrected thermal infrared data and validated with observations from the Indian Meteorological Department (IMD). To complement the geospatial analysis, household surveys, transect walks, and focus group discussions were conducted across seven villages within the watershed. Results The analysis revealed a significant decline in snow cover, indicated by decreasing NDSI values, alongside increasing LST and the expansion of debris-covered glacier surfaces between 2010 and 2025. A moderate inverse relationship between NDSI and LST suggests that reductions in snow cover are associated with higher surface temperatures. Community-based observations were consistent with remote sensing results, with respondents reporting warmer summers, declining snowfall, reduced spring discharge, altered rainfall patterns, and increasing agricultural challenges. Discussion The strong agreement between remotely sensed observations and local perceptions highlights the importance of integrating scientific assessments with community knowledge to understand climate-induced environmental change. The findings demonstrate that ongoing glacier retreat and thermal variability are affecting both ecological conditions and livelihood security in the upper Bhilangana watershed. These results underscore the need for climate-resilient resource management, adaptive agricultural practices, and community-based monitoring systems to strengthen long-term adaptation strategies in Himalayan mountain regions.",
     "authors": [
-      "Yi Shen",
-      "Xi Zhang",
-      "Changjun Yang",
-      "Qi Li",
-      "Guo Lin"
+      "Vinay Chandra",
+      "Ashutosh Singh",
+      "Deepak Kumar",
+      "Mahendra Singh",
+      "Sana Rafi",
+      "Mukesh Ranjan"
     ],
     "is_editorial": false,
     "abstract_missing": false,
     "always_include": false,
     "score_boost": 0.0,
-    "score": 6.0,
+    "score": 7.0,
     "matched": [
       "glacier",
-      "remote sensing"
+      "remote sensing",
+      "climate change"
     ],
-    "published": "2026-07-22",
-    "first_seen": "2026-07-24"
+    "published": "2026-07-30",
+    "first_seen": "2026-08-01"
   },
   {
     "title": "Entrainment‐Based Framework for Understanding Extratropical Moist Heat Extremes",
@@ -1919,74 +1979,32 @@
     "first_seen": "2026-07-31"
   },
   {
-    "title": "Brief communication: Two-year MRR observations at Great Wall Station, Antarctic Peninsula region",
-    "journal": "The Cryosphere",
-    "source": "rss:tc",
-    "url": "https://doi.org/10.5194/tc-20-4049-2026",
-    "doi": "10.5194/tc-20-4049-2026",
-    "abstract": "This study reports two years of Micro Rain Radar observations from Great Wall Station, from March 2024 to February 2026. Near-surface precipitation and snowfall occurred during 32 % and 21 % of the time. The signal changed little with height, suggesting frequent shallow snowfall. Weak winds had little effect, while stronger winds likely affected radar observations below 0.7 km. A radar-based snowfall estimate shows that the ERA5 reanalysis product underestimates cumulative snowfall.",
+    "title": "The role of orbital obliquity in modulating Pliocene warm period climate: An assessment using idealized extreme experiments",
+    "journal": "Global and Planetary Change",
+    "source": "openalex:paleoclimate",
+    "url": "https://doi.org/10.1016/j.gloplacha.2026.105636",
+    "doi": "10.1016/j.gloplacha.2026.105636",
+    "abstract": null,
     "authors": [
-      "Jiayi Sun",
-      "Junmei Lv",
-      "Haoran Li",
-      "Wenqian Zhang",
-      "Biao Tian",
-      "Minghu Ding"
+      "Xiaofang Huang",
+      "Shiling Yang",
+      "Alan Haywood",
+      "Julia Tindall",
+      "Minmin Sun",
+      "Xiaoxiao Yang",
+      "Hongmei Li",
+      "Wenying Jiang"
     ],
     "is_editorial": false,
-    "abstract_missing": false,
-    "always_include": true,
-    "score_boost": 0.0,
-    "score": 5.0,
-    "matched": [
-      "Antarctic",
-      "reanalysis"
-    ],
-    "published": "2026-07-23",
-    "first_seen": "2026-07-24"
-  },
-  {
-    "title": "AIMIP Phase 1: systematic evaluations of AI weather and climate models",
-    "journal": "arXiv physics.ao-ph",
-    "source": "rss:arxiv-ao-ph",
-    "url": "https://arxiv.org/abs/2605.06944",
-    "doi": null,
-    "abstract": "arXiv:2605.06944v4 Announce Type: replace Abstract: We present the AI weather and climate model intercomparison project (AIMIP), phase 1. Drawing from the rich tradition of intercomparisons in climate model development, we specify a common experiment, output data format, and training constraints (namely, training against historical reanalysis data) for AIMIP Phase 1 models. We aim to identify differences in modeling frameworks and AI architectural choices that influence model behavior, and build trust in AI weather and climate models through open data and evaluation. AIMIP Phase 1 models must simulate the atmosphere given specified historical sea surface temperatures over 1979-2024. We evaluate the models' performance using five major evaluation criteria: biases, trends, response to El Ni\\~{n}o-related sea surface temperature anomalies, temporal variability, and out-of-sample generalization tests. We find that the AI models are able to simulate the historical climate and response to forcing as well as a conventional physically-based model, but some AI models underestimate historical warming trends, and their predictions diverge in the out-of-sample generalization tests. We describe the AIMIP Phase 1 dataset that is publicly available for additional evaluations.",
-    "authors": [
-      "Brian Henn",
-      "Christopher S. Bretherton",
-      "Nikolay Koldunov",
-      "Christian Lessig",
-      "Maria J. Molina",
-      "Troy Arcomano",
-      "Oliver Watt-Meyer",
-      "Guillaume Couairon",
-      "Renu Singh",
-      "Robert Brunstein",
-      "Yana Hasson",
-      "Antonia Jost",
-      "Noah Brenowitz",
-      "Peter Manshausen",
-      "Nathaniel Cresswell-Clay",
-      "Dale Durran",
-      "Kyle Joseph Chen Hall",
-      "Janni Yuval",
-      "Dmitrii Kochkov",
-      "Stephan Hoyer",
-      "Ignacio Lopez-Gomez"
-    ],
-    "is_editorial": false,
-    "abstract_missing": false,
+    "abstract_missing": true,
     "always_include": false,
     "score_boost": 0.0,
-    "score": 5.0,
+    "score": 6.0,
     "matched": [
-      "sea surface temperature",
-      "model intercomparison",
-      "reanalysis"
+      "Pliocene"
     ],
-    "published": "2026-07-24",
-    "first_seen": "2026-07-24"
+    "published": "2026-07-28",
+    "first_seen": "2026-08-01"
   },
   {
     "title": "Biogeochemistry-Informed Neural Network (BINN v1.0) for improving accuracy of model prediction and scientific understanding of soil organic carbon storage",
@@ -2153,127 +2171,6 @@
     ],
     "published": "2026-07-31",
     "first_seen": "2026-07-31"
-  },
-  {
-    "title": "The rise and fall of language diversity through the Holocene",
-    "journal": "Science",
-    "source": "rss:science",
-    "url": "https://www.science.org/doi/abs/10.1126/science.adx4343?af=R",
-    "doi": "10.1126/science.adx4343?af=r",
-    "abstract": "Science, Volume 393, Issue 6809, Page 387-391, July 2026.",
-    "authors": [
-      "D. E. Blasi",
-      "M. J. Hamilton",
-      "R. D. Gray",
-      "C. L. Bowern"
-    ],
-    "is_editorial": false,
-    "abstract_missing": false,
-    "always_include": false,
-    "score_boost": 0.0,
-    "score": 4.0,
-    "matched": [
-      "Holocene"
-    ],
-    "published": null,
-    "first_seen": "2026-07-24"
-  },
-  {
-    "title": "Ensemble forecasts of isolated and compound wind and precipitation extremes in Europe using HC-SWG (v3.1) and MA-SWG (v1.1) Stochastic Weather Generators",
-    "journal": "Geoscientific Model Development",
-    "source": "rss:gmd",
-    "url": "https://doi.org/10.5194/gmd-19-6663-2026",
-    "doi": "10.5194/gmd-19-6663-2026",
-    "abstract": "We present two forecasting methods for extreme precipitation and extreme wind in Europe, using stochastic weather generators and past atmospheric patterns. One targets precipitation via weather model reforecasts; the other predicts wind from large-scale patterns. Both outperform standard weather models up to 10 d ahead, offering improved accuracy for both individual and compound extreme events.",
-    "authors": [
-      "Meriem Krouma",
-      "Gabriele Messori"
-    ],
-    "is_editorial": false,
-    "abstract_missing": false,
-    "always_include": true,
-    "score_boost": 0.0,
-    "score": 4.0,
-    "matched": [
-      "ensemble",
-      "extreme event"
-    ],
-    "published": "2026-07-23",
-    "first_seen": "2026-07-24"
-  },
-  {
-    "title": "Spatial Generalization Tests for Machine Learning-based Weather Models to Assess Physical Consistency",
-    "journal": "arXiv physics.ao-ph",
-    "source": "rss:arxiv-ao-ph",
-    "url": "https://arxiv.org/abs/2607.20716",
-    "doi": null,
-    "abstract": "arXiv:2607.20716v1 Announce Type: new Abstract: Machine learning-based weather prediction is revolutionizing weather forecasting by learning from weather data in present-day climate. However, generalization to other climates remains a major challenge. With melting sea ice, land-use change, and increasing ocean temperatures, boundary conditions are changing. Therefore, generalization in time depends on generalization in space. Here, we present three test cases to evaluate whether machine learning-based weather and climate models generalize in space and apply them to GraphCast and NeuralGCM. We reverse or rotate the planet in longitude or latitude under the model's coordinate system and adapt all boundary conditions and forcings accordingly. Physics-based general circulation models simulate a rotated/reversed planet with only rounding errors, but GraphCast and NeuralGCM fail these tests. The analyses furthermore revealed unphysical variable mappings based on correlation rather than causation. We argue that machine learning-based climate models should be designed to pass generalization tests to prevent overfitting on present-day regional climate.",
-    "authors": [
-      "Maren H\\\"over",
-      "Milan Kl\\\"ower",
-      "Christian Schroeder de Witt",
-      "Hannah M. Christensen"
-    ],
-    "is_editorial": false,
-    "abstract_missing": false,
-    "always_include": false,
-    "score_boost": 0.0,
-    "score": 4.0,
-    "matched": [
-      "sea ice",
-      "machine learning"
-    ],
-    "published": "2026-07-24",
-    "first_seen": "2026-07-24"
-  },
-  {
-    "title": "Desert flashfloods recorded by Ba/Ca in benthic marine foraminifera (Operculina ammonoides)",
-    "journal": "Chemical Geology",
-    "source": "openalex:paleoclimate",
-    "url": "https://doi.org/10.1016/j.chemgeo.2026.123611",
-    "doi": "10.1016/j.chemgeo.2026.123611",
-    "abstract": null,
-    "authors": [
-      "Beverly Goodman-Tchernov",
-      "Shai Oron",
-      "Aleksey Sadekov",
-      "Gilad Antler",
-      "Timor Katz"
-    ],
-    "is_editorial": false,
-    "abstract_missing": true,
-    "always_include": false,
-    "score_boost": 0.0,
-    "score": 4.0,
-    "matched": [
-      "foraminifera"
-    ],
-    "published": "2026-07-21",
-    "first_seen": "2026-07-24"
-  },
-  {
-    "title": "Deep-sea benthic foraminifera in the Cassidaigne Canyon (NW Mediterranean): assessing the ecological recovery six years after the cessation of red mud dumping at a bauxite industrial waste site",
-    "journal": "Comptes Rendus Géoscience",
-    "source": "openalex:paleoclimate",
-    "url": "https://doi.org/10.5802/crgeos.341",
-    "doi": "10.5802/crgeos.341",
-    "abstract": "During an environmental survey performed in winter and spring 2022, living (Rose Bengal stained) benthic foraminiferal faunas were investigated at 13 stations sampled within the Cassidaigne Canyon (NW Mediterranean Sea) and surrounding area. These stations are located between 265–2300 m water depth. For many decades, industrial bauxite residues of red mud have been dumped into the canyon via a submarine pipe, causing physical disturbance and chemical contamination. In January 2016, solid waste underwater dispersal ceased and was replaced with the dumping of a low-density liquid effluent. Six years after the cessation of red mud dispersal, our observations at the 725 m-depth station closest to the Cassidaigne Canyon submarine outlet show a better ecological quality compared to the 2012 (during the red mud dumping) and 2016 (ten months after the cessation of dumping) sampling, suggesting a putative biotic recovery at the seafloor. That being said, this station still presents the highest abundance of opportunistic species, and a noticeably altered benthic diversity. At the other twelve stations, foraminiferal standing stocks and simple diversity decrease with decreasing food input to the seafloor and increasing water depth. There foraminiferal composition, with a minor contribution of opportunistic and stress-tolerant species, echoes (1) the overall meso-oligotrophic patterns of a relatively stable ecosystem, and (2) the putative trophic effect of phytodetritus exportation in spring 2022.",
-    "authors": [
-      "Christophe Fontanier",
-      "Briony Mamo",
-      "Déborah Mille",
-      "Sébastien Thorin"
-    ],
-    "is_editorial": false,
-    "abstract_missing": false,
-    "always_include": false,
-    "score_boost": 0.0,
-    "score": 4.0,
-    "matched": [
-      "foraminifera"
-    ],
-    "published": "2026-07-22",
-    "first_seen": "2026-07-24"
   },
   {
     "title": "Holocene ocean-atmosphere coupling and Mediterranean sensitivity to Atlantic circulation: Lessons from the Late Bronze Age collapse",
@@ -2858,189 +2755,155 @@
     "first_seen": "2026-07-30"
   },
   {
-    "title": "Imaging of nanoscale polar textures in quantum paraelectric SrTiO<sub>3</sub>",
-    "journal": "Nature",
-    "source": "rss:nature",
-    "url": "https://www.nature.com/articles/s41586-026-10823-x",
-    "doi": "10.1038/s41586-026-10823-x",
-    "abstract": "Nature, Published online: 22 July 2026; doi:10.1038/s41586-026-10823-x Cryo-STEM reveals that SrTiO3 forms periodic polar nanodomains below 105 K, but these fragment below 40 K, linking quantum paraelectricity to nanoscale polar ordering and disordering.",
+    "title": "Rapid Changes in Southern Ocean Upper‐Water Temperature Linked to Shift of the Southern Hemisphere Westerlies Since the Last Glacial",
+    "journal": "Geophysical Research Letters",
+    "source": "rss:grl",
+    "url": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025GL119621?af=R",
+    "doi": "10.1029/2025gl119621",
+    "abstract": "Geophysical Research Letters, Volume 53, Issue 15, 16 August 2026.",
     "authors": [
-      "Yang Zhang",
-      "Suk Hyun Sung",
-      "Nishkarsh Agarwal",
-      "Maya Gates",
-      "Cong Li",
-      "Pu Yu",
-      "Robert Hovden",
-      "Ismail El Baggari"
+      "Tong Wang",
+      "Thomas Algeo",
+      "Qi Jia",
+      "Peng Zhang",
+      "Jian Xu",
+      "Bingbin Qin",
+      "Yihao Hu",
+      "Jiakai Wang",
+      "Zhifang Xiong",
+      "Tiegang Li"
     ],
     "is_editorial": false,
     "abstract_missing": false,
     "always_include": false,
     "score_boost": 0.0,
-    "score": 3.0,
+    "score": 4.0,
     "matched": [
-      "polar"
+      "Southern Ocean"
     ],
-    "published": null,
-    "first_seen": "2026-07-24"
+    "published": "2026-07-30",
+    "first_seen": "2026-08-01"
   },
   {
-    "title": "Plants are a powerful proxy for global tidal marsh methane fluxes",
-    "journal": "PNAS",
-    "source": "rss:pnas",
-    "url": "https://www.pnas.org/doi/abs/10.1073/pnas.2530848123?af=R",
-    "doi": "10.1073/pnas.2530848123?af=r",
-    "abstract": "Proceedings of the National Academy of Sciences, Volume 123, Issue 29, July 2026. SignificanceTidal marshes are important carbon sinks. Yet their carbon-rich and water-logged soils also support the production of methane, a powerful greenhouse gas. Accounting for methane is essential for developing accurate global carbon budgets. ...",
+    "title": "Rapid Increase in Tropical Humid Heat Stress and Its Predictability in a Warming World",
+    "journal": "JGR Atmospheres",
+    "source": "rss:jgr-atmospheres",
+    "url": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2026JD046437?af=R",
+    "doi": "10.1029/2026jd046437",
+    "abstract": "Journal of Geophysical Research: Atmospheres, Volume 131, Issue 15, 16 August 2026.",
     "authors": [
-      "Emily M. WilsonSawyer J. BalintRobinson W. Fulweilerahttps://ror.org/05qwgg493Department of Earth",
-      "Environment",
-      "Boston University",
-      "Boston",
-      "MA 02215bhttps://ror.org/05qwgg493Department of Biology",
-      "Boston University",
-      "Boston",
-      "MA 02215"
+      "Subodh Kumar Saha",
+      "Shivamurthy Yashas",
+      "B. N. Goswami"
     ],
     "is_editorial": false,
     "abstract_missing": false,
     "always_include": false,
     "score_boost": 0.0,
-    "score": 3.0,
+    "score": 4.0,
     "matched": [
-      "proxy",
-      "greenhouse gas"
+      "predictability"
     ],
-    "published": null,
-    "first_seen": "2026-07-24"
+    "published": "2026-07-30",
+    "first_seen": "2026-08-01"
   },
   {
-    "title": "The CRESCENT Generation 0 Cascadia Community Velocity Model: Constraints From the Joint Inversion of Teleseismic Receiver Functions and Ambient Noise Data",
-    "journal": "JGR Solid Earth",
-    "source": "rss:jgr-solidearth",
-    "url": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025JB033216?af=R",
-    "doi": "10.1029/2025jb033216",
-    "abstract": "Journal of Geophysical Research: Solid Earth, Volume 131, Issue 7, July 2026.",
-    "authors": [
-      "Bin He",
-      "Jonathan R. Delph",
-      "Shihan Wu",
-      "Emilie E. E. Hooft",
-      "Alex Grant",
-      "Valerie J. Sahakian",
-      "Pieter‐Ewald Share",
-      "William J. Stephenson",
-      "Erin A. Wirth",
-      "Brandon Herr",
-      "Ross Maguire",
-      "Guoliang Li",
-      "Rasheed Ajala"
-    ],
-    "is_editorial": false,
-    "abstract_missing": false,
-    "always_include": false,
-    "score_boost": 0.0,
-    "score": 3.0,
-    "matched": [
-      "solid earth"
-    ],
-    "published": "2026-07-22",
-    "first_seen": "2026-07-24"
-  },
-  {
-    "title": "Sound Velocities of Glaucophane at High Pressure and Temperature: Implications for the Low Velocity Layer in Subduction Zones",
-    "journal": "JGR Solid Earth",
-    "source": "rss:jgr-solidearth",
-    "url": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025JB033598?af=R",
-    "doi": "10.1029/2025jb033598",
-    "abstract": "Journal of Geophysical Research: Solid Earth, Volume 131, Issue 7, July 2026.",
-    "authors": [
-      "Peng Chen",
-      "Duojun Wang",
-      "Nao Cai",
-      "Xijun Liu"
-    ],
-    "is_editorial": false,
-    "abstract_missing": false,
-    "always_include": false,
-    "score_boost": 0.0,
-    "score": 3.0,
-    "matched": [
-      "solid earth"
-    ],
-    "published": "2026-07-22",
-    "first_seen": "2026-07-24"
-  },
-  {
-    "title": "A high-resolution coupled physical-biogeochemical model of the northeastern US continental shelf: MOM6-COBALT-NEUS25v1.0",
+    "title": "Comparison of two Euler equation sets in a Discontinuous Galerkin solver for atmospheric modelling (BRIDGE v0.9)",
     "journal": "Geoscientific Model Development",
     "source": "rss:gmd",
-    "url": "https://doi.org/10.5194/gmd-19-6737-2026",
-    "doi": "10.5194/gmd-19-6737-2026",
-    "abstract": "From Cape Hatteras to Nova Scotia, local communities have suffered consequences of ocean warming, with warmer-water species moving north, lobster populations struggling due to rising temperatures, and more frequent marine heat waves. We developed an ocean model that includes carbon/nutrients cycle and validated it with data from moorings, satellites, and other observations. This tool will help future studies better understand how ocean changes affect marine life and society.",
+    "url": "https://doi.org/10.5194/gmd-19-7013-2026",
+    "doi": "10.5194/gmd-19-7013-2026",
+    "abstract": "We present an implementation of the Discontinuous Galerkin approach, a numerical solver of the Euler equations (called BRIDGE (Basic Research for ICON with DG Extension)), which is in particular well suited for numerical models for weather and climate prediction and atmospheric research. Two widespread formulations of the Euler equations with different thermodynamic variables are compared by the inspection of idealised benchmark test cases to assess the properties of the Discontinuous Galerkin method.",
     "authors": [
-      "Dalton Kei Sasaki",
-      "Cristina Schultz",
-      "Enrique Curchitser"
+      "Michael Baldauf",
+      "Florian Prill"
     ],
     "is_editorial": false,
     "abstract_missing": false,
     "always_include": true,
     "score_boost": 0.0,
-    "score": 3.0,
+    "score": 4.0,
     "matched": [
-      "heat wave"
+      "numerical method",
+      "solver"
     ],
-    "published": "2026-07-24",
-    "first_seen": "2026-07-24"
+    "published": "2026-07-31",
+    "first_seen": "2026-08-01"
   },
   {
-    "title": "Climate change and health in the rural context: Vulnerability, capacity and outlook",
-    "journal": "PLOS Climate",
-    "source": "rss:plos-climate",
-    "url": "https://journals.plos.org/climate/article?id=10.1371/journal.pclm.0000974",
-    "doi": "10.1371/journal.pclm.0000974",
-    "abstract": "by Desiree Rose, Stephen Jeff Birchall On a global scale, climate change is resulting in negative impacts to human health. As temperatures rise, morbidity and mortality rates continue to climb. While the health effects of climate change are experienced across regions, the burden is unevenly distributed. Rural communities in particular are disproportionately impacted. This essay aims to draw attention to the climate-health nexus from a rural perspective, emphasizing the necessity of centring the rural context at the forefront of the climate response. In this paper we showcase the unique characteristics of rural communities that increase their social and physical vulnerability to climate-health impacts, then discuss the constraining factors that reduce their capacity to respond to these impacts. In doing so, we highlight both the importance of ensuring rural populations are prioritized in the climate response, and suggest that efforts to do so are currently inadequate. We call attention to the dearth of climate-health research framed within the rural context, which further compounds the issue. Given the intersecting challenges that increase risk in rural communities, we argue that this perspective warrants further research attention.",
+    "title": "Antarctic ice front evolution, controlling factors, and projections: Six decades of satellite observations",
+    "journal": "Geoscience Frontiers",
+    "source": "openalex:cryosphere",
+    "url": "https://doi.org/10.1016/j.gsf.2026.102415",
+    "doi": "10.1016/j.gsf.2026.102415",
+    "abstract": null,
     "authors": [
-      "Desiree Rose",
-      "Stephen Jeff Birchall"
+      "Ji-Eun Kim",
+      "Jaehyung Yu",
+      "Chanhyeok Park",
+      "Yongsik Jeong"
     ],
     "is_editorial": false,
-    "abstract_missing": false,
+    "abstract_missing": true,
     "always_include": false,
     "score_boost": 0.0,
-    "score": 3.0,
+    "score": 4.0,
     "matched": [
-      "climate change"
-    ],
-    "published": "2026-07-23",
-    "first_seen": "2026-07-24"
-  },
-  {
-    "title": "Rainfall isotopic variability in northern Central America driven by regionally-organized deep atmospheric convection and airmass rainout",
-    "journal": "Scientific Reports",
-    "source": "openalex:paleoclimate",
-    "url": "https://doi.org/10.1038/s41598-026-63020-1",
-    "doi": "10.1038/s41598-026-63020-1",
-    "abstract": "Understanding the controls of rainfall isotopic composition (δ 18 O p ) is essential to interpret isotopic paleoclimate records, yet it remains challenging in areas with complex climate and varied topography, such as northern Central America. Here, we present two years of daily rainfall isotope measurements from Guatemala to evaluate the regional and local climatic controls on δ 18 O p variability. We show that regional-scale convection and upstream rainout drive δ 18 O p variability and integrate multi-annual model-based δ 18 O p data supporting a persistent regional control across multiple timescales, from daily to interannual. Further, we document a consistent link between higher rainfall 18 O depletion associated with both more intense regionally-organized convective systems and larger stratiform rain fractions. Moisture source analysis shows a dominant contribution from the Caribbean–Atlantic, and secondarily from the Mesoamerican continent, Gulf of Mexico, and Eastern Pacific. While changes between dominant source regions are associated with distinct δ 18 O p signatures, back-trajectory analysis and a source-based isotope reconstruction demonstrate a larger upstream airmass rainout control on the seasonal variations of δ 18 O p . Our results suggest that δ 18 O p in Guatemala rainfall are sensitive to regionally-integrated hydroclimatic processes, and that isotope-based paleoclimate records from northern Central America can provide reconstructions of past changes in regional-scale atmospheric convection and upstream rainfall amount.",
-    "authors": [
-      "Giuseppe Lucia",
-      "Davide Zanchettin",
-      "Amos Winter",
-      "Osmín J. Vásquez",
-      "Mario Cu-Xi",
-      "Matthew S. Lachniet"
-    ],
-    "is_editorial": false,
-    "abstract_missing": false,
-    "always_include": false,
-    "score_boost": 0.0,
-    "score": 3.0,
-    "matched": [
-      "paleoclimate"
+      "Antarctic"
     ],
     "published": "2026-07-22",
-    "first_seen": "2026-07-24"
+    "first_seen": "2026-08-01"
+  },
+  {
+    "title": "Snow Water Equivalent trends in North America through the lens of passive microwaveremote sensing and deep learning models",
+    "journal": "The international archives of the photogrammetry, remote sensing and spatial information sciences/International archives of the photogrammetry, remote sensing and spatial information sciences",
+    "source": "openalex:cryosphere",
+    "url": "https://doi.org/10.5194/isprs-archives-xlix-b3-2026-811-2026",
+    "doi": "10.5194/isprs-archives-xlix-b3-2026-811-2026",
+    "abstract": "Abstract. Over the past decades, snow cover trends in North America have been analyzed, providing vital information to the Global Climate Observatory System and other stakeholders about the looming signals of climate-driven snow declines. Detecting daily changes in snow parameters (e.g., depth of snow, extent of snow cover, and snow water equivalent) is, however, fraught with challenges, including internal variability unrelated to climate signals. We used GlobSnow’s passive microwave remote sensing data and a convolutional Siamese U-Net to track how snow water equivalent (SWE) changes daily over North America’s mid- and high-latitude regions. Daily changes in SWE were detected with F1-scores of 94.8% and 100.0% in locations where it was not trained, and 99.3% at the location where it was primarily trained; this suggests the model’s generalization potential to different climatologies and geographic locations. Using the model, we computed a similarity vector to compare SWE trends. We found that although lake-effect snowfall may be prevalent in the Great Lakes Basin during the winter months, the region consistently records the highest frequency of daily changes in SWE. Alaska, Yukon, and the Northwest Territories tended to have minimal daily changes in SWE, suggesting that latitudinal gradients may dominate changes in the snow regime and cryosphere’s processes in the warming climate scenarios.",
+    "authors": [
+      "Kristen Kys",
+      "Isteyak Isteyak",
+      "Malik Karim",
+      "Yusriyah Rahman",
+      "Karanveer Sidhu",
+      "Hala Al Daker"
+    ],
+    "is_editorial": false,
+    "abstract_missing": false,
+    "always_include": false,
+    "score_boost": 0.0,
+    "score": 4.0,
+    "matched": [
+      "cryosphere",
+      "remote sensing"
+    ],
+    "published": "2026-07-30",
+    "first_seen": "2026-08-01"
+  },
+  {
+    "title": "Late holocene slope dynamics and associated landforms on the slopes of mount flautafell, northeastern Iceland",
+    "journal": "Quaternary Science Reviews",
+    "source": "openalex:paleoclimate",
+    "url": "https://doi.org/10.1016/j.quascirev.2026.110191",
+    "doi": "10.1016/j.quascirev.2026.110191",
+    "abstract": null,
+    "authors": [
+      "Julien Lebrun",
+      "Najat Bhiry",
+      "Armelle Decaulne",
+      "James Woollett"
+    ],
+    "is_editorial": false,
+    "abstract_missing": true,
+    "always_include": false,
+    "score_boost": 0.0,
+    "score": 4.0,
+    "matched": [
+      "Holocene"
+    ],
+    "published": "2026-07-30",
+    "first_seen": "2026-08-01"
   },
   {
     "title": "Navigating optimal solar-wind trade-offs under climate change",
@@ -3844,6 +3707,153 @@
     "first_seen": "2026-07-31"
   },
   {
+    "title": "Independent Component Analysis (ICA) as a Superior Atmospheric Correction Method for InSAR Time Series",
+    "journal": "JGR Solid Earth",
+    "source": "rss:jgr-solidearth",
+    "url": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025JB032632?af=R",
+    "doi": "10.1029/2025jb032632",
+    "abstract": "Journal of Geophysical Research: Solid Earth, Volume 131, Issue 8, August 2026.",
+    "authors": [
+      "M. Gaddes",
+      "A. Hooper",
+      "S. Ebmeier"
+    ],
+    "is_editorial": false,
+    "abstract_missing": false,
+    "always_include": false,
+    "score_boost": 0.0,
+    "score": 3.0,
+    "matched": [
+      "solid earth"
+    ],
+    "published": "2026-07-30",
+    "first_seen": "2026-08-01"
+  },
+  {
+    "title": "Atmospheric and cryospheric observations in the high-altitude Zarafshon River Basin and the Hydrographic Party Glacier (GGP), Tajikistan, 2018–2025",
+    "journal": "Earth System Science Data",
+    "source": "rss:essd",
+    "url": "https://doi.org/10.5194/essd-18-5697-2026",
+    "doi": "10.5194/essd-18-5697-2026",
+    "abstract": "This paper presents data collected at the Zarafshon River Basin and the Hydrographic Party Glacier (GGP), Tajikistan. In annual field expeditions from 2018–2025, data has been collected on the glacier, as well as including meteorological measurements and aerosols. Presented results highlight the environmental conditions that are driving environmental change in Central Asia.",
+    "authors": [
+      "Jonas Svensson",
+      "Ramazon Rakhmonov",
+      "Kamoliddin Nazirzoda",
+      "Abdusamad Hojiev",
+      "Tamlikho Jurabekov",
+      "Amirsho Hiyoev",
+      "Davlatjon Rahimzoda",
+      "Hizbullo Kholzoda",
+      "Muzaffar Shodmonov",
+      "David Brus",
+      "Viet Le",
+      "Krista Luoma",
+      "Adriano Lemos",
+      "Germán Perez Fogwill",
+      "Meri M. Ruppel",
+      "Outi Meinander",
+      "Johan Ström",
+      "Eija Asmi",
+      "Antti Hyvärinen"
+    ],
+    "is_editorial": false,
+    "abstract_missing": false,
+    "always_include": false,
+    "score_boost": 0.0,
+    "score": 3.0,
+    "matched": [
+      "glacier"
+    ],
+    "published": "2026-07-30",
+    "first_seen": "2026-08-01"
+  },
+  {
+    "title": "Evaluating the Adaptation Potential of SAM2 for Glacier Segmentation in severe Weather",
+    "journal": "The international archives of the photogrammetry, remote sensing and spatial information sciences/International archives of the photogrammetry, remote sensing and spatial information sciences",
+    "source": "openalex:cryosphere",
+    "url": "https://doi.org/10.5194/isprs-archives-xlix-b3-2026-205-2026",
+    "doi": "10.5194/isprs-archives-xlix-b3-2026-205-2026",
+    "abstract": "Abstract. Ground based time lapse cameras provide continuous, high frequency observations of glacier dynamics; however, automated analysis of these image streams remains challenging due to fog, snowfall, lens contamination, and variable illumination. This study investigates the potential of adapting the foundation segmentation model Segment Anything Model 2 (SAM2) for glacier segmentation from ground-based monitoring. To enable integration into automated pipelines, SAM2 is configured in image mode with a learned prompt generation strategy, while fine-tuning is restricted to the prompt encoder and mask decoder. In addition, the internal Intersection over Union (IoU) prediction head is utilized as a confidence estimator to assess segmentation reliability. Experimental results demonstrate that the adapted model achieves stable segmentation under moderate environmental variability, while degrading under severe visibility loss. This stability is consistent across model scales and input resolutions. The confidence estimation further provides a meaningful signal for identifying uncertain predictions, supporting reliability-aware processing in downstream workflows.",
+    "authors": [
+      "Bindusara Nagathihalli Lokesh",
+      "L. Vergara",
+      "Hans‐Gerd Maas",
+      "Anette Eltner"
+    ],
+    "is_editorial": false,
+    "abstract_missing": false,
+    "always_include": false,
+    "score_boost": 0.0,
+    "score": 3.0,
+    "matched": [
+      "glacier"
+    ],
+    "published": "2026-07-30",
+    "first_seen": "2026-08-01"
+  },
+  {
+    "title": "Projecting BVOC emissions under future urbanization and climate change: spatiotemporal atmospheric risks and ecosystem service trade-offs",
+    "journal": "Sustainable Cities and Society",
+    "source": "openalex:cites-me",
+    "url": "https://doi.org/10.1016/j.scs.2026.107763",
+    "doi": "10.1016/j.scs.2026.107763",
+    "abstract": null,
+    "authors": [
+      "Wen Dong",
+      "Xingbao Wang",
+      "Hanxing Zhou",
+      "Yue Zhang",
+      "Yincheng Huang",
+      "Kai Xu",
+      "Dongming Huang",
+      "Dong Liu",
+      "Jing Zhang",
+      "Tianliang Cheng",
+      "Jian Chen",
+      "Jianwu Wang",
+      "Yuan Ren"
+    ],
+    "is_editorial": false,
+    "abstract_missing": true,
+    "always_include": false,
+    "score_boost": 1.0,
+    "score": 3.0,
+    "matched": [
+      "climate change"
+    ],
+    "published": "2026-07-01",
+    "first_seen": "2026-08-01"
+  },
+  {
+    "title": "Untangling the effects of vertical mixing schemes  and convective adjustment in the Mediterranean  Sea: insights from a sensitivity study",
+    "journal": "Geoscientific Model Development",
+    "source": "rss:gmd",
+    "url": "https://doi.org/10.5194/gmd-19-7041-2026",
+    "doi": "10.5194/gmd-19-7041-2026",
+    "abstract": "This study addresses a gap in understanding how turbulent mixing closure schemes and convective adjustments interplay in the Mediterranean Sea. Coupled ocean-wave simulations were performed with different mixing parameterizations and model results were compared against Argo float observations across different space and time scales. Results show that the Generalised Length Scale closure scheme best reproduces observed mixed layer properties and variability, without needing convective adjustment.",
+    "authors": [
+      "Lucia Gualtieri",
+      "Hans Burchard",
+      "Federica Borile",
+      "Aimie Moulin",
+      "Pietro Miraglio",
+      "Francesco Maicu",
+      "Emanuela Clementi",
+      "Paolo Oddo"
+    ],
+    "is_editorial": false,
+    "abstract_missing": false,
+    "always_include": true,
+    "score_boost": 0.0,
+    "score": 2.0,
+    "matched": [
+      "parameterization"
+    ],
+    "published": "2026-07-31",
+    "first_seen": "2026-08-01"
+  },
+  {
     "title": "Integrating reservoirs and lakes in the  CoSWAT global hydrological model",
     "journal": "Geoscientific Model Development",
     "source": "rss:gmd",
@@ -3868,47 +3878,6 @@
     ],
     "published": "2026-07-29",
     "first_seen": "2026-07-29"
-  },
-  {
-    "title": "Editorial expression of concern",
-    "journal": "Science Advances",
-    "source": "rss:sciadv",
-    "url": "https://www.science.org/doi/abs/10.1126/sciadv.aek4953?af=R",
-    "doi": "10.1126/sciadv.aek4953?af=r",
-    "abstract": "Science Advances, Volume 12, Issue 30, July 2026.",
-    "authors": [
-      "H. Holden Thorp"
-    ],
-    "is_editorial": true,
-    "abstract_missing": false,
-    "always_include": false,
-    "score_boost": 0.0,
-    "score": 0.0,
-    "matched": [],
-    "published": null,
-    "first_seen": "2026-07-24"
-  },
-  {
-    "title": "A data-driven method for identifying climate drivers of agricultural yield failure from daily weather data",
-    "journal": "Geoscientific Model Development",
-    "source": "rss:gmd",
-    "url": "https://doi.org/10.5194/gmd-19-6687-2026",
-    "doi": "10.5194/gmd-19-6687-2026",
-    "abstract": "This study presents a method to identify climate drivers of an impact, such as agricultural yield failure, from high-resolution weather data. The approach systematically generates, selects and combines predictors that generalise across different environments. Tested on crop model simulations, the identified drivers are used to create parsimonious models that achieve high predictive performance over long time horizons, offering a more interpretable alternative to black-box models.",
-    "authors": [
-      "Lily-belle Sweet",
-      "Christoph Müller",
-      "Jonas Jägermeyr",
-      "Jakob Zscheischler"
-    ],
-    "is_editorial": false,
-    "abstract_missing": false,
-    "always_include": true,
-    "score_boost": 0.0,
-    "score": 0.0,
-    "matched": [],
-    "published": "2026-07-23",
-    "first_seen": "2026-07-24"
   },
   {
     "title": "Assessing the effect of land cover on ISBA snow water equivalent and land surface temperature simulations over Europe",
