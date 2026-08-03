@@ -164,38 +164,6 @@
     "first_seen": "2026-08-01"
   },
   {
-    "title": "AMOC slowdown amplifies North Atlantic salinity variability to unprecedented levels",
-    "journal": "Nature Communications",
-    "source": "openalex:cites-me",
-    "url": "https://doi.org/10.1038/s41467-026-73838-y",
-    "doi": "10.1038/s41467-026-73838-y",
-    "abstract": "The Atlantic Meridional Overturning Circulation (AMOC), a key component of the Earth system, is projected to weaken under anthropogenic warming, but how this change affects oceanic variability remains unclear. Here we show, using a sustained global warming scenario, that AMOC weakening triggers extreme upper-ocean salinity variability in the North Atlantic, with amplitudes far exceeding historical levels. The salinity variability amplifies as it travels across the North Atlantic Ocean and is linked to a slowdown of the Gulf Stream and strengthened spatial salinity contrasts. An idealized model demonstrates that these changes in the mean ocean state promote salinity extremes, with their amplification critically dependent on the salinity–temperature coupled feedback. Once the AMOC slowdown is underway, enhanced variability can arise even under climate mitigation because ocean circulation recovers slowly. Emergent compound extremes of salinity and sea level increase the risks to coastal ecosystems and societies in Europe. The weakening of ocean circulation under global warming could drive the emergence of unprecedented North Atlantic salinity variability, with impacts persisting long after warming slows and escalating risks for European coastal ecosystems and societies.",
-    "authors": [
-      "Tomoki Iwakiri",
-      "Jong-Seong Kug",
-      "Soon-Il An",
-      "Yechul Shin",
-      "Ji-Hoon Oh",
-      "Sunhee Wang"
-    ],
-    "is_editorial": false,
-    "abstract_missing": false,
-    "always_include": false,
-    "score_boost": 1.0,
-    "score": 31.0,
-    "matched": [
-      "Atlantic meridional overturning circulation",
-      "AMOC",
-      "overturning circulation",
-      "ocean circulation",
-      "sea level",
-      "Earth system",
-      "global warming"
-    ],
-    "published": "2026-05-30",
-    "first_seen": "2026-07-26"
-  },
-  {
     "title": "Inferring effective firn grain size across Antarctic ice shelves from ASCAT observations",
     "journal": "Earth Observation",
     "source": "openalex:cryosphere",
@@ -641,36 +609,6 @@
     "first_seen": "2026-07-30"
   },
   {
-    "title": "SARMelt: MGLANet-driven high-resolution surface melt mapping of circum-Antarctic ice shelves from Sentinel-1 imagery during 2015–2023",
-    "journal": "ISPRS Journal of Photogrammetry and Remote Sensing",
-    "source": "openalex:cryosphere",
-    "url": "https://doi.org/10.1016/j.isprsjprs.2026.07.012",
-    "doi": "10.1016/j.isprsjprs.2026.07.012",
-    "abstract": null,
-    "authors": [
-      "Lu Zhang",
-      "Qi Zhu",
-      "Dong Liang",
-      "Yiming Liu",
-      "Zherong Wu",
-      "Ji Ge",
-      "Yuqian Zhang",
-      "Huadong Guo"
-    ],
-    "is_editorial": false,
-    "abstract_missing": true,
-    "always_include": false,
-    "score_boost": 0.0,
-    "score": 18.0,
-    "matched": [
-      "ice shelf",
-      "Antarctic",
-      "surface melt"
-    ],
-    "published": "2026-07-23",
-    "first_seen": "2026-07-26"
-  },
-  {
     "title": "34°S Atlantic Meridional Freshwater Transport Set by Northern Hemisphere Ice Sheets and Meltwater in the Past 22,000 years",
     "journal": "JGR Oceans",
     "source": "rss:jgr-oceans",
@@ -720,43 +658,6 @@
     ],
     "published": "2026-07-31",
     "first_seen": "2026-08-02"
-  },
-  {
-    "title": "Combined and autonomous online measurement of water isotopes in snowflakes and atmospheric water vapor in East Antarctica",
-    "journal": "Atmospheric measurement techniques",
-    "source": "openalex:cryosphere",
-    "url": "https://doi.org/10.5194/amt-19-4743-2026",
-    "doi": "10.5194/amt-19-4743-2026",
-    "abstract": "Abstract. Water isotopes in precipitation are a powerful tool to better understand the processes governing snowfall in Antarctica, which is essential to improve our knowledge of the Antarctic atmospheric water cycle and surface mass balance, and for the interpretation of past climate signals archived in ice cores. However, precipitation isotope observations in Antarctica rely on manual sampling, which is prone to fractionation under low accumulation rates and remains both time-consuming and logistically demanding, and thus restricted to stations and seasons where manual sampling is feasible. In this study, we present a novel method that enables autonomous, continuous, and combined measurements of water vapor and precipitation δD, using a single laser spectrometer. This technique offers new observational capabilities to better capture the isotopic signature of snowfall events in polar environments. Compared to conventional manual sampling of precipitation, the technique is capable of analysing very small amounts of water, while avoiding post-depositional effects. In addition, it enables high-temporal-resolution observations and is well suited for long-term deployments in unmanned environments. The sampling system prototype has been deployed at Dumont d'Urville station, located on the coastal margin of East Antarctica, and evaluated during three precipitation events from February to June 2023. A dedicated post-processing algorithm was developed to retrieve the isotopic composition of precipitation from the surrounding vapor background. Comparisons with independently collected snow samples show a mean deviation of −5.4 ‰ in δD, which is well below the observed intra-event signal amplitude of about 100 ‰. This demonstrates the reliability of both the sampling system and the retrieval algorithm to study the isotopic composition of precipitation at the event-scale. With this new dataset, two approaches are proposed to better understand the water vapor – precipitation relationship at Dumont d'Urville: (1) an evaluation of the LMDZ6iso general circulation model, and (2) a comparison with ground-based remote sensing instruments (ceilometer and micro rain radar) to explore the link between the Δ(δD) metric and the vertical structure of precipitation. Beyond polar applications, the proposed method opens new possibilities for other types of observations, including liquid precipitation sampling or cloud water isotopes monitoring onboard aircraft.",
-    "authors": [
-      "Thomas Lauwers",
-      "Élise Fourré",
-      "Niels Dutrievoz",
-      "Cécile Agosta",
-      "Olivier Jossoud",
-      "Bénédicte Minster",
-      "Frédéric Prié",
-      "Olivier Cattani",
-      "Valérie Masson‐Delmotte",
-      "Mathieu Casado",
-      "Christophe Genthon",
-      "Amaëlle Landais"
-    ],
-    "is_editorial": false,
-    "abstract_missing": false,
-    "always_include": false,
-    "score_boost": 0.0,
-    "score": 17.0,
-    "matched": [
-      "Antarctic",
-      "Antarctica",
-      "polar",
-      "surface mass balance",
-      "ice core",
-      "remote sensing"
-    ],
-    "published": "2026-07-24",
-    "first_seen": "2026-07-26"
   },
   {
     "title": "Evolution of Maud Rise Polynya during the last 250 years – a multiproxy ice core reconstruction from coastal Dronning Maud Land, Antarctica",
@@ -964,37 +865,6 @@
     "first_seen": "2026-08-01"
   },
   {
-    "title": "Bed Topography and Subglacial Conditions of Denman Glacier, East Antarctica: Insights From Magnetotelluric Data and Interdisciplinary Studies",
-    "journal": "JGR Earth Surface",
-    "source": "rss:jgr-earthsurface",
-    "url": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2026JF009277?af=R",
-    "doi": "10.1029/2026jf009277",
-    "abstract": "Journal of Geophysical Research: Earth Surface, Volume 131, Issue 7, July 2026.",
-    "authors": [
-      "Maria Constanza Manassero",
-      "Kate Selway",
-      "Tobias Stål",
-      "Matthias Scheiter",
-      "Mareen Loesing",
-      "Felicity McCormack",
-      "Jacqueline A. Halpin",
-      "Bernd Kulessa",
-      "Anya M. Reading"
-    ],
-    "is_editorial": false,
-    "abstract_missing": false,
-    "always_include": false,
-    "score_boost": 0.0,
-    "score": 14.0,
-    "matched": [
-      "subglacial",
-      "glacier",
-      "Antarctica"
-    ],
-    "published": "2026-07-24",
-    "first_seen": "2026-07-26"
-  },
-  {
     "title": "The dynamic response of Pine Island Glacier to two decades of intermittent ice shelf regrounding",
     "journal": "Nature Communications",
     "source": "rss:ncomms",
@@ -1079,36 +949,6 @@
     ],
     "published": "2026-07-30",
     "first_seen": "2026-08-01"
-  },
-  {
-    "title": "Quantifying subsurface fracture damage in glaciers using fiber-optic seismology",
-    "journal": "Science Advances",
-    "source": "openalex:cryosphere",
-    "url": "https://doi.org/10.1126/sciadv.aef1107",
-    "doi": "10.1126/sciadv.aef1107",
-    "abstract": "Crevassing critically controls glacier stability. Crevasses can penetrate deep into a glacier or ice shelf, promoting calving, ice avalanches, and even sudden catastrophic ice shelf collapse. Yet quantifying subsurface fracture damage remains largely unquantified. Here, we show how distributed acoustic sensing technology can quantify subsurface fracture damage in unprecedented detail at an alpine glacier. We first demonstrate that seismic anisotropy can quantify fracture extent. We also study crevasse icequake failure mechanisms, which fail predominantly via tensile opening. Icequake-derived crevasse opening is consistent with anisotropy-derived estimates (∼8% of total ice volume), suggesting that damage is dominated by fracture rather than melt. These results establish a scalable approach for monitoring subsurface ice damage that complements existing satellite surface observations. Applications range from monitoring the stability of alpine glaciers that pose a risk to alpine communities to providing foundations for assessing subsurface fracture extent at globally pertinent ice sheets and ice shelves.",
-    "authors": [
-      "Thomas Hudson",
-      "Fabian Walter",
-      "Sebastian Noe",
-      "Andrea Zunino",
-      "J. M. Kendall",
-      "Pascal Edme",
-      "Andreas Fichtner"
-    ],
-    "is_editorial": false,
-    "abstract_missing": false,
-    "always_include": false,
-    "score_boost": 0.0,
-    "score": 13.0,
-    "matched": [
-      "ice sheet",
-      "ice shelf",
-      "glacier",
-      "calving"
-    ],
-    "published": "2026-07-23",
-    "first_seen": "2026-07-26"
   },
   {
     "title": "Teleseismic S‐Wave Coda Autocorrelation and vp/vs ${v}_{p}/{v}_{s}$ Distribution Over the Antarctic Ice Sheet",
@@ -1277,33 +1117,6 @@
     "first_seen": "2026-07-30"
   },
   {
-    "title": "Dynamics of shear instabilities near the ice-shelf–ocean interface",
-    "journal": "Journal of Fluid Mechanics",
-    "source": "openalex:cryosphere",
-    "url": "https://doi.org/10.1017/jfm.2026.11840",
-    "doi": "10.1017/jfm.2026.11840",
-    "abstract": "The melting of ice shelves into the ocean plays a major role, and is a key source of uncertainty, in sea level rise projections. Under-ice shelves, meltwater moves upslope, setting up a stratified shear flow with the warmer, but critically saltier, ocean beneath, regulating the transfer of heat between ice and the ambient ocean. Such features are incredibly difficult to access in situ , and so most research has focussed on the use of numerical modelling, laboratory experiments and analytical models to understand these processes, each with their own trade-offs. Here, novel numerical simulations of the Navier–Stokes equations approximate this flow for a tilted domain forced with fixed densities at the upper and lower boundaries to induce such a buoyant boundary shear current. These simulations and accompanying linear stability analysis (LSA) reveal that the shear flows under-ice shelves form a unique mixed-mode shear instability. This instability consists of paired Kelvin Helmholtz and Holmboe instabilities, highly effective at mixing the water column, and due to the restoring effect of the boundary forcing, results in a cyclical instability. The flow criticality is found to be well predicted by LSA, and dependent on diagnostic flow Reynolds and bulk Richardson numbers, whilst the local gradient Richardson number is not a useful indicator of instability in this problem. Based on these results, it is unclear how well this unusual route to turbulent mixing is represented in current models, highlighting the need for further investigation into turbulent heat transfer and ice-shelf melting.",
-    "authors": [
-      "Sam Hartharn-Evans",
-      "Charlie J. Lloyd",
-      "Magda Carr",
-      "Adrian Jenkins"
-    ],
-    "is_editorial": false,
-    "abstract_missing": false,
-    "always_include": false,
-    "score_boost": 0.0,
-    "score": 11.0,
-    "matched": [
-      "ice shelf",
-      "meltwater",
-      "sea level",
-      "sea-level rise"
-    ],
-    "published": "2026-07-24",
-    "first_seen": "2026-07-26"
-  },
-  {
     "title": "Sensitivity of Andean Glaciers to ice-flow parameters in the Parallel Ice Sheet Model",
     "journal": "The Cryosphere",
     "source": "rss:tc",
@@ -1388,36 +1201,6 @@
     ],
     "published": "2026-07-26",
     "first_seen": "2026-08-01"
-  },
-  {
-    "title": "Dansgaard‐Oeschger Events Recorded in Low‐Latitude Marine Sediments and Teleconnection With High‐Latitude Climate Variations",
-    "journal": "Geophysical Research Letters",
-    "source": "rss:grl",
-    "url": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2026GL122957?af=R",
-    "doi": "10.1029/2026gl122957",
-    "abstract": "Geophysical Research Letters, Volume 53, Issue 14, 28 July 2026.",
-    "authors": [
-      "Zhanjie Liu",
-      "Zhaoxia Jiang",
-      "Long Chen",
-      "Andrew P. Roberts",
-      "Sanzhong Li",
-      "Liang Chen",
-      "Zhengxin Yin",
-      "Wanxin Liu",
-      "Yulong Guan",
-      "Yuzhen Zhang"
-    ],
-    "is_editorial": false,
-    "abstract_missing": false,
-    "always_include": false,
-    "score_boost": 0.0,
-    "score": 10.0,
-    "matched": [
-      "Dansgaard-Oeschger"
-    ],
-    "published": "2026-07-24",
-    "first_seen": "2026-07-26"
   },
   {
     "title": "Anomalous Diffusion of Tropical Cyclones Observed in Huge Ensembles of Hindcasts",
@@ -1532,74 +1315,6 @@
     "first_seen": "2026-08-01"
   },
   {
-    "title": "Initial survey of blue ice areas for the recovery of old ice in the Sør Rondane mountains (Dronning Maud Land, East Antarctica)",
-    "journal": "Open Research Europe",
-    "source": "openalex:cryosphere",
-    "url": "https://doi.org/10.12688/openreseurope.21562.2",
-    "doi": "10.12688/openreseurope.21562.2",
-    "abstract": "<ns5:p> Blue ice areas have the potential to preserve old ice near the surface, offering valuable archives of past climate beyond the range of continuous deep ice cores. Notably, million-year-old ice has been recovered at shallow depths in the Allan Hills blue ice area, in the Transantarctic Mountains. However, similar sites in other regions of Antarctica remain unexplored. The FROID project aims to identify and sample such old ice near the Belgian Princess Elisabeth Station in Dronning Maud Land, East Antarctica. This report details the first of two field expeditions, conducted during the austral summer of 2024–2025, with the goal of identifying a suitable drilling site for a shallow ice core (up to 200 m) in the Nils Larsen blue ice area. During the field campaign, we collected datasets to assess ice age, thickness and flow velocity, to determine potential and suitability for coring very old ice: (1) 10 m ice cores for absolute dating ( <ns5:sup>81</ns5:sup> Kr and <ns5:sup>40</ns5:sup> Ar methods), gas measurement (amongst others, δO <ns5:sub>2</ns5:sub> /N <ns5:sub>2</ns5:sub> , total air content, CO <ns5:sub>2</ns5:sub> , CH <ns5:sub>4</ns5:sub> , N <ns5:sub>2</ns5:sub> O) and ice fabrics; (2) surface ice samples for water stable isotope analysis (δ <ns5:sup>1</ns5:sup> 8O and δD) to infer paleo-temperatures and spatial patterns in isotopic variation; (3) ground-penetrating radar (GPR) surveys of bed topography and ice thickness; (4) ApRES radar profiles for vertical velocity, internal structure, and ice fabric; (5) GNSS measurements for local ablation and surface motion; and (6) Uncrewed Aerial Vehicle (UAV) tests for future meteorite recovery applications. This report outlines the field preparation, methodologies used, and challenges encountered. The results will guide site selection for the follow-up drilling campaign and can serve as a practical guide for future blue ice fieldwork. </ns5:p>",
-    "authors": [
-      "Maaike Izeboud",
-      "Étienne Legrain",
-      "Veronica Tollenaar",
-      "François Pallandre",
-      "Nicolas Grosrenaud",
-      "Lisa Ardoin",
-      "Frank Pattyn",
-      "Pierre-Henri Blard",
-      "Marie-Axelle Gillain",
-      "Vinciane Debaille",
-      "Steven Goderis",
-      "Gabriel A. Pinto",
-      "Hamed Pourkhorsandi",
-      "François Fripiat",
-      "Harry Zekollari"
-    ],
-    "is_editorial": false,
-    "abstract_missing": false,
-    "always_include": false,
-    "score_boost": 0.0,
-    "score": 9.0,
-    "matched": [
-      "Antarctica",
-      "ice core"
-    ],
-    "published": "2026-07-23",
-    "first_seen": "2026-07-26"
-  },
-  {
-    "title": "Cave-based chronology of valley incision in the glaciated Northern Carpathians",
-    "journal": "Earth and Planetary Science Letters",
-    "source": "openalex:paleoclimate",
-    "url": "https://doi.org/10.1016/j.epsl.2026.120229",
-    "doi": "10.1016/j.epsl.2026.120229",
-    "abstract": "While glaciers leave a mark on mountain landscapes, the importance of glacial erosion in mountains at a global scale remains insufficiently constrained despite over a century of research aimed at quantifying the rates and magnitudes of such erosion. Measuring rates of landscape change across the Quaternary in repeatedly glaciated mountain landscapes requires the ability to accurately partition the relative role of glacial versus fluvial processes in forming relief; however, the modification of landforms by surface erosion hinders quantification of process rates over the last few million years. This study presents 32 paired 26 Al and 10 Be cosmogenic nuclide burial ages from allochthonous, quartz-bearing sediment deposited within a paleophreatic karst system in the northern Carpathians. These data quantify Pliocene-to-present timing of valley incision and karst system reactivation, as well as erosion rates over time. Post-burial, muon production-correction yields 24 fully resolved ages, six minimum ages, and two unresolvable ages. Burial ages are interpreted to document the tempo of valley incision via phreatic passage formation and reveal that ∼80% of current valley relief (∼700 m) had developed by approximately 1.6 Ma. Paleoerosion rates derived from this dataset suggest little change in the processes generating sediment washed into the karst networks since the Pliocene. These results suggest that river incision dominated relief creation in Carpathian valleys that bear the imprint of glaciation. Our findings suggest the importance of investigating other mid-latitude mountainous regions worldwide to determine if they have similar erosion and topographic histories.",
-    "authors": [
-      "Jacek Szczygieł",
-      "Gregory D. Hoke",
-      "Artur Sobczyk",
-      "Helena Hercman",
-      "Lee B. Corbett",
-      "Jason Drebber",
-      "Alan J. Hidy",
-      "Paul R. Bierman",
-      "Marc W. Caffee"
-    ],
-    "is_editorial": false,
-    "abstract_missing": false,
-    "always_include": false,
-    "score_boost": 0.0,
-    "score": 9.0,
-    "matched": [
-      "glacier",
-      "Pliocene",
-      "Quaternary",
-      "cosmogenic"
-    ],
-    "published": "2026-07-23",
-    "first_seen": "2026-07-26"
-  },
-  {
     "title": "Using Cosmic Rays to Predict the Weather: Meteorological Data Assimilation of Atmospheric Muon Flux Data",
     "journal": "arXiv physics.ao-ph",
     "source": "rss:arxiv-ao-ph",
@@ -1646,70 +1361,6 @@
     ],
     "published": "2026-07-30",
     "first_seen": "2026-07-30"
-  },
-  {
-    "title": "Snow cover over the Iberian mountains in km-scale global climate simulations: Evaluation and projected changes",
-    "journal": "Journal of Hydrology Regional Studies",
-    "source": "openalex:cryosphere",
-    "url": "https://doi.org/10.1016/j.ejrh.2026.103755",
-    "doi": "10.1016/j.ejrh.2026.103755",
-    "abstract": "Study region We focus on the four main mountain ranges of the Iberian Peninsula. In such Mediterranean mountains, complex topography and high climate variability make snowpacks a crucial natural resource, highly vulnerable to the impacts of climate change. Study focus Due to their coarse resolution, traditional climate models cannot properly represent the complexity of orographic processes. In this work, we assess the performance of the global km-scale IFS-FESOM model in simulating seasonal snow cover and projecting climate change effects in Iberian mountains. This approach provides high-quality regional information directly from global simulations, bypassing the need for traditional regional downscaling. The model is evaluated against high-resolution reanalysis-based products, satellite retrievals, and in situ observations. Furthermore, future snow cover trends are assessed under the SSP3-7.0 emission scenario. New hydrological insights for the region Despite a positive bias in snowfall days, the model successfully represents key features of the snow climatology, such as the elevation dependency, the seasonal cycle, and the mean covered area. The projection shows a marked reduction of the snow season across Iberia, with low- to mid-elevations and the southernmost ranges showing the greatest reductions. These changes are linked to reduced snowfall days, caused primarily by rising temperatures but also by decreasing precipitation. The results demonstrate that global km-scale simulations can provide physically consistent local climate projections in complex terrain as a simpler and robust alternative to traditional regionalization.",
-    "authors": [
-      "Diego García-Maroto",
-      "Elsa Mohíno",
-      "L. Durán",
-      "Álvaro González-Cervera",
-      "Xabier Pedruzo‐Bagazgoitia"
-    ],
-    "is_editorial": false,
-    "abstract_missing": false,
-    "always_include": false,
-    "score_boost": 0.0,
-    "score": 8.0,
-    "matched": [
-      "reanalysis",
-      "downscaling",
-      "climate change",
-      "SSP",
-      "emission scenario"
-    ],
-    "published": "2026-07-23",
-    "first_seen": "2026-07-26"
-  },
-  {
-    "title": "Disentangling diffuse vs. concentrated erosion in total soil exports over the Holocene: combining erosion models, sediment proxies, remote sensing and geophysics",
-    "journal": "CATENA",
-    "source": "openalex:paleoclimate",
-    "url": "https://doi.org/10.1016/j.catena.2026.110450",
-    "doi": "10.1016/j.catena.2026.110450",
-    "abstract": null,
-    "authors": [
-      "Théo Mazure",
-      "Georges‐Marie Saulnier",
-      "Adrien Guérou",
-      "Etienne Dambrine",
-      "Florence Mazier",
-      "Clément Casotti",
-      "André Revil",
-      "Christine Hatté",
-      "Pierre Sabatier",
-      "Jérôme Poulenard",
-      "Erwan Messager",
-      "Vincent Chanudet",
-      "Jean-Philippe Jenny"
-    ],
-    "is_editorial": false,
-    "abstract_missing": true,
-    "always_include": false,
-    "score_boost": 0.0,
-    "score": 8.0,
-    "matched": [
-      "Holocene",
-      "proxy",
-      "remote sensing"
-    ],
-    "published": "2026-07-25",
-    "first_seen": "2026-07-26"
   },
   {
     "title": "Millennial cold–dry events during marine isotope stage 11a based on sedimentary records from the Heqing Basin and their global climatic dynamical responses",
@@ -1803,27 +1454,29 @@
     "first_seen": "2026-08-02"
   },
   {
-    "title": "Holocene ocean-atmosphere coupling and Mediterranean sensitivity to Atlantic circulation: Lessons from the Late Bronze Age collapse",
-    "journal": "Science Advances",
-    "source": "openalex:paleoclimate",
-    "url": "https://doi.org/10.1126/sciadv.aed5439",
-    "doi": "10.1126/sciadv.aed5439",
-    "abstract": "Climate variability has profoundly influenced societies in the semiarid Eastern Mediterranean. Proxy records indicate progressive mid-Holocene drying culminating in severe droughts ∼1250 BCE, coincident with the Late Bronze Age collapse (1300 to 900 BCE). Using the EC-Earth3-Tr8K transient Holocene simulation, we reconstruct regional hydroclimate evolution and its underlying mechanisms. The model reproduces a gradual orbitally driven aridification, spatially heterogeneous across the region, with persistent drying in the Levant but enhanced effective moisture in parts of the Balkans and Anatolia due to cooling-induced evapotranspiration decline. Superimposed on this long-term trend are extreme drought events, which arise from the alignment of Atlantic internal variability across centennial to millennial timescales, amplifying drying on an already arid background state. These results provide model-based evidence of how evolving amplitude and phase structure of Atlantic internal variability reshaped Eastern Mediterranean hydroclimate through the mid-to-late Holocene. We demonstrate that oceanic variability can manifest as abrupt regional crises when ecological and societal thresholds are crossed.",
+    "title": "Reassessing Alpine Permafrost Thermal State by Accounting for Ground Ice",
+    "journal": "Earth's Future",
+    "source": "rss:earths-future",
+    "url": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025EF007931?af=R",
+    "doi": "10.1029/2025ef007931",
+    "abstract": "Earth's Future, Volume 14, Issue 8, August 2026.",
     "authors": [
-      "Katherine Power",
-      "Qiong Zhang"
+      "Hailong Ji",
+      "Zhuotong Nan",
+      "Yuhong Chen",
+      "Lihua Chen",
+      "Shuping Zhao"
     ],
     "is_editorial": false,
     "abstract_missing": false,
     "always_include": false,
     "score_boost": 0.0,
-    "score": 7.0,
+    "score": 8.0,
     "matched": [
-      "Holocene",
-      "proxy"
+      "permafrost"
     ],
-    "published": "2026-07-24",
-    "first_seen": "2026-07-26"
+    "published": "2026-08-02",
+    "first_seen": "2026-08-03"
   },
   {
     "title": "Assessing glacier dynamics and thermal variability through remote sensing and local perception",
@@ -1886,55 +1539,30 @@
     "first_seen": "2026-08-02"
   },
   {
-    "title": "Attribution of the Record‐Breaking June 2024 Eastern Mediterranean Heatwave: Contrasting Roles of Soil Moisture in Anthropogenic Forcing and Natural Variability",
-    "journal": "Geophysical Research Letters",
-    "source": "rss:grl",
-    "url": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025GL121002?af=R",
-    "doi": "10.1029/2025gl121002",
-    "abstract": "Geophysical Research Letters, Volume 53, Issue 14, 28 July 2026.",
+    "title": "Tracing hydrological and ecological dynamics in a volcanic barrier-lake system in NE Iberia during the Late Glacial–Early Holocene using non-pollen palynomorphs",
+    "journal": "Review of Palaeobotany and Palynology",
+    "source": "openalex:paleoclimate",
+    "url": "https://doi.org/10.1016/j.revpalbo.2026.105688",
+    "doi": "10.1016/j.revpalbo.2026.105688",
+    "abstract": "The environmental evolution of volcanic barrier-lake systems is shaped by complex interactions between climate forcing and local geomorphological processes. This study presents a high-resolution multi-proxy record from the sedimentary sequence of Pla de les Preses volcanic barrier-palaeolake (Vall d'en Bas, NE Iberia), spanning the Late Glacial–Early Holocene transition. Particular emphasis is placed on the contribution of non-pollen palynomorphs (NPPs) to palaeoenvironmental reconstruction. Pollen data indicate that regional vegetation dynamics broadly follow the expected transition from open Late Glacial landscapes to temperate deciduous forests during the Early Holocene. However, notable deviations occur, including a marked decline in broadleaf forests, suggesting a strong influence of local disturbance processes. Sedimentological and palaeobiological proxies document the formation of a volcanic barrier lake following the damming of the Fluvià River, and its subsequent evolution through three main stages: (i) shallow, unstable conditions with pioneer aquatic communities, (ii) progressive deepening and establishment of a persistent lacustrine system, and (iii) lake shallowing, wetland expansion and final terrestrialisation linked to barrier erosion and fluvial reactivation. Hydrological changes do not always align with regional climatic trends, indicating a decoupling between climate and local environmental processes. NPP assemblages provide key insights into these dynamics, recording variations in water depth, aquatic productivity, trophic conditions and lake–catchment interactions. Algae and cyanobacteria reflect limnological variability, while pteridophyte spores and fungal remains document wetland development, soil erosion processes and terrestrial inputs. In addition, NPPs capture short-term ecological responses to volcanic activity and fire. This study demonstrates the value of NPPs for reconstructing highly dynamic lacustrine systems, complementing pollen-based approaches and enabling a more detailed understanding of palaeoenvironmental change.",
     "authors": [
-      "Kangjie Ma",
-      "Haipeng Yu",
-      "Ruixia Guo",
-      "Dongping Bai",
-      "Mengjing Fu"
+      "Jordi Revelles",
+      "Eneko Iriarte",
+      "Francesc Mesquita‐Joanes",
+      "Maria A. Rodrigo",
+      "María Saña"
     ],
     "is_editorial": false,
     "abstract_missing": false,
     "always_include": false,
     "score_boost": 0.0,
-    "score": 6.0,
+    "score": 7.0,
     "matched": [
-      "heat wave"
+      "Holocene",
+      "proxy"
     ],
-    "published": "2026-07-24",
-    "first_seen": "2026-07-26"
-  },
-  {
-    "title": "Quantifying altimetric and volumetric changes of the Belvedere Glacier (2009–2023) using Pleiades and Pleiades Neo data",
-    "journal": "The international archives of the photogrammetry, remote sensing and spatial information sciences/International archives of the photogrammetry, remote sensing and spatial information sciences",
-    "source": "openalex:cryosphere",
-    "url": "https://doi.org/10.5194/isprs-archives-xlix-b2-2026-429-2026",
-    "doi": "10.5194/isprs-archives-xlix-b2-2026-429-2026",
-    "abstract": "Abstract. The study presents a detailed photogrammetric analysis of the evolution of the Belvedere Glacier over the periods 2009–2017 and 2017–2023, with particular focus on the impact of the debris flow triggered by the flood event of August 27, 2023. High-resolution Pléiades and Pléiades Neo satellite imagery was used to generate point clouds and Digital Elevation Models, enabling the quantification of altimetric and volumetric changes and a detailed assessment of the morphological modifications caused by the debris flow. The results show a recent significant glacier retreat, with an average annual volume loss of 2.3 × 10⁶ m³/year between 2009 and 2017, increasing to 2.7 × 10⁶ m³/year between 2017 and 2023. The 2023 debris flow produced marked morphological changes, including the formation of two accumulation zones on the western tongue and the development of two erosional channels approximately 4–5 meters deep. These channels resulted from the new course of the Castelfranco Stream, which incised directly into the glacier surface. Overall, the findings confirm trends reported in previous studies on the Belvedere Glacier and other Alpine glaciers, highlighting the importance and advantages of satellite-based monitoring for assessing the impacts of climate change and extreme events on glacier dynamics.",
-    "authors": [
-      "Francesco Ioli",
-      "Luca Cerina",
-      "Alberto Cina",
-      "L. Pinto"
-    ],
-    "is_editorial": false,
-    "abstract_missing": false,
-    "always_include": false,
-    "score_boost": 0.0,
-    "score": 6.0,
-    "matched": [
-      "glacier",
-      "extreme event",
-      "climate change"
-    ],
-    "published": "2026-07-23",
-    "first_seen": "2026-07-26"
+    "published": "2026-07-27",
+    "first_seen": "2026-08-03"
   },
   {
     "title": "Mass Loss From Thwaites Glacier Continues Even Without Ocean Melting",
@@ -2129,32 +1757,6 @@
     "first_seen": "2026-08-02"
   },
   {
-    "title": "Application of IsoSource Model to Orbital-Scale Partitioning of Organic Matter Sources During the Last 200 ka: Case Study of the Mahanadi Basin (Bay of Bengal)",
-    "journal": "Journal of Marine Science and Engineering",
-    "source": "openalex:paleoclimate",
-    "url": "https://doi.org/10.3390/jmse14151354",
-    "doi": "10.3390/jmse14151354",
-    "abstract": "In the Mahanadi Basin (Site U1445), the mean δ13CSOM (i.e., δ13C of sedimentary organic matter) value is consistently higher during the glacial periods (–18.8‰) than during the interglacial periods (–19.4‰), which implies either more deposition of terrestrial organic matter from C4 plants or increased marine primary production (MPP). We attempted to quantify the relative contributions of organic matter by C3 plant, C4 plant, and MPP, using the three end-member simple mixing model (IsoSource). This study reports that their partitions are distinctly different between the interglacial (29%, 28%, and 43%) and glacial (22%, 40%, and 38%) periods, despite the model’s limitations. The contribution of allochthonous terrestrial organic matter overwhelms the production of autochthonous marine organic matter in the Mahanadi Basin, particularly during the glacial periods, emphasizing that the freshwater discharge by the Indian monsoon precipitation is a key process of the organic carbon cycle. Our results also verify that C4 plants were more distributed in the Himalaya foreland during the glacial periods under the decreased atmospheric pCO2 and humidity levels. Different contribution of terrestrial organic matter sources to the Mahanadi Basin depends on the orbital-scale Indian monsoon variability, highlighting the land–sea transfer of organic carbon.",
-    "authors": [
-      "Yanghee Jang",
-      "Jongmin Lee",
-      "Kwangkyu Park",
-      "Heesun Choi",
-      "Boo-Keun Khim"
-    ],
-    "is_editorial": false,
-    "abstract_missing": false,
-    "always_include": false,
-    "score_boost": 0.0,
-    "score": 5.0,
-    "matched": [
-      "interglacial",
-      "carbon cycle"
-    ],
-    "published": "2026-07-24",
-    "first_seen": "2026-07-26"
-  },
-  {
     "title": "Transition to double-cell mock Walker circulations with surface warming explained by periodic convection",
     "journal": "arXiv physics.ao-ph",
     "source": "rss:arxiv-ao-ph",
@@ -2265,76 +1867,33 @@
     "first_seen": "2026-07-31"
   },
   {
-    "title": "Paleogeographic modulation of Phanerozoic climate by albedo compensation of interhemispheric land imbalances",
-    "journal": "Earth-Science Reviews",
-    "source": "openalex:paleoclimate",
-    "url": "https://doi.org/10.1016/j.earscirev.2026.105632",
-    "doi": "10.1016/j.earscirev.2026.105632",
-    "abstract": null,
+    "title": "Seismic Characteristics of the Gas Hydrate System in the Mackenzie Trough of the Canadian Beaufort Sea, Arctic Ocean",
+    "journal": "JGR Solid Earth",
+    "source": "rss:jgr-solidearth",
+    "url": "https://onlinelibrary.wiley.com/doi/10.1029/2026JB034470?af=R",
+    "doi": "10.1029/2026jb034470",
+    "abstract": "Journal of Geophysical Research: Solid Earth, Volume 131, Issue 8, August 2026.",
     "authors": [
-      "G. Muttoni",
-      "D.V. Kent"
-    ],
-    "is_editorial": false,
-    "abstract_missing": true,
-    "always_include": false,
-    "score_boost": 0.0,
-    "score": 4.0,
-    "matched": [
-      "albedo"
-    ],
-    "published": "2026-07-20",
-    "first_seen": "2026-07-26"
-  },
-  {
-    "title": "Mid- to late holocene palaeoenvironmental and palaeoecological dynamics in Lake Azaplı (Gölbaşı Basin, SE Türkiye): Insights from pollen and non-pollen palynomorph records",
-    "journal": "Palaeogeography Palaeoclimatology Palaeoecology",
-    "source": "openalex:paleoclimate",
-    "url": "https://doi.org/10.1016/j.palaeo.2026.114085",
-    "doi": "10.1016/j.palaeo.2026.114085",
-    "abstract": null,
-    "authors": [
-      "Dila Doğa Gökgöz",
-      "Demet Biltekin",
-      "Kürşad Kadir Eriş",
-      "Gülsen Uçarkuş",
-      "Erdem Kırkan",
-      "Cerennaz Yakupoğlu",
-      "Dursun Acar",
-      "Ömer Yetemen"
-    ],
-    "is_editorial": false,
-    "abstract_missing": true,
-    "always_include": false,
-    "score_boost": 0.0,
-    "score": 4.0,
-    "matched": [
-      "Holocene"
-    ],
-    "published": "2026-07-22",
-    "first_seen": "2026-07-26"
-  },
-  {
-    "title": "Coping with climate change-related risks in rural Zimbabwe: Evidence from Bikita &lt;i&gt;D&lt;/i&gt;istrict",
-    "journal": "International Journal of Research in Business and Social Science (2147-4478)",
-    "source": "openalex:cites-me",
-    "url": "https://doi.org/10.20525/ijrbs.v15i4.4572",
-    "doi": "10.20525/ijrbs.v15i4.4572",
-    "abstract": "Climate change poses significant risks to rural livelihoods in semi-arid regions such as Bikita District, Zimbabwe, where recurrent droughts, erratic rainfall, rising temperatures, and water scarcity undermine food security and socio-economic stability. This study examines the climate-related risks faced by rural households, identifies the coping and adaptation strategies they employ, and assesses the effectiveness and sustainability of these responses. A qualitative case study design, guided by the Sustainable Livelihoods Framework, was adopted. Data were collected through in-depth interviews (n = 30), focus group discussions (two groups), and direct observations involving households, traditional leaders, and local stakeholders. Thematic analysis was used to identify patterns in risks, coping strategies, and institutional constraints. The findings show that households employ diverse strategies, including crop diversification, cultivation of drought-resistant small grains, water harvesting, livestock downsizing, livelihood diversification, horticulture, and reliance on social networks. However, many of these responses remain short-term coping mechanisms rather than sustainable adaptation strategies. Structural barriers, including limited access to credit, weak extension services, poor infrastructure, and inadequate market systems, constrain their effectiveness. In addition, some practices, including deforestation and over-reliance on food aid, are maladaptive, providing immediate relief while undermining long-term resilience. The study concludes that although rural households demonstrate significant adaptive capacity, their transition from short-term coping to sustainable adaptation is limited by systemic and institutional constraints. It highlights the need for integrated policy interventions that strengthen livelihood assets, enhance institutional support, improve access to finance and markets, and integrate indigenous knowledge with climate-smart practices. These findings contribute to climate adaptation scholarship and provide policy-relevant insights for building long-term resilience in rural Zimbabwe.",
-    "authors": [
-      "Victor Jaravaza",
-      "Hilda Jaka Mabiza"
+      "Yeonjin Choi",
+      "Young Keun Jin",
+      "Michael Riedel",
+      "Jong Kuk Hong",
+      "Mathieu J. Duchesne",
+      "Sung‐Ryul Shin",
+      "Wookeen Chung",
+      "Seung‐Goo Kang"
     ],
     "is_editorial": false,
     "abstract_missing": false,
     "always_include": false,
-    "score_boost": 1.0,
-    "score": 4.0,
+    "score_boost": 0.0,
+    "score": 5.0,
     "matched": [
-      "climate change"
+      "Arctic",
+      "solid earth"
     ],
-    "published": "2026-07-24",
-    "first_seen": "2026-07-26"
+    "published": "2026-08-03",
+    "first_seen": "2026-08-03"
   },
   {
     "title": "An agent-guided peptide hydrogel bio-stabilizer clamps pericellular viscoelastic drift",
@@ -2928,107 +2487,6 @@
     ],
     "published": "2026-07-31",
     "first_seen": "2026-08-02"
-  },
-  {
-    "title": "Less than net zero needed to stabilize climate",
-    "journal": "Nature Climate Change",
-    "source": "rss:nclimate",
-    "url": "https://www.nature.com/articles/s41558-026-02708-8",
-    "doi": "10.1038/s41558-026-02708-8",
-    "abstract": "Nature Climate Change, Published online: 24 July 2026; doi:10.1038/s41558-026-02708-8 Global temperature change over long times after cessation of greenhouse gas emissions is not well constrained. Now, research shows a consistent global cooling, especially if negative CO2 emissions compensate for continued CH4 and N2O emissions.",
-    "authors": [
-      "Andrew H. MacDougall"
-    ],
-    "is_editorial": false,
-    "abstract_missing": false,
-    "always_include": false,
-    "score_boost": 0.0,
-    "score": 3.0,
-    "matched": [
-      "greenhouse gas",
-      "CO2",
-      "climate change"
-    ],
-    "published": null,
-    "first_seen": "2026-07-26"
-  },
-  {
-    "title": "Multi-century cooling after net-zero greenhouse gas emissions",
-    "journal": "Nature Climate Change",
-    "source": "rss:nclimate",
-    "url": "https://www.nature.com/articles/s41558-026-02700-2",
-    "doi": "10.1038/s41558-026-02700-2",
-    "abstract": "Nature Climate Change, Published online: 24 July 2026; doi:10.1038/s41558-026-02700-2 How global temperatures change after net-zero emissions are reached is highly uncertain. Here the authors constrain this response and find that net-zero GHG emissions lead to multi-century cooling of at least 0.6 °C.",
-    "authors": [
-      "Nathaniel Tarshish",
-      "Nadir Jeevanjee",
-      "Inez Fung"
-    ],
-    "is_editorial": false,
-    "abstract_missing": false,
-    "always_include": false,
-    "score_boost": 0.0,
-    "score": 3.0,
-    "matched": [
-      "greenhouse gas",
-      "climate change"
-    ],
-    "published": null,
-    "first_seen": "2026-07-26"
-  },
-  {
-    "title": "The 2022–2023 snow drought in the Italian Alps doubled glacier contribution to summer streamflow",
-    "journal": "Hydrology and earth system sciences",
-    "source": "openalex:cryosphere",
-    "url": "https://doi.org/10.5194/hess-30-4649-2026",
-    "doi": "10.5194/hess-30-4649-2026",
-    "abstract": "Abstract. Snow droughts are increasingly affecting mountain regions, raising concerns about downstream water availability in glacierized catchments. Here, we quantified the role of glaciers in mitigating snow-drought impacts on downstream streamflow during the severe 2022–2023 event in the Italian Alps. In order to do so, we compared glacier-melt contribution to streamflow during these years with the 2011–2023 historical period in two catchments, Dora Baltea (Aosta Valley) and Adda (Lombardy). We employed spatially distributed estimates of glacier melt, snow water equivalent (SWE), air temperature and total precipitation over glaciers from an operational cryospheric model (S3M Italy), and compared these estimates with downstream observations of streamflow at the closure sections of both catchments. Results showed a severe snow water equivalent deficit over glaciers across both catchments and both years (between ∼ −45 % at 4000 m in 2022 and ∼ −75 % at 2000 m a.s.l. during both years), which was largely driven by anomalous air temperatures and seasonal-precipitation patterns (up to +2–3 °C and −73 %, respectively). Air-temperature anomalies displayed a clear signature of elevation – dependent warming, with anomalies at 4000 m a.s.l. that were 1 to 1.5 °C higher than at 2000 m a.s.l.. Glacier contribution to streamflow doubled to tripled during these snow droughts in both catchments, a process that manifested itself through four mechanisms: an earlier-than-usual onset of the glacier melt season, an intensification of glacier melt contribution to streamflow, an earlier-than-usual seasonal peak in glacier melt contribution, and an extension of the glacier melt season. Still, glacier melt contribution to streamflow remained highly sensitive to short-term meteorological events, such as a sudden drop of temperatures, as well as early/late season snowfalls. These results highlight the critical role of glacier melt in maintaining streamflow during severe droughts and emphasize the need to integrate glacier dynamics into water management strategies for alpine areas facing increasingly frequent and intense drought events.",
-    "authors": [
-      "Martina Leone",
-      "Francesco Avanzi",
-      "Umberto Morra di Cella",
-      "Simone Gabellani",
-      "Edoardo Cremonese",
-      "Michel Isabellon",
-      "Paolo Pogliotti",
-      "Riccardo Scotti",
-      "Andrea Monti",
-      "Luca Ferraris",
-      "Roberto Colombo"
-    ],
-    "is_editorial": false,
-    "abstract_missing": false,
-    "always_include": false,
-    "score_boost": 0.0,
-    "score": 3.0,
-    "matched": [
-      "glacier"
-    ],
-    "published": "2026-07-23",
-    "first_seen": "2026-07-26"
-  },
-  {
-    "title": "A Workflow for the automatic Extraction of Glacier Contours from 4D Point Clouds",
-    "journal": "The international archives of the photogrammetry, remote sensing and spatial information sciences/International archives of the photogrammetry, remote sensing and spatial information sciences",
-    "source": "openalex:cryosphere",
-    "url": "https://doi.org/10.5194/isprs-archives-xlix-b2-2026-1035-2026",
-    "doi": "10.5194/isprs-archives-xlix-b2-2026-1035-2026",
-    "abstract": "Abstract. In this paper, we propose a basic workflow for the automatic extraction of glacier contours from high-resolution multi-temporal 3D point clouds. Based on the hypothesis, that glacier movements cause changes in multi-temporal surface models, glacier contours can be detected even in scenarios where glacier margins are not clearly visible, such as in the case of debris-covered glaciers and rock glaciers. After applying a robust registration algorithm, glacier and non-glacier points are filtered in several steps and spatial resolutions based on dense clusters of significantly changed points. Finally, the glacier margin is mapped using a contour extraction algorithm. The method is applied to various datasets in two scenarios: first, to a slightly debris-covered glacier in Norway; second, to a rock glacier in the Austrian Alps. The results clearly demonstrate the basic functionality of the proposed method. However, morphological changes not caused by glacier movement limit the effectiveness of the filtering, which relies exclusively on density-based elevation changes. Against this background, future work will focus on incorporating additional features, such as velocity fields and prior knowledge of rock glacier dynamics, into the point cloud filtering.",
-    "authors": [
-      "Steffen Isfort",
-      "Melanie Elias",
-      "Hans‐Gerd Maas"
-    ],
-    "is_editorial": false,
-    "abstract_missing": false,
-    "always_include": false,
-    "score_boost": 0.0,
-    "score": 3.0,
-    "matched": [
-      "glacier"
-    ],
-    "published": "2026-07-23",
-    "first_seen": "2026-07-26"
   },
   {
     "title": "Seasonal Seismic Velocity and Attenuation Variations in the Taklimakan Desert Inferred From Ambient and Traffic Noise",
@@ -3777,6 +3235,124 @@
     "first_seen": "2026-08-01"
   },
   {
+    "title": "New 2010 Maule Aftershock Catalog Reveals Structure of the Deep Subduction Interface",
+    "journal": "JGR Solid Earth",
+    "source": "rss:jgr-solidearth",
+    "url": "https://onlinelibrary.wiley.com/doi/10.1029/2025JB032839?af=R",
+    "doi": "10.1029/2025jb032839",
+    "abstract": "Journal of Geophysical Research: Solid Earth, Volume 131, Issue 8, August 2026.",
+    "authors": [
+      "C. Chalumeau",
+      "A. Rietbrock"
+    ],
+    "is_editorial": false,
+    "abstract_missing": false,
+    "always_include": false,
+    "score_boost": 0.0,
+    "score": 3.0,
+    "matched": [
+      "solid earth"
+    ],
+    "published": "2026-08-01",
+    "first_seen": "2026-08-03"
+  },
+  {
+    "title": "Extraction of Stable Empirical Green's Functions From Short‐Duration Ambient Noise Using a Physics‐Constrained Self‐Supervised Network",
+    "journal": "JGR Solid Earth",
+    "source": "rss:jgr-solidearth",
+    "url": "https://onlinelibrary.wiley.com/doi/10.1029/2026JB033827?af=R",
+    "doi": "10.1029/2026jb033827",
+    "abstract": "Journal of Geophysical Research: Solid Earth, Volume 131, Issue 8, August 2026.",
+    "authors": [
+      "Guiqi Fan",
+      "Yifan Yu",
+      "Tao Wang",
+      "Anrui Wei"
+    ],
+    "is_editorial": false,
+    "abstract_missing": false,
+    "always_include": false,
+    "score_boost": 0.0,
+    "score": 3.0,
+    "matched": [
+      "solid earth"
+    ],
+    "published": "2026-08-01",
+    "first_seen": "2026-08-03"
+  },
+  {
+    "title": "Thermochemical Controls on the X, 410, and 660 Discontinuities in the Central Mediterranean",
+    "journal": "JGR Solid Earth",
+    "source": "rss:jgr-solidearth",
+    "url": "https://onlinelibrary.wiley.com/doi/10.1029/2025JB033542?af=R",
+    "doi": "10.1029/2025jb033542",
+    "abstract": "Journal of Geophysical Research: Solid Earth, Volume 131, Issue 8, August 2026.",
+    "authors": [
+      "Luciana Bonatto",
+      "Stephen Monna",
+      "Caterina Montuori",
+      "Claudia Piromallo",
+      "Vernon Cormier"
+    ],
+    "is_editorial": false,
+    "abstract_missing": false,
+    "always_include": false,
+    "score_boost": 0.0,
+    "score": 3.0,
+    "matched": [
+      "solid earth"
+    ],
+    "published": "2026-08-01",
+    "first_seen": "2026-08-03"
+  },
+  {
+    "title": "Dislocation Bands and Subboundaries in Experimentally Deformed Olivine",
+    "journal": "JGR Solid Earth",
+    "source": "rss:jgr-solidearth",
+    "url": "https://onlinelibrary.wiley.com/doi/10.1029/2025JB033737?af=R",
+    "doi": "10.1029/2025jb033737",
+    "abstract": "Journal of Geophysical Research: Solid Earth, Volume 131, Issue 8, August 2026.",
+    "authors": [
+      "Ulrich Faul"
+    ],
+    "is_editorial": false,
+    "abstract_missing": false,
+    "always_include": false,
+    "score_boost": 0.0,
+    "score": 3.0,
+    "matched": [
+      "solid earth"
+    ],
+    "published": "2026-08-01",
+    "first_seen": "2026-08-03"
+  },
+  {
+    "title": "Sensitivity of Arctic mixed-phase cloud simulations to ice microphysical modifications in the WDM6 scheme of WRF (v4.3.1)",
+    "journal": "Geoscientific Model Development",
+    "source": "rss:gmd",
+    "url": "https://doi.org/10.5194/gmd-19-7069-2026",
+    "doi": "10.5194/gmd-19-7069-2026",
+    "abstract": "Arctic clouds containing both liquid droplets and ice crystals are difficult to simulate. We tested how ice-related changes in a weather model, designed for temperate regions, perform in the Arctic. Ice crystal shape is the dominant factor: making crystals spherical substantially reduces cloud ice and shifts it to snow. These modifications are moderate in temperate regions but stronger in the Arctic. As this rests on a single case, they should be validated across diverse cases and climates.",
+    "authors": [
+      "Hyun-Joon Sung",
+      "Kyo-Sun Lim",
+      "Song-You Hong",
+      "JiHoon Shin",
+      "Baek-Min Kim",
+      "Ji-Hun Choi"
+    ],
+    "is_editorial": false,
+    "abstract_missing": false,
+    "always_include": true,
+    "score_boost": 0.0,
+    "score": 3.0,
+    "matched": [
+      "Arctic"
+    ],
+    "published": "2026-08-03",
+    "first_seen": "2026-08-03"
+  },
+  {
     "title": "Untangling the effects of vertical mixing schemes  and convective adjustment in the Mediterranean  Sea: insights from a sensitivity study",
     "journal": "Geoscientific Model Development",
     "source": "rss:gmd",
@@ -4003,5 +3579,32 @@
     "matched": [],
     "published": "2026-07-30",
     "first_seen": "2026-07-31"
+  },
+  {
+    "title": "Precipitation nowcasting based on convolutional LSTM with spatio-temporal information transformation using multi-meteorological factors",
+    "journal": "Geoscientific Model Development",
+    "source": "rss:gmd",
+    "url": "https://doi.org/10.5194/gmd-19-7089-2026",
+    "doi": "10.5194/gmd-19-7089-2026",
+    "abstract": "Due to the limitations of past data-based models and the high cost of numerical weather prediction computing, accurately forecasting precipitation proximity remains challenging. A dual encoder-decoder framework is proposed to enhance short-term forecasting and reduce underestimation in extreme precipitation by using spatio-temporal information conversion equations and adaptive weighted gradient loss. Demonstrates better accuracy than existing deep learning methods in precipitation datasets.",
+    "authors": [
+      "Dufu Liu",
+      "Feihu Huang",
+      "Peng Zheng",
+      "Xiaomeng Huang",
+      "Xi Wu",
+      "Xia Yuan",
+      "Jiafeng Zheng",
+      "Xiaojie Li",
+      "Jing Hu"
+    ],
+    "is_editorial": false,
+    "abstract_missing": false,
+    "always_include": true,
+    "score_boost": 0.0,
+    "score": 0.0,
+    "matched": [],
+    "published": "2026-08-03",
+    "first_seen": "2026-08-03"
   }
 ]
