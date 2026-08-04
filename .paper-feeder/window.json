@@ -398,29 +398,29 @@
     "first_seen": "2026-07-31"
   },
   {
-    "title": "MAPCast: A Convection Allowing MPAS Emulator for Ensemble-based Background Error Covariance Estimation Toward Multi-Scale Data Assimilation",
-    "journal": "arXiv physics.ao-ph",
-    "source": "rss:arxiv-ao-ph",
-    "url": "https://arxiv.org/abs/2607.21917",
-    "doi": null,
-    "abstract": "arXiv:2607.21917v1 Announce Type: new Abstract: Machine learning (ML) emulators offer a cost-efficient alternative to numerical weather prediction models for generating convection-allowing background ensembles in ensemble-based data assimilation (DA). However, few studies have explored ML-based surrogate background ensembles for estimating background-error covariances (BECs). This study develops a convection-allowing emulator, MAPCast, trained on historical convection-allowing simulations from the Model for Prediction Across Scales (MPAS), and evaluates its ability to estimate BECs, paving the way toward multiscale DA. The evaluation uses 10 retrospective convective cases at 15- and 60-min forecast lead times corresponding to subhourly and hourly DA. MAPCast reproduces MPAS forecasts with good fidelity, including realistic storm coverage, temporal evolution, and similar spatial and spectral characteristics of state variables. Discrepancies are primarily confined to small spatial scales near sharp gradients and convective-scale features and variables. For BEC statistics, MAPCast captures ensemble spread magnitude and spatial distribution for most variables, although larger errors occur for storm-related fields that are vertical velocity and reflectivity. Correlation structures are reproduced most faithfully at mesoscale and above, followed by at convective scales, whereas cross-variable correlations are less accurately represented than univariate correlations, indicating that multivariate coupling remains the principal limitation. MAPCast shows weaker replication of full-scale versus decomposed large and small-scale correlations. BEC estimates derived from 15-min forecasts consistently outperform those from 60-min forecasts, suggesting that shorter lead times better preserve flow-dependent error structures.",
+    "title": "New classes of climate model emulators to  improve paleoclimate reconstructions",
+    "journal": "Geoscientific Model Development",
+    "source": "rss:gmd",
+    "url": "https://doi.org/10.5194/gmd-19-7135-2026",
+    "doi": "10.5194/gmd-19-7135-2026",
+    "abstract": "Reconstructing past climate variability requires computationally efficient models able to capture the behaviour of complex climate systems. We develop a suite of climate model emulators that improve the representation, reconstruction, and prediction of spatial climate variability compared to traditional approaches. Results highlight the importance of predictability-oriented representations and nonlinear dynamical memory for scalable emulators suited to paleoclimate data assimilation frameworks.",
     "authors": [
-      "Yongming Wang",
-      "Xuguang Wang"
+      "Auguste Gaudin",
+      "Myriam Khodri"
     ],
     "is_editorial": false,
     "abstract_missing": false,
-    "always_include": false,
+    "always_include": true,
     "score_boost": 0.0,
-    "score": 22.0,
+    "score": 23.0,
     "matched": [
+      "predictability",
+      "paleoclimate",
       "data assimilation",
-      "emulator",
-      "ensemble",
-      "machine learning"
+      "emulator"
     ],
-    "published": "2026-07-27",
-    "first_seen": "2026-07-27"
+    "published": "2026-08-04",
+    "first_seen": "2026-08-04"
   },
   {
     "title": "Modelling Future Evolution of the Antarctic Ice Sheet With Explainable Machine Learning",
@@ -660,34 +660,6 @@
     "first_seen": "2026-08-02"
   },
   {
-    "title": "Evolution of Maud Rise Polynya during the last 250 years – a multiproxy ice core reconstruction from coastal Dronning Maud Land, Antarctica",
-    "journal": "The Cryosphere",
-    "source": "rss:tc",
-    "url": "https://doi.org/10.5194/tc-20-4117-2026",
-    "doi": "10.5194/tc-20-4117-2026",
-    "abstract": "We present a 250-year reconstruction of the Maud Rise Polynya opening, using an ice core collected from coastal Antarctica. This polynya is considered a rare phenomenon in the Weddell Sea, with only two well-documented openings since the 1970s. However, our 250-year record reveals numerous past polynya events, including occurrences possibly comparable in scale to the Great Weddell Polynya of 1974–1976, suggesting that these openings are a part of the Southern Ocean's natural variability.",
-    "authors": [
-      "Rahul Dey",
-      "Chavarukonam M. Laluraj",
-      "Kenichi Matsuoka",
-      "Ashish Paiguinkar",
-      "Bhikaji L. Redkar",
-      "Meloth Thamban"
-    ],
-    "is_editorial": false,
-    "abstract_missing": false,
-    "always_include": true,
-    "score_boost": 0.0,
-    "score": 17.0,
-    "matched": [
-      "Antarctica",
-      "Southern Ocean",
-      "ice core"
-    ],
-    "published": "2026-07-27",
-    "first_seen": "2026-07-27"
-  },
-  {
     "title": "Canopy-mediated climate feedbacks in the boreal continuous permafrost zone",
     "journal": "Nature Climate Change",
     "source": "rss:nclimate",
@@ -783,34 +755,6 @@
     "first_seen": "2026-08-01"
   },
   {
-    "title": "Riukojietna, a small low-altitude ice cap that may have persisted through the Holocene: evidence from combining cosmogenic multi-nuclide dating and lacustrine sediment records",
-    "journal": "Climate of the Past",
-    "source": "rss:cp",
-    "url": "https://doi.org/10.5194/cp-22-1363-2026",
-    "doi": "10.5194/cp-22-1363-2026",
-    "abstract": "Did Scandinavian glaciers survive the warmer conditions of the early Holocene? Ice thickness measurements, proglacial lake sediment, and cosmogenic nuclides in bedrock alongside Riukojietna, a small low-elevation ice cap in northern Sweden, all combine to constrain a glacier advance and retreat history since 9.8 thousand years ago. Riukojietna was small but persisted through the early Holocene, illustrating that other but higher-elevation valley glaciers in the region may also have done so.",
-    "authors": [
-      "Arjen P. Stroeven",
-      "Gunhild C. Rosqvist",
-      "Alexandria J. Koester",
-      "Jane L. Andersen",
-      "Carl-Anton Wahlström",
-      "Nathaniel A. Lifton"
-    ],
-    "is_editorial": false,
-    "abstract_missing": false,
-    "always_include": false,
-    "score_boost": 0.0,
-    "score": 16.0,
-    "matched": [
-      "glacier",
-      "Holocene",
-      "cosmogenic"
-    ],
-    "published": "2026-07-27",
-    "first_seen": "2026-07-27"
-  },
-  {
     "title": "CMIP6-MedPlus dataset: climate projections for the Mediterranean region using statistical downscaling",
     "journal": "Earth System Science Data",
     "source": "rss:essd",
@@ -863,6 +807,91 @@
     ],
     "published": "2026-07-30",
     "first_seen": "2026-08-01"
+  },
+  {
+    "title": "The recent enhancement of the surface melt over the Antarctic Peninsula dictated by thermodynamics",
+    "journal": "Nature Communications",
+    "source": "rss:ncomms",
+    "url": "https://www.nature.com/articles/s41467-026-76310-z",
+    "doi": "10.1038/s41467-026-76310-z",
+    "abstract": "Nature Communications, Published online: 04 August 2026; doi:10.1038/s41467-026-76310-z Antarctic Peninsula surface melt reversed its decline, significantly increasing 3% year-1 from 2009–2022. This intensified melt is dictated primarily (80%) by surface energy budget thermodynamics, rather than changes in atmospheric circulation.",
+    "authors": [
+      "Qinglin Zhang",
+      "Baojuan Huai",
+      "Sai Wang",
+      "Brice Noël",
+      "Michiel R. van den Broeke",
+      "Xavier Fettweis",
+      "Christoph Kittel",
+      "Dahe Qin",
+      "Minghu Ding"
+    ],
+    "is_editorial": false,
+    "abstract_missing": false,
+    "always_include": false,
+    "score_boost": 0.0,
+    "score": 15.0,
+    "matched": [
+      "Antarctic",
+      "surface melt"
+    ],
+    "published": null,
+    "first_seen": "2026-08-04"
+  },
+  {
+    "title": "Non-stationary time series attribution for heatwaves over Europe",
+    "journal": "arXiv physics.ao-ph",
+    "source": "rss:arxiv-ao-ph",
+    "url": "https://arxiv.org/abs/2601.05841",
+    "doi": null,
+    "abstract": "arXiv:2601.05841v3 Announce Type: replace Abstract: The increasing occurrence of extreme weather events since the beginning of the 21st century has led to the development of new methods to attribute extreme events to anthropogenic climate change. The way in which the extreme event is defined has a major influence on the attribution result. A frequently overlooked aspect concerns the temporal dependence of extremes. This study presents an approach for attributing complete time series during extreme events to anthropogenic forcing. The approach is based on a non-stationary Markov process using bivariate extreme value theory to model the temporal dependence of the time series. We calculate the likelihood ratio of an observational time series from ERA5 given the distributions as estimated from CMIP6 simulations with historical natural-only and natural and anthropogenic forcing scenarios. The spatial fields are condensed by the extremal pattern index (EPI) as a compact description of spatial extremes. In addition, the study examines the extent to which attribution statements about the occurrence of extreme heat events change when the effect of the mean warming is eliminated. The resulting attribution statement provides very strong evidence for the scenario with anthropogenic drivers over Europe, especially since the beginning of the 21st century. For central and southern Europe, the influence of anthropogenic greenhouse gas emissions on heatwaves could already have been proven in the 1960s using today's knowledge. There is no reliable signal apart from a general shift in the temperature distribution, neither in terms of the temporal dependence of extreme heat days nor in terms of the shape of the extreme value distribution.",
+    "authors": [
+      "Pascal Meurer",
+      "Sebastian Buschow",
+      "Svenja Szemkus",
+      "Petra Friederichs"
+    ],
+    "is_editorial": false,
+    "abstract_missing": false,
+    "always_include": false,
+    "score_boost": 0.0,
+    "score": 15.0,
+    "matched": [
+      "CMIP",
+      "greenhouse gas",
+      "heat wave",
+      "extreme event",
+      "climate change"
+    ],
+    "published": "2026-08-04",
+    "first_seen": "2026-08-04"
+  },
+  {
+    "title": "Physics constraints and response validation in discrete-time reduced-order modeling: from idealized turbulent systems to climate dynamics",
+    "journal": "arXiv physics.ao-ph",
+    "source": "rss:arxiv-ao-ph",
+    "url": "https://arxiv.org/abs/2602.13847",
+    "doi": null,
+    "abstract": "arXiv:2602.13847v5 Announce Type: replace-cross Abstract: A central challenge across science and engineering is to build data-driven reduced-order models of turbulent dynamical systems that reproduce stationary statistics, predict responses to external perturbations, and remain practical for real-world applications. To this end, we introduce an abstract discrete-time formulation of turbulent dynamical systems with exact energy-conserving nonlinearities. Parameterizing this structure with neural networks yields stable, physics-constrained reduced-order models. We then use the fluctuation-dissipation theorem (FDT) to validate the emulators' forced responses from unperturbed data alone, testing models beyond stationary statistics. The FDT also identifies candidate direct causal links, which are used as regularization terms only when they pass validation. We first test the framework on two idealized models of geophysical turbulence: the proposed emulators reproduce stationary statistics and accurately predict responses to weak and strong forcings, despite being trained solely on unperturbed data. We then move beyond idealized systems to model tropical climate dynamics from reanalysis data, where data scarcity, partial observability, and sensitivity to choices of stochastic parameterizations become central challenges. The resulting physics-constrained model reproduces key statistics of the El Ni\\~no-Southern Oscillation (ENSO) and qualitatively captures its cumulative responses to perturbations; augmenting it with a non-Markovian stochastic closure substantially improves quantitative agreement with the FDT benchmark. This response-validated model is then used to characterize long-term causal drivers of ENSO variability. The proposed methodology establishes a modular framework for stable reduced-order models capable of probing causal mechanisms in realistic, partially observed turbulent systems.",
+    "authors": [
+      "Fabrizio Falasca",
+      "Laure Zanna"
+    ],
+    "is_editorial": false,
+    "abstract_missing": false,
+    "always_include": false,
+    "score_boost": 0.0,
+    "score": 15.0,
+    "matched": [
+      "dynamical system",
+      "climate dynamics",
+      "reanalysis",
+      "parameterization",
+      "emulator",
+      "neural network"
+    ],
+    "published": "2026-08-04",
+    "first_seen": "2026-08-04"
   },
   {
     "title": "The dynamic response of Pine Island Glacier to two decades of intermittent ice shelf regrounding",
@@ -1203,36 +1232,38 @@
     "first_seen": "2026-08-01"
   },
   {
-    "title": "Anomalous Diffusion of Tropical Cyclones Observed in Huge Ensembles of Hindcasts",
-    "journal": "arXiv physics.ao-ph",
-    "source": "rss:arxiv-ao-ph",
-    "url": "https://arxiv.org/abs/2607.21954",
-    "doi": null,
-    "abstract": "arXiv:2607.21954v1 Announce Type: new Abstract: We examine whether tropical cyclones (TCs) obey ordinary Brownian or anomalous diffusion using a huge ensemble (HENS) of hindcasts for summer 2023. Anomalous diffusion has been inferred for actual TCs from the fluctuations in their tracks from the shortest paths between the initiation and termination of each cyclone. We reproduce the same anomalous diffusion power laws connecting spatial position and time using HENS. In addition, we show that the variance in the position of a single TC across HENS since initiation follows a scaling law with time that, in some cases, corresponds to ballistic motion of the TC through the background atmospheric flow. This determination was enabled by the exceptional statistics determined from thousands of plausible yet counterfactual recreations of 34 individual TCs. HENS consists of 7424 15-day hindcasts initiated from observed atmospheric conditions each day from June 1, 2023 to August 31, 2023 using the ECMWF ERA5 meteorological reanalysis. The hindcasts were generated using NVIDIA's Spherical Fourier Neural Operator (SFNO) machine-learning-based weather and climate emulator. We identify tropical cyclones in HENS using a variant of the Tempest Extremes detection and tracking frameworks for TCs with adjustments to the disposable parameters to minimize the numbers of false positives and negatives relative to the International Best Track Archive for Climate Stewardship (IBTrACS) records for TCs observed in summer 2023. We conclude with the implications of our findings for the predictability of TC tracks and landfall locations on lead times of days to weeks.",
+    "title": "Reduced Complexity Model Intercomparison Project phase 3: experimental protocol for coordinated constraining  and evaluation of reduced-complexity models",
+    "journal": "Geoscientific Model Development",
+    "source": "rss:gmd",
+    "url": "https://doi.org/10.5194/gmd-19-7111-2026",
+    "doi": "10.5194/gmd-19-7111-2026",
+    "abstract": "Reduced-complexity models are an important tool in climate science, helping us understand and estimate future climate change. We present the experimental protocol for the next phase of the reduced-complexity model intercomparison project, which aims to compare results from many such models to better understand their behaviour. This knowledge will guide how these models are developed and used in the future, including in the upcoming Intergovernmental Panel on Climate Change (IPCC) assessment report (AR7).",
     "authors": [
-      "Abdoul R. Zeba",
-      "William D. Collins",
-      "Ankur Mahesh",
-      "Boris Bonev",
-      "Karthik Kashinath",
-      "Thorsten Kurth",
-      "Michael S. Pritchard",
-      "Shashank Subramanian"
+      "Alejandro Romero-Prieto",
+      "Marit Sandstad",
+      "Benjamin M. Sanderson",
+      "Zebedee R. J. Nicholls",
+      "Norman J. Steinert",
+      "Thomas Gasser",
+      "Camilla Mathison",
+      "Jarmo Kikstra",
+      "Thomas J. Aubry",
+      "Katsumasa Tanaka",
+      "Konstantin Weber",
+      "Chris Smith"
     ],
     "is_editorial": false,
     "abstract_missing": false,
-    "always_include": false,
+    "always_include": true,
     "score_boost": 0.0,
-    "score": 10.0,
+    "score": 11.0,
     "matched": [
-      "predictability",
-      "reanalysis",
-      "emulator",
-      "ensemble",
-      "machine learning"
+      "model intercomparison",
+      "climate change",
+      "IPCC"
     ],
-    "published": "2026-07-27",
-    "first_seen": "2026-07-27"
+    "published": "2026-08-03",
+    "first_seen": "2026-08-04"
   },
   {
     "title": "Integrating meteorological forcings and satellite-derived observations to emulate snow water equivalent in the Colorado Rocky Mountains using a spatiotemporal deep learning model",
@@ -1479,6 +1510,71 @@
     "first_seen": "2026-08-03"
   },
   {
+    "title": "FESOM2-JAX v1.0: a differentiable shadow of the ocean-sea-ice model FESOM2, cast onto GPUs",
+    "journal": "arXiv physics.ao-ph",
+    "source": "rss:arxiv-ao-ph",
+    "url": "https://arxiv.org/abs/2608.01546",
+    "doi": null,
+    "abstract": "arXiv:2608.01546v1 Announce Type: new Abstract: We present FESOM2-JAX, a Python re-implementation of the Finite-volumE Sea ice-Ocean Model (FESOM2) in JAX. The model retains the unstructured-mesh, cell-vertex finite-volume formulation of the original, runs unchanged from a laptop CPU to 256 GPUs, and is end-to-end differentiable. FESOM2-JAX is a code shadow of the Fortran model: a projection onto the Python ecosystem, translated with large language models and verified kernel by kernel against the original. It is built to lower the barrier to experimentation, from new numerics and parameterizations to gradient-based calibration and hybrid physics-machine-learning components, while remaining close enough to the original so that what is developed in the shadow can be transferred back. In a 1958-2019 hindcast at 1$^{\\circ}$ equivalent resolution with identical physics and forcing, the mean states of the JAX and Fortran versions differ from each other by two orders of magnitude less than either differs from observations, and the two runs agree for six decades in global temperature, salinity, heat content, and sea ice. The complete 1$^{\\circ}$ configuration fits on a single GPU, a node of four GH200 superchips integrates $\\sim$113 simulated years per wall-clock day, and meshes of up to 7.4 million surface vertices ($\\sim$5 km) scale to 128 GPUs. What limits the model is communication rather than arithmetic. What the shadow adds to the original is the gradient: a single reverse-mode pass through the full time loop returns the sensitivity of a model diagnostic to a parameter at every mesh vertex, verified against finite differences. To our knowledge, FESOM2-JAX is the first global ocean-sea-ice model of CMIP-class complexity written natively in a differentiable framework, and the first on an unstructured mesh.",
+    "authors": [
+      "Nikolay V. Koldunov",
+      "Sergey Danilov",
+      "Suvarchal Cheedela",
+      "Dmitry Sidorenko",
+      "Sebastian Beyer",
+      "Patrick Scholz",
+      "Ivan Kuznetsov",
+      "Jan Streffing",
+      "Aleksei Koldunov",
+      "Dmitrii Pantiukhin",
+      "Svetlana N. Loza",
+      "Thomas Jung"
+    ],
+    "is_editorial": false,
+    "abstract_missing": false,
+    "always_include": false,
+    "score_boost": 0.0,
+    "score": 8.0,
+    "matched": [
+      "sea ice",
+      "CMIP",
+      "unstructured mesh",
+      "parameterization",
+      "machine learning"
+    ],
+    "published": "2026-08-04",
+    "first_seen": "2026-08-04"
+  },
+  {
+    "title": "NORi: An ML-Augmented Ocean Boundary Layer Parameterization",
+    "journal": "arXiv physics.ao-ph",
+    "source": "rss:arxiv-ao-ph",
+    "url": "https://arxiv.org/abs/2512.04452",
+    "doi": null,
+    "abstract": "arXiv:2512.04452v3 Announce Type: replace Abstract: NORi is a machine learning (ML) parameterization of ocean boundary layer turbulence that is physics-based and augmented with neural networks. NORi stands for neural ordinary differential equations (NODEs) Richardson number (Ri) closure. The physical parameterization is controlled by a Richardson number-dependent diffusivity and viscosity. The neural ODEs are trained to capture the entrainment through the base of the boundary layer, which cannot be represented with a local diffusive closure. The parameterization is trained using large-eddy simulations in an a posteriori fashion, where parameters are calibrated with a loss function that explicitly depends on the actual time-integrated variables of interest rather than the instantaneous subgrid fluxes, which are inherently noisy. NORi conserves tracers by design, uses realistic nonlinear thermodynamics, and demonstrates excellent prediction and generalization capabilities in capturing entrainment dynamics under different convective strengths, background stratifications, rotation, and wind forcings. NORi is shown to simulate the seasonal evolution of the boundary layer at Ocean Weather Station Papa with similar performance to the state-of-the-art two-equation k-epsilon closure. When implemented in a double-gyre simulation, it is numerically stable for at least 100 years, despite only being trained on two-day horizons, and can be run with time steps as long as one hour. Combining highly expressive neural networks with a physically grounded base closure proves to be a robust paradigm for designing parameterizations for climate models: data required and training cost are drastically reduced, inference performance can be directly optimized as a primary objective, and numerical stability is implicitly promoted through training.",
+    "authors": [
+      "Xin Kai Lee",
+      "Ali Ramadhan",
+      "Andre Souza",
+      "Gregory LeClaire Wagner",
+      "Simone Silvestri",
+      "John Marshall",
+      "Raffaele Ferrari"
+    ],
+    "is_editorial": false,
+    "abstract_missing": false,
+    "always_include": false,
+    "score_boost": 0.0,
+    "score": 8.0,
+    "matched": [
+      "parameterization",
+      "machine learning",
+      "neural network"
+    ],
+    "published": "2026-08-04",
+    "first_seen": "2026-08-04"
+  },
+  {
     "title": "Assessing glacier dynamics and thermal variability through remote sensing and local perception",
     "journal": "Frontiers in Water",
     "source": "openalex:cryosphere",
@@ -1565,32 +1661,28 @@
     "first_seen": "2026-08-03"
   },
   {
-    "title": "Mass Loss From Thwaites Glacier Continues Even Without Ocean Melting",
-    "journal": "Geophysical Research Letters",
-    "source": "rss:grl",
-    "url": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2026GL122843?af=R",
-    "doi": "10.1029/2026gl122843",
-    "abstract": "Geophysical Research Letters, Volume 53, Issue 14, 28 July 2026.",
+    "title": "Retrieving Tropical Cyclone Intensity from Climate Reanalysis using Deep Learning",
+    "journal": "arXiv physics.ao-ph",
+    "source": "rss:arxiv-ao-ph",
+    "url": "https://arxiv.org/abs/2511.05392",
+    "doi": null,
+    "abstract": "arXiv:2511.05392v2 Announce Type: replace Abstract: Traditional methods for improving tropical cyclone (TC) intensity from climate model outputs or projections have primarily relied on either dynamical or statistical downscaling. With recent advances in deep learning (DL) techniques, an important question is how DL can provide an alternative approach for enhancing TC intensity and structure retrieval from climate data. Using a common DL architecture based on convolutional neural networks (CNN) and a set of key environmental features relevant to TCs, we show that TC intensity and size can be effectively retrieved from climate reanalysis data without requiring super-resolution enhancement as in previous studies, even when applied to coarse-resolution climate data. This approach allows for retrieving TC intensity metrics and size that are dynamically constrained by the data, rather than estimating these quantities independently. Our results highlight that TC intensity and size are governed not only by TC internal processes but also by local environments during TC development for which DL models can learn and capture. The performance of our DL model depends on several factors such as season, the stage of TC development, or ocean basins, with root-mean-square errors ranging from $\\approx$8-10 m s$^{-1}$ for the maximum 10-m wind, $\\approx$10-13 hPa for minimum central pressure, and $\\approx$13-21 km for the radius of the maximum wind. Although these errors are better than any direct vortex detection or statistical downscaling methods applied to the same data, their wide ranges also suggest that a 0.5$^\\circ$-resolution climate data may contain limited TC information for DL models to learn from, regardless of model optimizations or architectures. Possible improvements and challenges in addressing the lack of fine-scale TC information in coarse-resolution climate reanalysis datasets are discussed.",
     "authors": [
-      "C. Rosie Williams",
-      "Matt Trevers",
-      "Sainan Sun",
-      "Paul R. Holland",
-      "David T. Bett",
-      "Robert J. Arthern",
-      "Alexander T. Bradley"
+      "Minh-Khanh Luong",
+      "Chanh Kieu"
     ],
     "is_editorial": false,
     "abstract_missing": false,
     "always_include": false,
     "score_boost": 0.0,
-    "score": 6.0,
+    "score": 7.0,
     "matched": [
-      "glacier",
-      "mass loss"
+      "reanalysis",
+      "neural network",
+      "downscaling"
     ],
-    "published": "2026-07-25",
-    "first_seen": "2026-07-27"
+    "published": "2026-08-04",
+    "first_seen": "2026-08-04"
   },
   {
     "title": "Constraining eruption timing and duration at Taranaki volcano, New Zealand, using Late Holocene stalagmites",
@@ -1894,183 +1986,6 @@
     ],
     "published": "2026-08-03",
     "first_seen": "2026-08-03"
-  },
-  {
-    "title": "An agent-guided peptide hydrogel bio-stabilizer clamps pericellular viscoelastic drift",
-    "journal": "Nature Communications",
-    "source": "rss:ncomms",
-    "url": "https://www.nature.com/articles/s41467-026-76070-w",
-    "doi": "10.1038/s41467-026-76070-w",
-    "abstract": "Nature Communications, Published online: 27 July 2026; doi:10.1038/s41467-026-76070-w Here, the authors present ViscoClamp, a hydrogel that stabilizes the local mechanical environment around cells, restores bone-forming activity under diabetes-related stress, and improves jaw and skull bone repair in animal models.",
-    "authors": [
-      "Xiao Wei",
-      "Liqiang Zhang",
-      "Zhuo Chang",
-      "Fan Ding",
-      "Ziyan Qu",
-      "Jianghao Chen",
-      "Guangkui Xu",
-      "Wangxiao He",
-      "Wenjia Liu"
-    ],
-    "is_editorial": false,
-    "abstract_missing": false,
-    "always_include": false,
-    "score_boost": 0.0,
-    "score": 4.0,
-    "matched": [
-      "viscoelastic"
-    ],
-    "published": null,
-    "first_seen": "2026-07-27"
-  },
-  {
-    "title": "Extreme Events Reshape Flood Hazards Through Sediment‐Induced Channel Change in Southern Taiwan",
-    "journal": "Geophysical Research Letters",
-    "source": "rss:grl",
-    "url": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2026GL122788?af=R",
-    "doi": "10.1029/2026gl122788",
-    "abstract": "Geophysical Research Letters, Volume 53, Issue 14, 28 July 2026.",
-    "authors": [
-      "B. Santos",
-      "B. Yanites",
-      "C. DeLisle",
-      "R. Chuang",
-      "Y. Lin"
-    ],
-    "is_editorial": false,
-    "abstract_missing": false,
-    "always_include": false,
-    "score_boost": 0.0,
-    "score": 4.0,
-    "matched": [
-      "extreme event"
-    ],
-    "published": "2026-07-25",
-    "first_seen": "2026-07-27"
-  },
-  {
-    "title": "Distinct Roles of Arctic Sea Ice and Global Sea Surface Temperatures in the Phased Evolution of the Winter Arctic–Midlatitude Air Temperature Linkage",
-    "journal": "JGR Atmospheres",
-    "source": "rss:jgr-atmospheres",
-    "url": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2026JD047036?af=R",
-    "doi": "10.1029/2026jd047036",
-    "abstract": "Journal of Geophysical Research: Atmospheres, Volume 131, Issue 14, 28 July 2026.",
-    "authors": [
-      "Haobin Zheng",
-      "Bingyi Wu",
-      "Qikai Yu",
-      "Xiang Zhang"
-    ],
-    "is_editorial": false,
-    "abstract_missing": false,
-    "always_include": false,
-    "score_boost": 0.0,
-    "score": 4.0,
-    "matched": [
-      "Arctic",
-      "sea ice"
-    ],
-    "published": "2026-07-25",
-    "first_seen": "2026-07-27"
-  },
-  {
-    "title": "Climate Modes evaluation datasets from CMIP6 pre-industrial control simulations and observations",
-    "journal": "Earth System Science Data",
-    "source": "rss:essd",
-    "url": "https://doi.org/10.5194/essd-18-5463-2026",
-    "doi": "10.5194/essd-18-5463-2026",
-    "abstract": "This study provides a new open-access datasets that capture how natural climate patterns shape the global climate. The datasets are built from climate model simulations and observations, allowing researcher to see how well models reproduce natural climate behaviour. Our openly available datasets will help researchers to better distinguish natural climate variability from human-caused changes. These resources also provide a foundation for improving climate models and long-term projections.",
-    "authors": [
-      "Sandeep Mohapatra",
-      "Alex Sen Gupta",
-      "Nathaniel L. Bindoff",
-      "Yuxuan Lyu"
-    ],
-    "is_editorial": false,
-    "abstract_missing": false,
-    "always_include": false,
-    "score_boost": 0.0,
-    "score": 4.0,
-    "matched": [
-      "CMIP"
-    ],
-    "published": "2026-07-27",
-    "first_seen": "2026-07-27"
-  },
-  {
-    "title": "Replacing Tunable Parameters in Weather and Climate Models with State-Dependent Functions using Reinforcement Learning",
-    "journal": "arXiv physics.ao-ph",
-    "source": "rss:arxiv-ao-ph",
-    "url": "https://arxiv.org/abs/2601.04268",
-    "doi": null,
-    "abstract": "arXiv:2601.04268v3 Announce Type: replace-cross Abstract: Weather and climate models rely on parametrisations to represent unresolved sub-grid processes. Traditional schemes rely on fixed coefficients that are weakly constrained and tuned offline, contributing to persistent biases that limit their ability to adapt to underlying physics. This study presents a framework that learns components of parametrisation schemes online as a function of the evolving model state using reinforcement learning (RL) and evaluates policy-driven parameter updates across idealised testbeds spanning a simple climate bias correction (SCBC), a radiative-convective equilibrium (RCE), and a zonal mean energy balance model (EBM) with single-agent and federated multi-agent settings. Across nine RL algorithms, Truncated Quantile Critics (TQC), Deep Deterministic Policy Gradient (DDPG), and Twin Delayed DDPG (TD3) achieved the highest skill and stable convergence, with performance assessed against a static baseline using area-weighted RMSE, temperature and pressure-level diagnostics. For the EBM, single-agent RL outperformed static parameter tuning with the strongest gains in tropical and mid-latitude bands, while federated RL on multi-agent setups enabled specialised control and faster convergence, with a six-agent DDPG configuration using frequent aggregation yielding the lowest area-weighted RMSE across the tropics and mid-latitudes. The learnt corrections were also physically meaningful as agents modulated EBM radiative parameters to reduce meridional biases, adjusted RCE lapse rates to match vertical temperature errors, and stabilised heating increments to limit drift. Overall, results show that RL can learn skilful state-dependent parametrisation components in idealised settings, offering a scalable pathway for online learning within numerical models and a starting point for evaluation in weather and climate models.",
-    "authors": [
-      "Pritthijit Nath",
-      "Sebastian Schemm",
-      "Henry Moss",
-      "Peter Haynes",
-      "Emily Shuckburgh",
-      "Mark J. Webb"
-    ],
-    "is_editorial": false,
-    "abstract_missing": false,
-    "always_include": false,
-    "score_boost": 0.0,
-    "score": 4.0,
-    "matched": [
-      "energy balance model",
-      "numerical method"
-    ],
-    "published": "2026-07-27",
-    "first_seen": "2026-07-27"
-  },
-  {
-    "title": "LSTM-based weighted approach for TMY generation in extreme Antarctic climate",
-    "journal": "Energy",
-    "source": "openalex:cryosphere",
-    "url": "https://doi.org/10.1016/j.energy.2026.142034",
-    "doi": "10.1016/j.energy.2026.142034",
-    "abstract": null,
-    "authors": [
-      "Guanjie Zhang",
-      "Wen Yang",
-      "J R Liu"
-    ],
-    "is_editorial": false,
-    "abstract_missing": true,
-    "always_include": false,
-    "score_boost": 0.0,
-    "score": 4.0,
-    "matched": [
-      "Antarctic"
-    ],
-    "published": "2026-07-21",
-    "first_seen": "2026-07-27"
-  },
-  {
-    "title": "Apparent calcification depths of planktonic foraminifera in the Soledad Basin (Eastern Tropical North Pacific): Implications for reconstructing upper-ocean thermal structure",
-    "journal": "Marine Micropaleontology",
-    "source": "openalex:paleoclimate",
-    "url": "https://doi.org/10.1016/j.marmicro.2026.102605",
-    "doi": "10.1016/j.marmicro.2026.102605",
-    "abstract": null,
-    "authors": [
-      "Christina Treinen-Crespo",
-      "José D. Carriquiry",
-      "Erika Lee-Sánchez",
-      "Ángel Nahir Molina-Guadarrama"
-    ],
-    "is_editorial": false,
-    "abstract_missing": true,
-    "always_include": false,
-    "score_boost": 0.0,
-    "score": 4.0,
-    "matched": [
-      "foraminifera"
-    ],
-    "published": "2026-07-21",
-    "first_seen": "2026-07-27"
   },
   {
     "title": "Tectonic Tremor Reveals Slow Deformation Along the Antarctic–South American Subduction Zone",
@@ -2489,163 +2404,55 @@
     "first_seen": "2026-08-02"
   },
   {
-    "title": "Seasonal Seismic Velocity and Attenuation Variations in the Taklimakan Desert Inferred From Ambient and Traffic Noise",
-    "journal": "JGR Solid Earth",
-    "source": "rss:jgr-solidearth",
-    "url": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2026JB034033?af=R",
-    "doi": "10.1029/2026jb034033",
-    "abstract": "Journal of Geophysical Research: Solid Earth, Volume 131, Issue 7, July 2026.",
+    "title": "Multidecadal behavior of the North Atlantic Oscillation during the last millennium",
+    "journal": "Climate of the Past",
+    "source": "rss:cp",
+    "url": "https://doi.org/10.5194/cp-22-1423-2026",
+    "doi": "10.5194/cp-22-1423-2026",
+    "abstract": "The North Atlantic Oscillation (NAO) is an important driver of year-to-year weather variability in Europe and North America, but its behavior on longer timescales is disputed. We present a new reconstruction of the NAO over the last millennium using water isotope proxy data from ice cores, speleothems, trees, and other archives. We find pronounced but irregular multidecadal to centennial variability. Better accounting for such variability in climate models is crucial to better project future climate.",
     "authors": [
-      "Lulu Zhao",
-      "Haoran Meng",
-      "Xiaofeng Liang",
-      "Wentao Li",
-      "Xiuyu Liang"
+      "Andrew A. Flaim",
+      "Bronwen L. Konecky",
+      "Sloan Coats"
     ],
     "is_editorial": false,
     "abstract_missing": false,
     "always_include": false,
     "score_boost": 0.0,
-    "score": 3.0,
+    "score": 4.0,
     "matched": [
-      "solid earth"
+      "ice core",
+      "proxy"
     ],
-    "published": "2026-07-25",
-    "first_seen": "2026-07-27"
+    "published": "2026-08-04",
+    "first_seen": "2026-08-04"
   },
   {
-    "title": "The Anatomy of a Modern Cordillera Style Mountain System: Northern Chile and Argentina",
-    "journal": "JGR Solid Earth",
-    "source": "rss:jgr-solidearth",
-    "url": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2026JB034475?af=R",
-    "doi": "10.1029/2026jb034475",
-    "abstract": "Journal of Geophysical Research: Solid Earth, Volume 131, Issue 7, July 2026.",
+    "title": "Differential organic matter accumulation and preservation in the quaternary driven by the East Asian Monsoon",
+    "journal": "Global and Planetary Change",
+    "source": "openalex:paleoclimate",
+    "url": "https://doi.org/10.1016/j.gloplacha.2026.105638",
+    "doi": "10.1016/j.gloplacha.2026.105638",
+    "abstract": null,
     "authors": [
-      "Jim Bradford",
-      "Susan Beck",
-      "Eric Kiser",
-      "Ryan Porter",
-      "Sankha Subhra Mahanti",
-      "Sebastion Tauber",
-      "Martin Fernandez",
-      "Gustavo Ortiz",
-      "Mauro Saez",
-      "Diana Comte",
-      "Sergio Leon‐Rios",
-      "Valentina Reyes‐Wagner",
-      "Steve Roecker",
-      "Ariane Maharaj"
+      "Mingxuan Zhang",
+      "Detian Yan",
+      "Jikang Wang",
+      "Hao Huang",
+      "Dong Ni",
+      "云苏和",
+      "Peter Douglas"
     ],
     "is_editorial": false,
-    "abstract_missing": false,
+    "abstract_missing": true,
     "always_include": false,
     "score_boost": 0.0,
-    "score": 3.0,
+    "score": 4.0,
     "matched": [
-      "solid earth"
+      "Quaternary"
     ],
-    "published": "2026-07-25",
-    "first_seen": "2026-07-27"
-  },
-  {
-    "title": "The Role of Crustal Rheology and Mantle Fluids on the Interseismic Behavior of the Main Marmara Fault",
-    "journal": "JGR Solid Earth",
-    "source": "rss:jgr-solidearth",
-    "url": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025JB032574?af=R",
-    "doi": "10.1029/2025jb032574",
-    "abstract": "Journal of Geophysical Research: Solid Earth, Volume 131, Issue 7, July 2026.",
-    "authors": [
-      "N. Fernandez",
-      "M. Cacace",
-      "M. Scheck‐Wenderoth"
-    ],
-    "is_editorial": false,
-    "abstract_missing": false,
-    "always_include": false,
-    "score_boost": 0.0,
-    "score": 3.0,
-    "matched": [
-      "solid earth"
-    ],
-    "published": "2026-07-25",
-    "first_seen": "2026-07-27"
-  },
-  {
-    "title": "A pan-Arctic pigment database for  phytoplankton and sea–ice algae",
-    "journal": "Earth System Science Data",
-    "source": "rss:essd",
-    "url": "https://doi.org/10.5194/essd-18-5505-2026",
-    "doi": "10.5194/essd-18-5505-2026",
-    "abstract": "Algal pigments are widely used to quantify algal biomass and composition. These organisms form the basis of marine food webs and are vital for the wider ecosystem. Here, we present a pan-Arctic dataset of algal pigments, containing 10 798 measurements collected between 2000 and 2024. This publicly available dataset represents an international collaborative effort and provides an important resource for assessing environmental change and advancing future Arctic ecological and modelling studies.",
-    "authors": [
-      "Asta C. Heidemann",
-      "Alexander Hayward",
-      "Philipp Assmy",
-      "Atreya Basu",
-      "Astrid Bracher",
-      "Giulia Castellani",
-      "Giacomo Ditullio",
-      "Katarzyna Dragańska-Deja",
-      "Amane Fujiwara",
-      "Glaucia Moreira Fragoso",
-      "Jacob Høyer",
-      "Jiwoon Hwang",
-      "Morten Iversen",
-      "Anabel von Jackowski",
-      "Thomas Juul-Pedersen",
-      "Piotr Kowalczuk",
-      "Youngju Lee",
-      "Maria A. van Leeuwe",
-      "Atsushi Matsuoka",
-      "Alenya Merz",
-      "Christopher John Mundy",
-      "Else Ostermann",
-      "Ilka Peeken",
-      "Matt Pinkerton",
-      "Joanna Stoń-Egiert",
-      "Jacqueline Stefels",
-      "Antonia U. Thielecke",
-      "Gaëlle Veyssiere",
-      "Hongyan Xi",
-      "Eun Jin Yang",
-      "Rafael Gonçalves-Araujo"
-    ],
-    "is_editorial": false,
-    "abstract_missing": false,
-    "always_include": false,
-    "score_boost": 0.0,
-    "score": 3.0,
-    "matched": [
-      "Arctic"
-    ],
-    "published": "2026-07-27",
-    "first_seen": "2026-07-27"
-  },
-  {
-    "title": "GraphCast Skill and Systematic Biases in Indian Summer Monsoon Forecasts: Evaluation Against ERA5 and IMERG",
-    "journal": "arXiv physics.ao-ph",
-    "source": "rss:arxiv-ao-ph",
-    "url": "https://arxiv.org/abs/2607.11905",
-    "doi": null,
-    "abstract": "arXiv:2607.11905v2 Announce Type: replace Abstract: The Indian Summer Monsoon (ISM) is one of the most dynamically complex components of the global climate system, yet its accurate prediction remains challenging for both physics-based and emerging AI weather models. We present a climatological evaluation of Google's GraphCast against ERA5 reanalysis and the Integrated Multi-satellitE Retrievals for GPM (IMERG) precipitation dataset during the boreal summer (June-September, JJAS) for 2021-2024. Deterministic GraphCast forecasts initialized at 00 UTC are composited to evaluate +24 h, +48 h, and +72 h lead times over the full ISM domain. The analysis examines the climatological mean state (rainfall, surface temperature, and low-level winds), rainfall intensity distribution, thermodynamic structure (tropospheric temperature gradient, DTT; apparent heat source and moisture sink, Q1 and Q2), monsoon dynamics (vertical wind shear), and rainfall variability across intraseasonal, synoptic, and spectral timescales. GraphCast reproduces the broad spatial pattern and seasonal evolution of monsoon rainfall with good fidelity at short lead times but exhibits a domain-averaged wet bias over the core monsoon region. It also substantially suppresses rainfall variability across nearly all timescales (regional power-spectrum variance ratio of 0.14 relative to IMERG) and produces a compressed rainfall intensity distribution, overestimating moderately heavy rainfall (95th percentile) while systematically underrepresenting the most extreme events. These biases are accompanied by a deficient lower-tropospheric Q1 profile and weaker northward-propagating intraseasonal variability. Together, the results reveal a consistent deterministic-smoothing signature in GraphCast's precipitation forecasts and provide benchmark diagnostics for evaluating next-generation AI weather models for tropical medium-range forecasting (+24 h to +72 h).",
-    "authors": [
-      "Somnath Luitel",
-      "Parthasarathi Mukhopadhyay",
-      "Manmeet Singh",
-      "Sandeep Juneja",
-      "Saptarishi Dhanuka"
-    ],
-    "is_editorial": false,
-    "abstract_missing": false,
-    "always_include": false,
-    "score_boost": 0.0,
-    "score": 3.0,
-    "matched": [
-      "reanalysis",
-      "extreme event"
-    ],
-    "published": "2026-07-27",
-    "first_seen": "2026-07-27"
+    "published": "2026-07-29",
+    "first_seen": "2026-08-04"
   },
   {
     "title": "Effects of Phase Interconnection and Chemical Interactions on the Strength of Experimentally Deformed Quartz‐Phlogopite Mixtures",
@@ -3351,6 +3158,80 @@
     ],
     "published": "2026-08-03",
     "first_seen": "2026-08-03"
+  },
+  {
+    "title": "Arctic bimodality reflects enhanced variability in the clear-cloudy transition rather than bistability",
+    "journal": "arXiv physics.ao-ph",
+    "source": "rss:arxiv-ao-ph",
+    "url": "https://arxiv.org/abs/2608.02205",
+    "doi": null,
+    "abstract": "arXiv:2608.02205v1 Announce Type: new Abstract: The wintertime Arctic boundary layer is characterized by two distinct states, radiatively clear (cloud-free) and radiatively opaque (cloudy), which is reflected in observations as a bimodal distribution. Previous studies hypothesized that these regimes are related to an underlying bistability of the system's dynamics. We apply a drift-diffusion framework based on the two leading terms of the Kramers-Moyal expansion to observations from 15 winter periods in Ny-Alesund, Norway. Our model captures the bimodality; we find a single stable point for the deterministic drift, however, which questions the existence of bistable deterministic dynamics. Instead, the observed regimes can be attributed to state-dependent stochastic fluctuations with maximum amplitude close to the clear-cloudy transition. The position of the stable point depends on the meteorological conditions. Controlling for synoptic variability does not remove the state-dependence of diffusion, however. The cloudy regime is associated with southwesterly winds, high specific humidities, and uplifting motion, the latter two being conducive for cloud formation, while the cloud-free regime occurs under drier conditions and northeasterly winds. Through an illustrative example, we suggest a possible process-based interpretation of our statistical analysis. The nonlinear onset of cloud formation, once atmospheric humidity reaches saturation, could map state-independent fluctuations in humidity to state-dependent fluctuations in cloudiness.",
+    "authors": [
+      "Nadja Omanovic",
+      "Antoon van Hooft",
+      "Valentina Zeni",
+      "Franziska Glassmeier"
+    ],
+    "is_editorial": false,
+    "abstract_missing": false,
+    "always_include": false,
+    "score_boost": 0.0,
+    "score": 3.0,
+    "matched": [
+      "Arctic"
+    ],
+    "published": "2026-08-04",
+    "first_seen": "2026-08-04"
+  },
+  {
+    "title": "Probabilistic Deep Learning for Drought Forecasting: Role of Internal Climate Variability",
+    "journal": "arXiv physics.ao-ph",
+    "source": "rss:arxiv-ao-ph",
+    "url": "https://arxiv.org/abs/2608.01864",
+    "doi": null,
+    "abstract": "arXiv:2608.01864v1 Announce Type: cross Abstract: Predicting drought risk is essential for anticipating impacts on water resources, agriculture, ecosystems, and climate adaptation planning. Yet drought forecasts remain uncertain because variability can substantially alter regional precipitation and evaporative demand. Treating this variability as unstructured noise ignores the fact that internal variability has spatial, seasonal, and temporal structure and thus contains information that can be used to improve drought forecasting. We propose a deep-learning-based forecasting framework for European drought prediction and extend it with an uncertainty-aware drought bound that explicitly incorporates internal forecast variability from a large climate model ensemble. This bound represents a physically plausible lower-tail trajectory of future drought conditions and marks how severe drought could plausibly become under an unfavourable realisation of internal variability, giving adaptation planning a conservative, risk-averse reference. We compare the proposed bound with a lower bound derived from reanalysis data only and show that our proposed ensemble-informed bound is better calibrated across most regions and seasons. This is specifically true during anomalously dry conditions, when historical reanalysis alone underestimates lower-tail drought risk. Our results show that internal variability should be treated as a forecast quantity in its own right. More broadly, large ensembles provide a practical way to transfer physically plausible climate variability into machine-learning drought forecasts, yielding risk-aware bounds that are more informative for drought assessment under shifting climate conditions.",
+    "authors": [
+      "Henri Funk",
+      "Cornelia Gruber",
+      "G\\\"oran Kauermann",
+      "Helmut K\\\"uchenhoff",
+      "Magdalena Mittermeier"
+    ],
+    "is_editorial": false,
+    "abstract_missing": false,
+    "always_include": false,
+    "score_boost": 0.0,
+    "score": 3.0,
+    "matched": [
+      "reanalysis",
+      "ensemble",
+      "machine learning"
+    ],
+    "published": "2026-08-04",
+    "first_seen": "2026-08-04"
+  },
+  {
+    "title": "Winter warm spells in the pyrenees: synoptic drivers and snowmelt impacts (1960–2024)",
+    "journal": "Atmospheric Research",
+    "source": "openalex:cryosphere",
+    "url": "https://doi.org/10.1016/j.atmosres.2026.109245",
+    "doi": "10.1016/j.atmosres.2026.109245",
+    "abstract": "Warm spells are becoming an increasingly important type of extreme event under climate change, particularly in mountain regions where they strongly influence snowmelt processes. This study analyses winter warm spells (WWS) in the Pyrenees over 1960–2024, focusing on their temporal evolution, associated impacts, and large-scale atmospheric drivers. Results show that WWS have become both more frequent and more intense, based on modelling S2M (1960–2024) and cross-validation with homogenized and reconstructed spatial interpolations of maximum air temperature in the Pyrenees CLIMPY (1981–2020), showing consistent positive WWS trends. Their occurrence has increased by approximately 0.4 days per decade since 1990, while maximum air temperature during events has risen significantly (0.24 °C per decade), with stronger trends in the southern Pyrenees. These events substantially enhance snowmelt, increasing mean daily melt from ~1.3 mm day −1 under average winter conditions to ~2.2 mm day −1 during WWS (~65% increase). More than 50% of WWS are associated with circulation weather types characterized by anticyclonic southwesterly flow, which promotes subsidence and the advection of warm air masses. The increasing frequency of these circulation weather types during 1960–2024, together with thermodynamic warming under the same synoptic conditions, demonstrates that the observed intensification of WWS results from the combined influence of dynamic and thermodynamic processes. These results have important implications for winter snowmelt and for the environmental and socioeconomic sectors that depend on seasonal snow cover.",
+    "authors": [
+      "Josep Bonsoms",
+      "Roberto Serrano-Notivoli"
+    ],
+    "is_editorial": false,
+    "abstract_missing": false,
+    "always_include": false,
+    "score_boost": 0.0,
+    "score": 3.0,
+    "matched": [
+      "extreme event",
+      "climate change"
+    ],
+    "published": "2026-07-29",
+    "first_seen": "2026-08-04"
   },
   {
     "title": "Untangling the effects of vertical mixing schemes  and convective adjustment in the Mediterranean  Sea: insights from a sensitivity study",
