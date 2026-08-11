@@ -475,6 +475,32 @@
     "first_seen": "2026-08-08"
   },
   {
+    "title": "Advancing Last Glacial Maximum paleoclimate reconstructions in Europe using pollen data: a multi-method (mega)biomization approach",
+    "journal": "Climate of the Past",
+    "source": "rss:cp",
+    "url": "https://doi.org/10.5194/cp-22-1507-2026",
+    "doi": "10.5194/cp-22-1507-2026",
+    "abstract": "Fossil pollen offers insights into past climates, yet results differ depending on reconstruction methods. By comparing multiple approaches across Europe during the Last Glacial Maximum, we highlight how method choice influences outcomes. Our work introduces a new methodological framework that reduces biases and improves the reliability of climate reconstructions.",
+    "authors": [
+      "Gabriel Fénisse",
+      "Manuel Chevalier",
+      "Odile Peyron",
+      "David Vincent Bekaert",
+      "Pierre-Henri Blard"
+    ],
+    "is_editorial": false,
+    "abstract_missing": false,
+    "always_include": false,
+    "score_boost": 0.0,
+    "score": 18.0,
+    "matched": [
+      "paleoclimate",
+      "last glacial maximum"
+    ],
+    "published": "2026-08-10",
+    "first_seen": "2026-08-11"
+  },
+  {
     "title": "Controls on glacial erosion rates revealed by cosmogenic nuclide measurements in southeastern Alaska",
     "journal": "Proceedings of the National Academy of Sciences",
     "source": "openalex:paleoclimate",
@@ -770,6 +796,38 @@
     "first_seen": "2026-08-09"
   },
   {
+    "title": "Planetary energy budget during abrupt glacial climate events set by Atlantic Ocean heat valve",
+    "journal": "Nature Geoscience",
+    "source": "rss:ngeo",
+    "url": "https://www.nature.com/articles/s41561-026-02070-6",
+    "doi": "10.1038/s41561-026-02070-6",
+    "abstract": "Nature Geoscience, Published online: 10 August 2026; doi:10.1038/s41561-026-02070-6 Variations in Atlantic Meridional Overturning Circulation strength through abrupt Dansgaard–Oeschger events during Pleistocene glacial periods controlled ocean heat content, and heat uptake by the planet as a whole, according to a synthesis of simulations.",
+    "authors": [
+      "Christo Buizert",
+      "Ayako Abe-Ouchi",
+      "Guido Vettoretti",
+      "Xu Zhang",
+      "Yuta Kuniyoshi",
+      "Sarah Shackleton",
+      "Sune Olander Rasmussen",
+      "Joel B. Pedro",
+      "Eric D. Galbraith",
+      "Thomas F. Stocker"
+    ],
+    "is_editorial": false,
+    "abstract_missing": false,
+    "always_include": false,
+    "score_boost": 0.0,
+    "score": 14.0,
+    "matched": [
+      "Atlantic meridional overturning circulation",
+      "overturning circulation",
+      "Dansgaard-Oeschger"
+    ],
+    "published": null,
+    "first_seen": "2026-08-11"
+  },
+  {
     "title": "Multimodal Spatiotemporal Atmospheric Data Assimilation with Latent Flow-matching",
     "journal": "arXiv physics.ao-ph",
     "source": "rss:arxiv-ao-ph",
@@ -976,6 +1034,33 @@
     "first_seen": "2026-08-07"
   },
   {
+    "title": "Robust Regional Contrast but Penetration‐Sensitive Snow Thickness Over Sea Ice From Multi‐Winter Antarctic CRYO2ICE Observations",
+    "journal": "Earth and Space Science",
+    "source": "openalex:cryosphere",
+    "url": "https://doi.org/10.1029/2026ea005247",
+    "doi": "10.1029/2026ea005247",
+    "abstract": "Abstract Snow on Antarctic sea ice modulates albedo, thermodynamic growth, and snow–ice formation, yet remains a leading uncertainty in altimetry‐derived sea‐ice thickness. Here we use the post‐2022 CRYO2ICE configuration to derive along‐track winter snow thickness from ICESat‐2 laser and CryoSat‐2 Ku‐band radar freeboards over the Weddell and Ross sectors. We analyze 82,341 winter matchups (August 2022–September 2025) using a 5 km, 4 hr collocation criterion and propagate freeboard and snow‐density uncertainties. Retrieved snow thickness is consistently larger in the Weddell Sea (mean 0.255 m, median 0.188 m) than the Ross Sea (0.217 m, 0.156 m), consistent with the older, thicker western Weddell ice. The contrast persists across sampled months and years and under common snow‐density and penetration‐factor assumptions. Formal per‐matchup precision (0.039–0.040 m) is dominated by CryoSat‐2 radar‐freeboard uncertainty, whereas the absolute magnitude is set by the unresolved Ku‐band scattering horizon. Comparison with AMSR2 passive‐microwave snow depth shows weak point‐to‐point agreement ( and in the Weddell and Ross sectors), reflecting differing measurement physics and spatial support. Nevertheless, both independently reproduce thicker Weddell than Ross snow. Under a common penetration factor, absolute sector‐mean snow thickness varies by approximately a factor of two across the tested range, whereas the sector ordering is preserved under any uniform choice of penetration factor. CRYO2ICE therefore resolves a repeatable regional freeboard‐difference signal, but conversion of that signal to absolute snow thickness remains conditional on the poorly constrained, ice‐regime‐dependent Ku‐band scattering horizon.",
+    "authors": [
+      "Xinlong Liu",
+      "Alexander Fraser",
+      "Rachel Tilling",
+      "Petra Heil",
+      "Stuart Corney"
+    ],
+    "is_editorial": false,
+    "abstract_missing": false,
+    "always_include": false,
+    "score_boost": 0.0,
+    "score": 11.0,
+    "matched": [
+      "Antarctic",
+      "albedo",
+      "sea ice"
+    ],
+    "published": "2026-08-01",
+    "first_seen": "2026-08-11"
+  },
+  {
     "title": "Climate warming and atmospheric deposition jointly accelerate the Antarctic Peninsula atmosphere–glacier–land–ocean mercury loop",
     "journal": "PNAS",
     "source": "rss:pnas",
@@ -1128,6 +1213,38 @@
     "first_seen": "2026-08-10"
   },
   {
+    "title": "Globally and intergenerationally unequal exposure to hourly heat extremes",
+    "journal": "Nature Climate Change",
+    "source": "rss:nclimate",
+    "url": "https://www.nature.com/articles/s41558-026-02724-8",
+    "doi": "10.1038/s41558-026-02724-8",
+    "abstract": "Nature Climate Change, Published online: 10 August 2026; doi:10.1038/s41558-026-02724-8 The authors quantify the global emergence of hourly heat extremes (HHEs), highlighting exposure overlooked by daily metrics. HHEs will increase fourfold by the end of the century under high emissions, with low- and middle-income countries, as well as successive generations, facing disproportionate exposure.",
+    "authors": [
+      "Weilin Liao",
+      "Xuanzong Zhang",
+      "Xiaoping Liu",
+      "Ming Luo",
+      "Yang Chen",
+      "Duo Chan",
+      "Wenfeng Zhan",
+      "Yimin Chen",
+      "Guangzhao Chen",
+      "Rouyan Gong",
+      "Lei Zhao"
+    ],
+    "is_editorial": false,
+    "abstract_missing": false,
+    "always_include": false,
+    "score_boost": 0.0,
+    "score": 10.0,
+    "matched": [
+      "heat extreme",
+      "climate change"
+    ],
+    "published": null,
+    "first_seen": "2026-08-11"
+  },
+  {
     "title": "Put health systems at the centre of European heatwave plans",
     "journal": "Nature",
     "source": "rss:nature",
@@ -1198,29 +1315,56 @@
     "first_seen": "2026-08-07"
   },
   {
-    "title": "Reassessing Alpine Permafrost Thermal State by Accounting for Ground Ice",
-    "journal": "Earth's Future",
-    "source": "rss:earths-future",
-    "url": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025EF007931?af=R",
-    "doi": "10.1029/2025ef007931",
-    "abstract": "Earth's Future, Volume 14, Issue 8, August 2026.",
+    "title": "Do AI Forecast Ensembles Sample the Correct Conditional Distribution?",
+    "journal": "arXiv physics.ao-ph",
+    "source": "rss:arxiv-ao-ph",
+    "url": "https://arxiv.org/abs/2608.08954",
+    "doi": null,
+    "abstract": "arXiv:2608.08954v1 Announce Type: new Abstract: Ensemble forecasting aims to sample the conditional distribution of outcomes; whether AI forecast ensembles do this correctly in a joint sense remains largely untested. We train a diffusion model for probabilistic subseasonal coastal sea level forecasts at eight US East Coast tide gauge stations, with sea level derived from reanalysis, and find that marginal and joint forecast quality decouple: positive skill at every station and lead time marginally, while joint spatial structure is worse than climatological draws. A shuffle-based permutation decomposition reveals this failure is invisible to the energy score but detected by the variogram score. Lorenz-96 experiments across 0.7-170 equivalent years show the gap persists regardless of training volume and is reproduced by a linear baseline, indicating structural inadequacy of the learned distribution. A dynamical ensemble does not replicate the failure while a deterministic emulator does, suggesting it is specific to learned emulators rather than ensemble forecasting generally.",
     "authors": [
-      "Hailong Ji",
-      "Zhuotong Nan",
-      "Yuhong Chen",
-      "Lihua Chen",
-      "Shuping Zhao"
+      "Lucas J. Howard",
+      "Elizabeth A. Barnes"
     ],
     "is_editorial": false,
     "abstract_missing": false,
     "always_include": false,
     "score_boost": 0.0,
-    "score": 8.0,
+    "score": 9.0,
     "matched": [
-      "permafrost"
+      "sea level",
+      "reanalysis",
+      "emulator",
+      "ensemble"
     ],
-    "published": "2026-08-02",
-    "first_seen": "2026-08-03"
+    "published": "2026-08-11",
+    "first_seen": "2026-08-11"
+  },
+  {
+    "title": "Statistical Model of Subsurface Scattering Bias in ICESat‐2's ATL06 Product",
+    "journal": "Earth and Space Science",
+    "source": "openalex:cryosphere",
+    "url": "https://doi.org/10.1029/2026ea005083",
+    "doi": "10.1029/2026ea005083",
+    "abstract": "Abstract ICESat‐2 uses visible laser pulses and photon‐counting detectors to range the Earth's surface, providing precision altimetry for measuring ice sheet elevation change. However, since water ice is transparent to visible light, the photon returns recorded by ICESat‐2's ATLAS instrument may originate from subsurface scattering inside the snow or glacier ice volume, making the surface appear lower than it is. Here, we develop a Monte Carlo Radiative Transfer model to characterize the potential bias caused by subsurface scattering in snow and ice. Our model allows us to study the subsurface scattering bias in relation to photon number, scattering coefficient, and slope angle. We find centimeter‐scale bias caused by subsurface scattering that is statistically significant for strong returns on firn and weak returns on bare glacier ice at low slope angles, and for strong returns on glacier ice at moderate slope angles. We find that the bias is amplified by slope angle, but can be accounted for with the existing correction employed in the ATL06 product. Most of the Greenland Ice Sheet is affected, but the bias is not expected to manifest in elevation change products and derived mass balance, as it would cancel out. We conclude that the modeled subsurface scattering signature in the ICESat‐2 data offers future opportunities for investigating scattering coefficients of glacier ice.",
+    "authors": [
+      "Thilini Bamunu Arachchige",
+      "Kelly E. Gleason",
+      "Jonathan C. Ryan",
+      "Markus Allgaier"
+    ],
+    "is_editorial": false,
+    "abstract_missing": false,
+    "always_include": false,
+    "score_boost": 0.0,
+    "score": 9.0,
+    "matched": [
+      "ice sheet",
+      "glacier",
+      "Greenland",
+      "firn"
+    ],
+    "published": "2026-08-01",
+    "first_seen": "2026-08-11"
   },
   {
     "title": "FESOM2-JAX v1.0: a differentiable shadow of the ocean-sea-ice model FESOM2, cast onto GPUs",
@@ -1330,32 +1474,6 @@
     ],
     "published": null,
     "first_seen": "2026-08-08"
-  },
-  {
-    "title": "Tracing hydrological and ecological dynamics in a volcanic barrier-lake system in NE Iberia during the Late Glacial–Early Holocene using non-pollen palynomorphs",
-    "journal": "Review of Palaeobotany and Palynology",
-    "source": "openalex:paleoclimate",
-    "url": "https://doi.org/10.1016/j.revpalbo.2026.105688",
-    "doi": "10.1016/j.revpalbo.2026.105688",
-    "abstract": "The environmental evolution of volcanic barrier-lake systems is shaped by complex interactions between climate forcing and local geomorphological processes. This study presents a high-resolution multi-proxy record from the sedimentary sequence of Pla de les Preses volcanic barrier-palaeolake (Vall d'en Bas, NE Iberia), spanning the Late Glacial–Early Holocene transition. Particular emphasis is placed on the contribution of non-pollen palynomorphs (NPPs) to palaeoenvironmental reconstruction. Pollen data indicate that regional vegetation dynamics broadly follow the expected transition from open Late Glacial landscapes to temperate deciduous forests during the Early Holocene. However, notable deviations occur, including a marked decline in broadleaf forests, suggesting a strong influence of local disturbance processes. Sedimentological and palaeobiological proxies document the formation of a volcanic barrier lake following the damming of the Fluvià River, and its subsequent evolution through three main stages: (i) shallow, unstable conditions with pioneer aquatic communities, (ii) progressive deepening and establishment of a persistent lacustrine system, and (iii) lake shallowing, wetland expansion and final terrestrialisation linked to barrier erosion and fluvial reactivation. Hydrological changes do not always align with regional climatic trends, indicating a decoupling between climate and local environmental processes. NPP assemblages provide key insights into these dynamics, recording variations in water depth, aquatic productivity, trophic conditions and lake–catchment interactions. Algae and cyanobacteria reflect limnological variability, while pteridophyte spores and fungal remains document wetland development, soil erosion processes and terrestrial inputs. In addition, NPPs capture short-term ecological responses to volcanic activity and fire. This study demonstrates the value of NPPs for reconstructing highly dynamic lacustrine systems, complementing pollen-based approaches and enabling a more detailed understanding of palaeoenvironmental change.",
-    "authors": [
-      "Jordi Revelles",
-      "Eneko Iriarte",
-      "Francesc Mesquita‐Joanes",
-      "Maria A. Rodrigo",
-      "María Saña"
-    ],
-    "is_editorial": false,
-    "abstract_missing": false,
-    "always_include": false,
-    "score_boost": 0.0,
-    "score": 7.0,
-    "matched": [
-      "Holocene",
-      "proxy"
-    ],
-    "published": "2026-07-27",
-    "first_seen": "2026-08-03"
   },
   {
     "title": "Retrieving Tropical Cyclone Intensity from Climate Reanalysis using Deep Learning",
@@ -2008,33 +2126,57 @@
     "first_seen": "2026-08-10"
   },
   {
-    "title": "Seismic Characteristics of the Gas Hydrate System in the Mackenzie Trough of the Canadian Beaufort Sea, Arctic Ocean",
-    "journal": "JGR Solid Earth",
-    "source": "rss:jgr-solidearth",
-    "url": "https://onlinelibrary.wiley.com/doi/10.1029/2026JB034470?af=R",
-    "doi": "10.1029/2026jb034470",
-    "abstract": "Journal of Geophysical Research: Solid Earth, Volume 131, Issue 8, August 2026.",
+    "title": "Implementation of a three-dimensional planetary boundary  layer parameterization in a coupled modeling system and  evaluation of “gray zone” simulations of a wind-wave  event off the US California Coast using observations",
+    "journal": "Geoscientific Model Development",
+    "source": "rss:gmd",
+    "url": "https://doi.org/10.5194/gmd-19-7369-2026",
+    "doi": "10.5194/gmd-19-7369-2026",
+    "abstract": "A three-dimensional planetary boundary layer (PBL) parameterization, suited for mesoscale model grid spacings of 100–1000 m with improved treatment of unresolved horizontal mixing, is added to a coupled atmosphere/wave modeling system and the first coupled simulations are executed using the parameterization. Simulations of a significant wind-wave event demonstrate that the new parameterization has similar behaviors as one-dimensional PBL parameterizations and compares well with observations.",
     "authors": [
-      "Yeonjin Choi",
-      "Young Keun Jin",
-      "Michael Riedel",
-      "Jong Kuk Hong",
-      "Mathieu J. Duchesne",
-      "Sung‐Ryul Shin",
-      "Wookeen Chung",
-      "Seung‐Goo Kang"
+      "Eric A. Hendricks",
+      "Timothy W. Juliano",
+      "Branko Kosović",
+      "Sue Ellen Haupt",
+      "Brian J. Gaudet",
+      "Geng Xia"
+    ],
+    "is_editorial": false,
+    "abstract_missing": false,
+    "always_include": true,
+    "score_boost": 0.0,
+    "score": 6.0,
+    "matched": [
+      "parameterization"
+    ],
+    "published": "2026-08-10",
+    "first_seen": "2026-08-11"
+  },
+  {
+    "title": "Modeling the response of the marine carbon cycle to extreme CO$_2$ injection events",
+    "journal": "arXiv physics.ao-ph",
+    "source": "rss:arxiv-ao-ph",
+    "url": "https://arxiv.org/abs/2607.12179",
+    "doi": null,
+    "abstract": "arXiv:2607.12179v2 Announce Type: replace Abstract: We explore how the response of a conceptual model of the marine carbon cycle depends on the way in which carbon is injected from the atmosphere. We find that, for single-injection pulses, the threshold amount required for a large response of the excitable system depends on pulse duration but not on its specific form. We do, however, see differences in the number of large transient responses in carbon and, correspondingly, the duration of the response for different pulse shapes. These differences are magnified as the system is pushed towards increased excitability and can be understood in terms of the geometry of an increasingly winding heteroclinic orbit. Inspired by Large Igneous Provinces (LIPs), we also consider random sequences of injection pulses. We find a wide range of possible responses for a given overall amount injected and duration, depending on the mean characteristics of the individual pulses. We also identify a resonance-like \"Goldilocks\" zone, in which intermediate pulse durations or arrival frequencies produce the largest number of repeated transients, and we test the framework with illustrative scenarios motivated by the Siberian Traps and Columbia River Basalt Group.",
+    "authors": [
+      "Punit Gandhi",
+      "Rowan Lockwood",
+      "Corinne Myers",
+      "Parimita Roy",
+      "Ivan Sudakow",
+      "James Witts",
+      "Hao Helen Zhang"
     ],
     "is_editorial": false,
     "abstract_missing": false,
     "always_include": false,
     "score_boost": 0.0,
-    "score": 5.0,
+    "score": 6.0,
     "matched": [
-      "Arctic",
-      "solid earth"
+      "carbon cycle"
     ],
-    "published": "2026-08-03",
-    "first_seen": "2026-08-03"
+    "published": "2026-08-11",
+    "first_seen": "2026-08-11"
   },
   {
     "title": "Atmospheric pressure and anemological conditions in south-western Greenland in the second half of the 18th century",
@@ -2175,6 +2317,34 @@
     ],
     "published": "2026-08-10",
     "first_seen": "2026-08-10"
+  },
+  {
+    "title": "Tracing the space-time causal origins of Earth system extremes",
+    "journal": "arXiv physics.ao-ph",
+    "source": "rss:arxiv-ao-ph",
+    "url": "https://arxiv.org/abs/2607.10033",
+    "doi": null,
+    "abstract": "arXiv:2607.10033v2 Announce Type: replace Abstract: Identifying the causes of Earth's extremes is challenging because counterfactual experiments are not possible in the observed world. Data-driven causal discovery complements computationally expensive and potentially biased numerical experiments, but existing methods can struggle with undersampled, high-dimensional data and fail to recover multi-timestep, multivariate pathways leading to specific events. We introduce Tracer of Causal Evolutions in Space and Time (TraCE-ST), a probabilistic Lagrangian approach that produces event-conditioned causal trajectories in multivariate gridded data. TraCE-ST recovers known causal drivers and estimates their relative contributions in synthetic experiments and real-world extremes, including the 1991 Mount Pinatubo eruption. TraCE-ST also highlights less-studied drivers, such as orography-driven vorticity for Tropical Storm Debby (2006) and anomalous ocean-surface fluxes for the 2021 Pacific Northwest heatwave. Here, we propose causal tracking as an efficient data-driven framework for synthesizing causal evidence and generating testable hypotheses, complementing association analyses and numerical modeling while accelerating the study of high-impact events.",
+    "authors": [
+      "Jhayron S. P\\'erez-Carrasquilla",
+      "J. Jake Nichol",
+      "Vanessa Robledo",
+      "Diana Bull",
+      "Katherine Dagon",
+      "Michael N. Evans",
+      "Maria J. Molina"
+    ],
+    "is_editorial": false,
+    "abstract_missing": false,
+    "always_include": false,
+    "score_boost": 0.0,
+    "score": 5.0,
+    "matched": [
+      "Earth system",
+      "heat wave"
+    ],
+    "published": "2026-08-11",
+    "first_seen": "2026-08-11"
   },
   {
     "title": "Multidecadal behavior of the North Atlantic Oscillation during the last millennium",
@@ -2652,122 +2822,36 @@
     "first_seen": "2026-08-09"
   },
   {
-    "title": "New 2010 Maule Aftershock Catalog Reveals Structure of the Deep Subduction Interface",
-    "journal": "JGR Solid Earth",
-    "source": "rss:jgr-solidearth",
-    "url": "https://onlinelibrary.wiley.com/doi/10.1029/2025JB032839?af=R",
-    "doi": "10.1029/2025jb032839",
-    "abstract": "Journal of Geophysical Research: Solid Earth, Volume 131, Issue 8, August 2026.",
+    "title": "Holocene hydroclimatic variability and multi-frequency analyses at Lake Sidi Ali (Morocco)",
+    "journal": "Climate of the Past",
+    "source": "rss:cp",
+    "url": "https://doi.org/10.5194/cp-22-1537-2026",
+    "doi": "10.5194/cp-22-1537-2026",
+    "abstract": "This study uses lake sediments from Lake Sidi Ali in Morocco to understand how climate and the surrounding landscape changed over the past 11,000 years. The results show repeating climate patterns that influenced lake water levels and erosion in the catchment at different timescales. These findings help explain how regional climate and local landscape processes interacted at the North African desert margin.",
     "authors": [
-      "C. Chalumeau",
-      "A. Rietbrock"
+      "Johannes Schmidt",
+      "Markus Reichert",
+      "Cathleen Kertscher",
+      "Birgit Schneider",
+      "Elisabeth Dietze",
+      "Laura Bergmann",
+      "Abdelfattah Benkaddour",
+      "Abdeslam Mikdad",
+      "Sylvain Pichat",
+      "William Fletcher",
+      "Steffen Mischke",
+      "Christoph Zielhofer"
     ],
     "is_editorial": false,
     "abstract_missing": false,
     "always_include": false,
     "score_boost": 0.0,
-    "score": 3.0,
+    "score": 4.0,
     "matched": [
-      "solid earth"
+      "Holocene"
     ],
-    "published": "2026-08-01",
-    "first_seen": "2026-08-03"
-  },
-  {
-    "title": "Extraction of Stable Empirical Green's Functions From Short‐Duration Ambient Noise Using a Physics‐Constrained Self‐Supervised Network",
-    "journal": "JGR Solid Earth",
-    "source": "rss:jgr-solidearth",
-    "url": "https://onlinelibrary.wiley.com/doi/10.1029/2026JB033827?af=R",
-    "doi": "10.1029/2026jb033827",
-    "abstract": "Journal of Geophysical Research: Solid Earth, Volume 131, Issue 8, August 2026.",
-    "authors": [
-      "Guiqi Fan",
-      "Yifan Yu",
-      "Tao Wang",
-      "Anrui Wei"
-    ],
-    "is_editorial": false,
-    "abstract_missing": false,
-    "always_include": false,
-    "score_boost": 0.0,
-    "score": 3.0,
-    "matched": [
-      "solid earth"
-    ],
-    "published": "2026-08-01",
-    "first_seen": "2026-08-03"
-  },
-  {
-    "title": "Thermochemical Controls on the X, 410, and 660 Discontinuities in the Central Mediterranean",
-    "journal": "JGR Solid Earth",
-    "source": "rss:jgr-solidearth",
-    "url": "https://onlinelibrary.wiley.com/doi/10.1029/2025JB033542?af=R",
-    "doi": "10.1029/2025jb033542",
-    "abstract": "Journal of Geophysical Research: Solid Earth, Volume 131, Issue 8, August 2026.",
-    "authors": [
-      "Luciana Bonatto",
-      "Stephen Monna",
-      "Caterina Montuori",
-      "Claudia Piromallo",
-      "Vernon Cormier"
-    ],
-    "is_editorial": false,
-    "abstract_missing": false,
-    "always_include": false,
-    "score_boost": 0.0,
-    "score": 3.0,
-    "matched": [
-      "solid earth"
-    ],
-    "published": "2026-08-01",
-    "first_seen": "2026-08-03"
-  },
-  {
-    "title": "Dislocation Bands and Subboundaries in Experimentally Deformed Olivine",
-    "journal": "JGR Solid Earth",
-    "source": "rss:jgr-solidearth",
-    "url": "https://onlinelibrary.wiley.com/doi/10.1029/2025JB033737?af=R",
-    "doi": "10.1029/2025jb033737",
-    "abstract": "Journal of Geophysical Research: Solid Earth, Volume 131, Issue 8, August 2026.",
-    "authors": [
-      "Ulrich Faul"
-    ],
-    "is_editorial": false,
-    "abstract_missing": false,
-    "always_include": false,
-    "score_boost": 0.0,
-    "score": 3.0,
-    "matched": [
-      "solid earth"
-    ],
-    "published": "2026-08-01",
-    "first_seen": "2026-08-03"
-  },
-  {
-    "title": "Sensitivity of Arctic mixed-phase cloud simulations to ice microphysical modifications in the WDM6 scheme of WRF (v4.3.1)",
-    "journal": "Geoscientific Model Development",
-    "source": "rss:gmd",
-    "url": "https://doi.org/10.5194/gmd-19-7069-2026",
-    "doi": "10.5194/gmd-19-7069-2026",
-    "abstract": "Arctic clouds containing both liquid droplets and ice crystals are difficult to simulate. We tested how ice-related changes in a weather model, designed for temperate regions, perform in the Arctic. Ice crystal shape is the dominant factor: making crystals spherical substantially reduces cloud ice and shifts it to snow. These modifications are moderate in temperate regions but stronger in the Arctic. As this rests on a single case, they should be validated across diverse cases and climates.",
-    "authors": [
-      "Hyun-Joon Sung",
-      "Kyo-Sun Lim",
-      "Song-You Hong",
-      "JiHoon Shin",
-      "Baek-Min Kim",
-      "Ji-Hun Choi"
-    ],
-    "is_editorial": false,
-    "abstract_missing": false,
-    "always_include": true,
-    "score_boost": 0.0,
-    "score": 3.0,
-    "matched": [
-      "Arctic"
-    ],
-    "published": "2026-08-03",
-    "first_seen": "2026-08-03"
+    "published": "2026-08-10",
+    "first_seen": "2026-08-11"
   },
   {
     "title": "Arctic bimodality reflects enhanced variability in the clear-cloudy transition rather than bistability",
@@ -3282,6 +3366,78 @@
     "first_seen": "2026-08-10"
   },
   {
+    "title": "A Gauge-Based Monthly Natural Discharge Reconstruction Dataset for the Eurasian Arctic, 1952–2025",
+    "journal": "Earth System Science Data",
+    "source": "rss:essd",
+    "url": "https://doi.org/10.5194/essd-2026-531",
+    "doi": "10.5194/essd-2026-531",
+    "abstract": "Preprint under review for ESSD (discussion: open, 0 comments) Arctic river discharge records are often short and discontinuous, making it difficult to understand long-term freshwater changes. We reconstructed monthly natural river discharge at 94 stations in the Eurasian Arctic from 1952 to 2025 using precipitation, air temperature, snow information, gravity satellite measurements, and river observations. The dataset agrees well with observations, reveals changes in yearly flow and seasonal timing, and provides a baseline for studying Arctic rivers.",
+    "authors": [
+      "Bingshi Liu",
+      "Xiancai Zou",
+      "Jiancheng Li",
+      "Taoyong Jin"
+    ],
+    "is_editorial": false,
+    "abstract_missing": false,
+    "always_include": false,
+    "score_boost": 0.0,
+    "score": 3.0,
+    "matched": [
+      "Arctic"
+    ],
+    "published": "2026-08-10",
+    "first_seen": "2026-08-11"
+  },
+  {
+    "title": "Super-Resolution of Radar/Raingauge-Analyzed Precipitation Using Gaussian Process Regression with a Steering Kernel",
+    "journal": "arXiv physics.ao-ph",
+    "source": "rss:arxiv-ao-ph",
+    "url": "https://arxiv.org/abs/2607.07290",
+    "doi": null,
+    "abstract": "arXiv:2607.07290v2 Announce Type: replace Abstract: Super-resolution (SR), a technique for estimating a high-resolution (HR) image from a low-resolution image, has been used in meteorology for downscaling and resolution enhancement of observations. SR Gaussian process regression with a steering kernel (SRGP-SK) generates more accurate HR images than the original SR Gaussian process regression (SRGP), but it has not yet been applied to meteorological data. This study applied SRGP-SK to radar/rain gauge-analyzed precipitation for convective and stratiform cases and evaluated the results using the structural similarity index (SSIM) and radially averaged power spectral density (PSD). SRGP-SK achieved SSIM values comparable to those of bicubic interpolation and higher than those of SRGP while reconstructing finer precipitation structures; it recovered variations down to a wavelength of 6 km, compared with 8 km for bicubic interpolation. This difference may correspond to an approximately threefold increase in the number of convective cells. Among the kernel functions compared, the Matern 5/2 kernel yielded the highest geometric mean PSD ratio. Further investigation of this point could identify the statistical scaling characteristics of the precipitation field. This study evaluates only two precipitation cases; examining more cases is necessary before SRGP-SK can be applied more broadly.",
+    "authors": [
+      "Shoichi Akami",
+      "Tsuyoshi T. Sekiyama",
+      "Mizuo Kajino"
+    ],
+    "is_editorial": false,
+    "abstract_missing": false,
+    "always_include": false,
+    "score_boost": 0.0,
+    "score": 3.0,
+    "matched": [
+      "downscaling"
+    ],
+    "published": "2026-08-11",
+    "first_seen": "2026-08-11"
+  },
+  {
+    "title": "NeuralDMD: Interpretable Neural Representation of Dynamics from Sparse and Noisy Measurements",
+    "journal": "arXiv physics.ao-ph",
+    "source": "rss:arxiv-ao-ph",
+    "url": "https://arxiv.org/abs/2507.03094",
+    "doi": null,
+    "abstract": "arXiv:2507.03094v2 Announce Type: replace-cross Abstract: Many challenges in scientific imaging involve solving ill-posed inverse problems, where the goal is to recover spatio-temporal fields from indirect, noisy, and highly sparse measurements - often without access to ground truth data or reliable simulators. To address this challenging scenario, we present NeuralDMD, an interpretable, untrained (per-instance) reconstruction framework that combines neural implicit representations with Dynamic Mode Decomposition (DMD) to reconstruct continuous spatio-temporal dynamics directly from measurements. NeuralDMD parameterizes DMD modes as continuous neural fields, and imposes a low-rank linear dynamics prior with spectral time evolution to enforce temporal continuity. This formulation enables both forecasting under sparsity, and yields interpretable modes and spectra. We find that NeuralDMD outperforms baselines on a wide variety of tasks: from weather data assimilation from sparse station observations to interferometric (Fourier domain) observations of Sagittarius A, the black hole at the center of our galaxy. Moreover, NeuralDMD remains stable when extrapolating into the future. While this framework is most naturally suited to linear dynamics, we show that it can be applied to nonlinear regimes, though with extrapolation performance that degrades with increasing nonlinearity. Together, these results show that NeuralDMD enables interpretable reconstruction and forecasting of spatio-temporal dynamics directly from sparse and indirect measurements without relying on numerical simulators or training data.",
+    "authors": [
+      "Ali SaraerToosi",
+      "Renbo Tu",
+      "Esther Y. H. Lin",
+      "Kamyar Azizzadenesheli",
+      "Aviad Levis"
+    ],
+    "is_editorial": false,
+    "abstract_missing": false,
+    "always_include": false,
+    "score_boost": 0.0,
+    "score": 3.0,
+    "matched": [
+      "data assimilation"
+    ],
+    "published": "2026-08-11",
+    "first_seen": "2026-08-11"
+  },
+  {
     "title": "Resolving effects of leaf pigmentation changes and plant residue on the energy balance of winter wheat cultivation in the ORCHIDEE-CROP model",
     "journal": "Geoscientific Model Development",
     "source": "rss:gmd",
@@ -3311,33 +3467,6 @@
     ],
     "published": "2026-08-06",
     "first_seen": "2026-08-06"
-  },
-  {
-    "title": "Precipitation nowcasting based on convolutional LSTM with spatio-temporal information transformation using multi-meteorological factors",
-    "journal": "Geoscientific Model Development",
-    "source": "rss:gmd",
-    "url": "https://doi.org/10.5194/gmd-19-7089-2026",
-    "doi": "10.5194/gmd-19-7089-2026",
-    "abstract": "Due to the limitations of past data-based models and the high cost of numerical weather prediction computing, accurately forecasting precipitation proximity remains challenging. A dual encoder-decoder framework is proposed to enhance short-term forecasting and reduce underestimation in extreme precipitation by using spatio-temporal information conversion equations and adaptive weighted gradient loss. Demonstrates better accuracy than existing deep learning methods in precipitation datasets.",
-    "authors": [
-      "Dufu Liu",
-      "Feihu Huang",
-      "Peng Zheng",
-      "Xiaomeng Huang",
-      "Xi Wu",
-      "Xia Yuan",
-      "Jiafeng Zheng",
-      "Xiaojie Li",
-      "Jing Hu"
-    ],
-    "is_editorial": false,
-    "abstract_missing": false,
-    "always_include": true,
-    "score_boost": 0.0,
-    "score": 0.0,
-    "matched": [],
-    "published": "2026-08-03",
-    "first_seen": "2026-08-03"
   },
   {
     "title": "Editorial Expression of Concern: Tumour exosome integrins determine organotropic metastasis",
