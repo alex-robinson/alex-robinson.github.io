@@ -140,44 +140,6 @@
     "first_seen": "2026-08-14"
   },
   {
-    "title": "Tropical Teleconnection Influences on Decadal Trends in West Antarctic Surface Mass Balance",
-    "journal": "Journal of Climate",
-    "source": "openalex:cryosphere",
-    "url": "https://doi.org/10.1175/jcli-d-25-0602.1",
-    "doi": "10.1175/jcli-d-25-0602.1",
-    "abstract": "Abstract The surface mass balance (SMB) of the Antarctic Ice Sheet is a critical factor in influencing global mean sea level rise and has substantial implications for future projections of sea level rise. In recent decades, the Antarctic Ice Sheet SMB trends show pronounced regional disparities, marked by a decrease over the western part but an increase over the eastern part of West Antarctica. Through a synthesis of ice core records and five reanalysis datasets, as well as atmospheric dynamics analysis and numerical model simulations, we demonstrate that the multi-decadal trends in tropical sea surface temperature are key drivers of the dipole-like SMB trends in West Antarctica. Specifically, the eastern tropical Pacific cooling associated with the phase changes of the Interdecadal Pacific Oscillation (IPO) and the tropical Atlantic warming associated with the Atlantic Multi-decadal Oscillation (AMO) can modulate tropical convection and latent-heating anomalies, thereby stimulating Rossby wave trains propagating to the West Antarctic, resulting in the contrasting moisture divergence and precipitation changes between the western and eastern parts of West Antarctica. In particular, the statistical analysis and model simulation clarify the seasonality of these teleconnections. Both the Pacific and Atlantic contribute to the dipole-like SMB pattern during austral spring and autumn, while the Pacific is the major contributor during austral summer. Our findings have broad implications for understanding the recent observed SMB trends as well as future projections of Antarctic SMB changes and consequent global sea level rise.",
-    "authors": [
-      "Kai Man",
-      "Xichen Li",
-      "Jürg Luterbacher",
-      "Lei Geng",
-      "Naiming Yuan",
-      "Yurong Hou",
-      "Yonghao Wang",
-      "Yujie Miao"
-    ],
-    "is_editorial": false,
-    "abstract_missing": false,
-    "always_include": false,
-    "score_boost": 0.0,
-    "score": 43.0,
-    "matched": [
-      "ice sheet",
-      "Antarctic",
-      "Antarctica",
-      "West Antarctic",
-      "surface mass balance",
-      "sea surface temperature",
-      "ice core",
-      "sea level",
-      "sea-level rise",
-      "reanalysis",
-      "numerical method"
-    ],
-    "published": "2026-08-07",
-    "first_seen": "2026-08-09"
-  },
-  {
     "title": "Synchronous Holocene thinning of Pine Island Glacier and its tributaries influenced by ice-shelf unpinning",
     "journal": "Nature Communications",
     "source": "openalex:cryosphere",
@@ -318,6 +280,38 @@
     ],
     "published": null,
     "first_seen": "2026-08-14"
+  },
+  {
+    "title": "Annual-resolution evidence for aridity spikes at the onset of the Last Glacial Inception in an Eifel maar lake sediment",
+    "journal": "Scientific Reports",
+    "source": "openalex:paleoclimate",
+    "url": "https://doi.org/10.1038/s41598-026-64586-6",
+    "doi": "10.1038/s41598-026-64586-6",
+    "abstract": "Abstract This study presents an annually laminated sediment record from the infilled maar lake at Hoher List in the Eifel volcanic field (Germany), documenting the “Last Glacial Inception” (LGI) at the end of the Eemian interglacial. The landscape of the late Eemian was dominated by a mixed forest containing Abies alba (silver fir). The collapse of this forest occurred within only a few years and was accompanied by frequent wildfires, aeolian dust deposition, a decline of all thermophilous tree species, and the disappearance of Abies , all indicating increasing aridity. The transition unfolded in three distinct phases. LEAP-I (Late Eemian Aridity Pulse I) lasted approximately 250 years and was followed by a 750-year recovery phase during which the interglacial forest returned. LEAP-II was characterized by comparable arid conditions but persisted for at least 750 years, followed by a 350-year phase of boreal forest development. The final transition to stadial conditions occurred during LEAP-III, marked by a pronounced lake-level decline, expansion of grassland, scattered birch and pine, and reduced summer temperatures, likely corresponding to North Atlantic cold event C25. The LGI lasted at least 2700 years, whereas individual aridification pulses developed within decades, indicating rapid aridification events superimposed on a long-term cooling trend.",
+    "authors": [
+      "Frank Sirocko",
+      "Frederik Krebsbach",
+      "Christian Forster",
+      "Frank Dreher",
+      "Martín Grosjean",
+      "Lucas Silva",
+      "Dana F.C. Riechelmann",
+      "Klemens Seelos",
+      "Ralf Schiebel"
+    ],
+    "is_editorial": false,
+    "abstract_missing": false,
+    "always_include": false,
+    "score_boost": 0.0,
+    "score": 27.0,
+    "matched": [
+      "interglacial",
+      "Eemian",
+      "glacial inception",
+      "boreal forest"
+    ],
+    "published": "2026-08-15",
+    "first_seen": "2026-08-17"
   },
   {
     "title": "<scp>AlpIce</scp> ‐1: a database of geochronological and geomorphological constraints on Alps‐wide palaeoglacier fluctuations between the Last Glacial Maximum and the Holocene",
@@ -712,35 +706,6 @@
     "first_seen": "2026-08-14"
   },
   {
-    "title": "Introduction to a Special Collection: Illustrating the Breadth of <i>Paleoceanography and Paleoclimatology</i> at the Journal's 40‐year Anniversary",
-    "journal": "Paleoceanography and Paleoclimatology",
-    "source": "openalex:paleoclimate",
-    "url": "https://doi.org/10.1029/2026pa005620",
-    "doi": "10.1029/2026pa005620",
-    "abstract": "Abstract This special collection celebrates the 40th anniversary of Paleoceanography and Paleoclimatology and highlights the breadth, impact, and frontiers in paleoenvironmental research. Since the journal's founding in 1986 as Paleoceanography , the field has expanded from its early emphasis on marine sedimentary archives to an increasingly integrated Earth system perspective encompassing the oceans, atmosphere, cryosphere, biosphere, and terrestrial environments. The papers in this collection are selected from the recent archives since the expansion to Paleoceanography and Paleoclimatology in 2018. The topics span timescales from the Cretaceous to the Common Era and showcase advances in reconstructing past climates, understanding Earth system processes, developing innovative analytical and computational methods, and synthesizing observations and testing mechanisms with numerical models. Together, they illustrate how studies of past environmental change provide fundamental insights into climate sensitivity, carbon‐cycle dynamics, ocean circulation, abrupt climate change, and hydroclimate variability. They also demonstrate the importance of past climate for evaluating climate models, contextualizing modern environmental change, and informing projections of Earth's future under continued anthropogenic forcing. This anniversary collection celebrates four decades of scientific discovery, with a curated selection of articles that illustrate recent themes in the journal, from greenhouse to icehouse climates, and cutting‐edge methods, to reveal how the past informs our future.",
-    "authors": [
-      "Sarah J. Feakins",
-      "Ursula Röhl",
-      "Kaustubh Thirumalai"
-    ],
-    "is_editorial": false,
-    "abstract_missing": false,
-    "always_include": false,
-    "score_boost": 0.0,
-    "score": 14.0,
-    "matched": [
-      "cryosphere",
-      "abrupt change",
-      "ocean circulation",
-      "Earth system",
-      "climate sensitivity",
-      "numerical method",
-      "climate change"
-    ],
-    "published": "2026-08-01",
-    "first_seen": "2026-08-09"
-  },
-  {
     "title": "Planetary energy budget during abrupt glacial climate events set by Atlantic Ocean heat valve",
     "journal": "Nature Geoscience",
     "source": "rss:ngeo",
@@ -856,37 +821,6 @@
     ],
     "published": "2026-08-13",
     "first_seen": "2026-08-13"
-  },
-  {
-    "title": "Proxy-informed model estimates of Early Paleogene climate",
-    "journal": "Palaeogeography Palaeoclimatology Palaeoecology",
-    "source": "openalex:paleoclimate",
-    "url": "https://doi.org/10.1016/j.palaeo.2026.114109",
-    "doi": "10.1016/j.palaeo.2026.114109",
-    "abstract": "As global temperatures approach levels unprecedented in human history, past warm periods offer insights into climate variations associated with increasing greenhouse gas concentrations. The Early Paleogene (65-49 million years ago) is a prime example of a warmer climate state, with average temperatures 10 to 19 K higher than today. However, our understanding of this period is limited by sparse proxy data and uncertainties in key model parameters, preventing a comprehensive analysis of its climate. In this study we use a new compilation of temperature proxies to select the least biased simulations from the Deep-Time model intercomparison project for each of six Early Paleogene time periods. These ensembles align well with proxy temperature and precipitation data across all six periods of the Early Paleogene. This method also provides an independent estimation of CO2 concentrations, suggesting that Early Paleogene CO2 levels were around 600-1200 ppm, except for the warmest periods, the Paleocene Eocene Thermal Maximum (PETM) and Early Eocene Climatic Optimum where CO2 concentrations were 1100-1800 and 900-1500 ppm, respectively. The ensembles suggest temperatures in high-latitude regions increased by up to 13 K during the PETM hyperthermal, while tropical temperatures rose by approximately 1 K, indicating substantial polar amplification during the nearly ice-free Early Paleogene. Precipitation increased almost everywhere with warming, at a global mean rate of 2% per Kelvin of global warming, matching theorized and modeled estimates from the modern climate. Additionally, precipitation changes suggest a poleward shift in global atmospheric circulation with warming, aligning with theories of modern climate change.",
-    "authors": [
-      "Daniel Baldassare",
-      "Thomas Reichler",
-      "Piret Plink‐Björklund",
-      "Jacob Slawson"
-    ],
-    "is_editorial": false,
-    "abstract_missing": false,
-    "always_include": false,
-    "score_boost": 0.0,
-    "score": 12.0,
-    "matched": [
-      "polar",
-      "proxy",
-      "model intercomparison",
-      "greenhouse gas",
-      "CO2",
-      "ensemble",
-      "climate change",
-      "global warming"
-    ],
-    "published": "2026-08-06",
-    "first_seen": "2026-08-09"
   },
   {
     "title": "Finite-Response Complementarity in Fluctuation Constraints on Climate Sensitivity",
@@ -1137,33 +1071,6 @@
     ],
     "published": "2026-08-14",
     "first_seen": "2026-08-15"
-  },
-  {
-    "title": "Satellite Mapping of the Moulin Distribution Across the Entire Greenland Ice Sheet",
-    "journal": "Geophysical Research Letters",
-    "source": "rss:grl",
-    "url": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2026GL122279?af=R",
-    "doi": "10.1029/2026gl122279",
-    "abstract": "Geophysical Research Letters, Volume 53, Issue 15, 16 August 2026.",
-    "authors": [
-      "Yuhan Wang",
-      "Kang Yang",
-      "Jianing Wei",
-      "Wenzhuo Zhang",
-      "Dongyang Du",
-      "Wensong Zhang"
-    ],
-    "is_editorial": false,
-    "abstract_missing": false,
-    "always_include": false,
-    "score_boost": 0.0,
-    "score": 10.0,
-    "matched": [
-      "ice sheet",
-      "Greenland"
-    ],
-    "published": "2026-08-07",
-    "first_seen": "2026-08-09"
   },
   {
     "title": "Sharper Resolution of Arctic Sea Ice Dynamics With Non‐Conforming Finite Elements in FESOM2",
@@ -1425,6 +1332,31 @@
     "first_seen": "2026-08-13"
   },
   {
+    "title": "Quantifying internal variability in large-ensemble climate data with the Wasserstein distance",
+    "journal": "arXiv physics.ao-ph",
+    "source": "rss:arxiv-ao-ph",
+    "url": "https://arxiv.org/abs/2608.14455",
+    "doi": null,
+    "abstract": "arXiv:2608.14455v1 Announce Type: new Abstract: Quantifying forced and internal variability in climate data is fundamental to detecting the climate change signal and assessing uncertainty in climate projections. We propose a metric that quantifies the relative magnitude of internal variability in single-model initial-condition large ensembles (SMILEs). We measure forced and internal variability by two 1-Wasserstein distances, a form of optimal transport cost. The proposed metric is the distance for internal variability divided by the sum of the two. Computing this ratio requires only sorting the samples and differencing the resulting quantiles, with no additional parameters. The metric reflects the entire distribution shape and applies to non-Gaussian variables, because the 1-Wasserstein distance quantifies the difference between any two probability distributions. We validate the metric with synthetic climate data from Gaussian, uniform, and lognormal distributions. Unlike the two existing metrics, the proposed metric gives stable estimates irrespective of the distribution shape and the presence of outliers, provided that the ensemble has about 40 members or more. We then apply the proposed and existing metrics to the 2 m air temperature and total precipitation of the Community Earth System Model Large Ensemble (CESM-LE) under two different forcing scenarios. All the metrics indicate that the relative contribution of internal variability decreases as the forcing increases, but the proposed metric shows this response most clearly. The 1-Wasserstein distance thus provides a simple and useful tool for analyzing large-ensemble datasets.",
+    "authors": [
+      "Yuki Yasuda",
+      "Shoichiro Kido"
+    ],
+    "is_editorial": false,
+    "abstract_missing": false,
+    "always_include": false,
+    "score_boost": 0.0,
+    "score": 9.0,
+    "matched": [
+      "Earth system model",
+      "Earth system",
+      "ensemble",
+      "climate change"
+    ],
+    "published": "2026-08-17",
+    "first_seen": "2026-08-17"
+  },
+  {
     "title": "Dipole in North African Dust Deposition at the Last Glacial Maximum Explained by Shifted Wind Direction Under Steepened Meridional Temperature Gradients",
     "journal": "Geophysical Research Letters",
     "source": "rss:grl",
@@ -1555,33 +1487,6 @@
     ],
     "published": "2026-08-14",
     "first_seen": "2026-08-16"
-  },
-  {
-    "title": "High‐Resolution Imaging of Lithosphere‐Asthenosphere Structure in Northeast China Using Eikonal Tomography With Physics‐Informed Deep Learning",
-    "journal": "JGR Solid Earth",
-    "source": "rss:jgr-solidearth",
-    "url": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025JB033724?af=R",
-    "doi": "10.1029/2025jb033724",
-    "abstract": "Journal of Geophysical Research: Solid Earth, Volume 131, Issue 8, August 2026.",
-    "authors": [
-      "Xinyuan Cui",
-      "You Tian",
-      "Chao Song",
-      "Honghao Li",
-      "Umair bin Waheed",
-      "Cai Liu"
-    ],
-    "is_editorial": false,
-    "abstract_missing": false,
-    "always_include": false,
-    "score_boost": 0.0,
-    "score": 7.0,
-    "matched": [
-      "solid earth",
-      "lithosphere"
-    ],
-    "published": "2026-08-08",
-    "first_seen": "2026-08-09"
   },
   {
     "title": "Planktonic foraminifera iodine ∕ calcium ratio: is it a proxy for dissolved oxygen in the ocean?",
@@ -1744,108 +1649,6 @@
     ],
     "published": "2026-08-14",
     "first_seen": "2026-08-14"
-  },
-  {
-    "title": "From Glacier to Coast: Seasonal Hydrographic Dynamics in the Ella Ø Fjord Complex, East Greenland",
-    "journal": "JGR Oceans",
-    "source": "rss:jgr-oceans",
-    "url": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2026JC024257?af=R",
-    "doi": "10.1029/2026jc024257",
-    "abstract": "Journal of Geophysical Research: Oceans, Volume 131, Issue 8, August 2026.",
-    "authors": [
-      "Fleur Rooijakkers",
-      "Eugenio Ruiz‐Castillo",
-      "Søren Rysgaard"
-    ],
-    "is_editorial": false,
-    "abstract_missing": false,
-    "always_include": false,
-    "score_boost": 0.0,
-    "score": 6.0,
-    "matched": [
-      "glacier",
-      "Greenland"
-    ],
-    "published": "2026-08-07",
-    "first_seen": "2026-08-09"
-  },
-  {
-    "title": "EnScale: Temporally‐Consistent Multivariate Generative Downscaling via Proper Scoring Rules",
-    "journal": "JAMES",
-    "source": "rss:james",
-    "url": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025MS005593?af=R",
-    "doi": "10.1029/2025ms005593",
-    "abstract": "Journal of Advances in Modeling Earth Systems, Volume 18, Issue 8, August 2026.",
-    "authors": [
-      "Maybritt Schillinger",
-      "Maxim Samarin",
-      "Xinwei Shen",
-      "Reto Knutti",
-      "Nicolai Meinshausen"
-    ],
-    "is_editorial": false,
-    "abstract_missing": false,
-    "always_include": false,
-    "score_boost": 0.0,
-    "score": 6.0,
-    "matched": [
-      "downscaling"
-    ],
-    "published": "2026-08-06",
-    "first_seen": "2026-08-09"
-  },
-  {
-    "title": "Arctic Snow Density Retrieval from AMSR-2 Passive Microwave Brightness Temperatures: A Comparative Evaluation of Machine-Learning and Deep-Learning Models",
-    "journal": "Journal of Marine Science and Engineering",
-    "source": "openalex:cryosphere",
-    "url": "https://doi.org/10.3390/jmse14161461",
-    "doi": "10.3390/jmse14161461",
-    "abstract": "Snow density influences Arctic climate, ecosystems, and surface energy exchange, yet spatially continuous observations remain limited. This study constructed an ERA5-supervised snow-density dataset for 60–90° N by collocating Advanced Microwave Scanning Radiometer 2 (AMSR-2) Level-1R brightness temperatures with ECMWF Reanalysis v5 (ERA5) snow density, Soil Moisture Active Passive (SMAP) surface roughness, and auxiliary variables. Ten models were evaluated using 29 observation days spanning September 2022–February 2023 under a chronological training–validation–test split. Extra Trees achieved the best overall performance, with a root mean square error of 18.54 kg m-3 and an R2 of 0.87, while the bidirectional gated recurrent unit (BiGRU) was the strongest deep-learning model. Feature-attribution and ablation analyses showed that microwave brightness temperatures contained predictive information, although geographic and auxiliary variables also contributed substantially. The evaluated models could reproduce ERA5-referenced Arctic snow-density patterns, but their performance partly reflected regional information. Moreover, ERA5 showed limited consistency with station-based Northern Hemisphere Snow Water Equivalent estimates. Consequently, the reported metrics quantify agreement with ERA5 rather than accuracy against independently observed snow density. Temporally coincident and spatially independent field validation remains necessary in the future.",
-    "authors": [
-      "Jianjun Zhang",
-      "Wentao Zhou",
-      "Shuhu Yang",
-      "Yun Zhang"
-    ],
-    "is_editorial": false,
-    "abstract_missing": false,
-    "always_include": false,
-    "score_boost": 0.0,
-    "score": 6.0,
-    "matched": [
-      "Arctic",
-      "reanalysis",
-      "machine learning"
-    ],
-    "published": "2026-08-07",
-    "first_seen": "2026-08-09"
-  },
-  {
-    "title": "Topographic associations with glacier albedo in the southeastern Tibetan Plateau",
-    "journal": "Advances in Climate Change Research",
-    "source": "openalex:cryosphere",
-    "url": "https://doi.org/10.1016/j.accre.2026.08.001",
-    "doi": "10.1016/j.accre.2026.08.001",
-    "abstract": null,
-    "authors": [
-      "Dan-Yu Ma",
-      "Kunpeng Wu",
-      "Liu Shi-yin",
-      "Zhao-Qi Ji",
-      "Dao-Xun Gao",
-      "Cheng Huang"
-    ],
-    "is_editorial": false,
-    "abstract_missing": true,
-    "always_include": false,
-    "score_boost": 0.0,
-    "score": 6.0,
-    "matched": [
-      "glacier",
-      "albedo"
-    ],
-    "published": "2026-08-01",
-    "first_seen": "2026-08-09"
   },
   {
     "title": "The International Soil Radiocarbon Database (ISRaD) version 2: synthesis, data gaps, and future directions of soil radiocarbon data",
@@ -2565,92 +2368,6 @@
     "first_seen": "2026-08-14"
   },
   {
-    "title": "Evaluation of High‐Resolution CORDEX‐CMIP6 Ocean Temperature Simulations for the Great Barrier Reef",
-    "journal": "JGR Atmospheres",
-    "source": "rss:jgr-atmospheres",
-    "url": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2026JD046902?af=R",
-    "doi": "10.1029/2026jd046902",
-    "abstract": "Journal of Geophysical Research: Atmospheres, Volume 131, Issue 15, 16 August 2026.",
-    "authors": [
-      "Sun W. Kim",
-      "Jozef Syktus",
-      "Marcus Thatcher",
-      "Ralph Trancoso"
-    ],
-    "is_editorial": false,
-    "abstract_missing": false,
-    "always_include": false,
-    "score_boost": 0.0,
-    "score": 4.0,
-    "matched": [
-      "CMIP"
-    ],
-    "published": "2026-08-07",
-    "first_seen": "2026-08-09"
-  },
-  {
-    "title": "Variability and Trends of Total Column Ozone and the Vertical Distribution of Ozone Over the Coastal Region of East Antarctica",
-    "journal": "JGR Atmospheres",
-    "source": "rss:jgr-atmospheres",
-    "url": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2026JD046451?af=R",
-    "doi": "10.1029/2026jd046451",
-    "abstract": "Journal of Geophysical Research: Atmospheres, Volume 131, Issue 15, 16 August 2026.",
-    "authors": [
-      "Yixi Zhao",
-      "Xiangdong Zheng",
-      "Biao Tian",
-      "Xuan Ma",
-      "Kongju Zhu",
-      "Shoudong Zhao",
-      "Lei Zhang",
-      "Dongqi Zhang",
-      "Lingen Bian",
-      "Jie Tang",
-      "Changgui Lu",
-      "Xin Wang",
-      "Minghu Ding"
-    ],
-    "is_editorial": false,
-    "abstract_missing": false,
-    "always_include": false,
-    "score_boost": 0.0,
-    "score": 4.0,
-    "matched": [
-      "Antarctica"
-    ],
-    "published": "2026-08-06",
-    "first_seen": "2026-08-09"
-  },
-  {
-    "title": "Chironomid-based Late Glacial and Early Holocene summer temperature variability in Lake Prokoško (Western-Balkan region)",
-    "journal": "Palaeogeography Palaeoclimatology Palaeoecology",
-    "source": "openalex:paleoclimate",
-    "url": "https://doi.org/10.1016/j.palaeo.2026.114115",
-    "doi": "10.1016/j.palaeo.2026.114115",
-    "abstract": null,
-    "authors": [
-      "Eszter Tombor",
-      "Aneta Formáčková",
-      "János L. Korponai",
-      "Veronika Szilágyi",
-      "Ingo Feeser",
-      "Walter Dörfler",
-      "Christel van den Bogaard",
-      "Johannes Müller",
-      "Enikő K. Magyari"
-    ],
-    "is_editorial": false,
-    "abstract_missing": true,
-    "always_include": false,
-    "score_boost": 0.0,
-    "score": 4.0,
-    "matched": [
-      "Holocene"
-    ],
-    "published": "2026-08-01",
-    "first_seen": "2026-08-09"
-  },
-  {
     "title": "Holocene hydroclimatic variability and multi-frequency analyses at Lake Sidi Ali (Morocco)",
     "journal": "Climate of the Past",
     "source": "rss:cp",
@@ -3298,58 +3015,6 @@
     ],
     "published": "2026-08-14",
     "first_seen": "2026-08-16"
-  },
-  {
-    "title": "Pressurization of Shallow Magma Reservoir Preceding Basaltic Eruptions at an Open‐Vent Volcano",
-    "journal": "JGR Solid Earth",
-    "source": "rss:jgr-solidearth",
-    "url": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025JB032373?af=R",
-    "doi": "10.1029/2025jb032373",
-    "abstract": "Journal of Geophysical Research: Solid Earth, Volume 131, Issue 8, August 2026.",
-    "authors": [
-      "A. Ishikawa",
-      "T. Nishimura",
-      "G. Lacanna",
-      "H. Aoyama",
-      "R. Kawaguchi",
-      "E. Fujita",
-      "T. Yamada",
-      "T. Miwa",
-      "M. Ripepe"
-    ],
-    "is_editorial": false,
-    "abstract_missing": false,
-    "always_include": false,
-    "score_boost": 0.0,
-    "score": 3.0,
-    "matched": [
-      "solid earth"
-    ],
-    "published": "2026-08-08",
-    "first_seen": "2026-08-09"
-  },
-  {
-    "title": "Convectively Coupled Kelvin Waves over the Congo Basin: Modulation by Land Characteristics",
-    "journal": "Journal of Climate",
-    "source": "openalex:0894-8755",
-    "url": "https://doi.org/10.1175/jcli-d-26-0115.1",
-    "doi": "10.1175/jcli-d-26-0115.1",
-    "abstract": "Abstract Convectively coupled Kelvin waves (CCKWs) are a prominent mode of tropical variability that organize convection and modulate rainfall, providing an important source of synoptic-to-subseasonal predictability. Most current understanding of CCKW structure and evolution is derived from oceanic environments, where surface conditions are relatively uniform and wave–convection coupling is coherent. Over land, however, strong diurnal variability, heterogeneous surface properties, and complex terrain introduce additional processes that can substantially modify this coupling. Using reanalysis and satellite observations, we show that CCKWs over the Congo Basin depart from the canonical ocean-based framework. The typical shallow–congestus–deep convective transition is weak, with limited shallow cloud development ahead of the active phase, particularly during daytime. Surface latent heat flux anomalies occur in phase with enhanced incoming solar radiation, indicating a thermodynamically driven response rather than the wind-stress-dominated mechanism common over oceans. During the suppressed phase, reduced cloud cover allows increased solar radiation to warm the surface, strengthening latent heat fluxes and promoting boundary-layer growth and moistening. These processes progressively erode convective inhibition from below, while free-tropospheric adjustment becomes dominant only near the convective peak, implying a distinct pathway of convective preconditioning over land. Topography and diurnally forced circulations further modulate wave evolution by locally triggering convection ahead of the large-scale active phase, partially offsetting wave-scale inhibition and advancing convective maxima. This work demonstrates that land-atmosphere interactions substantially reshape CCKW structure and convection over Central Africa, highlighting the limitations of ocean-based Kelvin-wave frameworks for continental environments.",
-    "authors": [
-      "Zeyao Dong",
-      "Richard Washington"
-    ],
-    "is_editorial": false,
-    "abstract_missing": false,
-    "always_include": false,
-    "score_boost": 0.0,
-    "score": 3.0,
-    "matched": [
-      "predictability",
-      "reanalysis"
-    ],
-    "published": "2026-08-07",
-    "first_seen": "2026-08-09"
   },
   {
     "title": "Global database of glacier failures (1900–2025)",
@@ -4117,6 +3782,32 @@
     ],
     "published": "2026-08-15",
     "first_seen": "2026-08-16"
+  },
+  {
+    "title": "CarbonBench: A Global Benchmark for Upscaling of Carbon Fluxes Using Zero-Shot Learning",
+    "journal": "arXiv physics.ao-ph",
+    "source": "rss:arxiv-ao-ph",
+    "url": "https://arxiv.org/abs/2603.09868",
+    "doi": null,
+    "abstract": "arXiv:2603.09868v2 Announce Type: replace-cross Abstract: Accurately quantifying terrestrial carbon exchange is essential for climate policy and carbon accounting, yet models must generalize to ecosystems underrepresented in sparse eddy covariance observations. Despite this challenge being a natural instance of zero-shot spatial transfer learning for time series regression, no standardized benchmark exists to rigorously evaluate model performance across geographically distinct locations with different climate regimes and vegetation types. We introduce CarbonBench, the first benchmark for zero-shot spatial transfer in carbon flux upscaling. CarbonBench comprises over 1.3 million daily observations from 567 flux tower sites globally (2000-2024). It provides: (1) stratified evaluation protocols that explicitly test generalization across unseen vegetation types and climate regimes, separating spatial transfer from temporal autocorrelation; (2) a harmonized set of remote sensing and meteorological features to enable flexible architecture design; and (3) baselines ranging from tree-based methods to domain-generalization architectures. By bridging machine learning methodologies and Earth system science, CarbonBench aims to enable systematic comparison of transfer learning methods, serves as a testbed for regression under distribution shift, and contributes to the next-generation climate modeling efforts.",
+    "authors": [
+      "Aleksei Rozanov",
+      "Arvind Renganathan",
+      "Yimeng Zhang",
+      "Vipin Kumar"
+    ],
+    "is_editorial": false,
+    "abstract_missing": false,
+    "always_include": false,
+    "score_boost": 0.0,
+    "score": 3.0,
+    "matched": [
+      "Earth system",
+      "machine learning",
+      "remote sensing"
+    ],
+    "published": "2026-08-17",
+    "first_seen": "2026-08-17"
   },
   {
     "title": "BinMod1D v1.0.10: a Python package for explicitly simulating 1D collisional coalescence/breakup processes with corresponding polarimetric radar signatures",
