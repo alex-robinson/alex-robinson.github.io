@@ -218,6 +218,38 @@
     "first_seen": "2026-08-16"
   },
   {
+    "title": "Hysteresis and irreversibility in permafrost physical response to increase and decrease of CO2 emissions",
+    "journal": "Earth System Dynamics",
+    "source": "rss:esd",
+    "url": "https://doi.org/10.5194/esd-17-1135-2026",
+    "doi": "10.5194/esd-17-1135-2026",
+    "abstract": "We investigated a response of permafrost using an Earth system model driven by an idealized overshooting carbon emission scenario, and found that the permafrost response to warming and cooling is reversible in the area but irreversible in its property. The permafrost response shows hysteresis, arising from a slow soil response tied to heat conductivity and specific heat of water phase change. A carbon release from thawed permafrost accounts for 0.6–41% of the cumulative carbon emission.",
+    "authors": [
+      "Natsuki Watanabe",
+      "Masahiro Watanabe",
+      "Tomohiro Hajima",
+      "Tokuta Yokohata",
+      "Irina Melnikova"
+    ],
+    "is_editorial": false,
+    "abstract_missing": false,
+    "always_include": false,
+    "score_boost": 0.0,
+    "score": 34.0,
+    "matched": [
+      "hysteresis",
+      "overshoot",
+      "irreversible",
+      "permafrost",
+      "Earth system model",
+      "Earth system",
+      "CO2",
+      "emission scenario"
+    ],
+    "published": "2026-08-17",
+    "first_seen": "2026-08-18"
+  },
+  {
     "title": "Refinement of the Quaternary seismic stratigraphy and analysis of buried glacial channels on the Labrador Shelf",
     "journal": "Journal of Quaternary Science",
     "source": "openalex:paleoclimate",
@@ -346,38 +378,6 @@
     "first_seen": "2026-08-15"
   },
   {
-    "title": "Complex palaeo-ice sheet dynamics in northeast Ireland during the retreat and reorganisation of the central British-Irish Ice Sheet",
-    "journal": "Geomorphology",
-    "source": "openalex:paleoclimate",
-    "url": "https://doi.org/10.1016/j.geomorph.2026.110488",
-    "doi": "10.1016/j.geomorph.2026.110488",
-    "abstract": "Improving our understanding of the marine- to terrestrial-based transition of the last British-Irish Ice Sheet (BIIS) is crucial for assessing future ice sheet loss in analogous regions of contemporary ice sheets. Current palaeo-ice sheet reconstructions constrain the nature of BIIS wastage from its maximum extents well from c. 27 ka BP during a period of sea level rise and ice sheet instability. However, the drivers and influences of deglaciation from c. 20 ka BP as the BIIS separated into separate, terrestrial-based ice domes amid rapid, high-magnitude climate change remain a challenge to unravel. This study investigates palaeo-ice sheet dynamics in northeast Ireland pertaining to the reorganisation of the central BIIS to constrain and untangle these drivers. A 0.4 m horizontal resolution digital surface model was employed to map 12,979 glacial landforms over a 3905 km 2 study area in Northern Ireland. New sedimentological analyses are combined to interrogate palaeo-ice sheet dynamics through a relative chronological framework of six ‘flow stages’ that unravel the deglaciation of the central BIIS c. 20-15 ka. Intrinsic drivers such as meltwater drainage, ice sheet thinning, and ice divide migration heavily influenced the collapse of a major ice divide over northeast Ireland, as well as the initiation of an ephemeral ice stream at its margins. Irish ice dispersing from lowland and upland centres decayed during full stadial conditions as Scottish ice readvanced from a better nourished source, stabilising along the Irish coast. However, more absolute ages are required to better understand these complex, contrasting dynamical behaviours.",
-    "authors": [
-      "Alexander Clark",
-      "Bethan J. Davies",
-      "Sam Roberson",
-      "Simon Blockley",
-      "Adrian Palmer",
-      "Magret Damaschke"
-    ],
-    "is_editorial": false,
-    "abstract_missing": false,
-    "always_include": false,
-    "score_boost": 0.0,
-    "score": 25.0,
-    "matched": [
-      "ice sheet",
-      "ice stream",
-      "meltwater",
-      "deglaciation",
-      "sea level",
-      "sea-level rise",
-      "climate change"
-    ],
-    "published": "2026-08-01",
-    "first_seen": "2026-08-10"
-  },
-  {
     "title": "The chronology of the Last Interglacial relative sea-level in the Mediterranean Basin: New data from Grotta del Diavolo (Southern Italy)",
     "journal": "Quaternary Science Reviews",
     "source": "openalex:paleoclimate",
@@ -495,37 +495,6 @@
     ],
     "published": "2026-08-13",
     "first_seen": "2026-08-13"
-  },
-  {
-    "title": "State transitions in land-vegetation systems emerge at Paris Agreement warming levels in CMIP6",
-    "journal": "arXiv physics.ao-ph",
-    "source": "rss:arxiv-ao-ph",
-    "url": "https://arxiv.org/abs/2608.07325",
-    "doi": null,
-    "abstract": "arXiv:2608.07325v1 Announce Type: new Abstract: Using an automatic detection workflow applied to the Coupled Model Intercomparison Project Phase 6 (CMIP6) ensemble under future emission scenarios, we identify 47 abrupt and more gradually developing state transitions in the land-vegetation component of the Earth system, classified into 9 categories. Over the Amazon, we find state transitions via vegetation dieback alongside greening cases; the contrast between them is traced primarily to differences in precipitation: models showing dieback experience either a larger absolute decline in precipitation, or one that translates more efficiently into soil moisture loss, particularly near the surface, while in greening models the CO$_2$ fertilization effect wins out where the soil moisture loss remains weaker. The precipitation decline in dieback-prone models appears driven through a weakening of moist convection. Across these Amazon cases, models with dynamic vegetation undergo dieback, whereas greening is confined to models with prescribed vegetation distributions. African cases include greening over eastern-central Africa and the Congo basin, and an abrupt soil-moisture drying also over the Congo. At high latitudes, boreal forest expands, while permafrost thaws once the regional above-zero temperatures persist for more than half the year. Additional categories cover transitions to a reduced snow-cover state over northeastern North America, increased vegetation biomass near the Tibetan Plateau and southeastern Asia, and increased leaf-area index over the northeast Northern America. Of particular concern, a global warming of 2$^\\circ$C or below, within reach of the Paris Agreement targets, is already enough to trigger the onset of the majority of the identified categories in CMIP6.",
-    "authors": [
-      "Pouriya Alinaghi",
-      "Sybren Drijfhout",
-      "Joran Angevaare",
-      "Chris Jones",
-      "Andy Wiltshire"
-    ],
-    "is_editorial": false,
-    "abstract_missing": false,
-    "always_include": false,
-    "score_boost": 0.0,
-    "score": 20.0,
-    "matched": [
-      "permafrost",
-      "boreal forest",
-      "Earth system",
-      "model intercomparison",
-      "CMIP",
-      "ensemble",
-      "global warming"
-    ],
-    "published": "2026-08-10",
-    "first_seen": "2026-08-10"
   },
   {
     "title": "Quaternary Arctic planktonic foraminifera: morphological differentiation and taxonomic reassessment of subpolar spinose taxa",
@@ -656,6 +625,34 @@
     ],
     "published": "2026-08-10",
     "first_seen": "2026-08-11"
+  },
+  {
+    "title": "Inclusion of MyAMI-derived Mg ∕ Ca corrections to the marine carbonate system in the cGENIE.cookie Earth system model (v.0.91)",
+    "journal": "Geoscientific Model Development",
+    "source": "rss:gmd",
+    "url": "https://doi.org/10.5194/gmd-19-7569-2026",
+    "doi": "10.5194/gmd-19-7569-2026",
+    "abstract": "Seawater composition affects carbon cycling in the ocean and has changed over Earth history, requiring corrections when reconstructing past marine carbonate systems. We present a new correction scheme for the intermediate complexity Earth system model cGENIE based on the ion interaction model MyAMI. We validate the new scheme, find significant improvements over the default scheme, and discuss the relevance of accurate and consistent major ion correction in carbon cycle reconstructions.",
+    "authors": [
+      "Markus Adloff",
+      "Terra M. Ganey",
+      "Mathis P. Hain",
+      "Michael J. Henehan",
+      "Sarah E. Greene",
+      "Andy Ridgwell"
+    ],
+    "is_editorial": false,
+    "abstract_missing": false,
+    "always_include": true,
+    "score_boost": 0.0,
+    "score": 17.0,
+    "matched": [
+      "carbon cycle",
+      "Earth system model",
+      "Earth system"
+    ],
+    "published": "2026-08-17",
+    "first_seen": "2026-08-18"
   },
   {
     "title": "The temporal evolution of Southern Hemisphere hydroclimate through the Last Interglacial: a model-proxy synthesis",
@@ -823,28 +820,30 @@
     "first_seen": "2026-08-13"
   },
   {
-    "title": "Finite-Response Complementarity in Fluctuation Constraints on Climate Sensitivity",
-    "journal": "arXiv physics.ao-ph",
-    "source": "rss:arxiv-ao-ph",
-    "url": "https://arxiv.org/abs/2608.07356",
-    "doi": null,
-    "abstract": "arXiv:2608.07356v1 Announce Type: new Abstract: Equilibrium climate sensitivity (ECS) is a zero-frequency susceptibility, whereas historical globalmean temperature variability samples a finite, forced projection of the climate system. We test whether information missed by a scalar fluctuation-memory coordinate reappears in a finite CO2 response. After conditioning both ECS and the finite response on {\\Psi}, CMIP5 residuals are nearly uncoupled (C5 = 0.154), whereas CMIP6 shows strong complementarity (C6 = 0.593, p = 0.00288). A two-mode stochastic response model attributes this contrast to hidden-response spread that is visible in the finite response but poorly projected onto {\\Psi}. The CMIP6 residual direction defines a first-order correction and yields a HadCRUT5 conditional ECS estimate centered at 3.00 K. Thus the weakened CMIP6 fluctuation constraint does not imply that susceptibility information is lost: part of it is recovered through a complementary finite-response projection.",
+    "title": "The Overprint of Transient Rheology on Laterally Heterogeneous Viscosity: Influences on Sea‐Level Change Driven by Antarctic Ice Sheet Loss",
+    "journal": "JGR Solid Earth",
+    "source": "rss:jgr-solidearth",
+    "url": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2026JB033961?af=R",
+    "doi": "10.1029/2026jb033961",
+    "abstract": "Journal of Geophysical Research: Solid Earth, Volume 131, Issue 8, August 2026.",
     "authors": [
-      "Zaibo Zhao",
-      "Yongwen Zhang"
+      "Harriet C. P. Lau",
+      "Allie N. Coonin",
+      "Frederick D. Richards",
+      "Konstantin Latychev"
     ],
     "is_editorial": false,
     "abstract_missing": false,
     "always_include": false,
     "score_boost": 0.0,
-    "score": 12.0,
+    "score": 13.0,
     "matched": [
-      "CMIP",
-      "climate sensitivity",
-      "CO2"
+      "ice sheet",
+      "Antarctic",
+      "solid earth"
     ],
-    "published": "2026-08-10",
-    "first_seen": "2026-08-10"
+    "published": "2026-08-17",
+    "first_seen": "2026-08-18"
   },
   {
     "title": "Resolving Emergent Beat Patterns Through Hybrid Bayesian Learning of Multilayered Stochastic Hierarchical Delay Models",
@@ -1073,28 +1072,31 @@
     "first_seen": "2026-08-15"
   },
   {
-    "title": "Sharper Resolution of Arctic Sea Ice Dynamics With Non‐Conforming Finite Elements in FESOM2",
-    "journal": "JAMES",
-    "source": "rss:james",
-    "url": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2026MS005803?af=R",
-    "doi": "10.1029/2026ms005803",
-    "abstract": "Journal of Advances in Modeling Earth Systems, Volume 18, Issue 8, August 2026.",
+    "title": "Paleo-NorCPM: A framework toward fully coupled ocean-atmosphere paleoclimate reanalysis over the past centuries",
+    "journal": "Earth System Science Data",
+    "source": "rss:essd",
+    "url": "https://doi.org/10.5194/essd-2026-433",
+    "doi": "10.5194/essd-2026-433",
+    "abstract": "Preprint under review for ESSD (discussion: open, 0 comments) Instrumental observations only cover a small part of Earth’s climate history, making it difficult to understand long-term climate changes. We combined information from natural climate archives, such as tree rings, corals, and ice cores, with a climate model to reconstruct climate variability over the last 500 years. Our reconstruction displays a good performance when compared with observations, provide a physically consistent picture of how the atmosphere and ocean evolved together through time.",
     "authors": [
-      "Jan P. Gärtner",
-      "Sergey Danilov"
+      "Quentin Dalaiden",
+      "François Counillon",
+      "Lea Svendsen",
+      "Ingo Bethke",
+      "Noel Keenlyside"
     ],
     "is_editorial": false,
     "abstract_missing": false,
     "always_include": false,
     "score_boost": 0.0,
-    "score": 10.0,
+    "score": 11.0,
     "matched": [
-      "ice dynamics",
-      "Arctic",
-      "sea ice"
+      "paleoclimate",
+      "ice core",
+      "reanalysis"
     ],
-    "published": "2026-08-08",
-    "first_seen": "2026-08-10"
+    "published": "2026-08-17",
+    "first_seen": "2026-08-18"
   },
   {
     "title": "Globally and intergenerationally unequal exposure to hourly heat extremes",
@@ -1215,6 +1217,31 @@
     ],
     "published": "2026-08-11",
     "first_seen": "2026-08-13"
+  },
+  {
+    "title": "Generative data assimilation highlights fronts as key regulators of ocean energy cascade",
+    "journal": "arXiv physics.ao-ph",
+    "source": "rss:arxiv-ao-ph",
+    "url": "https://arxiv.org/abs/2608.14955",
+    "doi": null,
+    "abstract": "arXiv:2608.14955v1 Announce Type: new Abstract: Mesoscale eddies are fundamental to the ocean circulation, yet the extent to which submesoscale motions, a few kilometers across, influence mesoscale eddy energetics through a kinetic energy cascade remains uncertain. High-resolution simulations predict that submesoscale fronts are key regulators of the cascade, transferring energy both downscale towards dissipation and upscale to sustain and shape the seasonality of mesoscale eddies. Testing these predictions has remained difficult because existing observations and state estimates cannot resolve submesoscale currents over sufficiently broad domains. Here we map the ocean's submesoscale energy cascade by combining multi-source satellite observations with a generative deep learning framework, reconstructing gap-free, kilometer-scale surface currents with physically plausible dynamics learned from simulations. Applying this to the eddy-rich Agulhas Current system, we find that submesoscales energize the mesoscale through an upscale energy cascade above 10 km, contributing to the seasonality of mesoscale eddies. Below 10 km, convergence at submesoscale fronts drives a downscale cascade towards dissipation. Both upscale and downscale pathways concentrate within fronts, where cross-scale transfer is up to an order of magnitude more efficient. Despite their limited extent, fronts account for a substantial fraction of the domain-integrated cascade, establishing them as key regulators of the cascade and targets for next-generation eddy parameterizations.",
+    "authors": [
+      "Scott A. Martin",
+      "Georgy E. Manucharyan",
+      "Patrice Klein"
+    ],
+    "is_editorial": false,
+    "abstract_missing": false,
+    "always_include": false,
+    "score_boost": 0.0,
+    "score": 10.0,
+    "matched": [
+      "ocean circulation",
+      "data assimilation",
+      "parameterization"
+    ],
+    "published": "2026-08-18",
+    "first_seen": "2026-08-18"
   },
   {
     "title": "Do AI Forecast Ensembles Sample the Correct Conditional Distribution?",
@@ -1357,6 +1384,58 @@
     "first_seen": "2026-08-17"
   },
   {
+    "title": "Sensitivity of the Bootstrap sea ice concentration algorithm to surface parameters in the Antarctic marginal ice zone using passive microwave retrievals",
+    "journal": "The Cryosphere",
+    "source": "rss:tc",
+    "url": "https://doi.org/10.5194/tc-20-4465-2026",
+    "doi": "10.5194/tc-20-4465-2026",
+    "abstract": "Passive microwave radiometers are the primary tool for monitoring Antarctic sea ice, but their reliability decreases in the marginal ice zone between the pack ice and the open ocean. We simulate satellite observations to assess the impact of varying physical parameters on sea ice concentration retrievals. The largest errors are due to flooded/wet snow, thin ice, and roughened ocean surfaces. These findings can improve our interpretation of satellite observations and forecast sea ice changes.",
+    "authors": [
+      "Marta Stentella",
+      "Ghislain Picard",
+      "Petra Heil",
+      "Jacqueline Boutin",
+      "Emmanuel Dinnat",
+      "Stuart Corney"
+    ],
+    "is_editorial": false,
+    "abstract_missing": false,
+    "always_include": true,
+    "score_boost": 0.0,
+    "score": 9.0,
+    "matched": [
+      "Antarctic",
+      "sea ice"
+    ],
+    "published": "2026-08-17",
+    "first_seen": "2026-08-18"
+  },
+  {
+    "title": "Comprehensive inter-comparison of generative  AI models for super-resolution precipitation  downscaling across hydroclimatic regimes",
+    "journal": "Geoscientific Model Development",
+    "source": "rss:gmd",
+    "url": "https://doi.org/10.5194/gmd-19-7545-2026",
+    "doi": "10.5194/gmd-19-7545-2026",
+    "abstract": "High-resolution precipitation is critical for hydrologic and climate-risk applications, but climate models are too coarse to resolve storm-scale extremes. We compare a deterministic U-NET with two generative models, a Wasserstein Generative Adversarial Network (WGAN) and a diffusion model, for 8× and 16× precipitation downscaling using ERA5-Land. U-NET is stable but smooths extremes, whereas generative models better capture variability and heavy tails while introducing greater uncertainty.",
+    "authors": [
+      "Shivam Singh",
+      "Simon Michael Papalexiou",
+      "Hebatallah M. Abdelmoaty",
+      "Tom Hartvigsen",
+      "Antonios Mamalakis"
+    ],
+    "is_editorial": false,
+    "abstract_missing": false,
+    "always_include": true,
+    "score_boost": 0.0,
+    "score": 9.0,
+    "matched": [
+      "downscaling"
+    ],
+    "published": "2026-08-17",
+    "first_seen": "2026-08-18"
+  },
+  {
     "title": "Dipole in North African Dust Deposition at the Last Glacial Maximum Explained by Shifted Wind Direction Under Steepened Meridional Temperature Gradients",
     "journal": "Geophysical Research Letters",
     "source": "rss:grl",
@@ -1487,6 +1566,32 @@
     ],
     "published": "2026-08-14",
     "first_seen": "2026-08-16"
+  },
+  {
+    "title": "Impacts of Sulfate Injection Geoengineering on Particulate Matter with Diameter less than 2.5 {\\mu}m",
+    "journal": "arXiv physics.ao-ph",
+    "source": "rss:arxiv-ao-ph",
+    "url": "https://arxiv.org/abs/2608.14928",
+    "doi": null,
+    "abstract": "arXiv:2608.14928v1 Announce Type: new Abstract: Particulate matter with aerodynamic diameter less than 2.5 {\\mu}m (PM2.5) is of great concern for human health. Here, for the first time, we examine the impact of sulfate aerosol geoengineering on PM2.5, using the output from the Geoengineering Large Ensemble (GLENS) project. GLENS is an ensemble of climate model simulations injecting SO2 into the stratosphere to balance RCP8.5 forcing using the Community Earth System Model, version 1. GLENS geoengineering reduces global averaged surface PM2.5 mass concentrations compared with RCP8.5 and also changes PM2.5 composition with more percentages of organic carbon and sulfate. The total reduction of PM2.5 is a result of less dust and sea salt concentrations. Dust emission is declined under GLENS geoengineering because of increased soil moisture and leaf area index over desert regions, and less emission of sea salt is due to slower wind speeds when geoengineering is applied. Excluding dust and sea salt, there is more global averaged PM2.5 under GLENS geoengineering relative to RCP8.5, predominantly due to more aerosol phase secondary organic aerosol (SOA). Since gas precursors of SOA are prescribed in the simulations, a cooler environment with geoengineering tends to transfer more gas phase SOA to aerosol phase. Changes in PM2.5 concentration and composition with applied geoengineering may have potential human health impact. Another new finding of this study is that the large amount of injected SO2 does not increase surface sulfate aerosol as a component of PM2.5, as the majority of sulfate aerosol reaching the boundary layer is in the coarse mode, which represents a very small fraction of the PM2.5. But the difference of deposition spatial distribution between geoengineering and RCP8.5 may have potential impacts on ecosystem.",
+    "authors": [
+      "Lili Xia",
+      "Alan Robock",
+      "Simone Tilmes"
+    ],
+    "is_editorial": false,
+    "abstract_missing": false,
+    "always_include": false,
+    "score_boost": 0.0,
+    "score": 8.0,
+    "matched": [
+      "Earth system model",
+      "Earth system",
+      "ensemble",
+      "RCP"
+    ],
+    "published": "2026-08-18",
+    "first_seen": "2026-08-18"
   },
   {
     "title": "Planktonic foraminifera iodine ∕ calcium ratio: is it a proxy for dissolved oxygen in the ocean?",
@@ -1651,104 +1756,33 @@
     "first_seen": "2026-08-14"
   },
   {
-    "title": "The International Soil Radiocarbon Database (ISRaD) version 2: synthesis, data gaps, and future directions of soil radiocarbon data",
-    "journal": "Earth System Science Data",
-    "source": "rss:essd",
-    "url": "https://doi.org/10.5194/essd-18-5793-2026",
-    "doi": "10.5194/essd-18-5793-2026",
-    "abstract": "Here we present the updated International Soil Radiocarbon Database version 2, which compiles radiocarbon data from over 500 studies at 1700 locations worldwide. The database provides various soil radiocarbon measurements to improve our understanding of factors that influence the age distributions of carbon in soils. While we have made progress expanding the database and improving its structure, important gaps remain in tropical regions, deep soils, and certain measurement types.",
+    "title": "Too hot to sleep? How heatwaves at night affect our health",
+    "journal": "Nature",
+    "source": "rss:nature",
+    "url": "https://www.nature.com/articles/d41586-026-02532-2",
+    "doi": "10.1038/d41586-026-02532-2",
+    "abstract": "Nature, Published online: 17 August 2026; doi:10.1038/d41586-026-02532-2 As climate change ramps up, scientists must urgently understand how night-time heat makes it harder for our bodies to rest and recover.",
     "authors": [
-      "Sophie F. von Fromm",
-      "R. Scott Winton",
-      "Derrick R. Vaughn",
-      "Jennifer C. Bowen",
-      "Susan Trumbore",
-      "Kateřina Jandová",
-      "Julie Shahan",
-      "Olga Vindušková",
-      "Shane W. Stoner",
-      "Maedeh Chitsaz",
-      "Avni Malhotra",
-      "Adrian A. Wackett",
-      "Alison M. Hoyt",
-      "Katherine Heckman",
-      "Katerina Georgiou",
-      "Daniel Wasner",
-      "Luisa Isabell Minich",
-      "Katherine E. Grant",
-      "Caitlin E. Hicks Pries",
-      "Karis J. McFarlane",
-      "Anna Abramova",
-      "Corey Lawrence",
-      "Jeffrey Beem-Miller"
+      "Pixin Gong",
+      "Li Lan",
+      "Ruiqi Guo",
+      "Shu Jiang",
+      "Zisheng Huang",
+      "Zhentao Wang",
+      "Yanbing Lin",
+      "Hui Xu"
     ],
     "is_editorial": false,
     "abstract_missing": false,
     "always_include": false,
     "score_boost": 0.0,
-    "score": 6.0,
+    "score": 7.0,
     "matched": [
-      "radiocarbon"
+      "heat wave",
+      "climate change"
     ],
-    "published": "2026-08-10",
-    "first_seen": "2026-08-10"
-  },
-  {
-    "title": "Projected depletion of high mountain Asia glaciers by 2100: linking mass loss to asynchronous peak runoff",
-    "journal": "Journal of Hydrology",
-    "source": "openalex:cryosphere",
-    "url": "https://doi.org/10.1016/j.jhydrol.2026.136205",
-    "doi": "10.1016/j.jhydrol.2026.136205",
-    "abstract": null,
-    "authors": [
-      "Muhammad Mannan Afzal",
-      "Fuming Xie",
-      "Yu Zhu",
-      "Adeel Ahmad Nadeem",
-      "Fazli Hameed",
-      "Yi Luo",
-      "Tandong Yao",
-      "Fubao Sun",
-      "Xin Wang",
-      "Qiao Liu",
-      "Jyoti Karki",
-      "Jun Zhou",
-      "Shiyin Liu"
-    ],
-    "is_editorial": false,
-    "abstract_missing": true,
-    "always_include": false,
-    "score_boost": 0.0,
-    "score": 6.0,
-    "matched": [
-      "glacier",
-      "mass loss"
-    ],
-    "published": "2026-08-01",
-    "first_seen": "2026-08-10"
-  },
-  {
-    "title": "Upper Eocene-Oligocene larger Foraminifera from the westernmost Tethys (Prebetic Range, SE Iberia). Revision of Austrotrillina and Risananeiza",
-    "journal": "Carnets de géologie (Notebooks on geology)",
-    "source": "openalex:paleoclimate",
-    "url": "https://doi.org/10.2110/carnets.2026.2612",
-    "doi": "10.2110/carnets.2026.2612",
-    "abstract": "The study of upper Eocene-Oligocene larger foraminiferal assemblages in two sections of the Prebetic Range in south-eastern Iberia (Ibi and La Font Roja sections) revealed a rich diversity, including species previously known only from the Central Tethys, such as the Eocene Neorhipidionina cf. spiralis, and the Oligocene Pfendericonus globulus, Austrotrillina howchini, Idalina pignattii, and Archaias sp., as well as endemic forms such as Peneroplis peramplus, Spirolinella emmae, and Borelis sp. 1. The continuous record of Austrotrillina (Rupelian-Chattian) and Risananeiza (upper Chattian) showed evolutionary trends and allowed for a systematic revision. Austrotrillina asmariensis, A. striata, and A. brunni are considered morphotypes of a single species, A. striata, evolving anagenetically from the lower Rupelian A. paucialveolata, which originated from the Eocene A. eocaenica. The two known species of Risananeiza, R. crassaparies and R. pustulosa, were identified for the first time within the same stratigraphic section. They represent successive stages of an anagenetic species throughout the upper Chattian. The biostratigraphic results provide an improved characterization of Shallow Benthic zones SB 21 to 23 in the westernmost Tethys and allow the subdivision of SB 23 (upper Chattian) into two sub-biozones, 23A and 23B, based on the stratigraphic ranges of miogypsinids (Miogypsinella spp., Postmiogypsinella intermedia) and Risananeiza. The Priabonian-Chattian Neorotalia burdigalensis also exhibits evolutionary trends with potential biostratigraphic relevance. Overall, the biostratigraphic data obtained indicate diachronous, parallel evolution and extinction in several genera, improving our understanding of diversity patterns and migration pathways in Oligocene larger Foraminifera.",
-    "authors": [
-      "Carles Ferràndez‐Cañadell",
-      "Paula Granero Ordóñez",
-      "Telm Bover‐Arnal"
-    ],
-    "is_editorial": false,
-    "abstract_missing": false,
-    "always_include": false,
-    "score_boost": 0.0,
-    "score": 6.0,
-    "matched": [
-      "foraminifera"
-    ],
-    "published": "2026-08-08",
-    "first_seen": "2026-08-10"
+    "published": null,
+    "first_seen": "2026-08-18"
   },
   {
     "title": "Implementation of a three-dimensional planetary boundary  layer parameterization in a coupled modeling system and  evaluation of “gray zone” simulations of a wind-wave  event off the US California Coast using observations",
@@ -2115,30 +2149,86 @@
     "first_seen": "2026-08-15"
   },
   {
-    "title": "Evaluating Explainable AI Methods for Geoscientific Regression: Insights from Applications and the Lorenz-63 System",
-    "journal": "arXiv physics.ao-ph",
-    "source": "rss:arxiv-ao-ph",
-    "url": "https://arxiv.org/abs/2608.07406",
-    "doi": null,
-    "abstract": "arXiv:2608.07406v1 Announce Type: new Abstract: As artificial intelligence (AI) systems transition from research prototypes to operational tools in Earth system science and forecasting, establishing trust in their predictions becomes increasingly important. Although model inputs and outputs are observable, the internal decision-making of modern AI models remains complex and hard to interpret, earning them the label ``black boxes.'' Explainable artificial intelligence (XAI) offers techniques to provide insight into these processes. However, most XAI methods were developed for classification tasks, raising questions about their suitability for the regression problems that dominate geoscientific applications. We review XAI approaches through this lens, organising them into a structured framework and examining both their theoretical foundations and practical behaviour. To ground this discussion, we apply a selection of methods to a machine learning emulator of the Lorenz 1963 system, an archetypal chaotic model that provides a tractable, physically meaningful setting for exposing the limitations and failure modes of general-purpose XAI in regression contexts. We then survey how these and related methods have been applied across a variety of Earth system sciences. We further situate XAI within the model development lifecycle, linking methodological choices to the needs of different stakeholder groups across operational Earth system science. We close by identifying gaps in existing methodologies and outlining a forward-looking research agenda, with practical recommendations for the responsible, effective use of XAI in regression applications of geoscientific modelling and forecasting.",
+    "title": "Abrupt Increase in Marine Heatwave Accumulated Days Over the Gulf Stream Extension Around 2013 Linked to Subtropical Eastern Pacific Warming",
+    "journal": "JGR Oceans",
+    "source": "rss:jgr-oceans",
+    "url": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2026JC024006?af=R",
+    "doi": "10.1029/2026jc024006",
+    "abstract": "Journal of Geophysical Research: Oceans, Volume 131, Issue 8, August 2026.",
     "authors": [
-      "Ieuan Higgs",
-      "Todd Jones",
-      "Kieran Hunt",
-      "Anna-Louise Ellis"
+      "Zichen Song",
+      "Dong Xiao",
+      "Peilong Yu",
+      "Cheng Sun",
+      "Menghao Dong",
+      "Wei Lou",
+      "Linfeng Shi"
     ],
     "is_editorial": false,
     "abstract_missing": false,
     "always_include": false,
     "score_boost": 0.0,
-    "score": 5.0,
+    "score": 6.0,
     "matched": [
-      "Earth system",
-      "emulator",
-      "machine learning"
+      "heat wave"
     ],
-    "published": "2026-08-10",
-    "first_seen": "2026-08-10"
+    "published": "2026-08-17",
+    "first_seen": "2026-08-18"
+  },
+  {
+    "title": "Developing an Offshore Machine Learning Surface Layer Scheme",
+    "journal": "arXiv physics.ao-ph",
+    "source": "rss:arxiv-ao-ph",
+    "url": "https://arxiv.org/abs/2608.14935",
+    "doi": null,
+    "abstract": "arXiv:2608.14935v1 Announce Type: new Abstract: Turbulent fluxes between the surface and the atmosphere are typically parameterized using empirically fit relationships. Here we test machine learning techniques for fitting the relationship for the offshore environment. To do that, data from three offshore sites are used: the Martha's Vineyard Coastal Observatory (MVCO) air-sea interaction tower, the FINO1 research platform, and the CASPER-West FLIP research vessel deployed off the coast of California. Two machine learning methods were employed: Neural Networks (NN) and Random Forests (RF). Because the observational sites had towers with measurements at different levels, the vertical differences were input as gradients. Models were built for both momentum flux and heat flux. ML models trained at the individual sites were competitive with and in some cases, better than the physically-based COARE-3 model tailored to offshore fluxes. The heat flux ML models generally outperformed the physics-based parameterizations for most metrics, but the results were mixed for momentum flux, with only the site with the most training data (MVCO) producing results better than COARE-3. When the ML models from that site were applied to the other sites, results were degraded from using data from the site being tested. ML models built from data combined from the three sites generally showed improvements for the sites with less available training data. When assessing which variables were most important, the wind speed was most important for momentum flux and temperature gradient for heat flux.",
+    "authors": [
+      "Susan Dettling",
+      "Sue Ellen Haupt",
+      "Thomas Brummet",
+      "Patrick Hawbecker",
+      "Branko Kosovi\\'c",
+      "David John Gagne"
+    ],
+    "is_editorial": false,
+    "abstract_missing": false,
+    "always_include": false,
+    "score_boost": 0.0,
+    "score": 6.0,
+    "matched": [
+      "parameterization",
+      "machine learning",
+      "neural network"
+    ],
+    "published": "2026-08-18",
+    "first_seen": "2026-08-18"
+  },
+  {
+    "title": "Decadal wave reconstruction in the Mediterranean Sea with graph neural networks",
+    "journal": "arXiv physics.ao-ph",
+    "source": "rss:arxiv-ao-ph",
+    "url": "https://arxiv.org/abs/2608.16449",
+    "doi": null,
+    "abstract": "arXiv:2608.16449v1 Announce Type: new Abstract: Accurate simulation and prediction of ocean waves are essential for coastal risk management and climate studies. Deep learning has shown promising results for wave modeling, but most approaches still operate on regular grids and on forecasting time scales, and do not generalize to unstructured discretization or to long time horizons. Here we present WaveGraph, a model based on Graph Neural Networks (GNNs) that emulates basin-scale wave dynamics directly on unstructured meshes with high resolution along the coasts (up to 2-3 km). Trained on bias-corrected simulation data over the Mediterranean Sea, WaveGraph uses a multiscale architecture combining the unstructured model mesh with a uniform graph, allowing simultaneous representation of local coastal interactions and large-scale wave dynamics. The model reconstructs the evolution of significant wave height, mean period, and mean direction, and is applied autoregressively for a continuous 17-year period without reinitialization or drift. Validation against buoy and satellite observations shows skill comparable to the input data set, and ablation experiments indicate that wind forcing drives most of the long-term stability while wave history improves swell-driven and basin-scale dynamics. These results show that GNNs can provide stable and efficient emulators of spectral wave models on unstructured domains, enabling decadal wave reconstructions.",
+    "authors": [
+      "Federica Benassi",
+      "Lorenzo Mentaschi",
+      "Salvatore Causio",
+      "Daniel Holmberg",
+      "Ivan Federico",
+      "Nadia Pinardi"
+    ],
+    "is_editorial": false,
+    "abstract_missing": false,
+    "always_include": false,
+    "score_boost": 0.0,
+    "score": 6.0,
+    "matched": [
+      "emulator",
+      "neural network"
+    ],
+    "published": "2026-08-18",
+    "first_seen": "2026-08-18"
   },
   {
     "title": "Tracing the space-time causal origins of Earth system extremes",
@@ -2366,6 +2456,73 @@
     ],
     "published": "2026-08-12",
     "first_seen": "2026-08-14"
+  },
+  {
+    "title": "Bathymetry Prediction With SWOT Gravity Anomaly Using Machine Learning Methods: Paper 2—Model Evaluation and Uncertainty Analysis",
+    "journal": "JGR Solid Earth",
+    "source": "rss:jgr-solidearth",
+    "url": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025JB033502?af=R",
+    "doi": "10.1029/2025jb033502",
+    "abstract": "Journal of Geophysical Research: Solid Earth, Volume 131, Issue 8, August 2026.",
+    "authors": [
+      "Bjarke Nilsson",
+      "Benjamin J. Phrampus",
+      "Farshad Salajegheh",
+      "Biao Lu",
+      "Yao Yu",
+      "David Sandwell",
+      "Ole B. Andersen",
+      "Walter H. F. Smith",
+      "Paul Elmore",
+      "Jonathan F. Kirby",
+      "Luis Altamirano"
+    ],
+    "is_editorial": false,
+    "abstract_missing": false,
+    "always_include": false,
+    "score_boost": 0.0,
+    "score": 5.0,
+    "matched": [
+      "solid earth",
+      "machine learning"
+    ],
+    "published": "2026-08-17",
+    "first_seen": "2026-08-18"
+  },
+  {
+    "title": "Bathymetry Prediction With SWOT Gravity Anomaly Using Machine Learning Methods: Paper 1–Model Development",
+    "journal": "JGR Solid Earth",
+    "source": "rss:jgr-solidearth",
+    "url": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025JB032798?af=R",
+    "doi": "10.1029/2025jb032798",
+    "abstract": "Journal of Geophysical Research: Solid Earth, Volume 131, Issue 8, August 2026.",
+    "authors": [
+      "David Sandwell",
+      "Benjamin J. Phrampus",
+      "Farshad Salajegheh",
+      "Bjarke Nilsson",
+      "Biao Lu",
+      "Yao Yu",
+      "Hugh Harper",
+      "Ole B. Andersen",
+      "Walter Smith",
+      "Paul Elmore",
+      "Jonathan Kirby",
+      "James Beale",
+      "Jamie Roberts",
+      "Luis Altamirano"
+    ],
+    "is_editorial": false,
+    "abstract_missing": false,
+    "always_include": false,
+    "score_boost": 0.0,
+    "score": 5.0,
+    "matched": [
+      "solid earth",
+      "machine learning"
+    ],
+    "published": "2026-08-17",
+    "first_seen": "2026-08-18"
   },
   {
     "title": "Holocene hydroclimatic variability and multi-frequency analyses at Lake Sidi Ali (Morocco)",
@@ -3017,28 +3174,28 @@
     "first_seen": "2026-08-16"
   },
   {
-    "title": "Global database of glacier failures (1900–2025)",
-    "journal": "Earth System Science Data",
-    "source": "rss:essd",
-    "url": "https://doi.org/10.5194/essd-2026-481",
-    "doi": "10.5194/essd-2026-481",
-    "abstract": "Preprint under review for ESSD (discussion: open, 0 comments) Glacier failures release large amounts of ice that travel downslope very fast. It can have serious consequences for people and infrastructure. We collected information on more than 500 glacier failures worldwide to understand where and when they occur. Reported events are concentrated in regions with better observations and increased after the mid-1960s and early 2010s. This record helps us better understand such events in a changing climate and supports future monitoring and risk preparation.",
+    "title": "Volume-preserving Lagrangian averaging using polar factorization",
+    "journal": "arXiv physics.ao-ph",
+    "source": "rss:arxiv-ao-ph",
+    "url": "https://arxiv.org/abs/2608.16862",
+    "doi": null,
+    "abstract": "arXiv:2608.16862v1 Announce Type: cross Abstract: The generalised Lagrangian mean (GLM) theory of Andrews & McIntyre provides a powerful framework to study the interactions between waves and flows. A drawback of this theory is that the Lagrangian mean velocity is divergent even for incompressible fluids because the mean flow map, which sends the Lagrangian labels of fluid parcels to their mean positions, does not preserve volume. This results, for instance, in vortices shrinking under Lagrangian averaging. We overcome this drawback by revising the definition of the mean flow map, choosing it as the volume-preserving map closest to the \"bare\" GLM mean map. A standard result of optimal-transport theory then shows that the new mean map is the volume-preserving factor in the polar factorization of the GLM mean map. We develop and implement a numerical method for the computation of the corresponding Lagrangian mean fields from simulation data. The implementation builds on recently developed algorithms for the on-the-fly computation of Lagrangian means using the exponential and Butterworth filters. We demonstrate the value of volume-preserving Lagrangian averaging in simulations of the two-dimensional incompressible and shallow-water models. We compare the Lagrangian-mean fields obtained with and without the volume-preservation constraint.",
     "authors": [
-      "Ekaterina Bashkova",
-      "Summer B. Rupper",
-      "Dan H. Shugar",
-      "Richard R. Forster"
+      "Abhijeet Minz",
+      "Lois E. Baker",
+      "Jacques Vanneste"
     ],
     "is_editorial": false,
     "abstract_missing": false,
     "always_include": false,
     "score_boost": 0.0,
-    "score": 3.0,
+    "score": 4.0,
     "matched": [
-      "glacier"
+      "polar",
+      "numerical method"
     ],
-    "published": "2026-08-10",
-    "first_seen": "2026-08-10"
+    "published": "2026-08-18",
+    "first_seen": "2026-08-18"
   },
   {
     "title": "A Gauge-Based Monthly Natural Discharge Reconstruction Dataset for the Eurasian Arctic, 1952–2025",
@@ -3808,6 +3965,65 @@
     ],
     "published": "2026-08-17",
     "first_seen": "2026-08-17"
+  },
+  {
+    "title": "Spin Transition of Ferric Iron in Silicate Glasses Inferred by High‐Pressure Electrical Conductivity Measurements",
+    "journal": "JGR Solid Earth",
+    "source": "rss:jgr-solidearth",
+    "url": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2026JB034225?af=R",
+    "doi": "10.1029/2026jb034225",
+    "abstract": "Journal of Geophysical Research: Solid Earth, Volume 131, Issue 8, August 2026.",
+    "authors": [
+      "Izumi Mashino",
+      "Takashi Yoshino",
+      "Shinji Kitao",
+      "Takaya Mitsui",
+      "Ryo Masuda",
+      "Makoto Seto"
+    ],
+    "is_editorial": false,
+    "abstract_missing": false,
+    "always_include": false,
+    "score_boost": 0.0,
+    "score": 3.0,
+    "matched": [
+      "solid earth"
+    ],
+    "published": "2026-08-17",
+    "first_seen": "2026-08-18"
+  },
+  {
+    "title": "High-Resolution Probabilistic Data-Driven Weather Modeling with a Stretched-Grid",
+    "journal": "arXiv physics.ao-ph",
+    "source": "rss:arxiv-ao-ph",
+    "url": "https://arxiv.org/abs/2511.23043",
+    "doi": null,
+    "abstract": "arXiv:2511.23043v2 Announce Type: replace Abstract: We present a probabilistic data-driven weather model providing ensembles of high spatial resolution realizations of 87 variables at arbitrary ensemble size and forecast length. The model uses a global stretched grid, dedicating 2.5 km resolution to our Nordic region of interest and 31 km resolution elsewhere, with 6-hour temporal resolution. Unique ensemble members are generated by a stochastic model architecture, and we train it using a loss function based on the Continuous Ranked Probability Score (CRPS) evaluated in grid-point and spectral space. The spectral loss component is shown to be necessary to create fields that are spatially coherent, which is not the case when training with mean-squared error loss, nor CRPS in grid-point space only. We evaluate the forecasts against observations from surface weather stations and compare them to high-resolution operational numerical weather prediction forecasts from the MetCoOp Ensemble Prediction System (MEPS). The model shows lower CRPS than MEPS for 2 m temperature and mean sea-level pressure, with average improvements of 13\\% and 10\\%, respectively, while differences for wind speed and precipitation are smaller. For Storm Dave, the model captures the location and structure of strong-wind systems, but underestimates the peak winds.",
+    "authors": [
+      "Even Marius Nordhagen",
+      "H{\\aa}vard Homleid Haugen",
+      "Magnus Sikora Ingstad",
+      "Aram Farhad Shafiq Salihi",
+      "Thomas Nils Nipen",
+      "Ivar Ambj{\\o}rn Seierstad",
+      "Inger-Lise Frogner",
+      "Mariana Clare",
+      "Simon Lang",
+      "Matthew Chantry",
+      "Peter Dueben",
+      "J{\\o}rn Kristiansen"
+    ],
+    "is_editorial": false,
+    "abstract_missing": false,
+    "always_include": false,
+    "score_boost": 0.0,
+    "score": 3.0,
+    "matched": [
+      "sea level",
+      "ensemble"
+    ],
+    "published": "2026-08-18",
+    "first_seen": "2026-08-18"
   },
   {
     "title": "BinMod1D v1.0.10: a Python package for explicitly simulating 1D collisional coalescence/breakup processes with corresponding polarimetric radar signatures",
