@@ -1,41 +1,5 @@
 [
   {
-    "title": "A quantitative framework for evaluating marine-based geologic constraints on Antarctic Ice Sheet retreat",
-    "journal": "Quaternary Science Reviews",
-    "source": "openalex:cryosphere",
-    "url": "https://doi.org/10.1016/j.quascirev.2026.110226",
-    "doi": "10.1016/j.quascirev.2026.110226",
-    "abstract": "Reconstructing Antarctic Ice Sheet evolution through the last deglaciation is crucial for quantifying global sea level rise and solid Earth loading changes. This endeavor requires both empirical geologic observations and numerical ice sheet models: geologic data offer valuable but spatially and temporally fragmented snapshots of past glacial configurations, whereas numerical models provide three-dimensional physically based ice evolution but generate a wide range of plausible deglacial histories. Together, these approaches enable process-level insights into ice sheet sensitivity to warmth. Here we focus on the marine seafloor, combining geologic information gleaned from sediment cores and mapped seafloor landforms with numerical ice sheet modeling. We develop model-data comparison metrics that assess both the timing of grounding-line recession and its spatial pattern across the Amundsen and Ross Sea continental shelves. The application of these metrics to a targeted ensemble of ice sheet model simulations demonstrates the power of geologic data to constrain the chronology and amplitude of modeled deglacial ice loss. Marine radiocarbon and seafloor landform observations are translated into glaciologically consistent reconstructions of regional ice sheet deglaciation, lending quantitative context for the reconstruction of low-slope ice sheets that remain pinned on seafloor highs as deglaciation progresses. This work highlights the use of physically self-consistent ice sheet models as a powerful tool to contextualize geologic records of Antarctic deglaciation.",
-    "authors": [
-      "Anna Ruth W. Halberstadt",
-      "Ryan A. Venturelli",
-      "Lindsay O. Prothro",
-      "T. M. King",
-      "Sara C. Peters"
-    ],
-    "is_editorial": false,
-    "abstract_missing": false,
-    "always_include": false,
-    "score_boost": 0.0,
-    "score": 42.0,
-    "matched": [
-      "ice sheet",
-      "ice-sheet modelling",
-      "grounding line",
-      "Antarctic",
-      "deglaciation",
-      "sediment core",
-      "radiocarbon",
-      "sea level",
-      "sea-level rise",
-      "solid earth",
-      "numerical method",
-      "ensemble"
-    ],
-    "published": "2026-08-14",
-    "first_seen": "2026-08-16"
-  },
-  {
     "title": "Near-total loss of buttressing stresses observed on Pine Island Ice Shelf, West Antarctica",
     "journal": "PNAS",
     "source": "rss:pnas",
@@ -269,6 +233,38 @@
     ],
     "published": "2026-08-21",
     "first_seen": "2026-08-21"
+  },
+  {
+    "title": "MeltwaterBench: Deep learning for spatiotemporal downscaling of surface meltwater",
+    "journal": "arXiv physics.ao-ph",
+    "source": "rss:arxiv-ao-ph",
+    "url": "https://arxiv.org/abs/2512.12142",
+    "doi": null,
+    "abstract": "arXiv:2512.12142v2 Announce Type: replace-cross Abstract: The Greenland ice sheet is melting at an accelerated rate due to processes that are not fully understood and hard to measure. The distribution of surface meltwater can help understand these processes and is observable through remote sensing, but current maps of meltwater face a trade-off: They are either high-resolution in time or space, but not both. We develop a deep learning model that creates gridded surface meltwater maps at daily 100m resolution by fusing data streams from remote sensing observations and physics-based models. In particular, we spatiotemporally downscale regional climate model (RCM) outputs using synthetic aperture radar (SAR), passive microwave (PMW), and a digital elevation model (DEM) over the Helheim Glacier in Eastern Greenland from 2017-2023. Using SAR-derived meltwater as \"ground truth\", we show that a deep learning-based method that fuses all data streams is over 10 percentage points more accurate over our study area than existing non deep learning-based approaches that only rely on a regional climate model (83% vs. 95% Acc.) or passive microwave observations (72% vs. 95% Acc.). Alternatively, creating a gridded product through a running window calculation with SAR data underestimates extreme melt events, but also achieves notable accuracy (90%) and does not rely on deep learning. We evaluate standard deep learning methods (UNet and DeepLabv3+), and publish our spatiotemporally aligned dataset as a benchmark, MeltwaterBench, for intercomparisons with more complex data-driven downscaling methods. The code and data are available at github.com/blutjens/hrmelt.",
+    "authors": [
+      "Bj\\\"orn L\\\"utjens",
+      "Patrick Alexander",
+      "Raf Antwerpen",
+      "Til Widmann",
+      "Guido Cervone",
+      "Marco Tedesco"
+    ],
+    "is_editorial": false,
+    "abstract_missing": false,
+    "always_include": false,
+    "score_boost": 0.0,
+    "score": 25.0,
+    "matched": [
+      "ice sheet",
+      "glacier",
+      "Greenland",
+      "meltwater",
+      "regional climate model",
+      "downscaling",
+      "remote sensing"
+    ],
+    "published": "2026-08-24",
+    "first_seen": "2026-08-24"
   },
   {
     "title": "Impact of Heterogeneous Mantle Viscosity on the Glacial Isostatic Adjustment Correction for GRACE(‐FO): Implications for Surface Mass Trends",
@@ -1497,31 +1493,64 @@
     "first_seen": "2026-08-23"
   },
   {
-    "title": "Observed fingerprint of global warming exposes model biases in regional climate attribution",
-    "journal": "Science Advances",
-    "source": "openalex:cites-me",
-    "url": "https://doi.org/10.1126/sciadv.aed1506",
-    "doi": "10.1126/sciadv.aed1506",
-    "abstract": "Disentangling externally forced signals from internal variability in observed surface air temperature (SAT) is essential for reliable regional climate detection and attribution. Although climate model simulated patterns broadly align with observed global warming, persistent regional discrepancies, compounded by the limitation of a single observational realization, impede robust regional attribution. We identify the observation-based SAT externally forced signals and internal variability, which allows us to compare the observed SAT patterns with the simulated counterparts from seven CMIP6 single-model initial-condition large ensembles. Perfect-model tests confirm robust large-scale partitioning, while indicating reduced fidelity where internal variability dominates. Our results suggest that models tend to overestimate emergence timescales in externally forced regions but underestimate them in internal variability–dominated regions. In several internal variability–dominated regions, the forced signal remains undetectable in observations. While Arctic warming is increasingly dominated by external forcing, internal variability has slowed its rate in recent decades. In internal variability–dominated regions, we identify modest yet consistent externally forced contributions, with observed cooling trends and sign flips primarily driven by internal variability. These findings help to resolve long-standing regional attribution puzzles, highlight critical model limitations, and carry fundamental implications for regional climate projections, attribution, and jurisprudence.",
+    "title": "Winter Precipitation Type Diagnosis and Uncertainty Quantification with a Physically Consistent Machine Learning Method",
+    "journal": "arXiv physics.ao-ph",
+    "source": "rss:arxiv-ao-ph",
+    "url": "https://arxiv.org/abs/2512.13899",
+    "doi": null,
+    "abstract": "arXiv:2512.13899v2 Announce Type: replace Abstract: Accurately forecasting winter precipitation type and its transitions is critical for high-impact decision making. However, existing methods struggle in thermodynamically ambiguous regimes, and most do not quantify forecast uncertainty from a single model run. We developed an evidential neural network that predicts calibrated probabilities for four winter precipitation types (rain, snow, freezing rain, and ice pellets) along with epistemic uncertainty estimates at the computational cost of a standard neural network. The model was trained on quality-controlled and curated observations from the crowd-sourced mPING dataset paired with vertical thermodynamic profiles from the NOAA Rapid Refresh model analyses. Rigorous physical quality control removed thermodynamically implausible reports. Bulk evaluation against held-out mPING observations from June 2020 through June 2022 shows the ML model outperforms area-based deterministic methods in success ratio for freezing rain and ice pellets while maintaining comparable or better performance for rain and snow. A reduced freezing rain probability of detection reflects genuinely ambiguous thermodynamic environments rather than a uniform model deficiency and is more robustly represented through the full probability distribution than through the dominant predicted class alone. Thermodynamic regime analysis demonstrates that model prediction errors are physically structured and concentrated in interpretable regions of diagnostic space consistent with the known difficulty of freezing rain and ice pellet discrimination. We further demonstrate the model's physical consistency and operational utility through two contrasting mid-western U.S. winter storm case studies and an interactive visualization tool that enables dynamic interrogation of model predictions and uncertainty in real time.",
     "authors": [
-      "Hasi Aru",
-      "Dirk Olonscheck",
-      "Jochem Marotzke",
-      "Chao Li"
+      "Charlie Becker",
+      "David John Gagne II",
+      "Julie Demuth",
+      "John S. Schreck",
+      "Jacob Radford",
+      "Gabrielle Gantos",
+      "Eliot Kim",
+      "Dhamma Kimpara",
+      "Sophia Reiner",
+      "Justin Willson",
+      "Christopher D. Wirz"
     ],
     "is_editorial": false,
     "abstract_missing": false,
     "always_include": false,
-    "score_boost": 1.0,
-    "score": 8.0,
+    "score_boost": 0.0,
+    "score": 9.0,
     "matched": [
-      "Arctic",
-      "CMIP",
-      "ensemble",
-      "global warming"
+      "uncertainty quantification",
+      "machine learning",
+      "neural network"
     ],
-    "published": "2026-08-14",
-    "first_seen": "2026-08-16"
+    "published": "2026-08-24",
+    "first_seen": "2026-08-24"
+  },
+  {
+    "title": "Palynomorph assemblages and geochemical indicators of Neogene ocean changes in the Eastern Equatorial Pacific: Insights from DSDP Site 568",
+    "journal": "Review of Palaeobotany and Palynology",
+    "source": "openalex:paleoclimate",
+    "url": "https://doi.org/10.1016/j.revpalbo.2026.105706",
+    "doi": "10.1016/j.revpalbo.2026.105706",
+    "abstract": "DSDP Site 568, off the west coast of Guatemala, was chosen to fill the palynological data gap in the Eastern Equatorial Pacific (EEP) region and improve tropical-to-subtropical regional paleoclimatic models of the Northern Hemisphere. This study analyses palynological assemblages and geochemical proxies, including Fe/Al, Ti/Al, and TOC, to evaluate precipitation and marine productivity. Statistical analysis of these variables indicates an oxic depositional environment with low marine primary productivity. The findings also show how dinoflagellate cyst assemblages (DCS) respond to global paleoceanographic and climatic events. These DCS are mainly composed of the phototrophic dinoflagellate taxa Polysphaeridium, Operculodinium , and Spiniferites , which are typical of subtropical and tropical settings. By combining DSDP data on diatoms, planktonic foraminifera, and calcareous nannofossils with dinoflagellate cyst data from this study, the depositional age is estimated from the Early Miocene (∼ 19 Ma) to the Early Pleistocene (> 0.62 Ma). A moderate rise in palynological assemblages is associated with the Middle Miocene Climatic Optimum. Lower TOC values and palynological concentrations were noted during the Middle-to-Late Miocene Carbonate Crash Event. Conversely, palynological concentrations increased somewhat during the Late Miocene-Early Pliocene Global Biogenic Bloom. Lastly, the Pliocene-Pleistocene Northern Hemisphere Glaciation is evident in the area through notable rises in TOC values and palynomorph concentrations.",
+    "authors": [
+      "Ariadna del Carmen Lucho-González",
+      "Javier Helenes",
+      "Karla Gabriela Mejía-Piña",
+      "Luis-Andrés Guerrero-Murcia"
+    ],
+    "is_editorial": false,
+    "abstract_missing": false,
+    "always_include": false,
+    "score_boost": 0.0,
+    "score": 9.0,
+    "matched": [
+      "paleoclimate",
+      "Pliocene",
+      "proxy",
+      "foraminifera"
+    ],
+    "published": "2026-08-22",
+    "first_seen": "2026-08-24"
   },
   {
     "title": "Impacts of Sulfate Injection Geoengineering on Particulate Matter with Diameter less than 2.5 {\\mu}m",
@@ -1964,6 +1993,28 @@
     "first_seen": "2026-08-22"
   },
   {
+    "title": "Climate extremes and women’s nutritional status in Egypt and Jordan",
+    "journal": "Population and Environment",
+    "source": "openalex:cites-me",
+    "url": "https://doi.org/10.1007/s11111-026-00534-w",
+    "doi": "10.1007/s11111-026-00534-w",
+    "abstract": null,
+    "authors": [
+      "Georgina Lily Gemayel",
+      "Clark Gray"
+    ],
+    "is_editorial": false,
+    "abstract_missing": true,
+    "always_include": false,
+    "score_boost": 1.0,
+    "score": 7.0,
+    "matched": [
+      "climate extreme"
+    ],
+    "published": "2026-08-22",
+    "first_seen": "2026-08-24"
+  },
+  {
     "title": "Abrupt Increase in Marine Heatwave Accumulated Days Over the Gulf Stream Extension Around 2013 Linked to Subtropical Eastern Pacific Warming",
     "journal": "JGR Oceans",
     "source": "rss:jgr-oceans",
@@ -2395,6 +2446,66 @@
     "first_seen": "2026-08-23"
   },
   {
+    "title": "Integrated analysis of surface water-groundwater interactions and enhanced hydrological forecasting of glacierized river in cold and arid regions",
+    "journal": "Applied Water Science",
+    "source": "openalex:cryosphere",
+    "url": "https://doi.org/10.1007/s13201-026-02946-3",
+    "doi": "10.1007/s13201-026-02946-3",
+    "abstract": "Abstract In cold and arid regions, climate change has altered precipitation patterns and accelerated glacierized retreat, which imposes severe risks on the stability of regional hydrological systems. Combined with the strong interactions between surface water (SW) and groundwater (GW) regulated by distinctive geological conditions, clarifying the baseline hydrological regime and predicting future hydrological changes is critical to maintaining local ecosystem stability. The headwater catchment of the Bortala River in Northwest China represents a typical glacierized watershed dominated by spring-fed discharge. Under the continuous influence of climate change, quantitative investigations into surface water-groundwater interactions in this catchment are still inadequate. In this study, a coupled SWAT-MODFLOW model embedded with a glacier module was developed to clarify the surface water-groundwater interactions relationship. Based on the Budyko framework, under CMIP6 climate scenarios, to establish an optimized decomposition and reconstruction simulation system, furthermore, to explore the changing characteristics of temperature, precipitation, and runoff. Observed hydrometeorological parameters were utilized to calibrate and validate the established model. A set of statistical indices was employed to assess the modeling performance, and the coupled model attained favorable simulation accuracy. The main results indicated that although surface water served as the dominant recharge source for groundwater from 1971 to 2020, representing a cumulative reduction of 26.7% from the initial value of the historical period, and an increased average annual decline rate of 0.45%. Future scenario projections revealed an increasing trend in total watershed runoff under both SSP2-4.5 and SSP5-8.5, with growth rates of 13.6% and 14.2%, respectively. A runoff inflection point is projected to occur around the 2070s (± 10 years), which will appear approximately 10 years earlier under the high-emission SSP5-8.5 scenario. In addition, intensified precipitation extremes may trigger severe hydrological risks, which are expected to concentrate around the 2040s and 2070s.",
+    "authors": [
+      "Wenjun Wang",
+      "Aihua Long",
+      "Jiawen Yu",
+      "Haowei Tian",
+      "Yi Xiao",
+      "Qi Li",
+      "Yang Liu",
+      "Jingzhou Zhang",
+      "Xuan Liang",
+      "Yuanyuan Meng"
+    ],
+    "is_editorial": false,
+    "abstract_missing": false,
+    "always_include": false,
+    "score_boost": 0.0,
+    "score": 6.0,
+    "matched": [
+      "glacier",
+      "CMIP",
+      "climate change",
+      "SSP"
+    ],
+    "published": "2026-08-22",
+    "first_seen": "2026-08-24"
+  },
+  {
+    "title": "Water resources under climate change: Strategies for sustainable agriculture in Colombia",
+    "journal": "Agricultural Water Management",
+    "source": "openalex:cites-me",
+    "url": "https://doi.org/10.1016/j.agwat.2026.110712",
+    "doi": "10.1016/j.agwat.2026.110712",
+    "abstract": "The growing population, food security, and climate change pose future threats to the sustainability of water resources around the globe. Therefore, projecting future water consumption is crucial for decision-making in water governance, policy reforms, and management planning. In this study, we estimated Colombia's current (2005–2016) and future (2031–2090) water demand under climate change Representative Concentration Pathways (RCP2.6 and RCP8.5) using CORDEX data, and evaluated alternative, spatially-explicit water-saving strategies based on a temporal water footprint assessment approach. The results show that the average harvested area is 3.65 million hectares. In this area, coffee takes the largest share, followed by corn, plantain, and rice. Sugarcane showed the highest average yield (19.9 t ha⁻¹), followed by potato (16.0 t ha⁻¹) and yucca (10.5 t ha⁻¹), highlighting substantial differences in crop productivity. Currently, the total water consumption is 27 km³ /year, consisting of 86% green water (precipitation) and 14% blue water (irrigation water from surface and/or groundwater sources). Oil palm, plantain, and coffee are highly water-intensive crops that account for 80% of total blue water use. Future projections under climate change scenarios indicate that green water consumption could rise slightly, while blue water consumption could increase by up to + 26% in RCP2.6 and up to + 124% in RCP8.5. This increase will be gradual in the mid-term (2031–2060) and will become extreme in the late century (2061–2090). However, the future rise in blue water demand could be reduced by up to −78% by replacing water-intensive crops with crops using less blue water per unit area. A further reduction of up to −91% is possible through the combined implementation of improved irrigation technologies and optimized cropping patterns, rather than traditional surface irrigation practices.",
+    "authors": [
+      "Muhammad Muzammil",
+      "Lutz Breuer",
+      "Umar Farooq",
+      "Natasha Frank",
+      "Björn Weeser",
+      "Alicia Correa"
+    ],
+    "is_editorial": false,
+    "abstract_missing": false,
+    "always_include": false,
+    "score_boost": 1.0,
+    "score": 6.0,
+    "matched": [
+      "climate change",
+      "RCP"
+    ],
+    "published": "2026-08-22",
+    "first_seen": "2026-08-24"
+  },
+  {
     "title": "Bathymetry Prediction With SWOT Gravity Anomaly Using Machine Learning Methods: Paper 2—Model Evaluation and Uncertainty Analysis",
     "journal": "JGR Solid Earth",
     "source": "rss:jgr-solidearth",
@@ -2549,85 +2660,6 @@
     ],
     "published": "2026-08-01",
     "first_seen": "2026-08-22"
-  },
-  {
-    "title": "Gravity Wave Energy Baselines (∼30–110 km) Established From Lidar Observations at McMurdo (77.84°S, 166.67°E), Antarctica: Energy Dissipation and Constituent Diffusion",
-    "journal": "Geophysical Research Letters",
-    "source": "rss:grl",
-    "url": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2026GL124048?af=R",
-    "doi": "10.1029/2026gl124048",
-    "abstract": "Geophysical Research Letters, Volume 53, Issue 16, 28 August 2026.",
-    "authors": [
-      "Jackson Jandreau",
-      "Xinzhao Chu",
-      "Yingfei Chen",
-      "Chester S. Gardner"
-    ],
-    "is_editorial": false,
-    "abstract_missing": false,
-    "always_include": false,
-    "score_boost": 0.0,
-    "score": 4.0,
-    "matched": [
-      "Antarctica"
-    ],
-    "published": "2026-08-14",
-    "first_seen": "2026-08-16"
-  },
-  {
-    "title": "Climate-driven glacier retreat in the Sair Uul massif, Mongolian Altai (1977–2025): remote sensing, climate analysis, and field validation",
-    "journal": "Environmental Monitoring and Assessment",
-    "source": "openalex:cryosphere",
-    "url": "https://doi.org/10.1007/s10661-026-15767-3",
-    "doi": "10.1007/s10661-026-15767-3",
-    "abstract": null,
-    "authors": [
-      "Otgonbayar Demberel",
-      "Bayarmaa Munkhbat",
-      "Zolbayar Jargalsaikhan",
-      "Batsuren Dorjsuren",
-      "Battsetseg Dugersuren",
-      "Nemekhbayar Gankhuyag",
-      "Narankhuu Erdenejargal",
-      "Sainbayar Vasha",
-      "Bilegtmandakh Chuntai",
-      "Enkhsaikhan Undarmaa",
-      "Dashtseren Tsambaa",
-      "Byambanaran Hurelbaatar",
-      "Sergey N. Kirpotin"
-    ],
-    "is_editorial": false,
-    "abstract_missing": true,
-    "always_include": false,
-    "score_boost": 0.0,
-    "score": 4.0,
-    "matched": [
-      "glacier",
-      "remote sensing"
-    ],
-    "published": "2026-08-14",
-    "first_seen": "2026-08-16"
-  },
-  {
-    "title": "Farmers’ Perspectives on Climate Change and Heat Stress Adaptation in Rural Zambia: A Just Transformations Approach",
-    "journal": "Sustainability and Climate Change",
-    "source": "openalex:cites-me",
-    "url": "https://doi.org/10.1177/26922932261476156",
-    "doi": "10.1177/26922932261476156",
-    "abstract": "Climate change adaptation projects and initiatives are increasingly being implemented in rural farming communities. These initiatives have the potential to assist small-scale farmers in confronting environmental and social issues and health-related challenges, such as heat stress. However, questions remain regarding their effectiveness, inclusivity, and long-term sustainability. This study examined farmers’ perspectives on climate change and heat-stress adaptation initiatives in Zambia using the Just Transformations Framework. Focus group discussions supported by photo elicitation were conducted among small-scale farmers in Monze and Sioma Districts. Farmers described experiencing reduced agricultural productivity and changing weather patterns. They identified a range of adaptation responses, including reforestation, stricter regulation of charcoal and timber production, Indigenous Knowledge practices that aid heat stress prevention (e.g., traditional water coolers), and support from government and non-governmental stakeholders. While some participants acknowledged the value of climate-related projects and interventions, many raised concerns about limited inclusivity, bureaucratic barriers, and unequal access to resources and project benefits. Findings also revealed a gap between externally designed projects and the priorities identified by local communities. Consequently, farmers reported that climate change initiatives often fail to address their most urgent needs or provide visible benefits at household level. This study emphasizes the importance of justice-oriented and community-driven approaches in the design and implementation of climate change initiatives. Greater attention to local priorities, participation, and equity is essential for ensuring that climate interventions are effective, sustainable, and responsive to local contexts.",
-    "authors": [
-      "Anayawa Nyambe"
-    ],
-    "is_editorial": false,
-    "abstract_missing": false,
-    "always_include": false,
-    "score_boost": 1.0,
-    "score": 4.0,
-    "matched": [
-      "climate change"
-    ],
-    "published": "2026-08-14",
-    "first_seen": "2026-08-16"
   },
   {
     "title": "Volume-preserving Lagrangian averaging using polar factorization",
@@ -3234,34 +3266,80 @@
     "first_seen": "2026-08-23"
   },
   {
-    "title": "Kinematics and Dynamics of Normal Faults in Southern Tibet: Insights From the 2025 Mw 7.1 Dingri Earthquake",
-    "journal": "JGR Solid Earth",
-    "source": "rss:jgr-solidearth",
-    "url": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025JB033666?af=R",
-    "doi": "10.1029/2025jb033666",
-    "abstract": "Journal of Geophysical Research: Solid Earth, Volume 131, Issue 8, August 2026.",
+    "title": "Impacts of Different Monin–Obukhov Parameterizations on Seasonal Turbulent Heat Flux Estimates Over Snow Surfaces",
+    "journal": "JGR Atmospheres",
+    "source": "rss:jgr-atmospheres",
+    "url": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2026JD047200?af=R",
+    "doi": "10.1029/2026jd047200",
+    "abstract": "Journal of Geophysical Research: Atmospheres, Volume 131, Issue 16, 28 August 2026.",
     "authors": [
-      "Haicheng Xiong",
-      "Yanchuan Li",
-      "Xinjian Shan",
-      "Zhenjie Wang",
-      "Yingfeng Zhang",
-      "Zhaowu Guo",
-      "Chenglong Li",
-      "Renqi Lu",
-      "Jun Hua",
-      "Chunyan Qu"
+      "Hiroki Ikawa",
+      "Manabu Nemoto",
+      "Takashi Hirano"
     ],
     "is_editorial": false,
     "abstract_missing": false,
     "always_include": false,
     "score_boost": 0.0,
-    "score": 3.0,
+    "score": 4.0,
     "matched": [
-      "solid earth"
+      "parameterization"
     ],
-    "published": "2026-08-15",
-    "first_seen": "2026-08-16"
+    "published": "2026-08-22",
+    "first_seen": "2026-08-24"
+  },
+  {
+    "title": "Non-analog ostracod assemblages in Lake Mojave reflect late Quaternary climate and water-level changes",
+    "journal": "Palaeogeography Palaeoclimatology Palaeoecology",
+    "source": "openalex:paleoclimate",
+    "url": "https://doi.org/10.1016/j.palaeo.2026.114150",
+    "doi": "10.1016/j.palaeo.2026.114150",
+    "abstract": null,
+    "authors": [
+      "Anna Dubey",
+      "Gavin Piccione",
+      "Matthew Kirby",
+      "Jaxson Stephen",
+      "Natalie Chang",
+      "Wai Tun",
+      "Angela Daneshmand",
+      "Alison Smith",
+      "Daniel Ibarra"
+    ],
+    "is_editorial": false,
+    "abstract_missing": true,
+    "always_include": false,
+    "score_boost": 0.0,
+    "score": 4.0,
+    "matched": [
+      "Quaternary"
+    ],
+    "published": "2026-08-14",
+    "first_seen": "2026-08-24"
+  },
+  {
+    "title": "Bibliometric analysis of Holocene climate variability research papers from 2002 to 2023 identifying trends leading contributors and thematic developments",
+    "journal": "Discover Geoscience",
+    "source": "openalex:paleoclimate",
+    "url": "https://doi.org/10.1007/s44288-026-00682-4",
+    "doi": "10.1007/s44288-026-00682-4",
+    "abstract": null,
+    "authors": [
+      "Najia Bouabid",
+      "Hayet Mnasri",
+      "Feyda Srarfi",
+      "Mohamed Ali Tagorti"
+    ],
+    "is_editorial": false,
+    "abstract_missing": true,
+    "always_include": false,
+    "score_boost": 0.0,
+    "score": 4.0,
+    "matched": [
+      "Holocene"
+    ],
+    "published": "2026-08-22",
+    "first_seen": "2026-08-24"
   },
   {
     "title": "CarbonBench: A Global Benchmark for Upscaling of Carbon Fluxes Using Zero-Shot Learning",
@@ -3942,6 +4020,53 @@
     ],
     "published": "2026-08-21",
     "first_seen": "2026-08-23"
+  },
+  {
+    "title": "A Graph Neural Network Framework for Characterizing Rainfall Variability Regimes across India",
+    "journal": "arXiv physics.ao-ph",
+    "source": "rss:arxiv-ao-ph",
+    "url": "https://arxiv.org/abs/2608.20947",
+    "doi": null,
+    "abstract": "arXiv:2608.20947v1 Announce Type: new Abstract: The Indian Summer Monsoon shows significant spatial variation. While prior work primarily focused on forecasting rainfall amounts, little attention has been given to how consistently a location's seasonal rainfall trajectory repeats from year to year. We introduce a graph-based machine learning framework to classify locations across India by this inter-annual consistency. Using 2001 to 2022 GSMaP ISRO data (excluding 2012), we constructed graphs for 29,026 grid points where nodes represent individual years and edges denote cosine similarity. A Graph Convolutional Network classified locations as either consistent or erratic with 96.8% accuracy. Applied to the Indian landmass, the model successfully identified the Western Ghats, Northeast India, and parts of central India as consistent regions. This classification was rigorously validated through statistical testing and temporal stability analysis, showing 93.6% agreement across two independent timeframes. Crucially, the results reveal a previously unreported coupling: regions with higher rainfall volumes are also the most temporally repeatable year-to-year, demonstrating an emergent, spatially coherent structure.",
+    "authors": [
+      "Pradyumnan Raghuveeran",
+      "Gaurav Chopra",
+      "Ajay Bankar",
+      "R. I. Sujith"
+    ],
+    "is_editorial": false,
+    "abstract_missing": false,
+    "always_include": false,
+    "score_boost": 0.0,
+    "score": 3.0,
+    "matched": [
+      "machine learning",
+      "neural network"
+    ],
+    "published": "2026-08-24",
+    "first_seen": "2026-08-24"
+  },
+  {
+    "title": "The New Paradigm of Hydrogeology: A Critical Review of Remote Sensing and AI Approaches for Groundwater Assessment and Monitoring in Sub-Saharan Africa",
+    "journal": "Remote Sensing Applications Society and Environment",
+    "source": "openalex:cites-me",
+    "url": "https://doi.org/10.1016/j.rsase.2026.102226",
+    "doi": "10.1016/j.rsase.2026.102226",
+    "abstract": null,
+    "authors": [
+      "Boitumelo L. Maxala",
+      "Timothy Dube"
+    ],
+    "is_editorial": false,
+    "abstract_missing": true,
+    "always_include": false,
+    "score_boost": 1.0,
+    "score": 3.0,
+    "matched": [
+      "remote sensing"
+    ],
+    "published": "2026-08-01",
+    "first_seen": "2026-08-24"
   },
   {
     "title": "AQUA v1.0.0: The Application for QUality Assessment for the Climate Change Adaptation Digital Twin – the core engine",
