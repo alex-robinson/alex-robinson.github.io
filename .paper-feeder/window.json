@@ -173,38 +173,6 @@
     "first_seen": "2026-08-23"
   },
   {
-    "title": "Annual-resolution evidence for aridity spikes at the onset of the Last Glacial Inception in an Eifel maar lake sediment",
-    "journal": "Scientific Reports",
-    "source": "openalex:paleoclimate",
-    "url": "https://doi.org/10.1038/s41598-026-64586-6",
-    "doi": "10.1038/s41598-026-64586-6",
-    "abstract": "Abstract This study presents an annually laminated sediment record from the infilled maar lake at Hoher List in the Eifel volcanic field (Germany), documenting the “Last Glacial Inception” (LGI) at the end of the Eemian interglacial. The landscape of the late Eemian was dominated by a mixed forest containing Abies alba (silver fir). The collapse of this forest occurred within only a few years and was accompanied by frequent wildfires, aeolian dust deposition, a decline of all thermophilous tree species, and the disappearance of Abies , all indicating increasing aridity. The transition unfolded in three distinct phases. LEAP-I (Late Eemian Aridity Pulse I) lasted approximately 250 years and was followed by a 750-year recovery phase during which the interglacial forest returned. LEAP-II was characterized by comparable arid conditions but persisted for at least 750 years, followed by a 350-year phase of boreal forest development. The final transition to stadial conditions occurred during LEAP-III, marked by a pronounced lake-level decline, expansion of grassland, scattered birch and pine, and reduced summer temperatures, likely corresponding to North Atlantic cold event C25. The LGI lasted at least 2700 years, whereas individual aridification pulses developed within decades, indicating rapid aridification events superimposed on a long-term cooling trend.",
-    "authors": [
-      "Frank Sirocko",
-      "Frederik Krebsbach",
-      "Christian Forster",
-      "Frank Dreher",
-      "Martín Grosjean",
-      "Lucas Silva",
-      "Dana F.C. Riechelmann",
-      "Klemens Seelos",
-      "Ralf Schiebel"
-    ],
-    "is_editorial": false,
-    "abstract_missing": false,
-    "always_include": false,
-    "score_boost": 0.0,
-    "score": 27.0,
-    "matched": [
-      "interglacial",
-      "Eemian",
-      "glacial inception",
-      "boreal forest"
-    ],
-    "published": "2026-08-15",
-    "first_seen": "2026-08-17"
-  },
-  {
     "title": "Coupled multiscale paleoclimate reconstruction with four-dimensional variational data assimilation",
     "journal": "arXiv physics.ao-ph",
     "source": "rss:arxiv-ao-ph",
@@ -484,6 +452,39 @@
     "first_seen": "2026-08-23"
   },
   {
+    "title": "DySCo: Dynamically consistent data-driven downscaling of extremes in climate projections",
+    "journal": "arXiv physics.ao-ph",
+    "source": "rss:arxiv-ao-ph",
+    "url": "https://arxiv.org/abs/2608.21998",
+    "doi": null,
+    "abstract": "arXiv:2608.21998v1 Announce Type: cross Abstract: Regional climate risk assessment is critical for applications such as infrastructure design, disaster forecasting, and insurance resource allocation. However, estimating regional (i.e., high-spatial-resolution) risk with global climate models (GCMs) remains computationally prohibitive, which has driven the development of downscaling methods for coarse GCM outputs. Downscaling is vital for rare events, since quantifying their extreme properties requires high spatial resolution and very long GCM simulations. These methods non-intrusively increase GCM resolution while correcting statistical biases from unresolved fine-scale processes, thereby improving the accuracy of extreme event statistics with long return periods. A key challenge is preserving dynamical consistency, as freely evolving GCM trajectories are not expected to track the observational dataset used for training the correction operator. This is critical for causal extreme event analyses, where storyline-based risk assessment, i.e., extreme event catalogs, is necessary for effective planning. We address this challenge by introducing Dynamically and Statistically Consistent downscaling (DySCo), a non-intrusive framework yielding high-resolution climate projections consistent with coarse GCM dynamics. DySCo relies on a data-driven reformulation of nudging to create dynamically paired training trajectories without intrusive GCM modifications. Using these paired trajectories, we train a dynamically and statistically consistent, two-stage operator. We evaluate the method by downscaling the Community Earth System Model v2 Large Ensemble (LENS2) in time and space towards historical reanalysis. Results show DySCo achieves superior dynamical consistency with the coarse GCM trajectories, essentially applying a minimal, causal correction to the GCM, preserving top statistical performance comparable to state-of-the-art unsupervised models.",
+    "authors": [
+      "S. Stamatelopoulos",
+      "M. Wang",
+      "I. Lopez-Gomez",
+      "L. Zepeda-Nunez",
+      "Z. Y. Wan",
+      "R. Carver",
+      "F. Sha",
+      "T. P. Sapsis"
+    ],
+    "is_editorial": false,
+    "abstract_missing": false,
+    "always_include": false,
+    "score_boost": 0.0,
+    "score": 18.0,
+    "matched": [
+      "Earth system model",
+      "Earth system",
+      "reanalysis",
+      "ensemble",
+      "downscaling",
+      "extreme event"
+    ],
+    "published": "2026-08-25",
+    "first_seen": "2026-08-25"
+  },
+  {
     "title": "Inclusion of MyAMI-derived Mg ∕ Ca corrections to the marine carbonate system in the cGENIE.cookie Earth system model (v.0.91)",
     "journal": "Geoscientific Model Development",
     "source": "rss:gmd",
@@ -680,6 +681,64 @@
     "first_seen": "2026-08-20"
   },
   {
+    "title": "Modeling the Distribution of Mountain Permafrost in Chile",
+    "journal": "The Cryosphere",
+    "source": "rss:tc",
+    "url": "https://doi.org/10.5194/tc-20-4681-2026",
+    "doi": "10.5194/tc-20-4681-2026",
+    "abstract": "We created the first empirically calibrated high-resolution map of mountain permafrost distribution in mainland Chile. Using field evidence from rock glaciers and boreholes with climate and terrain data, we found that more than 8000 km², mainly in the dry Andes of northern and central Chile, offer suitable conditions. Permafrost affects water resources, slope stability, and infrastructure, and our model provides a baseline for planning and future research under climate change.",
+    "authors": [
+      "Alexander Brenning",
+      "Guillermo F. Azócar",
+      "Pablo Iribarren Anacona",
+      "Kenji Yoshikawa",
+      "Gino Casassa",
+      "Pedro Straub-Bustamante",
+      "Duilio Fonseca-Gallardo",
+      "Jorge Huenante"
+    ],
+    "is_editorial": false,
+    "abstract_missing": false,
+    "always_include": true,
+    "score_boost": 0.0,
+    "score": 14.0,
+    "matched": [
+      "glacier",
+      "permafrost",
+      "climate change"
+    ],
+    "published": "2026-08-24",
+    "first_seen": "2026-08-25"
+  },
+  {
+    "title": "Arctic sea ice predictability on daily-to-weekly timescales: sensitivity to initial positional errors under different rheology formulations",
+    "journal": "The Cryosphere",
+    "source": "rss:tc",
+    "url": "https://doi.org/10.5194/tc-20-4655-2026",
+    "doi": "10.5194/tc-20-4655-2026",
+    "abstract": "We examine how uncertainty in the initial position of sea ice features (leads, ridges), affects daily-to-weekly winter sea-ice forecasts. Using ensemble simulations with a sea ice–ocean model, we compare two formulations of sea ice mechanics. We show that pack-ice dynamics are highly sensitive to this choice: one formulation strongly amplifies small initial errors, while the other damps them. Our results highlight the need for ensemble forecasts to capture uncertainty and risks in the Arctic.",
+    "authors": [
+      "Lohenn Fiol",
+      "Stephanie Leroux",
+      "Pierre Rampal",
+      "Jean-Michel Brankart"
+    ],
+    "is_editorial": false,
+    "abstract_missing": false,
+    "always_include": true,
+    "score_boost": 0.0,
+    "score": 14.0,
+    "matched": [
+      "ice dynamics",
+      "Arctic",
+      "sea ice",
+      "predictability",
+      "ensemble"
+    ],
+    "published": "2026-08-24",
+    "first_seen": "2026-08-25"
+  },
+  {
     "title": "The Overprint of Transient Rheology on Laterally Heterogeneous Viscosity: Influences on Sea‐Level Change Driven by Antarctic Ice Sheet Loss",
     "journal": "JGR Solid Earth",
     "source": "rss:jgr-solidearth",
@@ -790,6 +849,44 @@
     "first_seen": "2026-08-22"
   },
   {
+    "title": "A first 90 m resolution active layer moisture dataset across the Qinghai–Tibet Plateau permafrost region",
+    "journal": "Earth System Science Data",
+    "source": "rss:essd",
+    "url": "https://doi.org/10.5194/essd-2026-330",
+    "doi": "10.5194/essd-2026-330",
+    "abstract": "Preprint under review for ESSD (discussion: open, 0 comments) We present the first 90 m resolution dataset of active layer moisture covering the entire permafrost region of the Qinghai–Tibet Plateau. It was produced from 342 field observations (2009–2024) using four machine learning models combined through bias-aware fusion, and is accompanied by an area-of-applicability mask and per-pixel uncertainty estimates. The dataset is freely available at https://doi.org/10.12072/ncdc.permafrost.db7312.2026.",
+    "authors": [
+      "Erji Du",
+      "Tonghua Wu",
+      "Liyun Dai",
+      "Youhua Ran",
+      "Yufang Min",
+      "Lin Zhao",
+      "Lingxiao Wang",
+      "Jimin Yao",
+      "Zhibin Li",
+      "Keting Feng",
+      "Yao Xiao",
+      "Guojie Hu",
+      "Defu Zou",
+      "Guangyue Liu",
+      "Zanpin Xing",
+      "Xiaofan Zhu",
+      "Ji Chen"
+    ],
+    "is_editorial": false,
+    "abstract_missing": false,
+    "always_include": false,
+    "score_boost": 0.0,
+    "score": 13.0,
+    "matched": [
+      "permafrost",
+      "machine learning"
+    ],
+    "published": "2026-08-24",
+    "first_seen": "2026-08-25"
+  },
+  {
     "title": "Postglacial ecosystem development of a hydrothermal landscape in Yellowstone National Park",
     "journal": "Proceedings of the National Academy of Sciences",
     "source": "openalex:paleoclimate",
@@ -876,6 +973,39 @@
     ],
     "published": "2026-08-20",
     "first_seen": "2026-08-20"
+  },
+  {
+    "title": "Fine-Scale Heterogeneity of Snow Cover in the Antarctic Marginal Ice Zone",
+    "journal": "arXiv physics.ao-ph",
+    "source": "rss:arxiv-ao-ph",
+    "url": "https://arxiv.org/abs/2507.10916",
+    "doi": null,
+    "abstract": "arXiv:2507.10916v2 Announce Type: replace Abstract: Snow cover on Antarctic sea ice is highly heterogeneous, yet climate models have historically simplified it to a uniform layer in winter and bare ice in summer, introducing uncertainty in simulated surface energy fluxes. Here, using shipborne, high-resolution, close-range imagery of the sea ice surface, visual observations, and concurrent atmospheric data from five expeditions across the Antarctic marginal ice zone (2019-2024), we show that fine-scale (sub-grid) snow cover heterogeneity persists across all seasons, is largely independent of ice concentration, and is governed by ice morphology and regional accumulation history. When the heterogeneity is incorporated into flux calculations, it introduces systematic biases in surface energy fluxes relative to uniform-surface assumptions. These findings, based on observations from two Southern Ocean sectors, suggest that the inclusion of sub-grid snow distribution should be considered for simulating Antarctic sea ice evolution and its broader polar climate feedback.",
+    "authors": [
+      "Ippolita Tersigni",
+      "Filippo Nelli",
+      "Emiliano Cimoli",
+      "Marcello Vichi",
+      "Petra Heil",
+      "Luke G. Bennetts",
+      "Giulio Passerotti",
+      "Alberto Alberello",
+      "Alessandro Toffoli"
+    ],
+    "is_editorial": false,
+    "abstract_missing": false,
+    "always_include": false,
+    "score_boost": 0.0,
+    "score": 12.0,
+    "matched": [
+      "Antarctic",
+      "polar",
+      "sea ice",
+      "Southern Ocean",
+      "climate feedback"
+    ],
+    "published": "2026-08-25",
+    "first_seen": "2026-08-25"
   },
   {
     "title": "Paleo-NorCPM: A framework toward fully coupled ocean-atmosphere paleoclimate reanalysis over the past centuries",
@@ -1257,29 +1387,28 @@
     "first_seen": "2026-08-23"
   },
   {
-    "title": "Quantifying internal variability in large-ensemble climate data with the Wasserstein distance",
+    "title": "A score-based particle flow filter for non-Gaussian data assimilation in high-dimensional chaotic systems",
     "journal": "arXiv physics.ao-ph",
     "source": "rss:arxiv-ao-ph",
-    "url": "https://arxiv.org/abs/2608.14455",
+    "url": "https://arxiv.org/abs/2608.22454",
     "doi": null,
-    "abstract": "arXiv:2608.14455v1 Announce Type: new Abstract: Quantifying forced and internal variability in climate data is fundamental to detecting the climate change signal and assessing uncertainty in climate projections. We propose a metric that quantifies the relative magnitude of internal variability in single-model initial-condition large ensembles (SMILEs). We measure forced and internal variability by two 1-Wasserstein distances, a form of optimal transport cost. The proposed metric is the distance for internal variability divided by the sum of the two. Computing this ratio requires only sorting the samples and differencing the resulting quantiles, with no additional parameters. The metric reflects the entire distribution shape and applies to non-Gaussian variables, because the 1-Wasserstein distance quantifies the difference between any two probability distributions. We validate the metric with synthetic climate data from Gaussian, uniform, and lognormal distributions. Unlike the two existing metrics, the proposed metric gives stable estimates irrespective of the distribution shape and the presence of outliers, provided that the ensemble has about 40 members or more. We then apply the proposed and existing metrics to the 2 m air temperature and total precipitation of the Community Earth System Model Large Ensemble (CESM-LE) under two different forcing scenarios. All the metrics indicate that the relative contribution of internal variability decreases as the forcing increases, but the proposed metric shows this response most clearly. The 1-Wasserstein distance thus provides a simple and useful tool for analyzing large-ensemble datasets.",
+    "abstract": "arXiv:2608.22454v1 Announce Type: new Abstract: Current particle flow filters rely on Gaussian prior assumptions that fail to capture the non-Gaussian attractor structure of chaotic systems. This study proposes a Score-based Particle Flow Filter (Score-PFF) that replaces the parametric prior gradient with a neural network-learned score function via denoising score matching. This enables flexible characterization of multimodal, skewed, and complex prior distributions in chaotic dynamics. Pure prior adjustment experiments demonstrate correct gradient directions toward the attractor (26.9%-29.0% error reduction over Gaussian priors). Under linear observations, Score-PFF significantly outperforms both Gaussian PFF and EAKF (Cohen's d = 1.03 and 1.40), preserving non-Gaussian structure that EAKF progressively Gaussianizes. Under nonlinear observation operators, Score-PFF maintains robust performance with up to 60% RMSE reduction in strongly non-Gaussian regimes. On the 1000-dimensional Lorenz-96 system, Score-PFF achieves 49.5% RMSE reduction over PFF while reducing per-assimilation cost by replacing SVD-based covariance inversion with neural network inference. Score-PFF establishes a computationally tractable, non-Gaussian data assimilation framework suitable for high-dimensional geophysical systems.",
     "authors": [
-      "Yuki Yasuda",
-      "Shoichiro Kido"
+      "Zheqi Shen",
+      "Youmin Tang",
+      "Yuewei Fang"
     ],
     "is_editorial": false,
     "abstract_missing": false,
     "always_include": false,
     "score_boost": 0.0,
-    "score": 9.0,
+    "score": 10.0,
     "matched": [
-      "Earth system model",
-      "Earth system",
-      "ensemble",
-      "climate change"
+      "data assimilation",
+      "neural network"
     ],
-    "published": "2026-08-17",
-    "first_seen": "2026-08-17"
+    "published": "2026-08-25",
+    "first_seen": "2026-08-25"
   },
   {
     "title": "Sensitivity of the Bootstrap sea ice concentration algorithm to surface parameters in the Antarctic marginal ice zone using passive microwave retrievals",
@@ -1551,6 +1680,31 @@
     ],
     "published": "2026-08-22",
     "first_seen": "2026-08-24"
+  },
+  {
+    "title": "Predicting forecast errors with diffusion model for uncertainty quantification in wind speed nowcasting",
+    "journal": "Geoscientific Model Development",
+    "source": "rss:gmd",
+    "url": "https://doi.org/10.5194/gmd-19-7835-2026",
+    "doi": "10.5194/gmd-19-7835-2026",
+    "abstract": "The study proposes a diffusion-based framework for uncertainty quantification in wind speed nowcasting by learning forecast error distributions. By randomly generating errors and adding them to a physics-based wind nowcast, multiple forecast scenarios can be produced. The results improve forecast accuracy and provide reliable estimates of forecast uncertainty.",
+    "authors": [
+      "Yanwei Zhu",
+      "Aitor Atencia",
+      "Markus Dabernig",
+      "Yong Wang",
+      "Shuyan Zhou"
+    ],
+    "is_editorial": false,
+    "abstract_missing": false,
+    "always_include": true,
+    "score_boost": 0.0,
+    "score": 9.0,
+    "matched": [
+      "uncertainty quantification"
+    ],
+    "published": "2026-08-24",
+    "first_seen": "2026-08-25"
   },
   {
     "title": "Impacts of Sulfate Injection Geoengineering on Particulate Matter with Diameter less than 2.5 {\\mu}m",
@@ -2013,6 +2167,34 @@
     ],
     "published": "2026-08-22",
     "first_seen": "2026-08-24"
+  },
+  {
+    "title": "Statistics of Temperature Extremes and Implications for Electrical Power Infrastructure in Continental France",
+    "journal": "arXiv physics.ao-ph",
+    "source": "rss:arxiv-ao-ph",
+    "url": "https://arxiv.org/abs/2608.23197",
+    "doi": null,
+    "abstract": "arXiv:2608.23197v1 Announce Type: new Abstract: In this article, we present extreme value statistics of temperature extremes over continental France with a focus on their implications for electrical power infrastructure. These are obtained by fitting a non-stationary generalised extreme value distribution using a Bayesian setup, which also provides errors or uncertainty values for all estimates. Within this method, a combination of simulated data from a collection of 28 CMIP6 models and measured records from the E-OBS dataset is used. The investigated climate scenarios are SSP2-4.5, SSP3-7.0 and SSP5-8.5, considering both historical and future climates spanning the years from 1850 to 2099. The method provides full spatial resolution on a 0.25 degree grid, allowing to asses extreme temperatures at arbitrary locations. Leveraging this particular aspect, various maps revealing the spatial structure of annual maximum high temperature extremes over continental France for the median and the statistical upper bound are shown together with summary information for the administrative regions in France towards the end of the century. It is statistically possible that the south west region of Occitanie could reach temperatures of up to 57{\\deg}C under a high emission scenario by 2080, which is the highest compared to all other regions in continental France. We also perform a comparison to the reference climate adaptation trajectory for France (TRACC - Trajectoire de r\\'echauffement de R\\'ef\\'erence pour l'Adaptation au Changement Climatique), showing that it potentially underestimates the stated maximum temperatures which could be surpassed by up to +8{\\deg}C. Furthermore, five reference electrical power infrastructure locations are investigated on how they are potentially affected by temperature extremes with the quantified intensities.",
+    "authors": [
+      "Peter Werner",
+      "Bastien Cozian",
+      "Yoann Robin",
+      "Laurent Dubus",
+      "Freddy Bouchet"
+    ],
+    "is_editorial": false,
+    "abstract_missing": false,
+    "always_include": false,
+    "score_boost": 0.0,
+    "score": 7.0,
+    "matched": [
+      "CMIP",
+      "Bayesian",
+      "SSP",
+      "emission scenario"
+    ],
+    "published": "2026-08-25",
+    "first_seen": "2026-08-25"
   },
   {
     "title": "Abrupt Increase in Marine Heatwave Accumulated Days Over the Gulf Stream Extension Around 2013 Linked to Subtropical Eastern Pacific Warming",
@@ -2660,6 +2842,33 @@
     ],
     "published": "2026-08-01",
     "first_seen": "2026-08-22"
+  },
+  {
+    "title": "Thirteen Winters (2012–2025) of Penetration-Aware Arctic Sea-Ice Emissivity and Emission Temperature from AMSR2",
+    "journal": "Earth System Science Data",
+    "source": "rss:essd",
+    "url": "https://doi.org/10.5194/essd-2026-471",
+    "doi": "10.5194/essd-2026-471",
+    "abstract": "Preprint under review for ESSD (discussion: open, 0 comments) This study provides a new winter Arctic sea-ice dataset of penetration-aware emission properties from satellite microwave observations for 2012–2025. It offers physically interpretable information on how snow-covered sea ice emits microwave radiation, helping to describe the Arctic sea-ice environment as a multivariate geophysical system. The dataset can serve as reusable geophysical information for characterizing sea-ice variability and supporting remote sensing and modelling applications.",
+    "authors": [
+      "Eui-Jong Kang",
+      "Byung-Ju Sohn",
+      "Hwan-Jin Song",
+      "Wonho Kim",
+      "Chao Liu"
+    ],
+    "is_editorial": false,
+    "abstract_missing": false,
+    "always_include": false,
+    "score_boost": 0.0,
+    "score": 5.0,
+    "matched": [
+      "Arctic",
+      "sea ice",
+      "remote sensing"
+    ],
+    "published": "2026-08-24",
+    "first_seen": "2026-08-25"
   },
   {
     "title": "Volume-preserving Lagrangian averaging using polar factorization",
@@ -3342,30 +3551,27 @@
     "first_seen": "2026-08-24"
   },
   {
-    "title": "CarbonBench: A Global Benchmark for Upscaling of Carbon Fluxes Using Zero-Shot Learning",
-    "journal": "arXiv physics.ao-ph",
-    "source": "rss:arxiv-ao-ph",
-    "url": "https://arxiv.org/abs/2603.09868",
-    "doi": null,
-    "abstract": "arXiv:2603.09868v2 Announce Type: replace-cross Abstract: Accurately quantifying terrestrial carbon exchange is essential for climate policy and carbon accounting, yet models must generalize to ecosystems underrepresented in sparse eddy covariance observations. Despite this challenge being a natural instance of zero-shot spatial transfer learning for time series regression, no standardized benchmark exists to rigorously evaluate model performance across geographically distinct locations with different climate regimes and vegetation types. We introduce CarbonBench, the first benchmark for zero-shot spatial transfer in carbon flux upscaling. CarbonBench comprises over 1.3 million daily observations from 567 flux tower sites globally (2000-2024). It provides: (1) stratified evaluation protocols that explicitly test generalization across unseen vegetation types and climate regimes, separating spatial transfer from temporal autocorrelation; (2) a harmonized set of remote sensing and meteorological features to enable flexible architecture design; and (3) baselines ranging from tree-based methods to domain-generalization architectures. By bridging machine learning methodologies and Earth system science, CarbonBench aims to enable systematic comparison of transfer learning methods, serves as a testbed for regression under distribution shift, and contributes to the next-generation climate modeling efforts.",
+    "title": "Stratospheric Temperature Adjustment Robustly Damps the State Dependence of CO2 Radiative Forcing",
+    "journal": "Geophysical Research Letters",
+    "source": "rss:grl",
+    "url": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2026GL123839?af=R",
+    "doi": "10.1029/2026gl123839",
+    "abstract": "Geophysical Research Letters, Volume 53, Issue 16, 28 August 2026.",
     "authors": [
-      "Aleksei Rozanov",
-      "Arvind Renganathan",
-      "Yimeng Zhang",
-      "Vipin Kumar"
+      "Ruogu He",
+      "Yi Huang"
     ],
     "is_editorial": false,
     "abstract_missing": false,
     "always_include": false,
     "score_boost": 0.0,
-    "score": 3.0,
+    "score": 4.0,
     "matched": [
-      "Earth system",
-      "machine learning",
-      "remote sensing"
+      "radiative forcing",
+      "CO2"
     ],
-    "published": "2026-08-17",
-    "first_seen": "2026-08-17"
+    "published": "2026-08-24",
+    "first_seen": "2026-08-25"
   },
   {
     "title": "Spin Transition of Ferric Iron in Silicate Glasses Inferred by High‐Pressure Electrical Conductivity Measurements",
@@ -4069,6 +4275,31 @@
     "first_seen": "2026-08-24"
   },
   {
+    "title": "Global Distribution of PKP Precursors Derived From Three Decades of Seismic Data With Deep Learning",
+    "journal": "JGR Solid Earth",
+    "source": "rss:jgr-solidearth",
+    "url": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025JB033195?af=R",
+    "doi": "10.1029/2025jb033195",
+    "abstract": "Journal of Geophysical Research: Solid Earth, Volume 131, Issue 8, August 2026.",
+    "authors": [
+      "Yurui Guan",
+      "Juan Li",
+      "Zhuowei Xiao",
+      "Wei Wang",
+      "Tao Xu"
+    ],
+    "is_editorial": false,
+    "abstract_missing": false,
+    "always_include": false,
+    "score_boost": 0.0,
+    "score": 3.0,
+    "matched": [
+      "solid earth"
+    ],
+    "published": "2026-08-24",
+    "first_seen": "2026-08-25"
+  },
+  {
     "title": "AQUA v1.0.0: The Application for QUality Assessment for the Climate Change Adaptation Digital Twin – the core engine",
     "journal": "Geoscientific Model Development",
     "source": "rss:gmd",
@@ -4311,5 +4542,26 @@
     "matched": [],
     "published": null,
     "first_seen": "2026-08-22"
+  },
+  {
+    "title": "Hydrological auditing of LISFLOOD v4.1.1: impacts of model  setup on water balance components in the Po River Basin",
+    "journal": "Geoscientific Model Development",
+    "source": "rss:gmd",
+    "url": "https://doi.org/10.5194/gmd-19-7855-2026",
+    "doi": "10.5194/gmd-19-7855-2026",
+    "abstract": "We evaluated how different configurations of a large-scale river basin model affect simulations of streamflow, evaporation, soil moisture, and groundwater in the Po River Basin in Italy. We tested alternative soil depths and the inclusion or removal of subsurface flow pathways, and compared results with observations and with an established long-term water balance relationship. Setups that best matched river flow often underestimated evaporation and overestimated deep groundwater recharge.",
+    "authors": [
+      "Francesca Moschini",
+      "Andrea Ficchí",
+      "Alberto Pistocchi"
+    ],
+    "is_editorial": false,
+    "abstract_missing": false,
+    "always_include": true,
+    "score_boost": 0.0,
+    "score": 0.0,
+    "matched": [],
+    "published": "2026-08-24",
+    "first_seen": "2026-08-25"
   }
 ]
