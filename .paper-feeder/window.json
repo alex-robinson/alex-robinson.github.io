@@ -184,36 +184,6 @@
     "first_seen": "2026-08-27"
   },
   {
-    "title": "Coupled multiscale paleoclimate reconstruction with four-dimensional variational data assimilation",
-    "journal": "arXiv physics.ao-ph",
-    "source": "rss:arxiv-ao-ph",
-    "url": "https://arxiv.org/abs/2608.19469",
-    "doi": null,
-    "abstract": "arXiv:2608.19469v1 Announce Type: new Abstract: Paleoclimate archives extend climate knowledge beyond the instrumental era, registering different seasons, variables, time averages, and memory lengths. A longstanding problem is to integrate these heterogeneous sources of information within a unified methodology. Here we present a new data-assimilation framework, Last Millennium Reanalysis 4D-Var (LMR4D-Var), which reconstructs climate trajectories from these heterogeneous datasets while balancing errors in the model, observations, and initial conditions. We compare results using LMR4D-Var to assimilate proxies from PAGES2k, Temp12k, and borehole temperature profiles without treating them as instantaneous equivalents. Instrumental verification shows that LMR4D-Var achieves the highest skill compared with previous reconstructions. Borehole assimilation preserves skill against withheld annually resolved records, increases agreement between reconstructed 300--2000-m ocean heat content and independent estimates, and yields a cooler reconstructed Little Ice Age ocean. Results for Temp12k demonstrate assimilation of decadal-to-millennial records and the potential for Holocene and deeper-time applications with suitable emulators.",
-    "authors": [
-      "Zilu Meng",
-      "Gregory J. Hakim",
-      "Julien Emile-Geay",
-      "Tanaya Gondhalekar",
-      "Eric J. Steig"
-    ],
-    "is_editorial": false,
-    "abstract_missing": false,
-    "always_include": false,
-    "score_boost": 0.0,
-    "score": 25.0,
-    "matched": [
-      "paleoclimate",
-      "Holocene",
-      "proxy",
-      "data assimilation",
-      "reanalysis",
-      "emulator"
-    ],
-    "published": "2026-08-21",
-    "first_seen": "2026-08-21"
-  },
-  {
     "title": "MeltwaterBench: Deep learning for spatiotemporal downscaling of surface meltwater",
     "journal": "arXiv physics.ao-ph",
     "source": "rss:arxiv-ao-ph",
@@ -377,37 +347,6 @@
     ],
     "published": "2026-08-25",
     "first_seen": "2026-08-26"
-  },
-  {
-    "title": "The multilayer ocean circulation melting the 79N Glacier ice tongue",
-    "journal": "The Cryosphere",
-    "source": "rss:tc",
-    "url": "https://doi.org/10.5194/tc-20-4563-2026",
-    "doi": "10.5194/tc-20-4563-2026",
-    "abstract": "The Greenland Ice Sheet is an important contributor to global sea level rise. In northern Greenland, floating glacier tongues are primarily melted by ocean currents. These processes are difficult to observe, so we developed a realistic numerical model to study ocean-driven melting at Greenland's largest floating ice tongue, the 79° North Glacier. Our simulation reveals the details of the oceanic currents bringing warm water toward the ice base, melting and shaping the glacier tongue from below.",
-    "authors": [
-      "Markus Reinert",
-      "Claudia Wekerle",
-      "Knut Klingbeil",
-      "Marvin Lorenz",
-      "Hans Burchard"
-    ],
-    "is_editorial": false,
-    "abstract_missing": false,
-    "always_include": true,
-    "score_boost": 0.0,
-    "score": 18.0,
-    "matched": [
-      "ice sheet",
-      "glacier",
-      "Greenland",
-      "ocean circulation",
-      "sea level",
-      "sea-level rise",
-      "numerical method"
-    ],
-    "published": "2026-08-20",
-    "first_seen": "2026-08-21"
   },
   {
     "title": "New geochronological constraints on Late Pleistocene glaciation in the southern Cadí Massif, SE Pyrenees",
@@ -1261,60 +1200,6 @@
     "first_seen": "2026-08-28"
   },
   {
-    "title": "Particle Size as a Key Remaining Uncertainty in Dust Direct Radiative Effect After EMIT: An Earth System Model Study",
-    "journal": "Geophysical Research Letters",
-    "source": "rss:grl",
-    "url": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025GL121571?af=R",
-    "doi": "10.1029/2025gl121571",
-    "abstract": "Geophysical Research Letters, Volume 53, Issue 16, 28 August 2026.",
-    "authors": [
-      "Longlei Li",
-      "Neil Sexton",
-      "Natalie M. Mahowald"
-    ],
-    "is_editorial": false,
-    "abstract_missing": false,
-    "always_include": false,
-    "score_boost": 0.0,
-    "score": 10.0,
-    "matched": [
-      "Earth system model",
-      "Earth system"
-    ],
-    "published": "2026-08-19",
-    "first_seen": "2026-08-21"
-  },
-  {
-    "title": "A Subgrid Correction Scheme for Accurate km‐Scale Coastal Inundation in the Energy Exascale Earth System Model",
-    "journal": "JAMES",
-    "source": "rss:james",
-    "url": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2026MS005842?af=R",
-    "doi": "10.1029/2026ms005842",
-    "abstract": "Journal of Advances in Modeling Earth Systems, Volume 18, Issue 8, August 2026.",
-    "authors": [
-      "S. R. Brus",
-      "D. Wirasaet",
-      "D. Engwirda",
-      "C. P. Blakely",
-      "M. Titterton",
-      "M. R. Petersen",
-      "C. B. Begeman",
-      "A. B. Kennedy",
-      "J. J. Westerink"
-    ],
-    "is_editorial": false,
-    "abstract_missing": false,
-    "always_include": false,
-    "score_boost": 0.0,
-    "score": 10.0,
-    "matched": [
-      "Earth system model",
-      "Earth system"
-    ],
-    "published": "2026-08-19",
-    "first_seen": "2026-08-21"
-  },
-  {
     "title": "Optimizing Gaussian process emulation and generalized additive model fitting for rapid, reproducible earth system model analysis",
     "journal": "Geoscientific Model Development",
     "source": "rss:gmd",
@@ -1415,55 +1300,29 @@
     "first_seen": "2026-08-26"
   },
   {
-    "title": "Heatwaves favour acyclic monoterpene emissions in tropical forests",
-    "journal": "Nature Communications",
-    "source": "rss:ncomms",
-    "url": "https://www.nature.com/articles/s41467-026-77087-x",
-    "doi": "10.1038/s41467-026-77087-x",
-    "abstract": "Nature Communications, Published online: 21 August 2026; doi:10.1038/s41467-026-77087-x Heatwaves reshape plant monoterpene emissions by preferentially increasing highly reactive acyclic isomers, altering atmospheric composition and increasing ozone and OH reactivity beyond changes in total monoterpene amounts",
+    "title": "Emergent Regimes of River Meandering and Permafrost Extent in Arctic Floodplains",
+    "journal": "Geophysical Research Letters",
+    "source": "rss:grl",
+    "url": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2026GL124384?af=R",
+    "doi": "10.1029/2026gl124384",
+    "abstract": "Geophysical Research Letters, Volume 53, Issue 17, 16 September 2026.",
     "authors": [
-      "Jianqiang Zeng",
-      "Xiaoyang Wang",
-      "Yuting Lu",
-      "Weihua Pang",
-      "Wei Song",
-      "Yanli Zhang",
-      "Ping’an Peng",
-      "Xinming Wang"
+      "Michael P. Lamb",
+      "Emily C. Geyman",
+      "Madison D. Douglas",
+      "Ajay B. Limaye"
     ],
     "is_editorial": false,
     "abstract_missing": false,
     "always_include": false,
     "score_boost": 0.0,
-    "score": 9.0,
+    "score": 10.0,
     "matched": [
-      "heat wave"
+      "Arctic",
+      "permafrost"
     ],
-    "published": null,
-    "first_seen": "2026-08-21"
-  },
-  {
-    "title": "Code accessibility and code quality across phases of the models of the Coupled Model Intercomparison Project",
-    "journal": "Geoscientific Model Development",
-    "source": "rss:gmd",
-    "url": "https://doi.org/10.5194/gmd-19-7687-2026",
-    "doi": "10.5194/gmd-19-7687-2026",
-    "abstract": "We studied how accessible and reliable the computer code behind major climate models has been over time. By reviewing different phases of the Coupled Model Intercomparison Project, we found improvements in transparency and coding practices, but also gaps that limit reproducibility. Our work suggests practical steps to make future climate research more open, traceable, and trustworthy for scientists and society.",
-    "authors": [
-      "Michael García-Rodríguez",
-      "Javier Rodeiro-Iglesias",
-      "Juan A. Añel"
-    ],
-    "is_editorial": false,
-    "abstract_missing": false,
-    "always_include": true,
-    "score_boost": 0.0,
-    "score": 9.0,
-    "matched": [
-      "model intercomparison"
-    ],
-    "published": "2026-08-20",
-    "first_seen": "2026-08-21"
+    "published": "2026-08-28",
+    "first_seen": "2026-08-29"
   },
   {
     "title": "Regret-based global coastal adaptation decision-making under sea level uncertainty",
@@ -2149,37 +2008,6 @@
     "first_seen": "2026-08-27"
   },
   {
-    "title": "Extreme events and habitats as comparative tools for assessing scaled ecosystem responses to stressors in aquatic systems",
-    "journal": "PLOS Climate",
-    "source": "rss:plos-climate",
-    "url": "https://journals.plos.org/climate/article?id=10.1371/journal.pclm.0001032",
-    "doi": "10.1371/journal.pclm.0001032",
-    "abstract": "by Katherine E. Dale, Evie S. Brahmstedt, Joshua Culpepper, Kyle A. Emery, Alexander W. Mott, Walter A. Rich, Xinyu Sun, Audrey Thellman, Tianfei Xue, Atefeh Hosseini, Hadis Miraly Two types of extremes are often used as indicators of future change: Extreme climate events and extreme habitats. These extremes can be useful gauges of environmental change, but only if biological, spatial, and temporal scopes are aligned between the extreme and the future change it is hypothesized to mirror. In general, short-lived extreme events provide insights towards acute responses but are not as suitable for assessing long-term ecological or evolutionary change. Extreme habitats can reveal potential long-term adaptations, but community structure and trophic interactions can be challenging to assess due to species often following habitat-dependent evolutionary paths, and these environments tend to undergo gradual rather than rapid ecological change. Community structure and species interactions may further differ for both types of extremes between biological response levels. In cases of a mismatch between the size of an extreme habitat or event and its comparative system, it will be more appropriate to study biological responses at smaller geographic scales than the habitat or event occurs. Here, we explore the opportunities and limitations of a variety of extremes in marine and freshwater systems.",
-    "authors": [
-      "Katherine E. Dale",
-      "Evie S. Brahmstedt",
-      "Joshua Culpepper",
-      "Kyle A. Emery",
-      "Alexander W. Mott",
-      "Walter A. Rich",
-      "Xinyu Sun",
-      "Audrey Thellman",
-      "Tianfei Xue",
-      "Atefeh Hosseini",
-      "Hadis Miraly"
-    ],
-    "is_editorial": false,
-    "abstract_missing": false,
-    "always_include": false,
-    "score_boost": 0.0,
-    "score": 6.0,
-    "matched": [
-      "extreme event"
-    ],
-    "published": "2026-08-20",
-    "first_seen": "2026-08-21"
-  },
-  {
     "title": "Historical and Projected Antarctic Sea Ice Trends Across High‐Resolution Coupled Model Hierarchies",
     "journal": "Geophysical Research Letters",
     "source": "rss:grl",
@@ -2551,6 +2379,80 @@
     "first_seen": "2026-08-28"
   },
   {
+    "title": "Ferroelastic hysteresis, shear modulus softening, and the tetragonal↔cubic transition in davemaoite",
+    "journal": "Science Advances",
+    "source": "rss:sciadv",
+    "url": "https://www.science.org/doi/abs/10.1126/sciadv.aed7601?af=R",
+    "doi": "10.1126/sciadv.aed7601?af=r",
+    "abstract": "Science Advances, Volume 12, Issue 35, August 2026.",
+    "authors": [
+      "Tianqi Wan",
+      "Chenxing Luo",
+      "Zhen Zhang",
+      "Yang Sun",
+      "Renata M. Wentzcovitch"
+    ],
+    "is_editorial": false,
+    "abstract_missing": false,
+    "always_include": false,
+    "score_boost": 0.0,
+    "score": 6.0,
+    "matched": [
+      "hysteresis"
+    ],
+    "published": null,
+    "first_seen": "2026-08-29"
+  },
+  {
+    "title": "Trends in Heat Stress During Heat Waves Across Europe (1979–2023)",
+    "journal": "Geophysical Research Letters",
+    "source": "rss:grl",
+    "url": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2026GL124082?af=R",
+    "doi": "10.1029/2026gl124082",
+    "abstract": "Geophysical Research Letters, Volume 53, Issue 17, 16 September 2026.",
+    "authors": [
+      "Qi Zhang",
+      "Joakim Kjellsson",
+      "Emily Black",
+      "Julian Krüger"
+    ],
+    "is_editorial": false,
+    "abstract_missing": false,
+    "always_include": false,
+    "score_boost": 0.0,
+    "score": 6.0,
+    "matched": [
+      "heat wave"
+    ],
+    "published": "2026-08-28",
+    "first_seen": "2026-08-29"
+  },
+  {
+    "title": "Assessing the Impact of Sea Surface Temperature Biases in CMIP6 Coupled Models on the North Pacific Westerly Jet",
+    "journal": "Geophysical Research Letters",
+    "source": "rss:grl",
+    "url": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2026GL124012?af=R",
+    "doi": "10.1029/2026gl124012",
+    "abstract": "Geophysical Research Letters, Volume 53, Issue 17, 16 September 2026.",
+    "authors": [
+      "Yusuke Ushijima",
+      "Ryo Mizuta",
+      "Shion Sekizawa",
+      "Hiroyuki Tsujino"
+    ],
+    "is_editorial": false,
+    "abstract_missing": false,
+    "always_include": false,
+    "score_boost": 0.0,
+    "score": 6.0,
+    "matched": [
+      "sea surface temperature",
+      "CMIP"
+    ],
+    "published": "2026-08-28",
+    "first_seen": "2026-08-29"
+  },
+  {
     "title": "A multi-centennial tree-ring δ18O record reveals a late-1970s wetting shift in the Changbai Mountains, Northeast China: Linkages to a transition to the negative PDO phase",
     "journal": "Global and Planetary Change",
     "source": "openalex:cites-me",
@@ -2708,86 +2610,6 @@
     ],
     "published": "2026-08-26",
     "first_seen": "2026-08-28"
-  },
-  {
-    "title": "Arctic and Tibetan Plateau Tundra Show Divergent Temperature and Precipitation Thresholds Under Climate Change",
-    "journal": "Geophysical Research Letters",
-    "source": "rss:grl",
-    "url": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2026GL124727?af=R",
-    "doi": "10.1029/2026gl124727",
-    "abstract": "Geophysical Research Letters, Volume 53, Issue 16, 28 August 2026.",
-    "authors": [
-      "Huajie Zhu",
-      "Han Yu",
-      "Hans W. Chen",
-      "Ziqian Zhong",
-      "Wenzhuo Duan",
-      "Songhan Wang",
-      "Mousong Wu"
-    ],
-    "is_editorial": false,
-    "abstract_missing": false,
-    "always_include": false,
-    "score_boost": 0.0,
-    "score": 4.0,
-    "matched": [
-      "Arctic",
-      "climate change"
-    ],
-    "published": "2026-08-19",
-    "first_seen": "2026-08-21"
-  },
-  {
-    "title": "Relationships between Arctic sea-ice concentration, temperature, and specific humidity in the lower troposphere during 1980–2021",
-    "journal": "The Cryosphere",
-    "source": "rss:tc",
-    "url": "https://doi.org/10.5194/tc-20-4585-2026",
-    "doi": "10.5194/tc-20-4585-2026",
-    "abstract": "Understanding of the local effects of sea-ice concentration variations on the Arctic atmosphere is a prerequisite for assessing the role of Arctic sea-ice decline in the climate system, including its influence on mid-latitudes. In our study, using data from atmospheric reanalysis, we present how the relationships of sea-ice concentration, temperature, and specific humidity and their direction change depending on region and season over the Arctic.",
-    "authors": [
-      "Tereza Uhlíková",
-      "Timo Vihma",
-      "Alexey Yu Karpechko",
-      "Petteri Uotila"
-    ],
-    "is_editorial": false,
-    "abstract_missing": false,
-    "always_include": true,
-    "score_boost": 0.0,
-    "score": 4.0,
-    "matched": [
-      "Arctic",
-      "reanalysis"
-    ],
-    "published": "2026-08-20",
-    "first_seen": "2026-08-21"
-  },
-  {
-    "title": "Modeling outdoor heat stress at meter-scale resolution: Validation of the UrbClim-HiREx framework",
-    "journal": "PLOS Climate",
-    "source": "rss:plos-climate",
-    "url": "https://journals.plos.org/climate/article?id=10.1371/journal.pclm.0000973",
-    "doi": "10.1371/journal.pclm.0000973",
-    "abstract": "by Ian Hellebosch, Niels Souverijns, Sara Top, Dirk Lauwaet, Steven Caluwaerts, Koen De Ridder Climate change and ongoing urbanization are increasing human exposure to heat stress in cities, where strong spatial contrasts in shading and imperviousness generate large variations at the scale of streets and public spaces. Urban adaptation planning therefore requires high-resolution information on outdoor heat stress. Microscale climate models provide such information, but their reliability must be demonstrated at meter-scale spatial resolution. This study presents a validation approach for such models through a detailed evaluation of the coupled UrbClim-HiREx modeling framework. UrbClim is a fast urban boundary layer model operating at 100 m resolution, while HiREx is a radiation-based model that simulates wet-bulb globe temperature (WBGT) at 1 m resolution. Model performance is assessed against a dense observational dataset collected during 7 consecutive heat wave days in June 2023 in Ghent, Belgium, spanning multiple urban microenvironments within a 300 m × 300 m area. UrbClim reproduces air temperature and humidity with high accuracy and provides realistic pedestrian-level wind speeds after in-canopy extrapolation, yielding a reliable forcing for HiREx. HiREx reproduces the diurnal evolution of WBGT with root mean squared errors of 0.95 °C at an open site and 0.51 °C beneath tree canopy. It resolves transient shading effects and meter-scale spatial variability, with hourly daytime root mean squared errors across the microenvironments remaining below 1.59 °C. The model reproduces the observed reductions in peak daytime heat stress under tree shade of approximately 4 °C WBGT. These findings provide the most detailed validation of the UrbClim-HiREx modeling framework to date and establish a transferable approach for evaluating microscale heat stress models. The results confirm the framework’s suitability for identifying urban heat stress hotspots and assessing adaptation strategies at meter-scale resolution.",
-    "authors": [
-      "Ian Hellebosch",
-      "Niels Souverijns",
-      "Sara Top",
-      "Dirk Lauwaet",
-      "Steven Caluwaerts",
-      "Koen De Ridder"
-    ],
-    "is_editorial": false,
-    "abstract_missing": false,
-    "always_include": false,
-    "score_boost": 0.0,
-    "score": 4.0,
-    "matched": [
-      "heat wave",
-      "climate change"
-    ],
-    "published": "2026-08-20",
-    "first_seen": "2026-08-21"
   },
   {
     "title": "Matrix stress relaxation drives glioblastoma cell response in viscoelastic biomaterials",
@@ -3545,110 +3367,101 @@
     "first_seen": "2026-08-28"
   },
   {
-    "title": "Daily briefing: ‘Too hot to sleep’ is harmful to your health",
-    "journal": "Nature",
-    "source": "rss:nature",
-    "url": "https://www.nature.com/articles/d41586-026-02600-7",
-    "doi": "10.1038/d41586-026-02600-7",
-    "abstract": "Nature, Published online: 18 August 2026; doi:10.1038/d41586-026-02600-7 Heatwave-driven sleepless nights are robbing people of a crucial aspect of health and recovery. Plus, dolphin calves learn hunting techniques from their mothers and how slavery is linked to health disparities in the United States today.",
+    "title": "Seasonal to Multi‐Year Variability of Upwelling Along Southwest Greenland and the Role of Atmospheric Circulation",
+    "journal": "JGR Oceans",
+    "source": "rss:jgr-oceans",
+    "url": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2026JC024697?af=R",
+    "doi": "10.1029/2026jc024697",
+    "abstract": "Journal of Geophysical Research: Oceans, Volume 131, Issue 9, September 2026.",
     "authors": [
-      "Flora Graham"
+      "Yan Sun",
+      "Robert S. Pickart"
     ],
     "is_editorial": false,
     "abstract_missing": false,
     "always_include": false,
     "score_boost": 0.0,
-    "score": 3.0,
+    "score": 4.0,
     "matched": [
-      "heat wave"
+      "Greenland"
     ],
-    "published": null,
-    "first_seen": "2026-08-21"
+    "published": "2026-08-28",
+    "first_seen": "2026-08-29"
   },
   {
-    "title": "Plate Divergence at the Krafla Volcanic System, Iceland: Insight From GNSS Geodesy and Sentinel‐1 Satellite Radar Interferometry in 2002–2024",
-    "journal": "JGR Solid Earth",
-    "source": "rss:jgr-solidearth",
-    "url": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2026JB034040?af=R",
-    "doi": "10.1029/2026jb034040",
-    "abstract": "Journal of Geophysical Research: Solid Earth, Volume 131, Issue 8, August 2026.",
+    "title": "Sources of Potential Predictability for July–August 2025 Extreme Precipitation Anomalies Over Northern China: Roles of the Western Pacific and North Atlantic–Barents–Kara Sea Sectors",
+    "journal": "JGR Atmospheres",
+    "source": "rss:jgr-atmospheres",
+    "url": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2026JD047254?af=R",
+    "doi": "10.1029/2026jd047254",
+    "abstract": "Journal of Geophysical Research: Atmospheres, Volume 131, Issue 17, 16 September 2026.",
     "authors": [
-      "Yilin Yang",
-      "Freysteinn Sigmundsson",
-      "Halldór Geirsson",
-      "Juliet Biggs",
-      "Vincent Drouin",
-      "Josefa Sepúlveda‐Araya",
-      "Sigrún Hreinsdóttir",
-      "Chiara Lanzi",
-      "Joachim Gottsmann",
-      "Taco Broerse",
-      "Sandra Verhagen"
+      "Xinyu He",
+      "Bian He",
+      "Yimin Liu",
+      "Guoxiong Wu",
+      "Chen Sheng",
+      "Bin Tang",
+      "Natalia Victorovna Vazaeva"
     ],
     "is_editorial": false,
     "abstract_missing": false,
     "always_include": false,
     "score_boost": 0.0,
-    "score": 3.0,
+    "score": 4.0,
     "matched": [
-      "solid earth"
+      "predictability"
     ],
-    "published": "2026-08-20",
-    "first_seen": "2026-08-21"
+    "published": "2026-08-28",
+    "first_seen": "2026-08-29"
   },
   {
-    "title": "Effect of Fluorine on the Stability of Dense Hydrous Mg Silicates With Implications for the Deep Water Cycle",
-    "journal": "JGR Solid Earth",
-    "source": "rss:jgr-solidearth",
-    "url": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025JB033593?af=R",
-    "doi": "10.1029/2025jb033593",
-    "abstract": "Journal of Geophysical Research: Solid Earth, Volume 131, Issue 8, August 2026.",
+    "title": "Causes of the Delayed Seasonality of Northern Hemisphere Tropical Cyclones in CMIP6 Models",
+    "journal": "JGR Atmospheres",
+    "source": "rss:jgr-atmospheres",
+    "url": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2026JD046965?af=R",
+    "doi": "10.1029/2026jd046965",
+    "abstract": "Journal of Geophysical Research: Atmospheres, Volume 131, Issue 17, 16 September 2026.",
     "authors": [
-      "Takashi Yoshino",
-      "Yunfan Miao",
-      "Satheesh T. Saji",
-      "Daijo Ikuta",
-      "Nozomi Kondo",
-      "Takayuki Ishii",
-      "Xuejing He",
-      "Tsutomu Ota",
-      "Takuya Kunihiro"
+      "Jiawei Feng",
+      "Jian Cao",
+      "Boyang Wang",
+      "Haikun Zhao",
+      "Chao Wang"
     ],
     "is_editorial": false,
     "abstract_missing": false,
     "always_include": false,
     "score_boost": 0.0,
-    "score": 3.0,
+    "score": 4.0,
     "matched": [
-      "solid earth"
+      "CMIP"
     ],
-    "published": "2026-08-19",
-    "first_seen": "2026-08-21"
+    "published": "2026-08-28",
+    "first_seen": "2026-08-29"
   },
   {
-    "title": "The impact of feature engineering and an optimisation framework for ocean colour machine learning",
-    "journal": "arXiv physics.ao-ph",
-    "source": "rss:arxiv-ao-ph",
-    "url": "https://arxiv.org/abs/2608.19899",
-    "doi": null,
-    "abstract": "arXiv:2608.19899v1 Announce Type: new Abstract: Machine learning (ML) is widely used for the development of ocean colour algorithms, but most studies focus on model parameter training and hyperparameter tuning. The optimisation of the data that feeds the models - i.e., Feature Engineering (FE) - is not fully explored. We assess the impact of FE in ocean colour machine learning models and we propose an optimisation framework that includes seven sequenced levels of data transformation: i. band choice, ii. log scaling, iii. spectral shape normalisation, iv. index extraction, v. principal component analysis, vi. feature scaling, and vii. zero-to-one scaling. We demonstrate the application for Multi-layer perceptron, Support Vector Machines, and eXtreme Gradient Boosting Trees on Sentinel-3 OLCI observations in the Norwegian coastal waters. The models are trained to estimate Chlorophyll-a concentration [Chl-a] and Secchi disk depth (Zsd). Results show that accuracy is highly variable among FE found in six studies using Sentinel-3 OLCI and the ones that we optimise. The R range from 0.01 to 0.55 for [Chl-a] and from 0.15 to 0.68 for Zsd, where the optimised FE shows the top results. The ML models with optimised FE could also improve by two times the R and reduce up to 63% of the mean absolute error when compared to CHL_OC4ME and CHL_NN standard algorithms. Nevertheless, no common optimised FE is found for all target variables and ML models, suggesting that FE optimisation is necessary for each application. Therefore, our proposed framework can be key for improving the accuracy of water quality monitoring in coastal waters.",
+    "title": "Spaceborne Far‐Infrared Signal Simulations Over the Antarctic Plateau With Temperature‐Dependent Ice Cloud Optical Properties",
+    "journal": "JGR Atmospheres",
+    "source": "rss:jgr-atmospheres",
+    "url": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025JD045957?af=R",
+    "doi": "10.1029/2025jd045957",
+    "abstract": "Journal of Geophysical Research: Atmospheres, Volume 131, Issue 17, 16 September 2026.",
     "authors": [
-      "Edson Silva",
-      "Julien Brajard",
-      "Simon Cappe",
-      "Lasse H. Pettersson",
-      "Fran\\c{c}ois Counillon"
+      "Tong Ren",
+      "Ping Yang",
+      "Xianglei Huang"
     ],
     "is_editorial": false,
     "abstract_missing": false,
     "always_include": false,
     "score_boost": 0.0,
-    "score": 3.0,
+    "score": 4.0,
     "matched": [
-      "machine learning"
+      "Antarctic"
     ],
-    "published": "2026-08-21",
-    "first_seen": "2026-08-21"
+    "published": "2026-08-28",
+    "first_seen": "2026-08-29"
   },
   {
     "title": "The Structural Changes and Thermodynamic Properties of Fe3P Under High Pressure and Temperature",
@@ -4282,35 +4095,110 @@
     "first_seen": "2026-08-28"
   },
   {
-    "title": "AQUA v1.0.0: The Application for QUality Assessment for the Climate Change Adaptation Digital Twin – the core engine",
-    "journal": "Geoscientific Model Development",
-    "source": "rss:gmd",
-    "url": "https://doi.org/10.5194/gmd-19-7725-2026",
-    "doi": "10.5194/gmd-19-7725-2026",
-    "abstract": "We present a new open-source software called AQUA designed to handle and evaluate the vast amounts of data produced by high-resolution climate simulations. As climate models become more detailed, their output can become too large and complex for traditional analysis methods. We introduce a new framework for data access, processing, and comparison that is fast, reliable, and easy to automate. Our results show that it can efficiently manage very large datasets and support real-time quality checks.",
+    "title": "Compositional Controls on the Contribution of (Fe,Al)OOH Solid Solution to Core‐Mantle Boundary Heterogeneities",
+    "journal": "JGR Solid Earth",
+    "source": "rss:jgr-solidearth",
+    "url": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2026JB034429?af=R",
+    "doi": "10.1029/2026jb034429",
+    "abstract": "Journal of Geophysical Research: Solid Earth, Volume 131, Issue 9, September 2026.",
     "authors": [
-      "Matteo Nurisso",
-      "Jost von Hardenberg",
-      "Marco Cadau",
-      "Silvia Caprioli",
-      "Paolo Ghinassi",
-      "Supriyo Ghosh",
-      "Nikolay Koldunov",
-      "Natalia Nazarova",
-      "Maqsood Mubarak Rajput",
-      "Emanuele Tovazzi",
-      "Paolo Davini"
+      "Sparsh Sharma",
+      "Gaurav Shukla"
     ],
     "is_editorial": false,
     "abstract_missing": false,
-    "always_include": true,
+    "always_include": false,
     "score_boost": 0.0,
-    "score": 2.0,
+    "score": 3.0,
     "matched": [
-      "climate change"
+      "solid earth"
     ],
-    "published": "2026-08-20",
-    "first_seen": "2026-08-21"
+    "published": "2026-08-29",
+    "first_seen": "2026-08-29"
+  },
+  {
+    "title": "Continuous Release of Saline Fluids From a Permeable Subducting Slab",
+    "journal": "JGR Solid Earth",
+    "source": "rss:jgr-solidearth",
+    "url": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2026JB034130?af=R",
+    "doi": "10.1029/2026jb034130",
+    "abstract": "Journal of Geophysical Research: Solid Earth, Volume 131, Issue 9, September 2026.",
+    "authors": [
+      "Yongsheng Huang",
+      "Yinwei Li",
+      "Kaiwei Tao",
+      "Guoji Wu",
+      "Masanari Arao",
+      "Michihiko Nakamura",
+      "Duojun Wang",
+      "Yuan Li"
+    ],
+    "is_editorial": false,
+    "abstract_missing": false,
+    "always_include": false,
+    "score_boost": 0.0,
+    "score": 3.0,
+    "matched": [
+      "solid earth"
+    ],
+    "published": "2026-08-29",
+    "first_seen": "2026-08-29"
+  },
+  {
+    "title": "Porous and Permeable Crystalline Basement: Evidence for Large‐Scale Hydraulic Connectivity at Kivetty, Finland",
+    "journal": "JGR Solid Earth",
+    "source": "rss:jgr-solidearth",
+    "url": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2026JB034512?af=R",
+    "doi": "10.1029/2026jb034512",
+    "abstract": "Journal of Geophysical Research: Solid Earth, Volume 131, Issue 9, September 2026.",
+    "authors": [
+      "Daniel Carbajal‐Martínez",
+      "Michael J. Heap",
+      "Ester M. Jolis",
+      "Toni Luoto",
+      "Thierry Reuschlé",
+      "Satu Vuoriainen",
+      "Jukka Kuva",
+      "Evgenii Kortunov",
+      "Alan Bischoff"
+    ],
+    "is_editorial": false,
+    "abstract_missing": false,
+    "always_include": false,
+    "score_boost": 0.0,
+    "score": 3.0,
+    "matched": [
+      "solid earth"
+    ],
+    "published": "2026-08-28",
+    "first_seen": "2026-08-29"
+  },
+  {
+    "title": "Imaging the Alpine Collision With Seismic Radial Anisotropy",
+    "journal": "JGR Solid Earth",
+    "source": "rss:jgr-solidearth",
+    "url": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025JB033428?af=R",
+    "doi": "10.1029/2025jb033428",
+    "abstract": "Journal of Geophysical Research: Solid Earth, Volume 131, Issue 9, September 2026.",
+    "authors": [
+      "Henrique Berger Roisenberg",
+      "Felix Eckel",
+      "Amr El‐Sharkawy",
+      "Claudio Rosenberg",
+      "Lapo Boschi",
+      "Thomas Meier",
+      "Fabio Cammarano"
+    ],
+    "is_editorial": false,
+    "abstract_missing": false,
+    "always_include": false,
+    "score_boost": 0.0,
+    "score": 3.0,
+    "matched": [
+      "solid earth"
+    ],
+    "published": "2026-08-28",
+    "first_seen": "2026-08-29"
   },
   {
     "title": "What SAR Labels Hide About a Changing Arctic",
@@ -4332,142 +4220,6 @@
     ],
     "published": "2026-08-21",
     "first_seen": "2026-08-23"
-  },
-  {
-    "title": "Using LIDAR and SNOTEL data for evaluating the performance of snow water equivalent retrieval using Sentinel-1 repeat-pass interferometry",
-    "journal": "The Cryosphere",
-    "source": "rss:tc",
-    "url": "https://doi.org/10.5194/tc-20-4537-2026",
-    "doi": "10.5194/tc-20-4537-2026",
-    "abstract": "Accurate measurements of water stored in mountain snow are essential for managing water resources and understanding climate change. We evaluated a satellite-based method using airborne laser surveys and ground observations across several snow-covered regions. The method performed well under dry snow conditions and identified the factors that affect its accuracy, supporting improved monitoring of mountain snow from future satellite missions.",
-    "authors": [
-      "Shadi Oveisgharan",
-      "Emre Havazli",
-      "Robert Zinke",
-      "Zachary Hoppinen"
-    ],
-    "is_editorial": false,
-    "abstract_missing": false,
-    "always_include": true,
-    "score_boost": 0.0,
-    "score": 1.0,
-    "matched": [
-      "climate change"
-    ],
-    "published": "2026-08-20",
-    "first_seen": "2026-08-21"
-  },
-  {
-    "title": "Publishing With Purpose: What AGU Journals Stand For",
-    "journal": "Geophysical Research Letters",
-    "source": "rss:grl",
-    "url": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2026GL125704?af=R",
-    "doi": "10.1029/2026gl125704",
-    "abstract": "Geophysical Research Letters, Volume 53, Issue 16, 28 August 2026.",
-    "authors": [
-      "Isaac R. Santos",
-      "Marguerite A. Xenopoulos",
-      "Lisa M. Beal",
-      "Stephen M. Griffies",
-      "Alberto Montanari",
-      "Enrico Camporeale",
-      "Georgia Destouni",
-      "Jacqueline Dixon",
-      "Natalia Ganushkina",
-      "Alexandre Schubnel",
-      "Thanh H. Nguyen",
-      "Debra Buczkowski",
-      "Amanda Hendrix",
-      "Jaclyn Clement Kinney",
-      "Ann Rowan",
-      "Graziella Caprarelli",
-      "Annalisa Bracco",
-      "Giulio Viola",
-      "Qingyun Duan",
-      "Kathryn Semmens",
-      "Brett A. Carter",
-      "Kate Lajtha",
-      "Sarah J. Feakins",
-      "Kristopher Karnauskas",
-      "Yafang Cheng",
-      "Kelly Caylor"
-    ],
-    "is_editorial": true,
-    "abstract_missing": false,
-    "always_include": false,
-    "score_boost": 0.0,
-    "score": 0.0,
-    "matched": [],
-    "published": "2026-08-19",
-    "first_seen": "2026-08-21"
-  },
-  {
-    "title": "On the reliability of seasonal snow forecasts",
-    "journal": "The Cryosphere",
-    "source": "rss:tc",
-    "url": "https://doi.org/10.5194/tc-20-4605-2026",
-    "doi": "10.5194/tc-20-4605-2026",
-    "abstract": "How reliable are probabilistic seasonal snow forecasts in winter? Although they are routinely issued by operational prediction centres, their reliability has never been evaluated. We close this gap by analyzing 30 years of seasonal snow re-forecasts and evaluating them against two snow datasets. Our results provide comprehensive assessment of seasonal snow forecast reliability and offer new insights into their performance in different parts of the Northern Hemisphere.",
-    "authors": [
-      "Ekaterina Vorobeva",
-      "Yvan Orsolini",
-      "Patricia de Rosnay",
-      "Jonathan Day",
-      "Retish Senan",
-      "Damien Decremer",
-      "Frederic Vitart"
-    ],
-    "is_editorial": false,
-    "abstract_missing": false,
-    "always_include": true,
-    "score_boost": 0.0,
-    "score": 0.0,
-    "matched": [],
-    "published": "2026-08-21",
-    "first_seen": "2026-08-21"
-  },
-  {
-    "title": "GCAM-Europe v7.2.0: enhancing policy-relevant climate modelling through spatial and sectoral detail",
-    "journal": "Geoscientific Model Development",
-    "source": "rss:gmd",
-    "url": "https://doi.org/10.5194/gmd-19-7741-2026",
-    "doi": "10.5194/gmd-19-7741-2026",
-    "abstract": "GCAM-Europe is an open-access modelling tool designed to assess the impacts of climate and environmental policies across European countries. Built on a global framework, it adds detailed regional and sectoral representation for Europe, including energy, land use, water, and emissions. This allows for analysis of policy effects within and between countries, as well as global spillover effects, to support transparent, evidence-based decision-making.",
-    "authors": [
-      "Jon Sampedro",
-      "Russell Horowitz",
-      "Clàudia Rodés-Bachs",
-      "Konstantinos Koasidis",
-      "Dirk-Jan Van de Ven"
-    ],
-    "is_editorial": false,
-    "abstract_missing": false,
-    "always_include": true,
-    "score_boost": 0.0,
-    "score": 0.0,
-    "matched": [],
-    "published": "2026-08-20",
-    "first_seen": "2026-08-21"
-  },
-  {
-    "title": "Advancing the capabilities for efficient hurricane-centric simulations with the atmospheric model ICON",
-    "journal": "Geoscientific Model Development",
-    "source": "rss:gmd",
-    "url": "https://doi.org/10.5194/gmd-19-7705-2026",
-    "doi": "10.5194/gmd-19-7705-2026",
-    "abstract": "Computer models for hurricane prediction are increasingly detailed but require large computing resources. We developed a flexible approach that follows hurricanes, applying high-resolution simulations only where needed. This method reduces computing costs by up to an order of magnitude compared to conventional limited-area domains, while achieving resolutions down to 300 m. The approach enables more efficient hurricane research and improved understanding of tropical dynamics.",
-    "authors": [
-      "Fabian Senf",
-      "Roxana Cremer"
-    ],
-    "is_editorial": false,
-    "abstract_missing": false,
-    "always_include": true,
-    "score_boost": 0.0,
-    "score": 0.0,
-    "matched": [],
-    "published": "2026-08-20",
-    "first_seen": "2026-08-21"
   },
   {
     "title": "Modeling the effects of climate risk on primates globally: New perspectives on conservation priorities",
