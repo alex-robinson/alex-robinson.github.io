@@ -411,6 +411,37 @@
     "first_seen": "2026-09-03"
   },
   {
+    "title": "Coupling of N 2 Fixation and Denitrification and Their Spatial Extent in the Arabian Sea Over the Last Glacial‐Interglacial Period",
+    "journal": "Paleoceanography and Paleoclimatology",
+    "source": "openalex:paleoclimate",
+    "url": "https://doi.org/10.1029/2026pa005548",
+    "doi": "10.1029/2026pa005548",
+    "abstract": "Abstract The ocean nitrogen cycle is influenced by climatic conditions, which regulate atmospheric greenhouse gases and generate feedback effects. These feedbacks occur through the release of nitrous oxide and alterations in the fixed‐nitrogen inventory, which in turn regulates carbon sequestration. The Arabian Sea hosts an intense oxygen minimum zone, making it a critical region for understanding marine biogeochemical cycling. Understanding past variability in nitrogen cycling offers crucial insights into the relationship between ocean circulation and productivity, which is essential for predicting future biogeochemical changes. Here, we present reconstructions of spatiotemporal variation in water column denitrification and fixation, the influence of oceanic ventilation, and the role of monsoonal variability on nitrogen cycling in the Arabian Sea. Based on our sedimentary nitrogen isotope ( 15 N) records, we found N 2 fixation and denitrification to be concomitantly high during the Last Glacial Maximum (LGM; ∼23–19 ka) in the northern and southeastern Arabian Sea. In contrast, both processes weakened during the deglaciation. The dominance of denitrification, with the decrease in dissolved oxygen as a result of the reduced influx of Antarctic Intermediate Water, appears to have begun in the early Holocene. On millennial timescales, denitrification intensity is mainly controlled by subsurface ventilation by water masses from the Southern Ocean. Despite temporal variations, both processes remained more intense in the northern Arabian Sea. Our findings underscore the sensitivity of the nitrogen cycle in the Arabian Sea to climate change, with continued warming causing denitrification to intensify, providing positive feedback to the climate.",
+    "authors": [
+      "Deepak Kumar",
+      "Sanjeev Kumar",
+      "Arvind Singh"
+    ],
+    "is_editorial": false,
+    "abstract_missing": false,
+    "always_include": false,
+    "score_boost": 0.0,
+    "score": 27.0,
+    "matched": [
+      "Antarctic",
+      "ocean circulation",
+      "Southern Ocean",
+      "deglaciation",
+      "last glacial maximum",
+      "LGM",
+      "interglacial",
+      "Holocene",
+      "climate change"
+    ],
+    "published": "2026-09-01",
+    "first_seen": "2026-09-06"
+  },
+  {
     "title": "Cold Extremes during Dansgaard-Oeschger Oscillations",
     "journal": "arXiv physics.ao-ph",
     "source": "rss:arxiv-ao-ph",
@@ -694,6 +725,36 @@
     ],
     "published": "2026-09-03",
     "first_seen": "2026-09-05"
+  },
+  {
+    "title": "Accelerated old basal ice loss in Tibetan glaciers after the 1990s",
+    "journal": "National Science Review",
+    "source": "openalex:cryosphere",
+    "url": "https://doi.org/10.1093/nsr/nwag558",
+    "doi": "10.1093/nsr/nwag558",
+    "abstract": "Abstract Surface meltwater that penetrates glacier interiors to the beds can warm the ice and enhance basal mass loss, exerting critical control over glacier dynamics. However, these processes remain poorly constrained in Tibetan Plateau glaciers, particularly those in the western sector, which have long been regarded as cold-based. Here, we used pollen radiocarbon ages from sediments in seven proglacial lakes, spanning catchments with 0.5–55.0% glacier cover, to distinguish old terminal and/or basal ice melt from young surface snow/ice melt of upstream glaciers previously assumed to be cold-based (four lakes) and polythermal (three lakes) over the past 150 years. We show that after the 1990 s, the melting of Tibetan glaciers shifted into a new regime, marked by accelerated mass loss of old basal ice under intensified surface melt conditions. These findings underscore the urgent need for integrated observations of both supra- and subglacial processes to resolve the evolving hydrothermal regimes in Tibetan glaciers under ongoing climate warming.",
+    "authors": [
+      "Baiqing Xu",
+      "Xiaolong Zhang",
+      "Tandong Yao",
+      "Wei Yang",
+      "Xiangke Xu"
+    ],
+    "is_editorial": false,
+    "abstract_missing": false,
+    "always_include": false,
+    "score_boost": 0.0,
+    "score": 16.0,
+    "matched": [
+      "subglacial",
+      "glacier",
+      "surface melt",
+      "meltwater",
+      "mass loss",
+      "radiocarbon"
+    ],
+    "published": "2026-09-04",
+    "first_seen": "2026-09-06"
   },
   {
     "title": "Radiative and Dynamical Controls on the Land-Ocean Warming Contrast in Climate Models",
@@ -1064,6 +1125,32 @@
     "first_seen": "2026-09-05"
   },
   {
+    "title": "The intercomparison of total column water vapor over a melting glacier on the Greenland ice sheet derived using spaceborne Sentinel-5P and high spatial resolution EnMAP measurements",
+    "journal": "Remote Sensing of Environment",
+    "source": "openalex:cryosphere",
+    "url": "https://doi.org/10.1016/j.rse.2026.115648",
+    "doi": "10.1016/j.rse.2026.115648",
+    "abstract": null,
+    "authors": [
+      "Alexander Kokhanovsky",
+      "Luca Lelli",
+      "Karl Segl",
+      "Jörg Bendix"
+    ],
+    "is_editorial": false,
+    "abstract_missing": true,
+    "always_include": false,
+    "score_boost": 0.0,
+    "score": 12.0,
+    "matched": [
+      "ice sheet",
+      "glacier",
+      "Greenland"
+    ],
+    "published": "2026-09-04",
+    "first_seen": "2026-09-06"
+  },
+  {
     "title": "Satellite Remote Sensing of a Melting Glacier Albedo: Examples from EnMAP and an Intercomparison with Other Satellite and Ground Measurements",
     "journal": "Remote Sensing",
     "source": "openalex:cryosphere",
@@ -1095,31 +1182,6 @@
     ],
     "published": "2026-09-01",
     "first_seen": "2026-09-03"
-  },
-  {
-    "title": "Emergent Regimes of River Meandering and Permafrost Extent in Arctic Floodplains",
-    "journal": "Geophysical Research Letters",
-    "source": "rss:grl",
-    "url": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2026GL124384?af=R",
-    "doi": "10.1029/2026gl124384",
-    "abstract": "Geophysical Research Letters, Volume 53, Issue 17, 16 September 2026.",
-    "authors": [
-      "Michael P. Lamb",
-      "Emily C. Geyman",
-      "Madison D. Douglas",
-      "Ajay B. Limaye"
-    ],
-    "is_editorial": false,
-    "abstract_missing": false,
-    "always_include": false,
-    "score_boost": 0.0,
-    "score": 10.0,
-    "matched": [
-      "Arctic",
-      "permafrost"
-    ],
-    "published": "2026-08-28",
-    "first_seen": "2026-08-29"
   },
   {
     "title": "Topo-climatic controls on rock glacier chronology since Lateglacial period in the northwestern part of Mattertal, Swiss Alps, reconstructed by TCN dating",
@@ -1500,6 +1562,62 @@
     "first_seen": "2026-09-05"
   },
   {
+    "title": "Contrasting responses of the eastern and western Chinese Loess Plateau to Heinrich events",
+    "journal": "Quaternary Science Reviews",
+    "source": "openalex:paleoclimate",
+    "url": "https://doi.org/10.1016/j.quascirev.2026.110260",
+    "doi": "10.1016/j.quascirev.2026.110260",
+    "abstract": null,
+    "authors": [
+      "Qingying Wang",
+      "Guoqiao Xiao",
+      "Mingqiang Liang",
+      "Zixuan Zhang",
+      "Yange Wang",
+      "Zhaojing Ding",
+      "Xueqing Zhou",
+      "Tianran Chen",
+      "Qiuzhen Yin"
+    ],
+    "is_editorial": false,
+    "abstract_missing": true,
+    "always_include": false,
+    "score_boost": 0.0,
+    "score": 10.0,
+    "matched": [
+      "Heinrich event"
+    ],
+    "published": "2026-09-04",
+    "first_seen": "2026-09-06"
+  },
+  {
+    "title": "Divergent controls of climate-driven organic carbon burial in glacier-fed and treeline lakes since the Last Deglaciation on the southeastern Tibetan Plateau",
+    "journal": "Palaeogeography Palaeoclimatology Palaeoecology",
+    "source": "openalex:paleoclimate",
+    "url": "https://doi.org/10.1016/j.palaeo.2026.114196",
+    "doi": "10.1016/j.palaeo.2026.114196",
+    "abstract": null,
+    "authors": [
+      "Zimeng Li",
+      "Xiangdong Yang",
+      "Rong Wang",
+      "Mingying Quan",
+      "Boyuan Liu",
+      "Qian Wang"
+    ],
+    "is_editorial": false,
+    "abstract_missing": true,
+    "always_include": false,
+    "score_boost": 0.0,
+    "score": 10.0,
+    "matched": [
+      "glacier",
+      "deglaciation"
+    ],
+    "published": "2026-09-01",
+    "first_seen": "2026-09-06"
+  },
+  {
     "title": "Added value of dynamical downscaling in sub-seasonal tropical cyclone forecast",
     "journal": "arXiv physics.ao-ph",
     "source": "rss:arxiv-ao-ph",
@@ -1740,6 +1858,89 @@
     ],
     "published": "2026-09-03",
     "first_seen": "2026-09-05"
+  },
+  {
+    "title": "Glaciers in the Alps are set for record-breaking ice loss",
+    "journal": "The New Scientist",
+    "source": "openalex:cryosphere",
+    "url": "https://doi.org/10.1016/s0262-4079(26)01371-0",
+    "doi": "10.1016/s0262-4079(26)01371-0",
+    "abstract": null,
+    "authors": [
+      "Alec Luhn"
+    ],
+    "is_editorial": false,
+    "abstract_missing": true,
+    "always_include": false,
+    "score_boost": 0.0,
+    "score": 8.0,
+    "matched": [
+      "glacier",
+      "record-breaking"
+    ],
+    "published": "2026-09-01",
+    "first_seen": "2026-09-06"
+  },
+  {
+    "title": "Late Holocene water-level fluctuations in a shallow forest lake in Central Europe inferred from Cladocera assemblages",
+    "journal": "Journal of Paleolimnology",
+    "source": "openalex:paleoclimate",
+    "url": "https://doi.org/10.1007/s10933-026-00408-z",
+    "doi": "10.1007/s10933-026-00408-z",
+    "abstract": "Abstract Subfossil cladoceran assemblages from a dated sediment core collected from a small, shallow forest lake in northwestern Poland were used to reconstruct changes in water availability and habitat structure over the past ca. 2000 years. To assess the reliability of cladoceran-based paleohydrological record in a dynamic shallow-lake system, we applied both a qualitative planktonic-to-littoral (P/L) ratio and a quantitative modern analog technique (MAT) approach. Both approaches indicate substantial Late Holocene variability in inferred water availability and habitat structure, with relatively high inferred water availability from ca. 70 BC to AD 200, followed by greater variability and an overall tendency toward lower water availability. Some reconstructed phases broadly overlap with commonly recognized regional climatic intervals, including the Roman Warm Period, Dark Ages Cold Period, Medieval Climate Anomaly, and Little Ice Age, although these relationships should not be interpreted as evidence of precise chronological synchrony or direct climatic causation. Water availability is interpreted as the principal external driver of lake development, whereas trophic state, macrophyte structure, oxygen conditions, and possible fish predation acted as interconnected modifiers of the cladoceran signal. These local ecological processes complicate the interpretation of the hydrological signal and should therefore be considered in paleohydrological reconstructions of shallow lakes. The P/L ratio primarily reflects changes in littoral–open-water habitat structure, whereas the MAT model provides semi-quantitative depth estimates that may be sensitive to other changes in species–environment relationships. Agreement between the two approaches supports broad relative trends but does not constitute independent validation because both are derived from the same cladoceran assemblages. Cladoceran-based reconstructions therefore provide a useful record of relative hydrological variability, although absolute water-depth estimates remain uncertain.",
+    "authors": [
+      "Karolina Gorzkiewicz",
+      "Dominik Pawłowski",
+      "Tomi P. Luoto"
+    ],
+    "is_editorial": false,
+    "abstract_missing": false,
+    "always_include": false,
+    "score_boost": 0.0,
+    "score": 8.0,
+    "matched": [
+      "Holocene",
+      "sediment core"
+    ],
+    "published": "2026-09-04",
+    "first_seen": "2026-09-06"
+  },
+  {
+    "title": "Isotopic and microtextural signatures of Holocene foraminifera at a methane seepage site in the western South Atlantic",
+    "journal": "Marine Geoscience and Energy Resources",
+    "source": "openalex:paleoclimate",
+    "url": "https://doi.org/10.1016/j.marger.2026.207888",
+    "doi": "10.1016/j.marger.2026.207888",
+    "abstract": null,
+    "authors": [
+      "Alisson Klayton Martins",
+      "Jaime Y. Suárez‐Ibarra",
+      "Cristiane Frozza",
+      "Pâmela Palhano",
+      "Marlone H.H. Bom",
+      "Karlos G.D. Kochhann",
+      "João P. Saldanha",
+      "Ariano De Giovanni Rodrigues",
+      "Mírian L.A.F. Pacheco",
+      "Daniel Praeg",
+      "Adolpho H. Augustin",
+      "Adriano R. Viana",
+      "Dennis Miller",
+      "Marcelo Ketzer",
+      "Luíz Rodrigues",
+      "Maria A.G. Pivel"
+    ],
+    "is_editorial": false,
+    "abstract_missing": true,
+    "always_include": false,
+    "score_boost": 0.0,
+    "score": 8.0,
+    "matched": [
+      "Holocene",
+      "foraminifera"
+    ],
+    "published": "2026-09-01",
+    "first_seen": "2026-09-06"
   },
   {
     "title": "Advanced hyperspectral snow and glacier classification using fully connected autoencoders",
@@ -2358,80 +2559,6 @@
     "first_seen": "2026-09-05"
   },
   {
-    "title": "Ferroelastic hysteresis, shear modulus softening, and the tetragonal↔cubic transition in davemaoite",
-    "journal": "Science Advances",
-    "source": "rss:sciadv",
-    "url": "https://www.science.org/doi/abs/10.1126/sciadv.aed7601?af=R",
-    "doi": "10.1126/sciadv.aed7601?af=r",
-    "abstract": "Science Advances, Volume 12, Issue 35, August 2026.",
-    "authors": [
-      "Tianqi Wan",
-      "Chenxing Luo",
-      "Zhen Zhang",
-      "Yang Sun",
-      "Renata M. Wentzcovitch"
-    ],
-    "is_editorial": false,
-    "abstract_missing": false,
-    "always_include": false,
-    "score_boost": 0.0,
-    "score": 6.0,
-    "matched": [
-      "hysteresis"
-    ],
-    "published": null,
-    "first_seen": "2026-08-29"
-  },
-  {
-    "title": "Trends in Heat Stress During Heat Waves Across Europe (1979–2023)",
-    "journal": "Geophysical Research Letters",
-    "source": "rss:grl",
-    "url": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2026GL124082?af=R",
-    "doi": "10.1029/2026gl124082",
-    "abstract": "Geophysical Research Letters, Volume 53, Issue 17, 16 September 2026.",
-    "authors": [
-      "Qi Zhang",
-      "Joakim Kjellsson",
-      "Emily Black",
-      "Julian Krüger"
-    ],
-    "is_editorial": false,
-    "abstract_missing": false,
-    "always_include": false,
-    "score_boost": 0.0,
-    "score": 6.0,
-    "matched": [
-      "heat wave"
-    ],
-    "published": "2026-08-28",
-    "first_seen": "2026-08-29"
-  },
-  {
-    "title": "Assessing the Impact of Sea Surface Temperature Biases in CMIP6 Coupled Models on the North Pacific Westerly Jet",
-    "journal": "Geophysical Research Letters",
-    "source": "rss:grl",
-    "url": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2026GL124012?af=R",
-    "doi": "10.1029/2026gl124012",
-    "abstract": "Geophysical Research Letters, Volume 53, Issue 17, 16 September 2026.",
-    "authors": [
-      "Yusuke Ushijima",
-      "Ryo Mizuta",
-      "Shion Sekizawa",
-      "Hiroyuki Tsujino"
-    ],
-    "is_editorial": false,
-    "abstract_missing": false,
-    "always_include": false,
-    "score_boost": 0.0,
-    "score": 6.0,
-    "matched": [
-      "sea surface temperature",
-      "CMIP"
-    ],
-    "published": "2026-08-28",
-    "first_seen": "2026-08-29"
-  },
-  {
     "title": "Hydroclimatic controls on glacier mass balance in the Gangotri region, western Himalaya: a multi-temporal geodetic assessment",
     "journal": "Hydrological Sciences Journal",
     "source": "openalex:cryosphere",
@@ -2778,101 +2905,29 @@
     "first_seen": "2026-09-05"
   },
   {
-    "title": "Seasonal to Multi‐Year Variability of Upwelling Along Southwest Greenland and the Role of Atmospheric Circulation",
-    "journal": "JGR Oceans",
-    "source": "rss:jgr-oceans",
-    "url": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2026JC024697?af=R",
-    "doi": "10.1029/2026jc024697",
-    "abstract": "Journal of Geophysical Research: Oceans, Volume 131, Issue 9, September 2026.",
+    "title": "Reconstruction of lost Himalayan rivers: Climate change and anthropogenic interactions with reference to Sutlej-Ghaggar-Saraswati-Drishadvati, a mighty river basin",
+    "journal": "Geoscience Frontiers",
+    "source": "openalex:paleoclimate",
+    "url": "https://doi.org/10.1016/j.gsf.2026.102455",
+    "doi": "10.1016/j.gsf.2026.102455",
+    "abstract": "The study explores the Ghaggar-Saraswati-Drishadvati river basin, located between the Sutlej and Yamuna rivers in the Punjab-Haryana plains, a region renowned for its rich archaeological legacy. Here, attempt has been made to examine how tectonic, geomorphological, and hydrological factors shape the evolution of the ancient river system once occupying the study area. This basin has witnessed significant hydrological and geomorphological shifts over the millennia. Ancient Indian scriptures such as the Vedas and Mahabharata refer to the Saraswati River, but its direct textual documentation with the Sutlej or Yamuna is lacking. The research delineates paleochannels and traces the ancient river systems that display complex interplay of tectonic, hydrological, and historical factors shaping the river systems of Northwest India. So, tectonics dominate on multi‑millennial timescales, hydrology/climate (monsoon strength and glacial melt) dominate on millennial timescales, and historical impacts dominate on decadal–centennial timescales. While many rivers in the basin are now seasonal, sedimentological analyses and satellite imagery suggest paleochannels like the Ghaggar-Hakra represent former courses of the Sutlej River linking Himalayan glaciers with the Saraswati system. These findings offer valuable insights into the region’s hydrological evolution and archaeological significance. Thermoluminescence (TL) dating and bore-hole data have revealed evidence of a substantial paleo-channel, approximately 1.5 km wide and over 40–50 m deep, with sediment ages estimated at 5.3 ± 0.6 ka. But the modern Sutlej channel in the region seldom exceeds 150 m width. These findings align with the fluvial chronology of the Sutlej-Ghaghar-Saraswati- Drishadvati system, suggesting the existence of a significant perennial river during the mid-Holocene, likely connected Northwest India to the Yamuna River near present-day Delhi. The large paleo-channel identified near Nigambodh Ghat, Delhi corresponds to the ancient eastward flow of the Ghaggar or Sutlej paleochannel, underscoring its historical hydrological significance.",
     "authors": [
-      "Yan Sun",
-      "Robert S. Pickart"
+      "Shashank Shekhar",
+      "Gonmei Zenus Piuthaimei",
+      "Shashank Shekhar"
     ],
     "is_editorial": false,
     "abstract_missing": false,
     "always_include": false,
     "score_boost": 0.0,
-    "score": 4.0,
+    "score": 5.0,
     "matched": [
-      "Greenland"
+      "glacier",
+      "Holocene",
+      "climate change"
     ],
-    "published": "2026-08-28",
-    "first_seen": "2026-08-29"
-  },
-  {
-    "title": "Sources of Potential Predictability for July–August 2025 Extreme Precipitation Anomalies Over Northern China: Roles of the Western Pacific and North Atlantic–Barents–Kara Sea Sectors",
-    "journal": "JGR Atmospheres",
-    "source": "rss:jgr-atmospheres",
-    "url": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2026JD047254?af=R",
-    "doi": "10.1029/2026jd047254",
-    "abstract": "Journal of Geophysical Research: Atmospheres, Volume 131, Issue 17, 16 September 2026.",
-    "authors": [
-      "Xinyu He",
-      "Bian He",
-      "Yimin Liu",
-      "Guoxiong Wu",
-      "Chen Sheng",
-      "Bin Tang",
-      "Natalia Victorovna Vazaeva"
-    ],
-    "is_editorial": false,
-    "abstract_missing": false,
-    "always_include": false,
-    "score_boost": 0.0,
-    "score": 4.0,
-    "matched": [
-      "predictability"
-    ],
-    "published": "2026-08-28",
-    "first_seen": "2026-08-29"
-  },
-  {
-    "title": "Causes of the Delayed Seasonality of Northern Hemisphere Tropical Cyclones in CMIP6 Models",
-    "journal": "JGR Atmospheres",
-    "source": "rss:jgr-atmospheres",
-    "url": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2026JD046965?af=R",
-    "doi": "10.1029/2026jd046965",
-    "abstract": "Journal of Geophysical Research: Atmospheres, Volume 131, Issue 17, 16 September 2026.",
-    "authors": [
-      "Jiawei Feng",
-      "Jian Cao",
-      "Boyang Wang",
-      "Haikun Zhao",
-      "Chao Wang"
-    ],
-    "is_editorial": false,
-    "abstract_missing": false,
-    "always_include": false,
-    "score_boost": 0.0,
-    "score": 4.0,
-    "matched": [
-      "CMIP"
-    ],
-    "published": "2026-08-28",
-    "first_seen": "2026-08-29"
-  },
-  {
-    "title": "Spaceborne Far‐Infrared Signal Simulations Over the Antarctic Plateau With Temperature‐Dependent Ice Cloud Optical Properties",
-    "journal": "JGR Atmospheres",
-    "source": "rss:jgr-atmospheres",
-    "url": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025JD045957?af=R",
-    "doi": "10.1029/2025jd045957",
-    "abstract": "Journal of Geophysical Research: Atmospheres, Volume 131, Issue 17, 16 September 2026.",
-    "authors": [
-      "Tong Ren",
-      "Ping Yang",
-      "Xianglei Huang"
-    ],
-    "is_editorial": false,
-    "abstract_missing": false,
-    "always_include": false,
-    "score_boost": 0.0,
-    "score": 4.0,
-    "matched": [
-      "Antarctic"
-    ],
-    "published": "2026-08-28",
-    "first_seen": "2026-08-29"
+    "published": "2026-09-01",
+    "first_seen": "2026-09-06"
   },
   {
     "title": "Quantifying permeability in bidisperse granular media through sequential homogenisation",
@@ -3498,112 +3553,6 @@
     ],
     "published": "2026-09-01",
     "first_seen": "2026-09-05"
-  },
-  {
-    "title": "Compositional Controls on the Contribution of (Fe,Al)OOH Solid Solution to Core‐Mantle Boundary Heterogeneities",
-    "journal": "JGR Solid Earth",
-    "source": "rss:jgr-solidearth",
-    "url": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2026JB034429?af=R",
-    "doi": "10.1029/2026jb034429",
-    "abstract": "Journal of Geophysical Research: Solid Earth, Volume 131, Issue 9, September 2026.",
-    "authors": [
-      "Sparsh Sharma",
-      "Gaurav Shukla"
-    ],
-    "is_editorial": false,
-    "abstract_missing": false,
-    "always_include": false,
-    "score_boost": 0.0,
-    "score": 3.0,
-    "matched": [
-      "solid earth"
-    ],
-    "published": "2026-08-29",
-    "first_seen": "2026-08-29"
-  },
-  {
-    "title": "Continuous Release of Saline Fluids From a Permeable Subducting Slab",
-    "journal": "JGR Solid Earth",
-    "source": "rss:jgr-solidearth",
-    "url": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2026JB034130?af=R",
-    "doi": "10.1029/2026jb034130",
-    "abstract": "Journal of Geophysical Research: Solid Earth, Volume 131, Issue 9, September 2026.",
-    "authors": [
-      "Yongsheng Huang",
-      "Yinwei Li",
-      "Kaiwei Tao",
-      "Guoji Wu",
-      "Masanari Arao",
-      "Michihiko Nakamura",
-      "Duojun Wang",
-      "Yuan Li"
-    ],
-    "is_editorial": false,
-    "abstract_missing": false,
-    "always_include": false,
-    "score_boost": 0.0,
-    "score": 3.0,
-    "matched": [
-      "solid earth"
-    ],
-    "published": "2026-08-29",
-    "first_seen": "2026-08-29"
-  },
-  {
-    "title": "Porous and Permeable Crystalline Basement: Evidence for Large‐Scale Hydraulic Connectivity at Kivetty, Finland",
-    "journal": "JGR Solid Earth",
-    "source": "rss:jgr-solidearth",
-    "url": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2026JB034512?af=R",
-    "doi": "10.1029/2026jb034512",
-    "abstract": "Journal of Geophysical Research: Solid Earth, Volume 131, Issue 9, September 2026.",
-    "authors": [
-      "Daniel Carbajal‐Martínez",
-      "Michael J. Heap",
-      "Ester M. Jolis",
-      "Toni Luoto",
-      "Thierry Reuschlé",
-      "Satu Vuoriainen",
-      "Jukka Kuva",
-      "Evgenii Kortunov",
-      "Alan Bischoff"
-    ],
-    "is_editorial": false,
-    "abstract_missing": false,
-    "always_include": false,
-    "score_boost": 0.0,
-    "score": 3.0,
-    "matched": [
-      "solid earth"
-    ],
-    "published": "2026-08-28",
-    "first_seen": "2026-08-29"
-  },
-  {
-    "title": "Imaging the Alpine Collision With Seismic Radial Anisotropy",
-    "journal": "JGR Solid Earth",
-    "source": "rss:jgr-solidearth",
-    "url": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025JB033428?af=R",
-    "doi": "10.1029/2025jb033428",
-    "abstract": "Journal of Geophysical Research: Solid Earth, Volume 131, Issue 9, September 2026.",
-    "authors": [
-      "Henrique Berger Roisenberg",
-      "Felix Eckel",
-      "Amr El‐Sharkawy",
-      "Claudio Rosenberg",
-      "Lapo Boschi",
-      "Thomas Meier",
-      "Fabio Cammarano"
-    ],
-    "is_editorial": false,
-    "abstract_missing": false,
-    "always_include": false,
-    "score_boost": 0.0,
-    "score": 3.0,
-    "matched": [
-      "solid earth"
-    ],
-    "published": "2026-08-28",
-    "first_seen": "2026-08-29"
   },
   {
     "title": "Wave Propagation in 3‐D Poroelastic Media Accounting for Both Mesoscopic and Global Flow Effects",
@@ -4425,6 +4374,55 @@
     ],
     "published": "2026-09-03",
     "first_seen": "2026-09-05"
+  },
+  {
+    "title": "A Fractal Link Between Soil Water Retention and Freezing",
+    "journal": "JGR Solid Earth",
+    "source": "rss:jgr-solidearth",
+    "url": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2026JB034263?af=R",
+    "doi": "10.1029/2026jb034263",
+    "abstract": "Journal of Geophysical Research: Solid Earth, Volume 131, Issue 9, September 2026.",
+    "authors": [
+      "Hao Wang",
+      "Sai K. Vanapalli"
+    ],
+    "is_editorial": false,
+    "abstract_missing": false,
+    "always_include": false,
+    "score_boost": 0.0,
+    "score": 3.0,
+    "matched": [
+      "solid earth"
+    ],
+    "published": "2026-09-05",
+    "first_seen": "2026-09-06"
+  },
+  {
+    "title": "Synchronized declines in global Landsat cloud occurrence probability and area.",
+    "journal": "Journal of Climate",
+    "source": "openalex:0894-8755",
+    "url": "https://doi.org/10.1175/jcli-d-26-0038.1",
+    "doi": "10.1175/jcli-d-26-0038.1",
+    "abstract": "Abstract Cloud cover impacts Earth's radiation budget as both a cause and an effect of climate change. While long-term satellite observations are vital for climate studies, existing products are limited by coarse resolutions that fail to capture fine-scale cloud heterogeneity. Despite the five-decade Landsat archive, global pixel-level analysis remains constrained by computational limitations. We investigated spatiotemporal patterns of cloud occurrence probability (COP) and cloud contaminated area (CCA) from continental to global scales using 1984–2023 data from Landsat-5, Landsat-7, and Landsat-8. Results reveal pronounced variations: global average COP is 34.39%, with Europe recording the highest rate (43.95%) and Oceania the lowest (21.23%). Tropical regions exhibit higher COP (48.10%) than extra-tropical zones (39.51%). Global mean CCA covers 47.05% of Earth’s surface (7.01 × 10 8 km 2 ), with Asia contributing the largest share (36.6%). Unlike the stable tropics, CCA shows significant seasonality at mid- and high-latitudes, peaking in July and reaching a minimum in December. A key finding is the synchronized decline in global cloud cover COP and CCA during the 2014–2023 OLI era ( p < 0.05), with South America exhibiting the most pronounced regional reduction. Beyond validating the Landsat archive, our findings demonstrate the unique capacity of 30-m observations to resolve sub-grid cloud heterogeneity, offering a potential benchmark for assessing partial coverage biases in coarser global products. This high-resolution record provides an essential foundation for refining cloud-climate feedbacks in future climate modeling.",
+    "authors": [
+      "Yin Yang",
+      "Peng Li",
+      "Suresh Chand",
+      "Luguang Jiang",
+      "Umesh Kumar Mandal",
+      "Arika Bridhikitti"
+    ],
+    "is_editorial": false,
+    "abstract_missing": false,
+    "always_include": false,
+    "score_boost": 0.0,
+    "score": 3.0,
+    "matched": [
+      "climate feedback",
+      "climate change"
+    ],
+    "published": "2026-09-04",
+    "first_seen": "2026-09-06"
   },
   {
     "title": "The missing drifts: snow density heterogeneity from wind-packing exacerbates systematic underestimation of deep snow storage from the scale of nivation hollows to mountain ranges",
