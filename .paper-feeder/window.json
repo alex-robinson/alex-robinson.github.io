@@ -32,42 +32,6 @@
     "first_seen": "2026-09-05"
   },
   {
-    "title": "West Antarctic subglacial geology distinguished by Pb isotopes and Rb–Sr ages in ice-rafted feldspars",
-    "journal": "Earth and Planetary Science Letters",
-    "source": "openalex:paleoclimate",
-    "url": "https://doi.org/10.1016/j.epsl.2026.120298",
-    "doi": "10.1016/j.epsl.2026.120298",
-    "abstract": "Provenance data from sediment delivered to the marine environment by icebergs can trace past ice sheet dynamics and help constrain the ice sheet models used in sea level projections. This approach requires an interpretative framework, but in Antarctica, blanketing ice sheets hinder knowledge of upstream geology. Here, we tackle this problem by presenting a coupled laser ablation–based Pb isotope and Rb–Sr age study of ice-rafted feldspar grains from shelf sediments along West Antarctica’s Pacific margin. We identify five distinct clusters in Pb isotope composition, each associated with Rb–Sr age clusters interpreted as West Antarctic magmatic episodes. One cluster suggests granitoids recently identified in geophysical data from the Thwaites Glacier bed may be Ross orogen plutons in a rifted block of Transantarctic Mountains crust. A Middle Jurassic cluster fringing the Thurston Island crustal block reflects Chon Aike magmatism, and a cluster restricted to western Marie Byrd Land points to extensive subglacial exposure of Carboniferous anatectic granites in the Ford Ranges. These Pb isotope groups can be used as tracers to infer past ice extent and erosional dynamics of glaciers in the Amundsen Sea Embayment, including the Thwaites and Pine Island glaciers. Our approach provides a powerful and high-throughput tool for studying detrital provenance in West Antarctica and could be generalized for use in other inverse provenance studies around Antarctica and beyond.",
-    "authors": [
-      "Thomas Arney",
-      "Claus‐Dieter Hillenbrand",
-      "Thomas M. Belgrano",
-      "James A. Milton",
-      "C. S. Siddoway",
-      "Gavin L. Foster",
-      "Paul A. Wilson",
-      "Julia S. Wellner",
-      "Steven M. Bohaty"
-    ],
-    "is_editorial": false,
-    "abstract_missing": false,
-    "always_include": false,
-    "score_boost": 0.0,
-    "score": 37.0,
-    "matched": [
-      "ice sheet",
-      "subglacial",
-      "glacier",
-      "Antarctic",
-      "Antarctica",
-      "West Antarctic",
-      "iceberg",
-      "sea level"
-    ],
-    "published": "2026-08-29",
-    "first_seen": "2026-08-30"
-  },
-  {
     "title": "Changes in Southern Ocean Circulation Across Climate Transitions and Their Impacts on Carbon and Heat Fluxes",
     "journal": "Annual Review of Marine Science",
     "source": "openalex:paleoclimate",
@@ -196,32 +160,6 @@
     ],
     "published": "2026-08-31",
     "first_seen": "2026-09-03"
-  },
-  {
-    "title": "The effect of freshwater biases on AMOC stability across the model complexity spectrum",
-    "journal": "Climate Dynamics",
-    "source": "openalex:cites-me",
-    "url": "https://doi.org/10.1007/s00382-026-08356-0",
-    "doi": "10.1007/s00382-026-08356-0",
-    "abstract": "Abstract A collapse of the Atlantic Meridional Overturning Circulation (AMOC) would have strong consequences for the global climate system. Assessing whether the AMOC will collapse in the future is difficult since current Earth System Models (ESMs) have biases. An earlier study using an intermediate complexity Earth system model (EMIC) showed the potential effect of freshwater biases on AMOC stability. However, the used model has a limited ocean model with respect to the used resolution and processes represented compared to ESMs. Here, we supplement the EMIC simulations with simulations of an ocean-only model using the same resolution as is typically used in ESMs. This allows us to study the effect of ocean resolution on the physical mechanism controlling the effect of freshwater biases on AMOC stability. We find that both the intermediate complexity and the ocean-only model behave qualitatively similar. In both models freshwater biases influence AMOC stability where negative (positive) biases in the Indian Ocean tend to stabilize (destabilize) the AMOC, whereas the opposite applies to biases in the Atlantic Ocean. Based on the freshwater biases present in most ESMs, our results suggest that these models have a too stable AMOC and might therefore underestimate the probability of an AMOC collapse under future emission scenarios.",
-    "authors": [
-      "Amber Boot",
-      "Henk A. Dijkstra"
-    ],
-    "is_editorial": false,
-    "abstract_missing": false,
-    "always_include": false,
-    "score_boost": 1.0,
-    "score": 30.0,
-    "matched": [
-      "Atlantic meridional overturning circulation",
-      "AMOC",
-      "overturning circulation",
-      "Earth system model",
-      "Earth system"
-    ],
-    "published": "2026-08-28",
-    "first_seen": "2026-08-30"
   },
   {
     "title": "IODP 3 Expedition 507 “Late Cenozoic Glaciers, LAndscapes, Climates, and Ecosystems of the North Sea (GLACE-NS)” Scientific Prospectus",
@@ -498,6 +436,33 @@
     "first_seen": "2026-09-05"
   },
   {
+    "title": "Late Quaternary fire-induced erosion, impacts and innovations in the southern Levant",
+    "journal": "Geomorphology",
+    "source": "openalex:paleoclimate",
+    "url": "https://doi.org/10.1016/j.geomorph.2026.110514",
+    "doi": "10.1016/j.geomorph.2026.110514",
+    "abstract": "This paper synthesizes regional paleoenvironmental records in order to evaluate the role of fires and associated erosion during two critical Late Quaternary intervals: the last interglacial (MIS 5e, ~129–116 ka), dominated by natural climatic forcing, and the early Holocene (~11–7 ka), when human activity became increasingly significant. The evidence includes micro-charcoal concentrations, speleothem carbon and strontium isotopes, pollen records, lacustrine and alluvial sediments, and archaeological data from the Dead Sea–Jordan Valley system and the Mediterranean hills and coast. Both periods exhibit pronounced peaks in micro-charcoal abundance synchronous with major indicators of vegetation loss and hillslope soil erosion. During MIS 5e, extreme climatic instability was experienced, with intense lightning-ignited wildfires. These fires coincided with soil stripping, elevated δ 13 C values indicating loss of C3 vegetation, enhanced detrital input to the valleys, and widespread geomorphic instability. A similar but lower-magnitude fire–erosion cascade occurred during the early Holocene, peaking around ~9.5 ka. Although limited anthropogenic burning during the Neolithic cannot be excluded, the spatial extent, synchronicity, and proxy evidence indicate predominantly climatic control, linked to orbital forcing and incursions of dry thunderstorms. Hillslope erosion during both intervals was accompanied by large-scale redeposition of eroded soils in valley bottoms, forming thick alluvial fans and floodplain deposits. During the Neolithic period, such redeposited soils provided favorable conditions for early agriculture and coincided with the concentration of large Neolithic settlements in the Jordan Valley, while contemporaneous abandonment took place in upland areas. It is proposed that Neolithic communities, observing fire-baked clay in recently deposited valley sediments, may have derived the concept of ceramic firing — termed here the ‘natural kiln hypothesis’.",
+    "authors": [
+      "Amos Frumkin"
+    ],
+    "is_editorial": false,
+    "abstract_missing": false,
+    "always_include": false,
+    "score_boost": 0.0,
+    "score": 24.0,
+    "matched": [
+      "interglacial",
+      "last interglacial",
+      "orbital forcing",
+      "MIS stage",
+      "Holocene",
+      "Quaternary",
+      "proxy"
+    ],
+    "published": "2026-09-01",
+    "first_seen": "2026-09-07"
+  },
+  {
     "title": "Dry snow initialization and densification over the Greenland and Antarctic ice sheets in the ORCHIDEE land surface model",
     "journal": "The Cryosphere",
     "source": "rss:tc",
@@ -755,6 +720,35 @@
     ],
     "published": "2026-09-04",
     "first_seen": "2026-09-06"
+  },
+  {
+    "title": "Refreezing variability in the Greenland Ice Sheet firn zone and its response to extreme melt events",
+    "journal": "Advances in Climate Change Research",
+    "source": "openalex:cryosphere",
+    "url": "https://doi.org/10.1016/j.accre.2026.08.015",
+    "doi": "10.1016/j.accre.2026.08.015",
+    "abstract": null,
+    "authors": [
+      "Xin-Meng CHEN",
+      "Ding Ming-hu",
+      "Wei-Jun SUN",
+      "Yuzhe Wang",
+      "Lei WANG",
+      "Hong-Min AN",
+      "Bao-Juan HUAI"
+    ],
+    "is_editorial": false,
+    "abstract_missing": true,
+    "always_include": false,
+    "score_boost": 0.0,
+    "score": 16.0,
+    "matched": [
+      "ice sheet",
+      "Greenland",
+      "firn"
+    ],
+    "published": "2026-09-01",
+    "first_seen": "2026-09-07"
   },
   {
     "title": "Radiative and Dynamical Controls on the Land-Ocean Warming Contrast in Climate Models",
@@ -1184,32 +1178,28 @@
     "first_seen": "2026-09-03"
   },
   {
-    "title": "Topo-climatic controls on rock glacier chronology since Lateglacial period in the northwestern part of Mattertal, Swiss Alps, reconstructed by TCN dating",
-    "journal": "Geomorphology",
-    "source": "openalex:paleoclimate",
-    "url": "https://doi.org/10.1016/j.geomorph.2026.110502",
-    "doi": "10.1016/j.geomorph.2026.110502",
-    "abstract": "Postglacial evolution of landscapes in the Alps have evolved under a combination of glacial, paraglacial and periglacial processes in response to climate change. This study aims to reconstruct the timing and activity of rock glaciers (RGs) since the Lateglacial period in five tributary catchments of Mattertal, Swiss Alps, based on 10 Be ages collected from relict, inactive and active RGs, roche moutonnées and moraines. These 10 Be ages show that the RGs followed different histories between and within the catchments depending on the size and elevation of the catchment, deglaciation history, aspect and slope. In low elevation catchments (top elevation ~2900 m a.s.l.) RGs developed already after Gschnitz cold stage (17–16 ka), but reduced debris supply from small rockwalls led to stabilization of the RGs before or during the Younger Dryas (YD). In middle elevation catchments (top elevation ~3200 m a.s.l.) large rock failures during the deglaciation after YD promoted rapid advances of RGs, which were stabilized in the early Holocene warm period or are still active in accordance with the elevation, aspect and debris supply. In high elevation catchments (top elevation ~3500 m a.s.l.) wide occupation of glaciers prevented an exposure of rockwalls over the postglacial period, resulting in the lack of RGs, but deglaciation on south-facing slopes in the early Holocene may have promoted the development of RGs that were later overridden by the LIA glaciers. These findings contribute to the discussion on the transition from deglaciation to RGs, or the future response of RGs to climate change.",
+    "title": "Development and testing of ensemble-variational data assimilation capabilities for radar data within JEDI coupled with FV3-LAM model",
+    "journal": "Geoscientific Model Development",
+    "source": "rss:gmd",
+    "url": "https://doi.org/10.5194/gmd-19-8213-2026",
+    "doi": "10.5194/gmd-19-8213-2026",
+    "abstract": "This study develops and tests new methods to improve weather forecasts by using radar observations within a modern data assimilation system called the Joint Effort for Data Assimilation Integration. The approach combines information from radar measurements and computer models to better describe storms. Tests with a major U.S. storm show improved prediction of rainfall and storm structure.",
     "authors": [
-      "Takaya Kizuki",
-      "Norikazu Matsuoka",
-      "Atsushi Ikeda",
-      "Yuki Matsushi",
-      "Hiroyuki Matsuzaki"
+      "Jun Park",
+      "Chengsi Liu",
+      "Ming Xue"
     ],
     "is_editorial": false,
     "abstract_missing": false,
-    "always_include": false,
+    "always_include": true,
     "score_boost": 0.0,
-    "score": 10.0,
+    "score": 11.0,
     "matched": [
-      "glacier",
-      "deglaciation",
-      "Holocene",
-      "climate change"
+      "data assimilation",
+      "ensemble"
     ],
-    "published": "2026-08-26",
-    "first_seen": "2026-08-30"
+    "published": "2026-09-07",
+    "first_seen": "2026-09-07"
   },
   {
     "title": "Delayed Tropospheric Response over the East Asia–Northwest Pacific Sector to Arctic Stratospheric Polar Vortex Intensity Anomalies",
@@ -1618,6 +1608,35 @@
     "first_seen": "2026-09-06"
   },
   {
+    "title": "Radiocarbon and Stable Carbon Isotopes Constrain Rapid Mixing and Deep Meltwater Influence on Dissolved Inorganic Carbon in an Arctic Fjord",
+    "journal": "JGR Oceans",
+    "source": "rss:jgr-oceans",
+    "url": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2026JC024298?af=R",
+    "doi": "10.1029/2026jc024298",
+    "abstract": "Journal of Geophysical Research: Oceans, Volume 131, Issue 9, September 2026.",
+    "authors": [
+      "Ling Fang",
+      "Sunmin Oh",
+      "Agneta Fransson",
+      "Melissa Chierici",
+      "Jeomshik Hwang",
+      "Eun Jin Yang",
+      "Minkyoung Kim"
+    ],
+    "is_editorial": false,
+    "abstract_missing": false,
+    "always_include": false,
+    "score_boost": 0.0,
+    "score": 10.0,
+    "matched": [
+      "Arctic",
+      "meltwater",
+      "radiocarbon"
+    ],
+    "published": "2026-09-07",
+    "first_seen": "2026-09-07"
+  },
+  {
     "title": "Added value of dynamical downscaling in sub-seasonal tropical cyclone forecast",
     "journal": "arXiv physics.ao-ph",
     "source": "rss:arxiv-ao-ph",
@@ -1641,6 +1660,35 @@
     ],
     "published": "2026-09-04",
     "first_seen": "2026-09-04"
+  },
+  {
+    "title": "Disentangling Internal and Forced Climate Variability with Convolutional Neural Networks using Multivariate Fields",
+    "journal": "arXiv physics.ao-ph",
+    "source": "rss:arxiv-ao-ph",
+    "url": "https://arxiv.org/abs/2609.05359",
+    "doi": null,
+    "abstract": "arXiv:2609.05359v1 Announce Type: new Abstract: Long-term climate data exhibit variations composed of internal and forced components. Internal variability arises from natural processes that could occur within a stable climate. Forced variability, on the other hand, reflects climate changes induced, for example, by anthropogenic greenhouse gas and aerosol emissions. Accurately distinguishing between these types of variability is crucial for attributing climate fluctuations and understanding internal variability processes and impacts. In this study, we apply a U-Net convolutional network, a model commonly used in computer vision, to separate forced and internal climate variability from 1950 to 2022 using a multi-model dataset. The dataset includes multiple fields from five single-model initial-condition large ensembles. Cross-validation is conducted by training the U-Net using the data from the ensembles of four models, leaving out the data from one model to assess performance. Validation results yield errors ranging from 0.1{\\deg}C to 0.4{\\deg}C for the forced variability of local-scale monthly surface air temperature, which is no more than half the magnitude of external forcing. The U-Net achieves better performance than a simple approach based on a fourth-order polynomial trend for estimating forced variability. The error is mainly due to insufficient sampling and poor agreement among the models, as the U-Net underestimates the warming for the model with the highest transient climate sensitivity during validation. Performance is lower for variables like sea-level pressure and precipitation because of their low ratio of forced to internal variability. This framework might be enhanced by incorporating a larger multi-model dataset in the training and validation.",
+    "authors": [
+      "Guillaume Gastineau",
+      "Elena Provenzano",
+      "Constantin B\\^one",
+      "Nicolas Lebas",
+      "Robert C. J. Wills"
+    ],
+    "is_editorial": false,
+    "abstract_missing": false,
+    "always_include": false,
+    "score_boost": 0.0,
+    "score": 9.0,
+    "matched": [
+      "sea level",
+      "climate sensitivity",
+      "greenhouse gas",
+      "ensemble",
+      "neural network"
+    ],
+    "published": "2026-09-07",
+    "first_seen": "2026-09-07"
   },
   {
     "title": "Ice-thickness based scaling of wave attenuation in sea ice: Application and assessment of wave spectra",
@@ -1943,97 +1991,29 @@
     "first_seen": "2026-09-06"
   },
   {
-    "title": "Advanced hyperspectral snow and glacier classification using fully connected autoencoders",
-    "journal": "Scientific Reports",
-    "source": "openalex:cryosphere",
-    "url": "https://doi.org/10.1038/s41598-026-67309-z",
-    "doi": "10.1038/s41598-026-67309-z",
-    "abstract": "The accurate classification of snow and glacier surface features is essential for glacier monitoring, mass balance estimation, melt-runoff modeling, and climate impact assessment in high-mountain regions. Hyperspectral imagery provides rich spectral information that enables fine discrimination of materials with similar appearances, which multispectral data often cannot achieve due to broader bands. However, challenges such as high dimensionality, class imbalance, limited labeled data, and spectral similarity between transitional facies limit the effectiveness of traditional methods. This study applies a class-specific Fully Connected Deep Autoencoder (FCDAE) framework for pixel-wise classification of seven snow and glacier endmembers such as Clean Snow, Dirty Glacier Ice, Firn, Glacier Ice, Ice Mixed Debris, Waterbody, and Non-Snow using EO-1 Hyperion data from the North-Western Himalayas. The approach integrates field-collected spectral signatures with image-derived endmembers and trains independent Autoencoders per class based on reconstruction error. The proposed FCDAE achieved an overall accuracy of 97.47%, Kappa coefficient of 0.96, and F1-score of 0.97 on the held-out test set, outperforming traditional machine learning baselines (Random Forest (RF): 95.74%, Support Vector Machines (SVM): 88.79%). These results highlight the effectiveness of reconstruction-based deep learning for hyperspectral snow and glacier feature classification in data-scarce, spectrally complex Himalayan environments.",
-    "authors": [
-      "Naillah Gul",
-      "Syed Zubair Ahmad Shah",
-      "Mohd Anul Haq",
-      "Riyaz Ahmad Mir",
-      "Assif Assad",
-      "Tayyab Khan",
-      "Abdulatif Alabdulatif"
-    ],
-    "is_editorial": false,
-    "abstract_missing": false,
-    "always_include": false,
-    "score_boost": 0.0,
-    "score": 7.0,
-    "matched": [
-      "glacier",
-      "firn",
-      "machine learning"
-    ],
-    "published": "2026-08-28",
-    "first_seen": "2026-08-30"
-  },
-  {
-    "title": "Tracking Variability in Atmospheric, Oceanic, and Riverine Inputs to the Iberian Margin Over the Last 250 kyr",
-    "journal": "Paleoceanography and Paleoclimatology",
+    "title": "Anomalous thermocline warming in the western North Atlantic Subtropical Gyre during Marine Isotope Stage 8",
+    "journal": "Palaeogeography Palaeoclimatology Palaeoecology",
     "source": "openalex:paleoclimate",
-    "url": "https://doi.org/10.1029/2026pa005431",
-    "doi": "10.1029/2026pa005431",
-    "abstract": "Abstract The Iberian Margin provides an exceptional archive of climate variability due to its high sedimentation rates. However, uncertainties persist regarding the provenance of terrigenous detrital sediments on the Iberian Margin, and the climate‐driven changes in their source areas and transport processes. By integrating clay mineralogy with grain‐size data and end‐member modeling for IODP Site U1588 sediments, we characterize terrigenous detrital inputs to the southwestern Iberian Margin and reconstruct their orbital‐scale variations over the last ∼250 kyr. Three sources of sediment supply are identified. (I) Fine‐grained Iberian riverine inputs: rich in smectite (61%) and poor in kaolinite (7%) and chlorite (7%); (II‐A) Saharan dust: rich in illite (49%) with low kaolinite and smectite, consistent with the silt‐sized mode; (II‐B) Sahelian dust: richest in kaolinite (22%) with high smectite, reflecting additional aeolian source; and (III) Mediterranean Outflow Water‐transported particles: rich in chlorite (22%) with intermediate levels of other clay minerals, co‐varying with the sortable‐silt fraction. Our end‐member modeling results indicate North African dust as a major source for Iberian Margin sediments, as supported by spatiotemporal variations in the illite/kaolinite (I/K) ratio. Illite mineralogy further reveals a marked contrast across the glacial‐interglacial cycles. Relative to the last glacial cycle (∼130–0 ka), the penultimate cycle (∼250–130 ka) shows higher illite contents and I/K ratios, weaker chemical weathering, and pronounced precessional cyclicity. This contrast suggests a long‐term contraction of North African dust sources, expressed as reduced Saharan input during the last glacial cycle, and likely caused by a northward displacement of the Intertropical Convergence Zone.",
+    "url": "https://doi.org/10.1016/j.palaeo.2026.114198",
+    "doi": "10.1016/j.palaeo.2026.114198",
+    "abstract": null,
     "authors": [
-      "Xinyang Chen",
-      "Jiawang Wu",
-      "Li Wu",
-      "Zhifei Liu",
-      "Yiming Luo",
-      "Carlos A. Alvarez Zarikian",
-      "Stefanie Kaboth‐Bahr",
-      "Fangjingcheng Zhu",
-      "Chuang Xuan",
-      "Paul A. Wilson",
-      "Christophe Colin",
-      "Guohui Gao",
       "Xiaolei Pang",
-      "Jimin Yu",
-      "C.T. Pallone",
-      "Jerry F McManus",
-      "Fatima F Abrantes",
-      "David A. Hodell"
+      "Antje H L Voelker",
+      "Haowen Dang",
+      "Sihua Lü",
+      "Xuan Ding"
     ],
     "is_editorial": false,
-    "abstract_missing": false,
+    "abstract_missing": true,
     "always_include": false,
     "score_boost": 0.0,
-    "score": 7.0,
+    "score": 8.0,
     "matched": [
-      "interglacial",
-      "glacial cycle"
+      "marine isotope stage"
     ],
-    "published": "2026-08-29",
-    "first_seen": "2026-08-30"
-  },
-  {
-    "title": "Weather anomalies as a factor of agroclimatic risks for Ukraine’s agriculture under climate change",
-    "journal": "Agricultural science and practice",
-    "source": "openalex:cites-me",
-    "url": "https://doi.org/10.15407/agrisp13.02.034",
-    "doi": "10.15407/agrisp13.02.034",
-    "abstract": "Aim. To identify the characteristics of weather anomalies in Ukraine in the context of current climate change and to assess the associated agroclimatic risks to agriculture, using the weather conditions of 2025 as an example. Materials and methods. The analysis was conducted based on daily observational data from Ukraine’s national hydrometeorological observation network for 2025 and the climatological norm for key meteorological factors for 1991–2020. The study covers the western, central, and northern regions of Ukraine, as well as the Odesa and Mykolaiv regions. The areas where observations were not conducted or were conducted irregularly due to temporary occupation or war hostilities (which made it impossible to form continuous data series) were excluded from the study. Monthly weather reviews from the Ukrainian Hydrometeorological Center were used to analyze hazardous meteorological events. Spatiotemporal specificities and seasonal variability of indicators in 2025 were identified using climatological, statistical, and spatial analysis methods. The agricultural impacts of weather anomalies were assessed by comparing the obtained results with data from JRC MARS (Ben Aoun et al., 2025a, 2025b) on crop conditions and yields in Ukraine and Europe, as well as with global assessments by the FAO (FAO, 2025) regarding the impact of climate extremes on agrofood systems. Results. In Ukraine, 2025 ranked among the five warmest years since 1961; the annual average air temperature across most of the country was 1–2°C above the norm. Particularly pronounced were the rise in minimum temperatures, the decrease in the number of frost days, and the increase in tropical nights. Precipitation patterns were characterized by an overall deficit and sharp spatiotemporal heterogeneity. The most significant factors for agricultural production were insufficient winter moisture accumulation, the early resumption of growing after an abnormally warm March, three cold spells in April, a cold and wet May, summer heat, and a prolonged precipitation deficit in the south and east, as well as excessive July precipitation in the west. This combination of factors reduced the yield potential of winter crops in arid regions, created a risk of damage to rapeseed, fruit, and vegetable crops from late frosts, deteriorated conditions for the development of corn, sunflower, and soybean crops in the south and east, and complicated the harvest and reduced the quality of grain and rapeseed in the western regions. At the same time, sufficient moisture conditions in the northern and western regions supported the potential of summer crops. Conclusions. Weather conditions in 2025 demonstrated that, for Ukraine’s agriculture, climate risk is determined not only by general atmospheric warming but, above all, by a combination of drought, heat, late cold spells, and localized waterlogging during critical phases of crop development. Spatial contrasts in agrometeorological conditions are increasing, which heightens the need for regionalized climate services, early warning systems, adaptive crop and variety selection, optimization of fieldwork schedules, and soil moisture management.",
-    "authors": [
-      "Vira Balabukh",
-      "H. P. Dovhal",
-      "I. V. Semeniuk",
-      "S. M. Yahodynets"
-    ],
-    "is_editorial": false,
-    "abstract_missing": false,
-    "always_include": false,
-    "score_boost": 1.0,
-    "score": 7.0,
-    "matched": [
-      "climate extreme",
-      "climate change"
-    ],
-    "published": "2026-08-28",
-    "first_seen": "2026-08-30"
+    "published": "2026-09-01",
+    "first_seen": "2026-09-07"
   },
   {
     "title": "Predictability of summertime diurnal winds over ungauged mountain glaciers",
@@ -2559,32 +2539,6 @@
     "first_seen": "2026-09-05"
   },
   {
-    "title": "Hydroclimatic controls on glacier mass balance in the Gangotri region, western Himalaya: a multi-temporal geodetic assessment",
-    "journal": "Hydrological Sciences Journal",
-    "source": "openalex:cryosphere",
-    "url": "https://doi.org/10.1080/02626667.2026.2716791",
-    "doi": "10.1080/02626667.2026.2716791",
-    "abstract": "Glaciers in the Gangotri region have experienced sustained retreat and mass loss, raising concerns for regional water security. This study presents a multi-temporal geodetic mass-balance assessment of 302 glaciers in the Gangotri region for 2002–2019. Advanced Spaceborne Thermal Emission and Reflection Radiometer-derived digital elevation models, Inter-mission Time Series of Land Ice Velocity and Elevation glacier velocity data, and European Centre for Medium-Range Weather Forecasts Reanalysis v5-Land data were integrated to quantify glacier mass loss, elevation change, ice-surface velocity, and climatic variability. Results indicate a cumulative loss of −4.65 ± 0.03 m w.e. with massloss rates increasing from −0.29 ± 0.03 to −0.42 ± 0.03 m w.e. a−1. The massloss coincided with generally warmer climatic conditions and highly variable precipitation over the region. Higher-elevation glaciers showed lower losses, while declining ice velocities indicate possible dynamic adjustment, interpreted cautiously given known data limitations. These findings support continued glacier monitoring and water-resource assessment.",
-    "authors": [
-      "Harsh Jha",
-      "Atanu Bhattacharya",
-      "Ankita Paul",
-      "Susmita Ghosh"
-    ],
-    "is_editorial": false,
-    "abstract_missing": false,
-    "always_include": false,
-    "score_boost": 0.0,
-    "score": 6.0,
-    "matched": [
-      "glacier",
-      "mass loss",
-      "reanalysis"
-    ],
-    "published": "2026-08-28",
-    "first_seen": "2026-08-30"
-  },
-  {
     "title": "A Spray-Mediated Surface Turbulent Heat Flux Dataset for the Southern Ocean",
     "journal": "Earth System Science Data",
     "source": "rss:essd",
@@ -2826,6 +2780,69 @@
     "first_seen": "2026-09-03"
   },
   {
+    "title": "Advancing Subseasonal Forecasting with Machine Learning",
+    "journal": "arXiv physics.ao-ph",
+    "source": "rss:arxiv-ao-ph",
+    "url": "https://arxiv.org/abs/2604.16238",
+    "doi": null,
+    "abstract": "arXiv:2604.16238v3 Announce Type: replace-cross Abstract: Decision-makers rely on weather forecasts to plant crops, manage wildfires, allocate water and energy, and prepare for weather extremes. Today, such forecasts enjoy unprecedented accuracy out to two weeks thanks to steady advances in physics-based dynamical models and data-driven artificial intelligence (AI) models. However, model skill drops precipitously at subseasonal timescales (2 - 6 weeks ahead), due to compounding errors, systemic model biases, and the chaotic nature of the atmosphere. To counter this degradation, we introduce probabilistic bias correction (PBC), a machine learning framework that substantially reduces systematic error by learning to correct historical probabilistic forecasts. When applied to the leading dynamical and AI models from the European Centre for Medium-Range Weather Forecasts (ECMWF), PBC doubles the modest subseasonal skill of the AI Forecasting System and improves the skill of the operationally-debiased dynamical model for 91% of pressure, 92% of temperature, and 98% of precipitation targets. We designed PBC for operational deployment, and, in ECMWF's 2025 real-time forecasting competition, its global forecasts placed first for all weather variables and lead times, outperforming the dynamical models from six operational forecasting centers, an international dynamical multi-model ensemble, ECMWF's AI Forecasting System, and the forecasting systems of 34 teams worldwide. These probabilistic skill gains translate into more accurate prediction of extreme events and have the potential to improve agricultural planning, energy management, and disaster preparedness in vulnerable communities.",
+    "authors": [
+      "Hannah Guan",
+      "Soukayna Mouatadid",
+      "Paulo Orenstein",
+      "Judah Cohen",
+      "Haiyu Dong",
+      "Zekun Ni",
+      "Jeremy Berman",
+      "Genevieve Flaspohler",
+      "Alex Lu",
+      "Jakob Schloer",
+      "Joshua Talib",
+      "Jonathan A. Weyn",
+      "Lester Mackey"
+    ],
+    "is_editorial": false,
+    "abstract_missing": false,
+    "always_include": false,
+    "score_boost": 0.0,
+    "score": 6.0,
+    "matched": [
+      "ensemble",
+      "machine learning",
+      "extreme event"
+    ],
+    "published": "2026-09-07",
+    "first_seen": "2026-09-07"
+  },
+  {
+    "title": "Intensive land use reduced global vegetation stability over the past two millennia",
+    "journal": "Communications Earth & Environment",
+    "source": "openalex:paleoclimate",
+    "url": "https://doi.org/10.1038/s43247-026-04032-7",
+    "doi": "10.1038/s43247-026-04032-7",
+    "abstract": "Abstract The stability of vegetation regimes—the temporal persistence of plant assemblages—has fluctuated markedly since the last deglaciation. While climate is the primary driver of long-term vegetation dynamics, the effects of human land use change remain less clear. Here, we analyze global vegetation regime stability over the past 15,000 years using fossil pollen records and assess the impacts of land use type and intensification. Vegetation stability declined during the climatically variable deglaciation, increased in the early to middle Holocene when climate variability dropped, but declined sharply over the past 2000 years despite no increase in climate variability, with continent-specific differences in timing. Intensive agriculture and urbanism had the strongest negative effects on vegetation stability, followed by extensive agriculture and pastoralism, whereas foraging, hunting, gathering, and fishing had minimal impact. These findings suggest that recent declines in vegetation stability are linked to intensified human land use, highlighting the need to conserve natural land less intensively managed ecosystems.",
+    "authors": [
+      "Yue Wang",
+      "Gang Xie",
+      "Zhe Meng",
+      "Jinrui Zhang",
+      "Philip Buckland",
+      "Jenny L. McGuire",
+      "John W. Williams"
+    ],
+    "is_editorial": false,
+    "abstract_missing": false,
+    "always_include": false,
+    "score_boost": 0.0,
+    "score": 6.0,
+    "matched": [
+      "deglaciation",
+      "Holocene"
+    ],
+    "published": "2026-09-05",
+    "first_seen": "2026-09-07"
+  },
+  {
     "title": "Assessment of Flood Events over India and Its Core Monsoon Zone in CMIP6 Framework",
     "journal": "Proceedings of the National Academy of Sciences India Section A Physical Sciences",
     "source": "openalex:cites-me",
@@ -2928,60 +2945,6 @@
     ],
     "published": "2026-09-01",
     "first_seen": "2026-09-06"
-  },
-  {
-    "title": "Quantifying permeability in bidisperse granular media through sequential homogenisation",
-    "journal": "Journal of Fluid Mechanics",
-    "source": "openalex:paleoclimate",
-    "url": "https://doi.org/10.1017/jfm.2026.11939",
-    "doi": "10.1017/jfm.2026.11939",
-    "abstract": "Bulk permeability controls pore pressure build-up in a granular material and thereby the hydrological conditions under which it deforms. The resulting deformation, in turn, alters pore geometry and consequently the material’s permeability. When simulating deformation, models often update a material’s permeability using parametrisations developed for idealised materials consisting of approximately equisized grains. However, real Earth materials often have wide grain-size distributions with several distinct modes. Here, we derive a model to estimate bulk permeabilities for bidisperse granular materials based on their wide, bimodal grain-size distributions, making progress towards bridging the gap between idealised and Earth materials. By combining direct numerical simulations to simulate pore-scale Stokes flows with sequential homogenisation to exploit the scale-separation among many grain-size modes, we compute flow fields consistent with pore-scale physics with high computational efficiency. We identify when existing techniques for estimating permeability meet their limitations. We validate our model against laboratory measurements of permeability for a two-component mixture of idealised glass beads and sands with scale-separated grain sizes, producing estimates of permeability with quantified variability. We then test our model against laboratory measurements of permeability for subglacial sediments, achieving high accuracy without specific calibration. Our work provides a practical tool to estimate permeability in the presence of deformation for Earth materials using grain-size distributions as an invariant.",
-    "authors": [
-      "Ian Madden",
-      "Dougal Hansen",
-      "Lucas Zoet",
-      "Jenny Suckale"
-    ],
-    "is_editorial": false,
-    "abstract_missing": false,
-    "always_include": false,
-    "score_boost": 0.0,
-    "score": 4.0,
-    "matched": [
-      "subglacial"
-    ],
-    "published": "2026-08-25",
-    "first_seen": "2026-08-30"
-  },
-  {
-    "title": "Lifecycle-Resolved Responses of Sea Surface Temperature to Tropical Cyclones over the Western North Pacific",
-    "journal": "Journal of Climate",
-    "source": "openalex:0894-8755",
-    "url": "https://doi.org/10.1175/jcli-d-26-0186.1",
-    "doi": "10.1175/jcli-d-26-0186.1",
-    "abstract": "Abstract Sea surface temperature (SST) responses induced by tropical cyclones (TCs) represent important ocean feedback that modulates subsequent TC development, yet their evolution relative to TC lifecycle remains insufficiently quantified. Most previous studies examine SST responses using fixed temporal windows or intensity-centered snapshots, which obscure the continuous evolution of ocean responses along the TC track. Here we investigate the lifecycle-resolved SST responses to 461 TCs (2002–2024) over the western North Pacific using satellite observations and a normalized track-relative projection. Normalizing lifespans to a unit coordinate enables consistent SST evolution comparisons across TCs with diverse durations and translation characteristics. Composite analyses reveal a robust and systematic cold wake evolution across four TC groups categorized by intensities and translation directions. Maximum SST cooling consistently lags the TC center by 10–16% of the normalized lifecycle. Stronger and northward-moving TCs generate larger cooling magnitudes and more compact cold wakes, whereas westward-moving TCs produce weaker cooling patterns. Sensitivity analyses further show that the cooling magnitude is modulated by TC size, translation speed, and season, but the main spatial pattern remains robust. SST cooling also exhibits a persistent right-of-track asymmetry associated with stronger wind stress and inertial ocean responses. The magnitude and structure of the cooling further depend on upper-ocean stratification and surface wave conditions. These results provide a lifecycle-based framework for characterizing TC-induced ocean feedback and improving representation of air-sea coupling in climate models and TC prediction systems under climate change scenarios.",
-    "authors": [
-      "Kang Sun",
-      "Xia Ju",
-      "Guihua Wang",
-      "Ruibin Ding",
-      "Hailun He",
-      "Zheng Ling",
-      "Yongzeng Yang",
-      "Ruitong Su",
-      "Jia Sun"
-    ],
-    "is_editorial": false,
-    "abstract_missing": false,
-    "always_include": false,
-    "score_boost": 0.0,
-    "score": 4.0,
-    "matched": [
-      "sea surface temperature",
-      "climate change"
-    ],
-    "published": "2026-08-28",
-    "first_seen": "2026-08-30"
   },
   {
     "title": "Excessive Negative Surface Heat Flux Feedback in CMIP6 Models",
@@ -3553,6 +3516,58 @@
     ],
     "published": "2026-09-01",
     "first_seen": "2026-09-05"
+  },
+  {
+    "title": "Assessment of Tropical Cyclones Over the Australian Region From Downscaled CORDEX‐CMIP6 Simulations",
+    "journal": "JGR Atmospheres",
+    "source": "rss:jgr-atmospheres",
+    "url": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2026JD047231?af=R",
+    "doi": "10.1029/2026jd047231",
+    "abstract": "Journal of Geophysical Research: Atmospheres, Volume 131, Issue 17, 16 September 2026.",
+    "authors": [
+      "Xiaocheng YU",
+      "Jozef Syktus",
+      "Ralph Trancoso",
+      "Sarah Chapman"
+    ],
+    "is_editorial": false,
+    "abstract_missing": false,
+    "always_include": false,
+    "score_boost": 0.0,
+    "score": 4.0,
+    "matched": [
+      "CMIP"
+    ],
+    "published": "2026-09-05",
+    "first_seen": "2026-09-07"
+  },
+  {
+    "title": "Q‐GlaRe+: An Open‐Source Framework for Palaeoglacier Reconstruction and Equilibrium‐Line Altitude Calculation",
+    "journal": "Earth Surface Processes and Landforms",
+    "source": "openalex:cryosphere",
+    "url": "https://doi.org/10.1002/esp.70406",
+    "doi": "10.1002/esp.70406",
+    "abstract": "ABSTRACT Palaeoglacier reconstructions based on geomorphological evidence and present‐day topography are essential for deriving equilibrium‐line altitude (ELA) estimates and making robust palaeoclimatic approximations. Current tools to generate 3D glacier reconstructions and calculate ELAs are dependent on proprietary GIS software platforms and associated licences, limiting accessibility. This study presents Q‐GlaRe+, an open‐source QGIS plugin that implements established flowline‐based algorithms and removes proprietary software barriers whilst maintaining scientific accuracy. The toolset incorporates automated workflow logging that ensures reproducibility of glacier reconstructions. Validation against five Swiss Alpine glaciers with known glacier bed topography demonstrates ice thickness estimates consistent with published modelling benchmarks. ELA estimates closely match existing implementations, confirming comparable performance. By eliminating proprietary software dependencies whilst maintaining scientific accuracy, Q‐GlaRe+ supports a broader community use of glacier reconstruction tools and facilitates open data sharing and reproducible research practices.",
+    "authors": [
+      "Brian Burnham",
+      "Matteo Spagnolo",
+      "Ramón Pellitero",
+      "Yingkui Li",
+      "Iestyn Barr",
+      "Brice R. Rea",
+      "Alexis Kaselouris"
+    ],
+    "is_editorial": false,
+    "abstract_missing": false,
+    "always_include": false,
+    "score_boost": 0.0,
+    "score": 4.0,
+    "matched": [
+      "glacier",
+      "paleoclimate"
+    ],
+    "published": "2026-09-01",
+    "first_seen": "2026-09-07"
   },
   {
     "title": "Wave Propagation in 3‐D Poroelastic Media Accounting for Both Mesoscopic and Global Flow Effects",
@@ -4425,6 +4440,61 @@
     "first_seen": "2026-09-06"
   },
   {
+    "title": "Why Does the Broken Hill Deposit Sit in Resistive Crust? Magnetotelluric Evidence for Metamorphic Decoupling of a World‐Class Mineral System",
+    "journal": "JGR Solid Earth",
+    "source": "rss:jgr-solidearth",
+    "url": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2026JB035666?af=R",
+    "doi": "10.1029/2026jb035666",
+    "abstract": "Journal of Geophysical Research: Solid Earth, Volume 131, Issue 9, September 2026.",
+    "authors": [
+      "Yahya AlQahtani",
+      "Sinan Özaydın",
+      "Vasileios Chatzaras",
+      "Patrice F. Rey",
+      "Tiago Passos"
+    ],
+    "is_editorial": false,
+    "abstract_missing": false,
+    "always_include": false,
+    "score_boost": 0.0,
+    "score": 3.0,
+    "matched": [
+      "solid earth"
+    ],
+    "published": "2026-09-07",
+    "first_seen": "2026-09-07"
+  },
+  {
+    "title": "Impact of extremely high temperature on future photovoltaic power potential over East Asia",
+    "journal": "arXiv physics.ao-ph",
+    "source": "rss:arxiv-ao-ph",
+    "url": "https://arxiv.org/abs/2609.04632",
+    "doi": null,
+    "abstract": "arXiv:2609.04632v1 Announce Type: new Abstract: As global warming intensifies, the frequency and intensity of extremely high temperatures are expected to increase. This will impact the production of photovoltaics (PVs), which are increasingly adopted as an effective alternative to replace fossil fuel-based energy sources and reduce CO2 emissions. Furthermore, extremely high temperature days account for a considerable proportion of days with high PV power potential (PVpot). Therefore, this study investigates changes in PVpot on future extremely high temperature days over East Asia, a region with high greenhouse gas emissions and vulnerability to extreme climatic events. The East Asia-averaged PVpot for extremely high temperature days was estimated to decrease across all scenarios and future periods. The East Asia-averaged PVpot for extremely high temperature days was predicted to decrease more substantially toward the late 21st century, with a larger magnitude of decrease expected under the high-carbon emissions scenario compared to the low-carbon emissions scenario. By the mid-and late 21st century, PVpot for extremely high temperature days was projected to decrease in PV hotspot areas, particularly in the regions of northern China and southern Mongolia, by up to -7.2 %. The signs of PVpot projections vary across sub-regions under summer mean conditions, while on extremely high temperature days, PVpot is consistently expected to decrease in all regions. This suggests that extremely high temperatures further intensify the decrease in PVpot. Moreover, under extremely high-temperature conditions, near-surface air temperature has been identified as the primary driver of projected decreases in PVpot among the climate variables considered; its influence is expected to intensify over time, thereby accelerating PVpot decreases under the high-carbon emissions scenario.",
+    "authors": [
+      "Changyong Park",
+      "Ana Juzbasic",
+      "Dong-Hyun Cha",
+      "Seung-Ki Min",
+      "Joong-Bae Ahn",
+      "Eun-Chul Chang",
+      "Young-Hwa Byun",
+      "Youngeun Choi"
+    ],
+    "is_editorial": false,
+    "abstract_missing": false,
+    "always_include": false,
+    "score_boost": 0.0,
+    "score": 3.0,
+    "matched": [
+      "greenhouse gas",
+      "CO2",
+      "global warming"
+    ],
+    "published": "2026-09-07",
+    "first_seen": "2026-09-07"
+  },
+  {
     "title": "The missing drifts: snow density heterogeneity from wind-packing exacerbates systematic underestimation of deep snow storage from the scale of nivation hollows to mountain ranges",
     "journal": "The Cryosphere",
     "source": "rss:tc",
@@ -4531,29 +4601,6 @@
     ],
     "published": "2026-09-03",
     "first_seen": "2026-09-03"
-  },
-  {
-    "title": "Misrepresentation of Human Climate Fingerprint in DOE Report",
-    "journal": "Earth's Future",
-    "source": "rss:earths-future",
-    "url": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2026EF008831?af=R",
-    "doi": "10.1029/2026ef008831",
-    "abstract": "Earth's Future, Volume 14, Issue 9, September 2026.",
-    "authors": [
-      "Benjamin D. Santer",
-      "Susan Solomon",
-      "David W. J. Thompson",
-      "Qiang Fu",
-      "Andrew E. Dessler"
-    ],
-    "is_editorial": true,
-    "abstract_missing": false,
-    "always_include": false,
-    "score_boost": 0.0,
-    "score": 0.0,
-    "matched": [],
-    "published": "2026-08-30",
-    "first_seen": "2026-08-30"
   },
   {
     "title": "Implementation of predicted rime mass in the bin microphysics scheme DESCAM 3D: evaluation for an idealized squall line system and a heavy snowfall event during ICE-POP 2018",
