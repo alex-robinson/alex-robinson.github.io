@@ -7,7 +7,7 @@ permalink: /publications/
 
 **Summary**
 
-- <a href="#articles">64 scientific articles</a>
+- <a href="#articles">65 scientific articles</a>
 - <a href="#reports">4 peer-reviewed commissioned reports</a>
 - 50+ conference presentations (8 invited)
 
@@ -48,6 +48,10 @@ Scopus profile
 <!-- <h3>In progress</h3> -->
 
 <h3 id="2026">2026</h3>
+
+<p>
+Juarez-Martinez, A., <b>Robinson, A.</b>, Swierczek-Jereczek, J., Blasco, J., Alvarez-Solas, J., and Montoya, M.: Parameterizing tidal-water intrusions in long-term Antarctic ice-sheet projections, The Cryosphere, 20, 5345–5363, https://doi.org/10.5194/tc-20-5345-2026, 2026.
+</p>
 
 <p>
 Kypke, K., Montoya, M., <b>Robinson, A.</b>, Alvarez-Solas, J., Swierczek-Jereczek, J., and Ditlevsen, P.: Chaotic fluctuations in Greenland ice streams limit predictability of ice sheet collapse, Earth Syst. Dynam., 17, 769–794, https://doi.org/10.5194/esd-17-769-2026, 2026.
