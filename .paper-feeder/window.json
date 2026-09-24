@@ -144,39 +144,6 @@
     "first_seen": "2026-09-22"
   },
   {
-    "title": "Complex interplay of forcings drives Indian vegetation and summer monsoon variability during MIS 11",
-    "journal": "Climate of the Past",
-    "source": "rss:cp",
-    "url": "https://doi.org/10.5194/cp-22-1691-2026",
-    "doi": "10.5194/cp-22-1691-2026",
-    "abstract": "We present an unprecedented record of Indian summer monsoon (ISM)-induced vegetation changes for Marine Isotope Stage (MIS) 11, a key interglacial. Site U1446 pollen data and models show that ISM-vegetation shifts stem from an interplay of dominant forcings based on boundary conditions. Insolation is the main driver during MIS 11c interglacial conditions, akin to future scenarios, while ice volume and CO₂ prevail in the glacial inception. Superimposed changes are marked by prominent forest contractions and expansions.",
-    "authors": [
-      "Dulce Oliveira",
-      "Stéphanie Desprat",
-      "Qiuzhen Yin",
-      "Coralie Zorzi",
-      "Zhipeng Wu",
-      "Krishnamurthy Anupama",
-      "Srinivasan Prasad",
-      "Montserrat Alonso-García",
-      "Philippe Martinez"
-    ],
-    "is_editorial": false,
-    "abstract_missing": false,
-    "always_include": false,
-    "score_boost": 0.0,
-    "score": 27.0,
-    "matched": [
-      "interglacial",
-      "glacial inception",
-      "insolation",
-      "marine isotope stage",
-      "MIS stage"
-    ],
-    "published": "2026-09-15",
-    "first_seen": "2026-09-16"
-  },
-  {
     "title": "Analysis of high-resolution basal melt rate in the southernmost end of Amery Ice Shelf",
     "journal": "Geo-spatial Information Science",
     "source": "openalex:cryosphere",
@@ -320,33 +287,6 @@
     "first_seen": "2026-09-21"
   },
   {
-    "title": "Illusory early-warning signals of Greenland Ice Sheet destabilization",
-    "journal": "PNAS",
-    "source": "rss:pnas",
-    "url": "https://www.pnas.org/doi/abs/10.1073/pnas.2623190123?af=R",
-    "doi": "10.1073/pnas.2623190123?af=r",
-    "abstract": "Proceedings of the National Academy of Sciences, Volume 123, Issue 37, September 2026. Interannual variability of surface mass balance over the Greenland Ice Sheet has been increasing, which has been cited as an early-warning signal of ice sheet destabilization under current climatic conditions. A destabilized ice sheet would continue to ...",
-    "authors": [
-      "Alexander A. RobelGrant HollyAminat A. Ambelorunahttps://ror.org/01zkghx44School of Earth",
-      "Atmospheric Sciences",
-      "Georgia Institute of Technology",
-      "Atlanta",
-      "GA 30318"
-    ],
-    "is_editorial": false,
-    "abstract_missing": false,
-    "always_include": false,
-    "score_boost": 0.0,
-    "score": 19.0,
-    "matched": [
-      "ice sheet",
-      "Greenland",
-      "surface mass balance"
-    ],
-    "published": null,
-    "first_seen": "2026-09-16"
-  },
-  {
     "title": "The Cloud Feedback Model Intercomparison Project (CFMIP) contribution to CMIP7",
     "journal": "Geoscientific Model Development",
     "source": "rss:gmd",
@@ -385,28 +325,6 @@
     ],
     "published": "2026-09-18",
     "first_seen": "2026-09-18"
-  },
-  {
-    "title": "Projection, Memory, and the Validity of Scalar Early-Warning Signals: A Schur--Volterra Theory with an AMOC Application",
-    "journal": "arXiv physics.ao-ph",
-    "source": "rss:arxiv-ao-ph",
-    "url": "https://arxiv.org/abs/2609.16235",
-    "doi": null,
-    "abstract": "arXiv:2609.16235v1 Announce Type: cross Abstract: Early-warning signals are usually computed from one or a few observables, although the underlying dynamics are high dimensional. Projection creates a structural ambiguity: the same scalar record may reflect spectral loss of stability, hidden-state memory, nonnormal amplification, a turning point of a physical balance, or a combination of these. We develop a unified operator theory that makes these alternatives explicit. For a resolved-hidden block linearization we derive exact Volterra reductions, finite and diffusive Markovian liftings, and a Schur-resolvent factorization of the stability problem, distinguishing three notions of memory: realized pathwise, structural Schur return, and finite-horizon projected. A covariance theorem gives sufficient conditions for a scalar to inherit critical slowing down from a real multiplier approaching the unit circle: spectral separation, bounded eigenvector conditioning, observability of the critical mode, stochastic excitation of that mode, and quasi-stationary forcing. We then prove failure mechanisms: a critical mode can be invisible or unexcited; an oscillatory crossing need not raise lag-one correlation; a nonnormal family can produce diverging scalar variance with a fixed stable spectrum; a physics-based turning point need not coincide with a spectral boundary; and finite-horizon data cannot identify long memory uniquely. The theory is illustrated with a 4400-year CESM AMOC hysteresis experiment. EOF1 alone detects altered susceptibility, but EOF1-EOF2 is the smallest resolved space revealing changed Schur return and projected memory after recovery; F_ovS reaches its minimum 26 years before collapse while the modal margin does not decrease toward zero: the two diagnostics probe complementary mechanisms. The application is mechanistic and single-trajectory; no validated early-warning signal is claimed.",
-    "authors": [
-      "Mauricio Herrera-Mar\\'in"
-    ],
-    "is_editorial": false,
-    "abstract_missing": false,
-    "always_include": false,
-    "score_boost": 0.0,
-    "score": 18.0,
-    "matched": [
-      "hysteresis",
-      "AMOC"
-    ],
-    "published": "2026-09-16",
-    "first_seen": "2026-09-16"
   },
   {
     "title": "The West Corrib moraine system as evidence for a brief glacial readvance in Ireland during overall Heinrich Stadial 1 deglaciation",
@@ -492,37 +410,6 @@
     ],
     "published": "2026-09-18",
     "first_seen": "2026-09-23"
-  },
-  {
-    "title": "A Self-Diagnosing Structural Error-Aware Parameter Estimation Method for Earth System Models",
-    "journal": "arXiv physics.ao-ph",
-    "source": "rss:arxiv-ao-ph",
-    "url": "https://arxiv.org/abs/2609.16210",
-    "doi": null,
-    "abstract": "arXiv:2609.16210v1 Announce Type: new Abstract: We propose a fully automated, structural error-aware, interpretable climate model parameter estimation method that leverages Perturbed Parameter Ensembles (PPEs). It is based on history matching and aligns with an increasingly-used iterative simulation-emulation-calibration methodology. The method is motivated by the negative impacts of structural error and emulator and observational uncertainties on climate model parameter estimation efforts, as well as the problems associated with sparsely-sampled PPEs. To address these challenges, the method explicitly builds simpler emulators that avoid overfitting, detect structural error, avoids compensating for structural error through inflated mismatch tolerances, and sequentially excludes structurally inconsistent variables for parameter estimation. The method decomposes the high-dimensional calibration problem into linked low-dimensional subproblems, and integrates their constraints to reconstruct the jointly plausible region of the full parameter space. The method is applied to a 100-member PPE with 34 perturbed parameters generated by a version of CAM6 with machine learning-based warm rain microphysics parameterization. Through iterative application, the method greatly reduces the ensemble spread and improves the matching between simulated and observed zonal climatologies. The method also finds ensemble members that outperform the default CAM6 configuration in root mean square error across multiple diagnostics. Controlled experiments demonstrate that overly-conservative emulator uncertainty could lead to neglect of informative observations, and tolerance of the structural error, in the context of this method, biases the estimated parameters toward compensating for structural error. Our work also emphasizes the value of interpretability for diagnosing structural error and informing parameter estimation in PPE-based calibration.",
-    "authors": [
-      "Qingyuan Yang",
-      "Addisu G Semie",
-      "Brian Medeiros",
-      "Gregory S Elsaesser",
-      "Da Fan",
-      "Wayne Chuang"
-    ],
-    "is_editorial": false,
-    "abstract_missing": false,
-    "always_include": false,
-    "score_boost": 0.0,
-    "score": 17.0,
-    "matched": [
-      "Earth system model",
-      "Earth system",
-      "parameterization",
-      "emulator",
-      "ensemble",
-      "machine learning"
-    ],
-    "published": "2026-09-16",
-    "first_seen": "2026-09-16"
   },
   {
     "title": "ClimTip-GML: A global bias-corrected and downscaled dataset for assessing impacts of climate tipping events",
@@ -644,37 +531,6 @@
     ],
     "published": "2026-09-21",
     "first_seen": "2026-09-23"
-  },
-  {
-    "title": "Concurrent daytime and nighttime heatwaves in the late 21st century over the CORDEX-East Asia phase 2 domain using multi-GCM and multi-RCM chains",
-    "journal": "arXiv physics.ao-ph",
-    "source": "rss:arxiv-ao-ph",
-    "url": "https://arxiv.org/abs/2609.16553",
-    "doi": null,
-    "abstract": "arXiv:2609.16553v1 Announce Type: new Abstract: The adverse impacts of extreme heat on human health are greater when concurrent daytime and nighttime heatwaves (CDNHWs) occur than when daytime or nighttime heatwaves occur individually, due to reduced recovery time from heat exposure. This study projects future changes in CDNHWs across East Asia under RCP2.6, RCP8.5, SSP1-2.6, and SSP5-8.5 scenarios. Daily maximum and minimum temperatures are derived from 3-hourly temperatures at 25-km resolution produced by 12 GCM-RCM chains participating in CORDEX-East Asia Phase 2. During the historical period (1981-2005), the East Asian mean CDNHW occurrence period and rate from April to September are 10.9 days and 0.9 percent, respectively. By 2071-2100, they increase to 3 weeks and 3.7 percent under RCP2.6, 2 months and 20.5 percent under RCP8.5, 2 months and 15.6 percent under SSP1-2.6, and 3 months and 45.7 percent under SSP5-8.5. CDNHW intensity and spatial extent also increase substantially. The proportion of CDNHWs lasting more than 10 days increases from 0.2 percent historically to 1.2 percent, 7.2 percent, 6.1 percent, and 17.3 percent under RCP2.6, RCP8.5, SSP1-2.6, and SSP5-8.5, respectively. Particularly large increases in CDNHW occurrence and intensity are projected over Indochina, East and West China, and India. Under continued high greenhouse gas emissions, East Asia is expected to experience unprecedented heat stress as CDNHWs become substantially more frequent and intense by the end of the 21st century.",
-    "authors": [
-      "Young-Hyun Kim",
-      "Joong-Bae Ahn",
-      "Myoung-Seok Suh",
-      "Dong-Hyun Cha",
-      "Eun-Chul Chang",
-      "Seung-Ki Min",
-      "Young-Hwa Byun",
-      "Jin-Uk Kim"
-    ],
-    "is_editorial": false,
-    "abstract_missing": false,
-    "always_include": false,
-    "score_boost": 0.0,
-    "score": 14.0,
-    "matched": [
-      "greenhouse gas",
-      "heat wave",
-      "SSP",
-      "RCP"
-    ],
-    "published": "2026-09-16",
-    "first_seen": "2026-09-16"
   },
   {
     "title": "Automating glacier facies classification: Benchmark dataset and deep learning baseline from pan-European sample",
@@ -950,6 +806,38 @@
     "first_seen": "2026-09-23"
   },
   {
+    "title": "Glaciers fluctuations during the Lateglacial and the Holocene in Georgian Greater Caucasus from 10 Be moraine dating",
+    "journal": "The Holocene",
+    "source": "openalex:paleoclimate",
+    "url": "https://doi.org/10.1177/09596836261477276",
+    "doi": "10.1177/09596836261477276",
+    "abstract": "Glaciers of the Greater Caucasus are sensitive archives of past climate variability, however little is known about their long-term history. In this study we reconstruct the fluctuations of the Shkhara (42°58′23″N 43°6′0″E) and Namkuami (42°57′57″N 43°7′35″E) glaciers, which were coalescent in the past to form one of the largest glaciated body in the Georgian Caucasus located in the upper Enguri River basin. We combine geomorphological mapping and cosmic-ray exposure dating methods (Beryllium-10) applied to a set of 51 samples from 12 moraines. Results show one moraine dated to the Lateglacial at ~16 ka, five Holocene glacial stages dated to ~5.6, ~2.3, ~1.5, ~1.0 ka, and at least three advances during the Little Ice Age (~0.4–0.5 ka). The absence of Early Holocene moraines suggests smaller glacier extent during this period compared to the Mid/Late-Holocene transition, when the oldest and most extensive Holocene moraines were deposited. The reduced size of the Georgian glaciers during the Early Holocene and the multiphased advances during the Late-Holocene is similar to what is observed on the northern slopes of the Russian Caucasus. The reconstructed chronology provides essential temporal constraints for exploring Holocene environmental change and human-climate interactions in the Caucasus, a key region for Neolithic human expansion and subsequent cultural development.",
+    "authors": [
+      "Vincent Jomelli",
+      "Levan Tielidze",
+      "Joanna Charton",
+      "Andrew N. Mackintosh",
+      "Mikheil Elashvili",
+      "Nicolas Acuña Reyes",
+      "Akaki Nadaraia",
+      "Georges Aumaître",
+      "Karim Keddadouche",
+      "Fawzi Zaïdi"
+    ],
+    "is_editorial": false,
+    "abstract_missing": false,
+    "always_include": false,
+    "score_boost": 0.0,
+    "score": 12.0,
+    "matched": [
+      "glacier",
+      "Holocene",
+      "exposure dating"
+    ],
+    "published": "2026-09-22",
+    "first_seen": "2026-09-24"
+  },
+  {
     "title": "A Continuous-Time Ensemble Kalman-Bucy Smoother for Causal Inference and Model Discovery",
     "journal": "arXiv physics.ao-ph",
     "source": "rss:arxiv-ao-ph",
@@ -1037,31 +925,6 @@
     ],
     "published": null,
     "first_seen": "2026-09-23"
-  },
-  {
-    "title": "Quantifying Future Effects of Low‐Frequency Tropical Cyclones and Sea Level Rise Scenarios on Nonlinear Interactions in Total Water Levels",
-    "journal": "Earth's Future",
-    "source": "rss:earths-future",
-    "url": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025EF008033?af=R",
-    "doi": "10.1029/2025ef008033",
-    "abstract": "Earth's Future, Volume 14, Issue 9, September 2026.",
-    "authors": [
-      "Md Shadman Sakib",
-      "David F. Muñoz",
-      "Thomas Wahl",
-      "Jennifer L. Irish"
-    ],
-    "is_editorial": false,
-    "abstract_missing": false,
-    "always_include": false,
-    "score_boost": 0.0,
-    "score": 10.0,
-    "matched": [
-      "sea level",
-      "sea-level rise"
-    ],
-    "published": "2026-09-15",
-    "first_seen": "2026-09-16"
   },
   {
     "title": "Coupled orbital and sea-level forcing on the Pacific Walker Circulation during the past 800 kyrs",
@@ -1277,39 +1140,6 @@
     ],
     "published": "2026-09-22",
     "first_seen": "2026-09-23"
-  },
-  {
-    "title": "Characteristics of glacier surface weathering crust and light-absorbing particles, and their combined impact on glacier albedo at the Potanin Glacier, Mongolia",
-    "journal": "The Cryosphere",
-    "source": "rss:tc",
-    "url": "https://doi.org/10.5194/tc-20-5181-2026",
-    "doi": "10.5194/tc-20-5181-2026",
-    "abstract": "Glacier ice surfaces appear dark due to many light-absorbing particles (LAPs), such as mineral dust, microbial organic matter, and black carbon. In contrast, the development of a weathering crust on bare ice brightens the surface by increasing albedo. Field studies on the Potanin Glacier, Mongolia, defined a low-density surface layer as weathering granular ice. Broad-band albedo increased with this layer’s thickness but decreased with organic matter. High LAP amounts hindered crust growth.",
-    "authors": [
-      "Akiko Sakai",
-      "Kino Kobayashi",
-      "Masato Ono",
-      "Sayako Ueda",
-      "Sho Ohata",
-      "Akira Watanabe",
-      "Kazuo Osada",
-      "Nozomu Takeuchi",
-      "Prevdagva Khalzan",
-      "Sumito Matoba",
-      "Tomonori Tanikawa",
-      "Teruo Aoki"
-    ],
-    "is_editorial": false,
-    "abstract_missing": false,
-    "always_include": true,
-    "score_boost": 0.0,
-    "score": 9.0,
-    "matched": [
-      "glacier",
-      "albedo"
-    ],
-    "published": "2026-09-16",
-    "first_seen": "2026-09-16"
   },
   {
     "title": "Enriching Paleogeographic Reconstruction Through the Integration of Bayesian Age Models Into Site‐Based Apparent Polar Wander Paths",
@@ -1592,56 +1422,50 @@
     "first_seen": "2026-09-23"
   },
   {
-    "title": "Increasing risk of vapor pressure deficit exceeding critical thresholds for tree growth",
-    "journal": "PNAS",
-    "source": "rss:pnas",
-    "url": "https://www.pnas.org/doi/abs/10.1073/pnas.2530363123?af=R",
-    "doi": "10.1073/pnas.2530363123?af=r",
-    "abstract": "Proceedings of the National Academy of Sciences, Volume 123, Issue 37, September 2026. SignificanceRising atmospheric vapor pressure deficit (VPD), a measure of atmospheric dryness, is increasingly recognized as a major threat to terrestrial ecosystems. Using global tree-ring records, we quantify growth-related VPD thresholds beyond which ...",
+    "title": "Divergent deep-sea temperatures in the Pacific and Atlantic during the onset of Antarctic glaciation",
+    "journal": "Nature Geoscience",
+    "source": "rss:ngeo",
+    "url": "https://www.nature.com/articles/s41561-026-02106-x",
+    "doi": "10.1038/s41561-026-02106-x",
+    "abstract": "Nature Geoscience, Published online: 23 September 2026; doi:10.1038/s41561-026-02106-x Deep-sea temperatures in the Pacific Ocean and North Atlantic Ocean responded differently to the expansion of the Antarctic ice sheet at the Eocene–Oligocene transition, according to benthic foraminiferal clumped isotope records.",
     "authors": [
-      "Tiewei LiHans W. ChenDeliang ChenJingfeng XiaoLanlan GuoLianyou LiuFeng ShiWenping YuanZiqian ZhongHuan ZhengBin Heahttps://ror.org/03cve4549Department of Earth System Science",
-      "Tsinghua University",
-      "Beijing 100084",
-      "Chinabhttps://ror.org/040wg7k59Department of Environmental",
-      "Energy Sciences",
-      "Chalmers University of Technology",
-      "Gothenburg SE-412 96",
-      "Swedenchttps://ror.org/03cve4549Institute for Carbon Neutrality",
-      "Tsinghua University",
-      "Beijing 100084",
-      "ChinadEarth Systems Research Center",
-      "Institute for the Study of Earth",
-      "Oceans",
-      "Space",
-      "University of New Hampshire",
-      "Durham",
-      "NH 03824ehttps://ror.org/022k4wk35Faculty of Geographical Science",
-      "Beijing Normal University",
-      "Beijing 100875",
-      "Chinafhttps://ror.org/034t30j35State Key Laboratory of Lithospheric",
-      "Environmental Coevolution",
-      "Institute of Geology",
-      "Geophysics",
-      "Chinese Academy of Sciences",
-      "Beijing 100029",
-      "Chinaghttps://ror.org/02v51f717Institute of Carbon Neutrality",
-      "Sino-French Institute for Earth System Science",
-      "College of Urban",
-      "Environmental Sciences",
-      "Peking University",
-      "Beijing 100871",
-      "China"
+      "Victoria E. Taylor",
+      "Alison M. Piasecki",
+      "Eivind O. Straume",
+      "A. Nele Meckler"
     ],
     "is_editorial": false,
     "abstract_missing": false,
     "always_include": false,
     "score_boost": 0.0,
-    "score": 8.0,
+    "score": 9.0,
     "matched": [
-      "critical threshold"
+      "ice sheet",
+      "Antarctic"
     ],
     "published": null,
-    "first_seen": "2026-09-16"
+    "first_seen": "2026-09-24"
+  },
+  {
+    "title": "PR-Smoother: Simulator-Preserving Non-Gaussian Smoothing for Data Assimilation",
+    "journal": "arXiv physics.ao-ph",
+    "source": "rss:arxiv-ao-ph",
+    "url": "https://arxiv.org/abs/2609.26890",
+    "doi": null,
+    "abstract": "arXiv:2609.26890v1 Announce Type: cross Abstract: Many physical data assimilation (DA) workflows require smoothing methods that represent non-Gaussian posteriors over physical state variables, scale to high-dimensional simulators, train from observation windows alone, and remain compatible with calibration of the prescribed simulator. We introduce PR-Smoother, a simulator-preserving amortized smoother designed for this prescribed-simulator DA regime. Its key design principle is to keep the prescribed simulator explicit in both the evidence lower bound and the variational family: rather than learning replacement dynamics or a learned trajectory prior, PR-Smoother learns only future-conditioned corrections around the prescribed rollout. This yields an explicit non-Gaussian smoothing distribution over physical trajectories and supports joint state, parameter, and sensor-bias learning from observations alone. The variational family contains the exact smoother in deterministic and linear-Gaussian limits. Empirically, PR-Smoother captures multimodal posteriors in 4-dimensional Lorenz-96, remains accurate under ambiguous nonlinear observations and process noise in 40-dimensional Lorenz-96, and scales to joint state-parameter-bias inference in 16,384-dimensional Kolmogorov flow.",
+    "authors": [
+      "Yuta Tarumi"
+    ],
+    "is_editorial": false,
+    "abstract_missing": false,
+    "always_include": false,
+    "score_boost": 0.0,
+    "score": 9.0,
+    "matched": [
+      "data assimilation"
+    ],
+    "published": "2026-09-24",
+    "first_seen": "2026-09-24"
   },
   {
     "title": "Disentangled Fingerprints suggest no historical weakening of Atlantic Overturning and Subpolar Gyre",
@@ -1899,6 +1723,63 @@
     "first_seen": "2026-09-23"
   },
   {
+    "title": "Permafrost Detachment Slides: A Distinct High‐Magnitude Permafrost Mass Wasting Process",
+    "journal": "Geophysical Research Letters",
+    "source": "rss:grl",
+    "url": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2026GL124103?af=R",
+    "doi": "10.1029/2026gl124103",
+    "abstract": "Geophysical Research Letters, Volume 53, Issue 18, 28 September 2026.",
+    "authors": [
+      "J. M. Young",
+      "J. van der Sluijs",
+      "S. V. Kokelj",
+      "S. Gruber",
+      "T. Herring",
+      "A. C. A. Rudy",
+      "A. Alvarez",
+      "D. Froese"
+    ],
+    "is_editorial": false,
+    "abstract_missing": false,
+    "always_include": false,
+    "score_boost": 0.0,
+    "score": 8.0,
+    "matched": [
+      "permafrost"
+    ],
+    "published": "2026-09-23",
+    "first_seen": "2026-09-24"
+  },
+  {
+    "title": "Spatial heterogeneity of bottom-water redox evolution in the western Pacific marginal seas since the last deglaciation",
+    "journal": "Deep Sea Research Part I Oceanographic Research Papers",
+    "source": "openalex:paleoclimate",
+    "url": "https://doi.org/10.1016/j.dsr.2026.104757",
+    "doi": "10.1016/j.dsr.2026.104757",
+    "abstract": null,
+    "authors": [
+      "Chenghui Sun",
+      "Yanguang Dou",
+      "Chi Zhang",
+      "Jingyi Cong",
+      "Yong Zhang",
+      "Xi Mei",
+      "Feng Cai",
+      "Yonghua Wu",
+      "Shouye Yang"
+    ],
+    "is_editorial": false,
+    "abstract_missing": true,
+    "always_include": false,
+    "score_boost": 0.0,
+    "score": 8.0,
+    "matched": [
+      "deglaciation"
+    ],
+    "published": "2026-09-19",
+    "first_seen": "2026-09-24"
+  },
+  {
     "title": "Thermal, Compositional, and Rheological Structures of the Lithosphere Beneath the Changbaishan Volcanic Field and Their Controls on Volcanic Activity",
     "journal": "JGR Solid Earth",
     "source": "rss:jgr-solidearth",
@@ -2112,117 +1993,29 @@
     "first_seen": "2026-09-23"
   },
   {
-    "title": "Evidence for endemism and local adaptation in Antarctic soil bacteria",
-    "journal": "PNAS",
-    "source": "rss:pnas",
-    "url": "https://www.pnas.org/doi/abs/10.1073/pnas.2611373123?af=R",
-    "doi": "10.1073/pnas.2611373123?af=r",
-    "abstract": "Proceedings of the National Academy of Sciences, Volume 123, Issue 37, September 2026. SignificanceAntarctic soils are among the most extreme environments on Earth, yet they host diverse microbial communities whose adaptations are poorly understood. To test whether Antarctic microbes are distinct from those found elsewhere, we examined...",
+    "title": "A systematic review of biomass and carbon stock estimation approaches: Methods, uncertainties, and emerging opportunities",
+    "journal": "PLOS Climate",
+    "source": "rss:plos-climate",
+    "url": "https://journals.plos.org/climate/article?id=10.1371/journal.pclm.0000935",
+    "doi": "10.1371/journal.pclm.0000935",
+    "abstract": "by Annissa Muhammed Ahmedin Accurate quantification of forest biomass and carbon stocks is essential for understanding terrestrial carbon dynamics, climate change mitigation, and improving forest monitoring and greenhouse gas reporting. However, biomass estimation approaches vary considerably in accuracy, scalability, cost, and uncertainty, creating challenges for selecting appropriate methods across ecosystems and spatial scales. This systematic review synthesizes recent advances in forest biomass and carbon stock estimation and evaluates the strengths, limitations, and future directions of major methodological approaches. Following the Preferred Reporting Items for Systematic Reviews and Meta-Analyses framework, 147 peer-reviewed studies published between 2000 and 2025 were reviewed. The studies encompassed field-based measurements, allometric modelling, remote sensing, machine learning, carbon stock models, and integrated multi-source frameworks. The evidence reveals a clear transition from conventional field inventories toward multi-source approaches that integrate ground observations with optical, radar, and Light Detection and Ranging data, advanced modelling, and artificial intelligence. Field measurements and locally calibrated allometric equations remain indispensable for model development and validation, while remote sensing and machine learning enhance spatial coverage and predictive capability. However, estimation accuracy remains strongly influenced by vegetation structure, environmental conditions, data quality, and model transferability. The review demonstrates that no single approach is universally optimal across all ecosystem conditions. Reliable biomass and carbon stock assessments require integrated frameworks that balance accuracy, scalability, cost, and uncertainty through the complementary use of field observations, remote sensing, and advanced modelling techniques. Future research should prioritize expanding biomass reference datasets in underrepresented regions, strengthening model validation and uncertainty quantification, and developing transparent, ecosystem-specific estimation frameworks. Such advances will improve forest carbon accounting, climate mitigation, and evidence-based forest management.",
     "authors": [
-      "Nicholas B. DragoneMary K. ChildressNoah MendezJordan GallettaCaihong VanderburghClifton P. Bueno de MesquitaKristen M. DeAngelisC. Alisha QuandtPok Man LeungChris GreeningByron J. AdamsNoah Fiererahttps://ror.org/02ttsq026Cooperative Institute for Research in Environmental Sciences",
-      "University of Colorado",
-      "Boulder",
-      "CO 80309bhttps://ror.org/02ttsq026Department of Ecology",
-      "Evolutionary Biology",
-      "University of Colorado Boulder",
-      "Boulder",
-      "CO 80309chttps://ror.org/0072zz521Department of Microbiology",
-      "University of Massachusetts Amherst",
-      "Amherst",
-      "MA 01003dhttps://ror.org/02bfwt286Department of Microbiology",
-      "Biomedicine Discovery Institute",
-      "Monash University",
-      "Melbourne",
-      "VIC 3800",
-      "Australiaehttps://ror.org/02bfwt286Securing Antarctica’s Environmental Future",
-      "Monash University",
-      "Melbourne",
-      "VIC 3800",
-      "Australiafhttps://ror.org/047rhhm47Department of Biology",
-      "Evolutionary Ecology Laboratories",
-      "Monte L. Bean Museum",
-      "Brigham Young University",
-      "Provo",
-      "UT 84602"
+      "Annissa Muhammed Ahmedin"
     ],
     "is_editorial": false,
     "abstract_missing": false,
     "always_include": false,
     "score_boost": 0.0,
-    "score": 6.0,
+    "score": 7.0,
     "matched": [
-      "Antarctic"
+      "greenhouse gas",
+      "uncertainty quantification",
+      "machine learning",
+      "remote sensing",
+      "climate change"
     ],
-    "published": null,
-    "first_seen": "2026-09-16"
-  },
-  {
-    "title": "Interval Data Assimilation: A Data Assimilation Scheme Where All Observations Are Intervals",
-    "journal": "JAMES",
-    "source": "rss:james",
-    "url": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2026MS005839?af=R",
-    "doi": "10.1029/2026ms005839",
-    "abstract": "Journal of Advances in Modeling Earth Systems, Volume 18, Issue 9, September 2026.",
-    "authors": [
-      "Le Duc",
-      "Naoki Hiura",
-      "Yohei Sawada"
-    ],
-    "is_editorial": false,
-    "abstract_missing": false,
-    "always_include": false,
-    "score_boost": 0.0,
-    "score": 6.0,
-    "matched": [
-      "data assimilation"
-    ],
-    "published": "2026-09-15",
-    "first_seen": "2026-09-16"
-  },
-  {
-    "title": "A common warming-dependent decline emerges from divergent projections of tropical cyclone frequency",
-    "journal": "arXiv physics.ao-ph",
-    "source": "rss:arxiv-ao-ph",
-    "url": "https://arxiv.org/abs/2609.16521",
-    "doi": null,
-    "abstract": "arXiv:2609.16521v1 Announce Type: new Abstract: How global tropical cyclone frequency will respond to climate warming remains uncertain, with projections spanning both increases and decreases. Here we drive an environment-dependent probabilistic tropical cyclone model with 14 Coupled Model Intercomparison Project Phase 6 (CMIP6) models under intermediate- and high-emissions scenarios. Initially weak global changes evolve into a clearer late-century decline, driven by a strengthening Southern Hemisphere decline and a diminishing Northern Hemisphere increase, and stronger under higher emissions. Counterfactual decomposition shows that this stronger decline is not explained by individual environmental predictors, whose contributions largely offset, but by negative nonlinear interactions among absolute vorticity, vertical wind shear, relative humidity and potential intensity. Across 28 model-scenario projections the frequency trend scales linearly with global warming; conditioning on 2 degrees C narrows the 95% confidence interval from [-20.6%, +9.9%] to [-8.2%, -2.1%]. These results reconcile divergent projections through a common warming-dependent decline.",
-    "authors": [
-      "Cong Gao",
-      "Ning Lin"
-    ],
-    "is_editorial": false,
-    "abstract_missing": false,
-    "always_include": false,
-    "score_boost": 0.0,
-    "score": 6.0,
-    "matched": [
-      "model intercomparison",
-      "CMIP",
-      "global warming"
-    ],
-    "published": "2026-09-16",
-    "first_seen": "2026-09-16"
-  },
-  {
-    "title": "Predictability-Guided Multiscale Probabilistic Forecasting of Wind Direction under Extreme Shear",
-    "journal": "arXiv physics.ao-ph",
-    "source": "rss:arxiv-ao-ph",
-    "url": "https://arxiv.org/abs/2609.16707",
-    "doi": null,
-    "abstract": "arXiv:2609.16707v1 Announce Type: new Abstract: Accurate multi-horizon wind direction forecasting is critical for turbine yaw control and grid security. Rapid directional shear (turning $\\ge 90^\\circ$) challenges models via non-Euclidean geometry on $S^1$, multiscale dynamics, and regime-dependent uncertainty. Conventional discrete models and foundation models suffer from mid-frequency phase lag and turning misalignments. We show that directional predictability decays at disparate rates across frequency subbands, rendering monolithic mechanisms suboptimal. We propose a predictability-guided paradigm: slow synoptic drift $\\to$ deterministic regression; intermediate turning $\\to$ continuous latent differential flows; unresolved turbulence $\\to$ conditional residual diffusion; followed by causal recalibration. On a 10,000-sequence multi-year benchmark, our framework maintains calm-weather accuracy (Test MCE $38.48^\\circ$) while reducing extreme-turning error (Case 1 MCE $60.69^\\circ$ vs $70.42^\\circ$ for zero-shot foundation models). The circular CRPS reaches $22.36^\\circ$, with 93.88\\% coverage at nominal 95\\% (91.01\\% out-of-distribution). Density estimation further reveals near-antipodal bimodal structure under severe shear (13.39\\%--15.43\\% tail mass $\\ge 135^\\circ$), exposing a geometric bound where single-center calibration under-covers (81.56\\%), motivating multimodal circular manifold learning.",
-    "authors": [
-      "Hailong Shu"
-    ],
-    "is_editorial": false,
-    "abstract_missing": false,
-    "always_include": false,
-    "score_boost": 0.0,
-    "score": 6.0,
-    "matched": [
-      "predictability"
-    ],
-    "published": "2026-09-16",
-    "first_seen": "2026-09-16"
+    "published": "2026-09-23",
+    "first_seen": "2026-09-24"
   },
   {
     "title": "Changes of Köppen Climate Zones over China in Simulated Interglacial and Future Warm Intervals",
@@ -2706,6 +2499,104 @@
     "first_seen": "2026-09-23"
   },
   {
+    "title": "Coordinated neural progenitor adaptations contribute to primate neocortical downscaling",
+    "journal": "Science Advances",
+    "source": "rss:sciadv",
+    "url": "https://www.science.org/doi/abs/10.1126/sciadv.aeg5563?af=R",
+    "doi": "10.1126/sciadv.aeg5563?af=r",
+    "abstract": "Science Advances, Volume 12, Issue 39, September 2026.",
+    "authors": [
+      "Lidiia Tynianskaia",
+      "Cesar Mateo Bastidas-Betancourt",
+      "Esther Marie Grewe",
+      "Julia Marie Kniep",
+      "Neringa Liutikaite",
+      "Nesil Esiyok",
+      "İrfan Burak Göloğlu",
+      "Sabrina Heide",
+      "Nancy Rüger",
+      "Dimitri Lindenwald",
+      "Charis Drummer",
+      "Stoyan Petkov",
+      "Nataliya Di Donato",
+      "Michael Heide"
+    ],
+    "is_editorial": false,
+    "abstract_missing": false,
+    "always_include": false,
+    "score_boost": 0.0,
+    "score": 6.0,
+    "matched": [
+      "downscaling"
+    ],
+    "published": null,
+    "first_seen": "2026-09-24"
+  },
+  {
+    "title": "Mapping Glacier Bed Topography in Crevassed Regions: A New Passive Seismic Reflection Method Applied to Isunnguata Sermia, West Greenland",
+    "journal": "Geophysical Research Letters",
+    "source": "rss:grl",
+    "url": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2026GL124881?af=R",
+    "doi": "10.1029/2026gl124881",
+    "abstract": "Geophysical Research Letters, Volume 53, Issue 18, 28 September 2026.",
+    "authors": [
+      "Nicolas Paris",
+      "Florent Gimbert",
+      "Philippe Roux",
+      "Stephen J. Livingstone",
+      "Siobhan F. Killingbeck",
+      "Andrew J. Sole",
+      "Samuel H. Doyle",
+      "Jonathan D. Hawkins",
+      "Matthew W. Peacey",
+      "Adam D. Booth"
+    ],
+    "is_editorial": false,
+    "abstract_missing": false,
+    "always_include": false,
+    "score_boost": 0.0,
+    "score": 6.0,
+    "matched": [
+      "glacier",
+      "Greenland"
+    ],
+    "published": "2026-09-23",
+    "first_seen": "2026-09-24"
+  },
+  {
+    "title": "Polythermal conditions in small glaciers in the Swiss Alps",
+    "journal": "The Cryosphere",
+    "source": "rss:tc",
+    "url": "https://doi.org/10.5194/tc-20-5453-2026",
+    "doi": "10.5194/tc-20-5453-2026",
+    "abstract": "Small Alpine glaciers can exhibit a mix of cold and temperate ice, a polythermal structure, which can promote hazardous conditions. We drilled into six small Swiss glaciers and measured ice temperatures in boreholes. We found polythermal conditions in three of six sites and show that the thermal structure is linked to firn cover loss. Our results suggest that polythermal glaciers may be more common in the Alps than previously recognised.",
+    "authors": [
+      "Janosch Beer",
+      "Mylène Jacquemart",
+      "Matthias Huss",
+      "Ilaria Santin",
+      "Gabriela Clara Racz",
+      "Christophe Ogier",
+      "Saskia Gindraux",
+      "Leo Hösli",
+      "Raphael Moser",
+      "James Irving",
+      "Mauro Fischer",
+      "Daniel Farinotti"
+    ],
+    "is_editorial": false,
+    "abstract_missing": false,
+    "always_include": true,
+    "score_boost": 0.0,
+    "score": 6.0,
+    "matched": [
+      "glacier",
+      "firn"
+    ],
+    "published": "2026-09-23",
+    "first_seen": "2026-09-24"
+  },
+  {
     "title": "Impact of Quasi-Periodicity on the Characterization of Auto-Correlation Structures in Sea Surface Temperature Anomalies across the Tropical Pacific",
     "journal": "Journal of Climate",
     "source": "openalex:0894-8755",
@@ -2864,122 +2755,65 @@
     "first_seen": "2026-09-23"
   },
   {
-    "title": "Identifiability of Bayesian models of perception",
-    "journal": "PNAS",
-    "source": "rss:pnas",
-    "url": "https://www.pnas.org/doi/abs/10.1073/pnas.2601013123?af=R",
-    "doi": "10.1073/pnas.2601013123?af=r",
-    "abstract": "Proceedings of the National Academy of Sciences, Volume 123, Issue 37, September 2026. SignificanceBayesian models represent an important class of models in cognitive science and neuroscience. The model components (prior, likelihood function, loss function) play important roles in understanding perceptual and cognitive processing. So far, ...",
+    "title": "Nonuniform Mantle Suture Beneath Northern Tibet Revealed by Helium Isotopes and Attention‐Based Machine Learning: Implications for Crustal Rheology and Growth of the Tibetan Plateau",
+    "journal": "JGR Solid Earth",
+    "source": "rss:jgr-solidearth",
+    "url": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025JB033474?af=R",
+    "doi": "10.1029/2025jb033474",
+    "abstract": "Journal of Geophysical Research: Solid Earth, Volume 131, Issue 9, September 2026.",
     "authors": [
-      "Michael HahnEntang WangXue-Xin Weiahttps://ror.org/01jdpyv68Department of Language Science",
-      "Technology",
-      "Saarland Informatics Campus",
-      "Saarland University",
-      "Saarbrücken 66123",
-      "Germanybhttps://ror.org/00hj54h04Department of Neuroscience",
-      "The University of Texas at Austin",
-      "Austin",
-      "TX 78712chttps://ror.org/00hj54h04Department of Psychology",
-      "The University of Texas at Austin",
-      "Austin",
-      "TX 78712dhttps://ror.org/00hj54h04Center for Perceptual Systems",
-      "The University of Texas at Austin",
-      "Austin",
-      "TX 78712ehttps://ror.org/00hj54h04Center for Learning",
-      "Memory",
-      "The University of Texas at Austin",
-      "Austin",
-      "TX 78712fhttps://ror.org/00hj54h04Center for Theoretical",
-      "Computational Neuroscience",
-      "The University of Texas at Austin",
-      "Austin",
-      "TX 78712"
+      "Yingchun Wang",
+      "Xintian Li",
+      "Shuang Liao",
+      "Yi Wang",
+      "Simon Klemperer",
+      "Ji Zhang",
+      "Yinlei Hao",
+      "Jiao Tian",
+      "Yazhou Zhao",
+      "Xiaocheng Zhou",
+      "Dawei Liao",
+      "Yinhui Zuo",
+      "Yanlong Kong",
+      "Zhonghe Pang",
+      "Hikaru Iwamori"
     ],
     "is_editorial": false,
     "abstract_missing": false,
     "always_include": false,
     "score_boost": 0.0,
-    "score": 4.0,
+    "score": 5.0,
     "matched": [
-      "Bayesian"
+      "solid earth",
+      "machine learning"
     ],
-    "published": null,
-    "first_seen": "2026-09-16"
+    "published": "2026-09-22",
+    "first_seen": "2026-09-24"
   },
   {
-    "title": "Warm‐Conveyor Belt Persistence and Upstream Cyclone Tilt Shape the Predictability of a Rossby Wave Breaking Event",
-    "journal": "JGR Atmospheres",
-    "source": "rss:jgr-atmospheres",
-    "url": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025JD045396?af=R",
-    "doi": "10.1029/2025jd045396",
-    "abstract": "Journal of Geophysical Research: Atmospheres, Volume 131, Issue 18, 28 September 2026.",
+    "title": "Centuries of global heating from Carbon Majors: Dependence on future emissions pathways",
+    "journal": "PLOS Climate",
+    "source": "rss:plos-climate",
+    "url": "https://journals.plos.org/climate/article?id=10.1371/journal.pclm.0001036",
+    "doi": "10.1371/journal.pclm.0001036",
+    "abstract": "by Dargan M. W. Frierson, Lauren A. Henrie A range of recent studies have developed methods and data to attribute past and present global temperature change to individual emitters. We perform simulations that attribute the amount of global warming due to corporations, governments and other entities into the future. We utilize the Finite Amplitude Impulse Response (FaIR) model run until 2500, and the Carbon Majors dataset, a database with the emissions history associated with the top 178 oil, gas, coal, and cement producers. We perform counterfactual experiments to calculate the warming attributable to the emissions associated with these entities, using several different future emissions scenarios. The future atmospheric carbon dioxide (CO 2 ) anomaly attributable to a company’s past emissions is smaller with less ensemble spread in a lower emissions future than it is in a high emissions future. This is due to smaller carbon cycle feedbacks with lower emissions. However, the temperature change from past emissions is larger in a lower emissions future, even with the smaller change in CO 2 . This is due primarily to the logarithmic sensitivity of CO 2 radiative forcing to concentration. Methane concentration post-2080 experiences a negative anomaly, due to a decrease in methane lifetime from elevated temperature, which is a small negative feedback. For any future emissions scenario, the historical emissions from oil, gas, coal, and cement producers affect many aspects of the climate system, including CO 2 in the atmosphere and other parts of the carbon cycle, methane, ozone, and stratospheric water vapor. The total radiative forcing induced by these elements stays positive throughout all simulations, which in turn causes positive temperature perturbations. Thus in addition to the damages that have already occurred, we expect the Carbon Majors to be responsible for calculable climate damages for many centuries into the future.",
     "authors": [
-      "Alexander Lojko",
-      "Andreas F. Prein",
-      "Bruno Z. Ribeiro",
-      "Andrew C. Winters"
+      "Dargan M. W. Frierson",
+      "Lauren A. Henrie"
     ],
     "is_editorial": false,
     "abstract_missing": false,
     "always_include": false,
     "score_boost": 0.0,
-    "score": 4.0,
+    "score": 5.0,
     "matched": [
-      "predictability"
+      "carbon cycle",
+      "radiative forcing",
+      "ensemble",
+      "global warming"
     ],
-    "published": "2026-09-15",
-    "first_seen": "2026-09-16"
-  },
-  {
-    "title": "Novel Parameterization of Building Storage Heat Flux for Urban Climate Modeling",
-    "journal": "JAMES",
-    "source": "rss:james",
-    "url": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2026MS005834?af=R",
-    "doi": "10.1029/2026ms005834",
-    "abstract": "Journal of Advances in Modeling Earth Systems, Volume 18, Issue 9, September 2026.",
-    "authors": [
-      "Yiqing Liu",
-      "Sue Grimmond",
-      "Matthew Paskin",
-      "Jian Hang",
-      "Zhiwen Luo"
-    ],
-    "is_editorial": false,
-    "abstract_missing": false,
-    "always_include": false,
-    "score_boost": 0.0,
-    "score": 4.0,
-    "matched": [
-      "parameterization"
-    ],
-    "published": "2026-09-14",
-    "first_seen": "2026-09-16"
-  },
-  {
-    "title": "From Thermodynamics to Dynamics: The Victoria Mode Reshapes Pacific Side of the Arctic Winter Sea Ice Growth",
-    "journal": "Earth's Future",
-    "source": "rss:earths-future",
-    "url": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2026EF008624?af=R",
-    "doi": "10.1029/2026ef008624",
-    "abstract": "Earth's Future, Volume 14, Issue 9, September 2026.",
-    "authors": [
-      "Daling Li Yi",
-      "Ke Fan",
-      "Zhiqing Xu",
-      "Shengping He",
-      "Juan Wang"
-    ],
-    "is_editorial": false,
-    "abstract_missing": false,
-    "always_include": false,
-    "score_boost": 0.0,
-    "score": 4.0,
-    "matched": [
-      "Arctic",
-      "sea ice"
-    ],
-    "published": "2026-09-15",
-    "first_seen": "2026-09-16"
+    "published": "2026-09-23",
+    "first_seen": "2026-09-24"
   },
   {
     "title": "Viscoelastic nanomechanical devices for neuromorphic information processing",
@@ -3652,240 +3486,35 @@
     "first_seen": "2026-09-23"
   },
   {
-    "title": "Topology-enhanced machine learning for speech signal processing",
-    "journal": "Nature Communications",
-    "source": "rss:ncomms",
-    "url": "https://www.nature.com/articles/s41467-026-77649-z",
-    "doi": "10.1038/s41467-026-77649-z",
-    "abstract": "Nature Communications, Published online: 16 September 2026; doi:10.1038/s41467-026-77649-z Topological data analysis had shown promise in capturing intrinsic structural features of complex data. Here, the authors integrate topological data analysis with machine learning to capture structural features in consonant classification while enhancing interpretability and robustness against noise compared to traditional techniques.",
+    "title": "Mechanisms of ENSO‐Modulated Precipitation Seasonality in Southeastern China and Implications for Stalagmite δ18O Records",
+    "journal": "JGR Atmospheres",
+    "source": "rss:jgr-atmospheres",
+    "url": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2026JD047681?af=R",
+    "doi": "10.1029/2026jd047681",
+    "abstract": "Journal of Geophysical Research: Atmospheres, Volume 131, Issue 18, 28 September 2026.",
     "authors": [
-      "Pingyao Feng",
-      "Qingrui Qu",
-      "Haiyu Zhang",
-      "Siheng Yi",
-      "Zhiwang Yu",
-      "Zeyang Ding",
-      "Yifei Zhu"
+      "Yueer Li",
+      "Haiwei Zhang",
+      "Ashish Sinha",
+      "Hanying Li",
+      "Jiarui Zhang",
+      "Yina Song",
+      "Liangcheng Tan",
+      "Rui Zhang",
+      "Yanjun Cai",
+      "Kefu Yu",
+      "Hai Cheng"
     ],
     "is_editorial": false,
     "abstract_missing": false,
     "always_include": false,
     "score_boost": 0.0,
-    "score": 3.0,
+    "score": 4.0,
     "matched": [
-      "machine learning"
+      "d18O"
     ],
-    "published": null,
-    "first_seen": "2026-09-16"
-  },
-  {
-    "title": "Evolution of flowering phenology over 44 years of climate change",
-    "journal": "PNAS",
-    "source": "rss:pnas",
-    "url": "https://www.pnas.org/doi/abs/10.1073/pnas.2613665123?af=R",
-    "doi": "10.1073/pnas.2613665123?af=r",
-    "abstract": "Proceedings of the National Academy of Sciences, Volume 123, Issue 37, September 2026. SignificanceThe ability of species to rapidly adapt to changing climates is vital for predicting future climate change responses, but evolution in response to contemporary climate change has rarely been observed directly. In a combined space-for-time, ...",
-    "authors": [
-      "Samantha Van DeursSimone FiorAlon SingerEinav Mayzlish-GatiJake M. Alexanderahttps://ror.org/01kwjhv40Institute of Integrative Biology",
-      "Swiss Federal Institute of Technology Zurich",
-      "Zurich CH-8092",
-      "Switzerlandbhttps://ror.org/05hbrxp80Israel Gene Bank",
-      "Agricultural Research Organization",
-      "Volcani Institute",
-      "Rishon LeZion 7505101",
-      "Israel"
-    ],
-    "is_editorial": false,
-    "abstract_missing": false,
-    "always_include": false,
-    "score_boost": 0.0,
-    "score": 3.0,
-    "matched": [
-      "climate change"
-    ],
-    "published": null,
-    "first_seen": "2026-09-16"
-  },
-  {
-    "title": "Thermo–Hydro–Mechanical–Chemical Coupling in Reactive Fractured Rocks With Double Porosity",
-    "journal": "JGR Solid Earth",
-    "source": "rss:jgr-solidearth",
-    "url": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025JB033678?af=R",
-    "doi": "10.1029/2025jb033678",
-    "abstract": "Journal of Geophysical Research: Solid Earth, Volume 131, Issue 9, September 2026.",
-    "authors": [
-      "Yue Ma",
-      "Shangqi Ge",
-      "Kai Wang",
-      "Xiaohui Chen"
-    ],
-    "is_editorial": false,
-    "abstract_missing": false,
-    "always_include": false,
-    "score_boost": 0.0,
-    "score": 3.0,
-    "matched": [
-      "solid earth"
-    ],
-    "published": "2026-09-15",
-    "first_seen": "2026-09-16"
-  },
-  {
-    "title": "Persistent‐Homology‐Based Descriptors of Pore Heterogeneity for Generalized Permeability Prediction",
-    "journal": "JGR Solid Earth",
-    "source": "rss:jgr-solidearth",
-    "url": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2026JB035021?af=R",
-    "doi": "10.1029/2026jb035021",
-    "abstract": "Journal of Geophysical Research: Solid Earth, Volume 131, Issue 9, September 2026.",
-    "authors": [
-      "Jingrui Liu",
-      "Fei Jiang",
-      "Arata Kioka",
-      "Wuquan Li",
-      "Yunfeng Liang",
-      "Shibo Xu",
-      "Takeshi Tsuji"
-    ],
-    "is_editorial": false,
-    "abstract_missing": false,
-    "always_include": false,
-    "score_boost": 0.0,
-    "score": 3.0,
-    "matched": [
-      "solid earth"
-    ],
-    "published": "2026-09-15",
-    "first_seen": "2026-09-16"
-  },
-  {
-    "title": "Characterization of the Plumbing System Beneath Askja Caldera, Iceland, Revealed by Microgravity and Deformation Data During Uplift Between 2022 and 2023",
-    "journal": "JGR Solid Earth",
-    "source": "rss:jgr-solidearth",
-    "url": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025JB033402?af=R",
-    "doi": "10.1029/2025jb033402",
-    "abstract": "Journal of Geophysical Research: Solid Earth, Volume 131, Issue 9, September 2026.",
-    "authors": [
-      "Josefa Sepúlveda‐Araya",
-      "Andrew Hooper",
-      "Elske van Dalfsen",
-      "Susanna K. Ebmeier",
-      "Michelle Parks",
-      "Freysteinn Sigmundsson",
-      "Yilin Yang",
-      "Milan Lazecký",
-      "Mathijs Koymans",
-      "Chiara Lanzi",
-      "Pedro Espín‐Bedón"
-    ],
-    "is_editorial": false,
-    "abstract_missing": false,
-    "always_include": false,
-    "score_boost": 0.0,
-    "score": 3.0,
-    "matched": [
-      "solid earth"
-    ],
-    "published": "2026-09-15",
-    "first_seen": "2026-09-16"
-  },
-  {
-    "title": "The Density of Liquid FeO and the Oxygen Contents of the Cores of Earth and Mars",
-    "journal": "JGR Solid Earth",
-    "source": "rss:jgr-solidearth",
-    "url": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025JB033478?af=R",
-    "doi": "10.1029/2025jb033478",
-    "abstract": "Journal of Geophysical Research: Solid Earth, Volume 131, Issue 9, September 2026.",
-    "authors": [
-      "Daniel J. Frost",
-      "Lianjie Man",
-      "Rémy Pierru",
-      "Laura Henry",
-      "Adrien Néri"
-    ],
-    "is_editorial": false,
-    "abstract_missing": false,
-    "always_include": false,
-    "score_boost": 0.0,
-    "score": 3.0,
-    "matched": [
-      "solid earth"
-    ],
-    "published": "2026-09-15",
-    "first_seen": "2026-09-16"
-  },
-  {
-    "title": "Correlation of Permeability Evolution With Frequency‐Magnitude Distributions for Injection‐Induced Seismicity Under Varying Initial Stress States",
-    "journal": "JGR Solid Earth",
-    "source": "rss:jgr-solidearth",
-    "url": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2026JB034017?af=R",
-    "doi": "10.1029/2026jb034017",
-    "abstract": "Journal of Geophysical Research: Solid Earth, Volume 131, Issue 9, September 2026.",
-    "authors": [
-      "Ke Zhang",
-      "Qiang Li",
-      "Quan Gan",
-      "Yueqiang Ma",
-      "Sida Jia",
-      "Dawei Hu",
-      "Derek Elsworth"
-    ],
-    "is_editorial": false,
-    "abstract_missing": false,
-    "always_include": false,
-    "score_boost": 0.0,
-    "score": 3.0,
-    "matched": [
-      "solid earth"
-    ],
-    "published": "2026-09-15",
-    "first_seen": "2026-09-16"
-  },
-  {
-    "title": "A storm-centered perspective of midlatitude near-inertial wave generation",
-    "journal": "arXiv physics.ao-ph",
-    "source": "rss:arxiv-ao-ph",
-    "url": "https://arxiv.org/abs/2609.16671",
-    "doi": null,
-    "abstract": "arXiv:2609.16671v1 Announce Type: new Abstract: Near-inertial waves (NIWs) generated by extratropical storms provide a major pathway for transferring atmospheric energy into the ocean, yet what determines the efficiency of this energy transfer at the level of individual storms remains poorly understood. Here, using a slab ocean model forced by ERA5 reanalysis and analyzed in storm-relative coordinates, we investigate NIW generation across three temporal scales: from the instantaneous structure of individual storms, through their life cycle, to variability across storms. Instantaneous storm structure reveals that the spatial layout of wind stress and storm propagation provides the required time evolution and rotation to excite a localized maximum in wind work on the right side of storm tracks, much like tropical cyclones do. Following storms through their life cycle further reveals that wind work peaks one day after cyclone genesis, about one day before storms reach their maximum intensity. This offset arises because storm translation slows during intensification, reducing the propagation-induced wind-stress tendency, while concurrent poleward propagation increases the Coriolis parameter and reduces the alignment between winds and near-inertial currents. Due to the temporal lag, regions of climatologically high NIW forcing are located upstream of the North Pacific storm-track maximum. Finally, examining variability across storms, we show that storm intensity, propagation speed, and latitude explain most of the variability in NIW generation, but not in extreme events. Focusing on extreme events, we find that the strongest NIW-generating storms feature colder cold sectors, which destabilize the marine boundary layer and enhance downward momentum transfer to the ocean surface.",
-    "authors": [
-      "Or Hadas",
-      "Noel G. Brizuela"
-    ],
-    "is_editorial": true,
-    "abstract_missing": false,
-    "always_include": false,
-    "score_boost": 0.0,
-    "score": 3.0,
-    "matched": [
-      "reanalysis",
-      "extreme event"
-    ],
-    "published": "2026-09-16",
-    "first_seen": "2026-09-16"
-  },
-  {
-    "title": "IRENE: A Convolutional GRU Ensemble Model for Radar Precipitation Nowcasting over Italy",
-    "journal": "arXiv physics.ao-ph",
-    "source": "rss:arxiv-ao-ph",
-    "url": "https://arxiv.org/abs/2609.17175",
-    "doi": null,
-    "abstract": "arXiv:2609.17175v1 Announce Type: cross Abstract: We present IRENE (Italian Radar Ensemble Nowcasting Experiment), a deep learning model for probabilistic short-range precipitation nowcasting over the Italian domain at \\SI{1}{km} spatial and 5 min temporal resolution. IRENE adopts an encoder--forecaster architecture built on multi-scale Convolutional Gated Recurrent Units (ConvGRUs), trained on the national radar composite produced by the Italian Civil Protection Department (DPC). An importance-sampling scheme focuses training on precipitation-relevant events, while the almost-fair Continuous Ranked Probability Score (afCRPS) is adopted as the primary probabilistic loss function. Two additional training configurations are proposed: an adversarial (GAN) variant, IRENE-GAN, designed to improve the spatial sharpness of the generated forecasts, and a spectrally constrained variant, IRENE-GAN-RAPSD, in which the adversarial objective is complemented by an explicit penalty on the radially averaged power spectral density. The three configurations are evaluated against the stochastic extrapolation method STEPS and the pre-trained deep learning model DGMR. All IRENE configurations attain a lower Continuous Ranked Probability Score than both benchmarks at every lead time and rank histograms closer to uniformity, indicating better probabilistic skill and ensemble calibration. In terms of ensemble-mean mean absolute error the advantage is confined to the first 90 min, beyond which the strongly damped DGMR fields and, to a lesser extent, STEPS become competitive. Spectral analysis shows that the adversarial training removes the progressive loss of small-scale variance exhibited by IRENE, at the cost of an excess of fine-scale power at long lead times that the spectral penalty only partially controls.",
-    "authors": [
-      "Alessandro Camilletti",
-      "Gabriele Franch",
-      "Elena Tomasi",
-      "Marco Cristoforetti"
-    ],
-    "is_editorial": false,
-    "abstract_missing": false,
-    "always_include": false,
-    "score_boost": 0.0,
-    "score": 3.0,
-    "matched": [
-      "ensemble"
-    ],
-    "published": "2026-09-16",
-    "first_seen": "2026-09-16"
+    "published": "2026-09-23",
+    "first_seen": "2026-09-24"
   },
   {
     "title": "An online spectral nudging-based correction system: improving physical model forecasts by incorporating large-scale  circulations derived from machine learning models",
@@ -4477,6 +4106,56 @@
     "first_seen": "2026-09-23"
   },
   {
+    "title": "A hybrid method for winter road surface temperature prediction using improved LSTMs and stacking-based ensemble learning",
+    "journal": "Geoscientific Model Development",
+    "source": "rss:gmd",
+    "url": "https://doi.org/10.5194/gmd-19-9035-2026",
+    "doi": "10.5194/gmd-19-9035-2026",
+    "abstract": "Accurate winter road surface temperature prediction prevents icy‑road accidents. Existing methods either need rare pavement parameters or miss local weather patterns and long‑term trends. This study combines two deep‑learning models to analyse four winters of Jiangsu data. It achieves lower prediction errors in general and outperforms common models at 1, 3 and 6 h horizons. Station‑based features beat external reanalysis data.",
+    "authors": [
+      "Wanting Li",
+      "Linyi Zhou",
+      "Xianghua Wu",
+      "Yuanhong Guan",
+      "Yuanhao Guo",
+      "Kun Chen",
+      "Weiqi Huang",
+      "Wenqian Zhao"
+    ],
+    "is_editorial": false,
+    "abstract_missing": false,
+    "always_include": true,
+    "score_boost": 0.0,
+    "score": 3.0,
+    "matched": [
+      "reanalysis",
+      "ensemble"
+    ],
+    "published": "2026-09-24",
+    "first_seen": "2026-09-24"
+  },
+  {
+    "title": "Surrogate inference for threshold-derived environmental indices depends on null placement and seasonal event concentration",
+    "journal": "arXiv physics.ao-ph",
+    "source": "rss:arxiv-ao-ph",
+    "url": "https://arxiv.org/abs/2609.27769",
+    "doi": null,
+    "abstract": "arXiv:2609.27769v1 Announce Type: cross Abstract: Threshold-derived environmental indices convert native-resolution variables into event indicators and aggregated counts, but surrogate tests may impose their null constraints either before or after this transformation. We show that these choices define different inferential targets. A threshold--copula representation separates temporal dependence from the seasonal event-probability vector and makes seasonal concentration an explicit experimental coordinate. In a prespecified benchmark of 13,500 short-memory monthly trajectories, an index-resolution marginal-and-spectrum surrogate and a constrained native-resolution surrogate produced strongly asymmetric paired conclusions: 1084 trajectories rejected only at index resolution, compared with 16 only at native resolution. Holding the expected annual event count fixed while concentrating event probability within the seasonal cycle increased index-only discordance from 4.4\\% to 16.2\\%. In an independent experiment, equalizing monthly event probability reduced the corresponding rate from 15.9\\% to 3.9\\%; the mitigation persisted when monthly percentiles were estimated from an independent 30-year reference period. Native-resolution inference was calibrated under the benchmark null but had strongly mechanism-dependent sensitivity: the strongest prespecified history-feedback alternative had a 30.7\\% detection rate under the fixed synthetic gate, with substantially lower sensitivity to a persistent-regime alternative. A Coupled Model Intercomparison Project Phase 6 Amazon dry-month case study was non-discriminating, illustrating why null placement and design-specific detectability should be reported together. The results provide a practical framework for surrogate inference on threshold-derived hydroclimatic and environmental indices.",
+    "authors": [
+      "Mauricio Herrera-Mar\\'in"
+    ],
+    "is_editorial": false,
+    "abstract_missing": false,
+    "always_include": false,
+    "score_boost": 0.0,
+    "score": 3.0,
+    "matched": [
+      "model intercomparison"
+    ],
+    "published": "2026-09-24",
+    "first_seen": "2026-09-24"
+  },
+  {
     "title": "Development of the CCPP-based GEFS-aerosols component  in the Unified Forecast System for subseasonal prediction (UFS-Chem v1.0)",
     "journal": "Geoscientific Model Development",
     "source": "rss:gmd",
@@ -5026,5 +4705,27 @@
     "matched": [],
     "published": "2026-09-22",
     "first_seen": "2026-09-23"
+  },
+  {
+    "title": "Consideration of radiation absorption by stems in forests for microclimate modeling",
+    "journal": "Geoscientific Model Development",
+    "source": "rss:gmd",
+    "url": "https://doi.org/10.5194/gmd-19-9019-2026",
+    "doi": "10.5194/gmd-19-9019-2026",
+    "abstract": "Computer models used to simulate forest canopy microclimates rely on radiative transfer simulations. These models commonly only consider tree leaves and exclude wood structures. Here we present modifications to a commonly used model to consider stem absorption. We compared model estimates to detailed simulations using 3D data from ground lidar at four deciduous forest sites. We also compared simulations against field observations of sunlight reflected by canopies.",
+    "authors": [
+      "Martin Béland",
+      "Gordon Bonan",
+      "Hideki Kobayashi",
+      "Dennis Baldocchi"
+    ],
+    "is_editorial": false,
+    "abstract_missing": false,
+    "always_include": true,
+    "score_boost": 0.0,
+    "score": 0.0,
+    "matched": [],
+    "published": "2026-09-24",
+    "first_seen": "2026-09-24"
   }
 ]
