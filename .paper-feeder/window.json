@@ -90,15 +90,18 @@
     "first_seen": "2026-09-26"
   },
   {
-    "title": "Reconstructing the last Newfoundland ice sheet (part 1): Glacial geomorphology and ice-flow geometries",
-    "journal": "Quaternary Science Reviews",
-    "source": "openalex:paleoclimate",
-    "url": "https://doi.org/10.1016/j.quascirev.2026.110286",
-    "doi": "10.1016/j.quascirev.2026.110286",
-    "abstract": "The former Newfoundland Ice Sheet occupied a sensitive position on the eastern margin of the Laurentide Ice Sheet and northwest Atlantic during the last glaciation, where it was exposed to interactions between regional ice-sheet configuration, ocean circulation, atmospheric forcing and sea-level change. Yet despite its importance, the internal flow geometry, divide migration and relative sequence of ice-flow reorganisation of the Newfoundland Ice Sheet remain poorly constrained. This limits its use as a palaeo-analogue for understanding the behaviour of smaller, marine-influenced ice sheets. Here we use glacial inversion and geomorphological mapping to reconstruct the ice-flow geometry and relative flow history of the Newfoundland Ice Sheet from an island-wide and inner-shelf landform record. The mapped dataset comprises ∼162,000 landforms, including glacial lineations, ribbed moraines, eskers and moraines, integrated with ∼11,300 bedrock striae measurements. Flowset analysis reduces this record to 190 distinct ice-flow configurations derived from glacial lineations, ribbed moraines and striae. Glacial lineation flowsets provide the primary glaciodynamic framework, while striae and ribbed moraine flowsets provide complementary constraints on flow direction, flow pathway and relative chronology. The resulting framework reveals a strongly multi-temporal ice-sheet bed, repeated reorganisation of ice-flow geometry, migration of dispersal centres, and contrasting basal conditions between northern and southern Newfoundland. These results show that the Newfoundland Ice Sheet was not characterised by simple radial flow from static dispersal centres, but by repeated reconfiguration of flow pathways, ice-divide positions and basal thermal regime through the last glacial cycle. Together with ice-marginal, offshore stratigraphic and chronological evidence, this flowset framework establishes the empirical basis for the reconstruction of ice-sheet growth, maximum configuration, retreat pattern and final decay presented in the companion Part 2 paper (McHenry and Dunlop, submitted).",
+    "title": "Finite Viscoelastic Modeling of Ice Shelves Using Glen's Flow Law and Depth‐Dependent Material Properties",
+    "journal": "PAMM",
+    "source": "openalex:cryosphere",
+    "url": "https://doi.org/10.1002/pamm.70231",
+    "doi": "10.1002/pamm.70231",
+    "abstract": "ABSTRACT Ice shelves are floating seaward extensions of glaciers that form where land‐based ice flows into the ocean. Recent observations suggest that their mechanical behavior is suitably described by a viscoelastic Maxwell model, as this framework captures both the instantaneous elastic response and the time‐dependent viscous flow of ice. The constitutive framework in this contribution is formulated within a finite strain framework based on a multiplicative decomposition of the deformation gradient into elastic and viscous parts. In addition, an exponential map is employed for the update of the viscous internal variables, which inherently preserves incompressible viscous flow during the entire simulation. The nonlinear viscous behavior of ice is incorporated by Glen's flow law, in which the viscosity depends on both deviatoric stress state and temperature, such that higher stress levels and temperatures lead to lower viscosities. The model is applied to an ice shelf benchmark problem subjected to self‐weight and hydrostatic pressure acting on the submerged parts. In this context, inhomogeneous material properties are considered across the shelf thickness, with density and Young's modulus increasing with depth as firn gradually densifies and transforms into glacier ice. Furthermore, a parameterized temperature field is prescribed across the thickness, reflecting the fact that the thermal state of an ice shelf is generally non‐uniform. The resulting stress distributions and displacements are evaluated and discussed.",
     "authors": [
-      "M McHenry",
-      "P Dunlop"
+      "Marvin Koßler",
+      "Sebastian Skatulla",
+      "Angelika Humbert",
+      "Ralf Müller",
+      "Jörg Schröder"
     ],
     "is_editorial": false,
     "abstract_missing": false,
@@ -106,14 +109,47 @@
     "score_boost": 0.0,
     "score": 22.0,
     "matched": [
-      "ice sheet",
-      "Laurentide",
-      "ocean circulation",
-      "glacial cycle",
-      "sea level"
+      "ice shelf",
+      "glacier",
+      "firn",
+      "viscoelastic"
     ],
-    "published": "2026-09-18",
-    "first_seen": "2026-09-19"
+    "published": "2026-09-25",
+    "first_seen": "2026-09-27"
+  },
+  {
+    "title": "Redefining Last Glacial Maximum environmental conditions in northeastern Brazil: pollen-based evidence of open and moist-adapted vegetation cover",
+    "journal": "Quaternary Science Reviews",
+    "source": "openalex:paleoclimate",
+    "url": "https://doi.org/10.1016/j.quascirev.2026.110197",
+    "doi": "10.1016/j.quascirev.2026.110197",
+    "abstract": "Limited continuous continental records and complex climatic interactions hinder a comprehensive understanding of paleoclimatic and paleoenvironmental conditions during the Last Glacial Maximum (LGM) in the tropics. Adjacent to the currently semi-arid northeastern Brazil (NEB), a region strongly affected by the seasonal migration of the Intertropical Convergence Zone (ITCZ), marine sediment cores hold a valuable potential offering insights into past vegetation dynamics and continental hydroclimate. Here we present the first LGM pollen-based paleo-vegetation record with multicentennial-scale resolution from a marine core retrieved offshore NEB. Additionally, a top core dated to the 13 th century is presented as the closest available analogue to present-day conditions. Our LGM pollen data suggests grasslands and open vegetation physiognomies predominance and documents the presence of submontane taxa ( Podocarpus and Hedyosmum ), underscoring that NEB vegetation responded to global cooling trends. The occurrence and persistence of modern Cerrado and Caatinga arboreal taxa, along with gallery forest components and key indicators of wetland and warm environments ( Mauritia ), suggest a heterogeneous mosaic of ecological habitats in NEB, consistent with moderate tropical cooling of the lowlands (3 - 5°C). Although both the LGM and 13 th century intervals share a mixed Caatinga-Cerrado floristic signal, their contrasting assemblages reflect different temperature and hydroclimatic regimes, and further suggest the combined effects of the LGM reduced atmospheric CO 2 concentrations as key drivers of ecosystem structure. We suggest the LGM was characterized by higher effective moisture than under present-day conditions but with a different precipitation pattern, in response to a narrower amplitude of the ITCZ.",
+    "authors": [
+      "Marie Haut-Labourdette",
+      "Marie‐Pierre Ledru",
+      "Aline Govin",
+      "Thomas Kenji Akabane",
+      "Rodrigo A. Nascimento",
+      "Cristiano Mazur Chiessi",
+      "Bruna Borba Dias",
+      "Thiago Pereira dos Santos",
+      "Francisca Soares Araújo",
+      "Christine Hatté",
+      "Éric Boëda"
+    ],
+    "is_editorial": false,
+    "abstract_missing": false,
+    "always_include": false,
+    "score_boost": 0.0,
+    "score": 21.0,
+    "matched": [
+      "paleoclimate",
+      "last glacial maximum",
+      "LGM",
+      "sediment core"
+    ],
+    "published": "2026-09-25",
+    "first_seen": "2026-09-27"
   },
   {
     "title": "Ensemble simulation of the Last Glacial Maximum marine biogeochemistry and atmospheric pCO2 drawdown due to the soft-tissue biological carbon pump",
@@ -256,6 +292,38 @@
     ],
     "published": "2026-09-24",
     "first_seen": "2026-09-25"
+  },
+  {
+    "title": "Future projections of cryosphere degradation and its hydrological impacts in the upper Bulgan River basin, Altai Mountains",
+    "journal": "Journal of Hydrology Regional Studies",
+    "source": "openalex:cryosphere",
+    "url": "https://doi.org/10.1016/j.ejrh.2026.104009",
+    "doi": "10.1016/j.ejrh.2026.104009",
+    "abstract": "Study region The nested Baitag and Duchinjil catchments in the upper Bulgan River basin, Altai Mountains, western Mongolia, have small glacier coverage and widespread permafrost. Study focus FLEX-Cryo model was used to assess future cryosphere and runoff changes. The model was evaluated using runoff and cryospheric data. Bias corrected projections from 13 CMIP6 models were used separately to drive the model under SSP2–4.5 and SSP5–8.5. New hydrological insights for the region Ensemble mean annual runoff shows no significant trend during 2024–2100. Winter runoff increases, summer runoff decreases, and runoff timing advances in both catchments. Under SSP2–4.5 and SSP5–8.5 scenario, glaciers persist as remnants in Baitag at the end of the century but disappear in Duchinjil around 2060. At the Duchinjil station, annual maximum snow depth increases while snow cover duration decreases under both scenarios. Permafrost area decreases in Baitag under both scenarios. Mean active layer thickness increases from approximately 2.25 m to 2.95 m under SSP2–4.5 and 3.42 m under SSP5–8.5 by 2099. Summer runoff decreases approximately twice as fast in upstream Duchinjil as in Baitag. Under SSP5–8.5, peak runoff advances by 18 days in Baitag and 38 days in Duchinjil between 2030–2034 and 2090–2094. Hydrological assessments in similar cold and arid mountain catchments should emphasize seasonal runoff changes and runoff timing.",
+    "authors": [
+      "Zehua Chang",
+      "Leilei Yong",
+      "Yahui Wang",
+      "Kang Wang",
+      "Batsuren Dorjsuren",
+      "Otgonbayar Demberel",
+      "Hongkai Gao"
+    ],
+    "is_editorial": false,
+    "abstract_missing": false,
+    "always_include": false,
+    "score_boost": 0.0,
+    "score": 19.0,
+    "matched": [
+      "cryosphere",
+      "glacier",
+      "permafrost",
+      "CMIP",
+      "ensemble",
+      "SSP"
+    ],
+    "published": "2026-09-25",
+    "first_seen": "2026-09-27"
   },
   {
     "title": "Temporal evolution of the Petermann Ice Shelf estuary constrained by satellite remote sensing observations",
@@ -794,28 +862,31 @@
     "first_seen": "2026-09-26"
   },
   {
-    "title": "Volcanic controls on smectite authigenesis and paleoclimate signals across the Paleocene-Eocene Thermal Maximum (PETM) sedimentary record from the Norwegian-Greenland Sea",
+    "title": "Coupling of dust activity and loess accumulation with East Asian summer monsoon precipitation along the lower reaches of the Yellow River during the Last Glacial period",
     "journal": "Palaeogeography Palaeoclimatology Palaeoecology",
     "source": "openalex:paleoclimate",
-    "url": "https://doi.org/10.1016/j.palaeo.2026.114231",
-    "doi": "10.1016/j.palaeo.2026.114231",
-    "abstract": null,
+    "url": "https://doi.org/10.1016/j.palaeo.2026.114241",
+    "doi": "10.1016/j.palaeo.2026.114241",
+    "abstract": "Investigating dust mass accumulation rates (MAR) is essential for understanding the dynamic changes of past atmospheric dust activity. In recent years, progressively refined provenance information and higher-resolution optically stimulated luminescence (OSL) chronological data from loess-distributed regions have provided the basis for reconstructing past dust activity and loess accumulation processes. In the lower Yellow River region of the Shandong Peninsula, previous studies on dust activity have focused primarily on glacial–interglacial timescales, while the causes and driving mechanisms of dust activity and loess accumulation within glacial periods have yet to be thoroughly elucidated. To this end, we generated a stacked MAR record for the lower Yellow River in the Shandong Peninsula that approximately reflects the overall regional trend. The stacked record, further corroborated by MIS-averaged MAR values (Marine Isotope Stage, MIS) from individual profiles, reveals notably high accumulation during the relatively warm and humid MIS 3 and low values during the colder, more arid MIS 2 and MIS 4. This pattern is nearly the inverse of the conventional paradigm — best exemplified by the Chinese Loess Plateau (CLP) — in which cold–arid conditions enhance dust accumulation. Integrating East Asian monsoon and regional vegetation reconstructions, we attribute this reversal primarily to intensified erosion of the CLP under strengthened East Asian summer monsoon (EASM) precipitation and the consequent amplification of fluvial sediment delivery to downstream repositories, with vegetation trapping playing a secondary role. In contrast, variations in East Asian winter monsoon (EAWM) intensity — traditionally viewed as the dominant dust-transport agent — were not the limiting factor governing MAR variability in this region. We further propose a seasonal cyclical mode in which humid-summer fluvial transport and deposition alternate with arid-winter surface exposure and aeolian deflation. Moreover, our results indicate that loess grain size in this setting represents the intensity of dust accumulation and the magnitude of source supply rather than surface wind strength.",
     "authors": [
-      "Nikita A. Turton",
-      "Pierre Pellenard",
-      "Weimu Xu"
+      "Wei Zhang",
+      "Zirui Peng",
+      "Yuchun Li",
+      "Sisi Zhang",
+      "Beibei Liu"
     ],
     "is_editorial": false,
-    "abstract_missing": true,
+    "abstract_missing": false,
     "always_include": false,
     "score_boost": 0.0,
-    "score": 10.0,
+    "score": 11.0,
     "matched": [
-      "Greenland",
-      "paleoclimate"
+      "interglacial",
+      "marine isotope stage",
+      "MIS stage"
     ],
-    "published": "2026-09-16",
-    "first_seen": "2026-09-19"
+    "published": "2026-09-22",
+    "first_seen": "2026-09-27"
   },
   {
     "title": "Bayesian bilevel operator learning with low-rank adaptation for efficient uncertainty quantification of PDE inverse problems",
@@ -1058,26 +1129,91 @@
     "first_seen": "2026-09-26"
   },
   {
-    "title": "Uncertainty quantification of deep learning algorithms for mineral prospectivity mapping",
-    "journal": "Geoscientific Model Development",
-    "source": "rss:gmd",
-    "url": "https://doi.org/10.5194/gmd-19-8755-2026",
-    "doi": "10.5194/gmd-19-8755-2026",
-    "abstract": "This study proposes a comprehensive uncertainty quantification framework that jointly evaluates data, model, and prediction uncertainties in deep learning-based mineral prospectivity mapping. By modelling and visualizing both data and model uncertainties, the framework transforms deep learning-based mineral prospectivity mapping from deterministic prediction to probabilistic decision-making, thereby enabling more reliable and trustworthy mineral exploration.",
+    "title": "Cascading Cryosphere Hazards in a Warming Himalaya: A Secondary-Data Analysis of the August 2026 Nepal–Tibet Glacier-Collapse Debris Flow",
+    "journal": "International Journal of Sociology and Social Research",
+    "source": "openalex:cryosphere",
+    "url": "https://doi.org/10.64823/ijssr.2601004",
+    "doi": "10.64823/ijssr.2601004",
+    "abstract": "The glacier temporarily blocked the Lhende Khola River, then released a destructive debris flow that travelled through the Bhote Koshi and Trishuli corridors into the districts of Rasuwa, Nuwakot, and Dhading in Nepal. This paper relies on secondary data from government disaster management bureaucracies and reporting from the United Nations, multilateral banks, and print and broadcast media. It focuses on the events surrounding the disaster, analysis of causal factors, casualties, damage to infrastructure and the economy, and response efforts by the government and international agencies. On August 29, 2026, the toll in Nepal was reported to be 675 dead with 2,478 missing and over 93,000 affected, while Tibet reported 7 dead and 560 missing persons. The calamity destroyed about 430 megawatts of hydropower capacity, 19 bridges, and 40 kilometres of road, while obliterating the vital Gyirong border crossing for Nepal-China trade. This paper discusses the event in the context of available scientific literature on glacial lake outburst floods (GLOFs) and ice–rock avalanches in High Mountain Asia, highlighting that the same Bhote Koshi corridor faced a similar transboundary glacial lake outburst event in 2016, which points to an issue of recurrent and unmitigated risk. The study finds there are still gaps in cross-border early detection, information sharing across borders, and infrastructure management based on climate risks, and gives some suggestions for governance and engineering. This study provides an early and organised description of a quickly changing disaster which will be useful for investigators, practitioners in civil defence planning, and policy-makers, but it also notes the limits of this investigation using secondary sources. Keywords: glacier collapse; debris flow; glacial lake outburst flood (GLOF); Himalayan cryospheric hazards; transboundary disaster governance; hydropower vulnerability; Nepal; Tibet Autonomous Region; climate change adaptation",
     "authors": [
-      "Ziye Wang",
-      "Renguang Zuo"
+      "Ajay Bisht"
     ],
     "is_editorial": false,
     "abstract_missing": false,
-    "always_include": true,
+    "always_include": false,
     "score_boost": 0.0,
-    "score": 9.0,
+    "score": 10.0,
     "matched": [
-      "uncertainty quantification"
+      "cryosphere",
+      "glacier",
+      "climate change"
     ],
-    "published": "2026-09-18",
-    "first_seen": "2026-09-19"
+    "published": "2026-09-25",
+    "first_seen": "2026-09-27"
+  },
+  {
+    "title": "Climate-mediated sediment supply and rapid accretion on the coastal Qilihai barrier-dune system (Bohai Sea, China) during the Late Holocene",
+    "journal": "Journal of Sea Research",
+    "source": "openalex:paleoclimate",
+    "url": "https://doi.org/10.1016/j.seares.2026.102745",
+    "doi": "10.1016/j.seares.2026.102745",
+    "abstract": "Understanding how climate modulates coastal barrier-dune evolution through changes in sediment supply and sediment transport remains a major challenge in coastal geomorphology. The Qilihai barrier-dune system, the largest coastal barrier system in the North China, provides an ideal natural archive for examining these interactions because it is directly linked to the development of the Luanhe Fan-delta (LFD). In this study, we reconstruct the evolution of the Qilihai barrier-dune system using newly reported sediment cores integrated with lithofacies analysis, grain-size distributions, micropaleontology, radiocarbon chronology, and previously published stratigraphic records. The results indicate that the Qilihai barrier-dune system likely began to develop during the middle Holocene under the influence of antecedent topography and pre-existing sand bodies. However, limited sediment supply associated with the southwestward position of the Luanhe River restricted substantial barrier growth until approximately 3.6 cal kyr BP, when northeastward migration of the river initiated progradation of the eastern Late Holocene LFD lobe. The resulting increase in fluvial sediment supply accelerated barrier progradation and promoted progressive back-barrier infilling between 2.10 and 1.82 cal kyr BP. During the Little Ice Age (LIA), strengthened East Asian Winter Monsoon winds and enhanced storm activity likely remobilized abundant beach sands across the already infilled back-barrier lagoon, producing rapid dune accretion and widespread burial of lagoon deposits. This study highlights the importance of climate-mediated source-to-sink connectivity in governing the evolution of sediment-rich coastal barrier-dune systems and provides a new analogy for understanding the response of barrier coasts to future climatic and sediment-supply changes.",
+    "authors": [
+      "Xiaoxiao Yu",
+      "Xinyuan Liu",
+      "Zhiwei Zhang",
+      "Aiping Feng",
+      "Jinqing Liu",
+      "Baichuan Duan",
+      "Rucao Li",
+      "Tiegang Li"
+    ],
+    "is_editorial": false,
+    "abstract_missing": false,
+    "always_include": false,
+    "score_boost": 0.0,
+    "score": 10.0,
+    "matched": [
+      "Holocene",
+      "sediment core",
+      "radiocarbon"
+    ],
+    "published": "2026-09-19",
+    "first_seen": "2026-09-27"
+  },
+  {
+    "title": "Model-data synthesis of benthic isotopes suggests a warmer Miocene Climatic Optimum",
+    "journal": "Nature Communications",
+    "source": "openalex:paleoclimate",
+    "url": "https://doi.org/10.1038/s41467-026-77980-5",
+    "doi": "10.1038/s41467-026-77980-5",
+    "abstract": "The Miocene Climatic Optimum (MCO, ~ 15 Ma) offers insights into warm-climate dynamics and future climate change. However, its global warmth magnitude remains uncertain due to limitations in surface and benthic proxy records. Here, we develop long-run Miocene simulations featuring deep-ocean equilibration and water isotope capability, and present a probabilistic inference framework integrating them with a global compilation of benthic foraminiferal δ18O to better constrain the MCO warmth. Our approach yields a maximum likelihood estimate of MCO global mean surface temperature of 7.5∘C above preindustrial, significantly warmer than previous benthic δ18O-based reconstructions, implying a higher MCO-derived estimate of Earth system sensitivity. The corresponding surface temperature field shows among the best agreements with independent surface temperature proxies. This study highlights the importance of deep-ocean equilibration and proxy-model integration for accurately estimating both deep-ocean and surface temperatures, and offers a method applicable to improving global climate reconstructions across other time intervals. Combining long climate-isotope simulations with deep-sea oxygen isotope records, the Miocene Climatic Optimum (15 Ma) is estimated to have been 7.5∘C warmer than preindustrial -- 30% above earlier estimates.",
+    "authors": [
+      "Feng Zhu",
+      "Jiang Zhu",
+      "Weimin Si",
+      "Jared Nirenberg",
+      "Timothy D. Herbert",
+      "Jessica E. Tierney",
+      "R. Paul Acosta",
+      "Natalie Burls",
+      "David G. Evans"
+    ],
+    "is_editorial": false,
+    "abstract_missing": false,
+    "always_include": false,
+    "score_boost": 0.0,
+    "score": 10.0,
+    "matched": [
+      "proxy",
+      "oxygen isotope",
+      "d18O",
+      "Earth system",
+      "climate dynamics",
+      "climate change"
+    ],
+    "published": "2026-09-25",
+    "first_seen": "2026-09-27"
   },
   {
     "title": "CMIP6 data usage: lessons learned from  more than 200 million downloads",
@@ -1660,28 +1796,51 @@
     "first_seen": "2026-09-25"
   },
   {
-    "title": "Squeezed At Both Ends of the Migration: Climate Change, Land Use and Land Cover Change and the Transhumance of the Bakkarwal of Jammu and Kashmir",
-    "journal": "Natural Resources for Human Health",
-    "source": "openalex:cryosphere",
-    "url": "https://doi.org/10.53365/nrfhh.1412",
-    "doi": "10.53365/nrfhh.1412",
-    "abstract": "The Bakkarwal are the principal long-distance nomadic pastoralists of the north-western Indian Himalaya, moving each year between winter ranges in the Shivalik foothills of Jammu and summer pastures above 3,000 m in Kashmir and Ladakh. Their transhumance exposes them to the climate and the land use of three very different landscapes in one annual cycle, yet the evidence on how those landscapes are changing has never been assembled along the migration corridor itself. This paper does so. We harvested published remote-sensing land use and land cover (LULC) change studies, station-based climate trend studies, cryosphere studies and ethnographic and survey research on the Bakkarwal, coded each estimate to the corridor zone in which it lies (winter range, Pir Panjal transit, Kashmir summer range, Ladakh) and standardised LULC change to annual rates. 104 class-level LULC estimates from 15 studies and 134 climate trend values from 29 studies were compiled. Built-up land is expanding in every study (13 of 13 estimates positive, median +4.2% of initial area per year) and horticulture in every Kashmir study (11 of 11 positive, median +1.7% a−1), forest is declining in 16 of 22 estimates, and the grazing-land classes show no consistent direction because valley-floor pasture is being lost while scrub expands on degraded forest. Annual temperature trends are positive in 44 of 45 station values, with night-time warming of +0.3 to +0.8 °C per decade strongest in the Pir Panjal transit zone, and annual precipitation is declining in 16 of 17 station values, most steeply in the summer range. Snow and glacier cover is shrinking in 7 of 8 LULC estimates and by 31% across Jammu and Kashmir since 2000. Survey evidence records a two to three week advance in departure dates, feed supplementation in more than 80% of households and sedentarisation of 14 to 39% of households. Assembled as a seasonal exposure matrix, the evidence shows a system squeezed at both ends: warming and shrinking snow pull the migration earlier while urban and horticultural expansion, fencing and evictions remove the winter range and the unowned transit pastures on which the early season depends. The paper identifies the winter range and the spring ascent, not the alpine pastures, as the segments of the corridor where climate and land-use pressures now coincide, and sets out the data gaps, above all the absence of any LULC change study for Kathua, Samba, Udhampur or Poonch, that must be closed before the corridor can be managed as a whole.",
+    "title": "Iceberg Freshwater Transport Alleviates Future Weakening of Antarctic Bottom Water Formation",
+    "journal": "Geophysical Research Letters",
+    "source": "rss:grl",
+    "url": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2026GL122075?af=R",
+    "doi": "10.1029/2026gl122075",
+    "abstract": "Geophysical Research Letters, Volume 53, Issue 18, 28 September 2026.",
     "authors": [
-      "Jyotirupa Devi"
+      "Jiawei Shi",
+      "Dawei Li"
     ],
     "is_editorial": false,
     "abstract_missing": false,
     "always_include": false,
     "score_boost": 0.0,
-    "score": 7.0,
+    "score": 8.0,
     "matched": [
-      "cryosphere",
-      "glacier",
-      "remote sensing",
-      "climate change"
+      "Antarctic",
+      "iceberg"
     ],
-    "published": "2026-09-11",
-    "first_seen": "2026-09-19"
+    "published": "2026-09-26",
+    "first_seen": "2026-09-27"
+  },
+  {
+    "title": "Listening to Tsunami Waves Induced by Glacier Calving",
+    "journal": "Geophysical Research Letters",
+    "source": "rss:grl",
+    "url": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2026GL125399?af=R",
+    "doi": "10.1029/2026gl125399",
+    "abstract": "Geophysical Research Letters, Volume 53, Issue 18, 28 September 2026.",
+    "authors": [
+      "O. Glowacki",
+      "M. D. Stokes",
+      "G. B. Deane"
+    ],
+    "is_editorial": false,
+    "abstract_missing": false,
+    "always_include": false,
+    "score_boost": 0.0,
+    "score": 8.0,
+    "matched": [
+      "glacier",
+      "calving"
+    ],
+    "published": "2026-09-26",
+    "first_seen": "2026-09-27"
   },
   {
     "title": "Modeling of radiative transfer through cryospheric Earth system: software package SCIATRAN",
@@ -1785,61 +1944,6 @@
     ],
     "published": "2026-09-23",
     "first_seen": "2026-09-24"
-  },
-  {
-    "title": "Ecological and Hydrological Modulation of Land Surface Temperature in the East Asian Monsoon Margin During Pliocene‐Pleistocene Global Cooling",
-    "journal": "Geophysical Research Letters",
-    "source": "rss:grl",
-    "url": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2026GL124338?af=R",
-    "doi": "10.1029/2026gl124338",
-    "abstract": "Geophysical Research Letters, Volume 53, Issue 18, 28 September 2026.",
-    "authors": [
-      "Chen Chen",
-      "Hanzhi Zhang",
-      "Huayu Lu",
-      "Cheng Zhao",
-      "Yuqiang Zeng",
-      "Jian Yu"
-    ],
-    "is_editorial": false,
-    "abstract_missing": false,
-    "always_include": false,
-    "score_boost": 0.0,
-    "score": 6.0,
-    "matched": [
-      "Pliocene"
-    ],
-    "published": "2026-09-18",
-    "first_seen": "2026-09-19"
-  },
-  {
-    "title": "Vegetation and plant resource exploitation during the 8.2 ka event: The mesolithic shell-midden of El Mazo (Asturias, northern Iberia)",
-    "journal": "Journal of Archaeological Science Reports",
-    "source": "openalex:paleoclimate",
-    "url": "https://doi.org/10.1016/j.jasrep.2026.106072",
-    "doi": "10.1016/j.jasrep.2026.106072",
-    "abstract": "El Mazo rock shelter (Asturias, northern Iberia) contains a Mesolithic shell-midden with a high chronological resolution, which offers great possibilities as an empirical scenario to develop palaeoenvironmental research. This study aims to approach vegetation dynamics and the exploitation of plant resources during the Early Holocene in the Cantabrian region and to assess the regional effects of the 8.2 ka cal BP abrupt climate change event. The results presented here are the outcome of archaeobotanical interdisciplinary studies where micro-remains (pollen and spores) and macro-remains (woody and non-woody charred plant remains) analyses have been combined with archaeological information. The main results show the predominance of deciduous forests at the beginning of the Holocene, with oak, birch and hazel as the main species. The units dated around the 8.2 ka cal BP show how vegetation was affected by an arid and cold abrupt climate change, showing a clear decline in arboreal pollen, and an increase of herbs and other elements that indicate degradation processes in oak forests. Regarding forest resources, there was not significant changes, as oak wood was still the most used. However, hazel increased its presence in this period. After the 8.2 ka cal BP event, most of the mesophilous forest taxa and their characteristic floristic courtship recovered to their initial values. Once the period of destabilization caused by the aforementioned abrupt climate change passed, the forest recovered its initial state of equilibrium, showing remarkable resilience in the face of climate disruption.",
-    "authors": [
-      "Sara Núñez de la Fuente",
-      "Inés López-Dóriga",
-      "Mónica Ruiz-Alonso",
-      "Igor Gutiérrez-Zugasti",
-      "David Cuenca-Solana",
-      "Asier García-Escárzaga",
-      "José Antonio López-Sáez"
-    ],
-    "is_editorial": false,
-    "abstract_missing": false,
-    "always_include": false,
-    "score_boost": 0.0,
-    "score": 6.0,
-    "matched": [
-      "abrupt change",
-      "Holocene",
-      "climate change"
-    ],
-    "published": "2026-09-18",
-    "first_seen": "2026-09-19"
   },
   {
     "title": "Capturing Unseen Spatial Heat Extremes Through Dependence‐Aware Generative Modeling",
@@ -2453,29 +2557,28 @@
     "first_seen": "2026-09-26"
   },
   {
-    "title": "Geodetic glacier mass balance and its hydrological implications in the Upper Indus Basin: Insights into the Karakoram Anomaly",
-    "journal": "Journal of Hydrology Regional Studies",
-    "source": "openalex:cryosphere",
-    "url": "https://doi.org/10.1016/j.ejrh.2026.103975",
-    "doi": "10.1016/j.ejrh.2026.103975",
-    "abstract": "Study Region The Upper Indus River Basin (UIB) is the most vulnerable water tower in High Mountain Asia (HMA), yet its glacier-hydrology interactions remain poorly understood. Study Focus To assess the glacier imprint on streamflow trends and quantify the depletion of non-renewable meltwater, we reconstructed multi-decadal geodetic glacier mass balance ( MB Geodetic ) for 1973–2018 from KH-9 Hexagon imagery, DEMs, and d h products using a photogrammetric-geodetic approach; the resulting fluxes ( ∆ S ) were compared with discharge ( Q ) within a simplified water balance framework. New Hydrological Insights for the Region UIB glaciers remained near equilibrium (−0.06 ± 0.02 m w.e. yr −1 ) yet exhibited pronounced spatiotemporal heterogeneity. Severe ice loss persisted in the Hindu Kush and western Himalaya, where negative Δ S coupled with increasing Q indicates sustained glacier overdraft and high vulnerability. By contrast, the southern Karakoram shifted from a slight gain (+0.82 ± 0.01 Gt yr −1 ) to a moderate deficit (−0.63 ± 0.01 Gt yr −1 ) around 2000, indicating that the \"Karakoram Anomaly\" has weakened and its core has migrated westward. Within the Karakoram, Δ S is decoupled from runoff trends ( Δ S > 0 with increasing Q ; Δ S < 0 with decreasing Q ); streamflow variability therefore stems mainly from non-glacial sources, and vulnerability is correspondingly lower. Non-renewable ice meltwater supplied < 5% of discharge in most sub-basins, and this share fell to ~2% at the UIB outlet, suggesting that glaciers modulate rather than dominate runoff, with the Karakoram buffering glacial overdraft elsewhere.",
+    "title": "Changing Antecedent Land‐Surface Conditions Can Amplify Future Heat Extremes Across New Zealand",
+    "journal": "Geophysical Research Letters",
+    "source": "rss:grl",
+    "url": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2026GL124647?af=R",
+    "doi": "10.1029/2026gl124647",
+    "abstract": "Geophysical Research Letters, Volume 53, Issue 18, 28 September 2026.",
     "authors": [
-      "Xiaojuan Zou",
-      "Yinsheng Zhang",
-      "Haifeng Gao",
-      "Suhaib Bin Farhan"
+      "Nilanjan Debsharma",
+      "Hamish Lewis",
+      "Luke J. Harrington",
+      "Peter B. Gibson"
     ],
     "is_editorial": false,
     "abstract_missing": false,
     "always_include": false,
     "score_boost": 0.0,
-    "score": 5.0,
+    "score": 6.0,
     "matched": [
-      "glacier",
-      "meltwater"
+      "heat extreme"
     ],
-    "published": "2026-09-18",
-    "first_seen": "2026-09-19"
+    "published": "2026-09-26",
+    "first_seen": "2026-09-27"
   },
   {
     "title": "Diffusion-Based Super-Resolution of Adriatic Sea Oceanographic Fields",
@@ -2701,80 +2804,32 @@
     "first_seen": "2026-09-26"
   },
   {
-    "title": "Stratospheric wave predictability enhances surface forecasts over North America",
-    "journal": "Science Advances",
-    "source": "rss:sciadv",
-    "url": "https://www.science.org/doi/abs/10.1126/sciadv.aee4171?af=R",
-    "doi": "10.1126/sciadv.aee4171?af=r",
-    "abstract": "Science Advances, Volume 12, Issue 38, September 2026.",
-    "authors": [
-      "Xiuyuan Ding",
-      "Baoqiang Xiang",
-      "Gang Chen",
-      "Liping Wang"
-    ],
-    "is_editorial": false,
-    "abstract_missing": false,
-    "always_include": false,
-    "score_boost": 0.0,
-    "score": 4.0,
-    "matched": [
-      "predictability"
-    ],
-    "published": null,
-    "first_seen": "2026-09-19"
-  },
-  {
-    "title": "Land Tenure and Resilience in Early Iron Age northern Denmark investigated using high-definition dating",
-    "journal": "Journal of Archaeological Science Reports",
+    "title": "Electron probe microanalysis of extremely fine‐grained tephras: new protocols and insights for analyses at the 1 μm scale",
+    "journal": "Journal of Quaternary Science",
     "source": "openalex:paleoclimate",
-    "url": "https://doi.org/10.1016/j.jasrep.2026.106074",
-    "doi": "10.1016/j.jasrep.2026.106074",
-    "abstract": "The Early Iron Age in southern Scandinavia is often seen as a period of landscape degradation and unsustainable economic practices: Celtic fields expand and the open land with heath and grass pasture reaches a peak, sometimes with episodes of sand drift. However, past land tenure may have been more resilient than such conceptualisations imply. At Aalborg Barracks, northern Jutland, Denmark, an Early Iron Age landscape with Celtic fields, a fence, and contemporary farmsteads were uniquely well-preserved, having been sealed by aeolian drift sand in the 3 rd century BCE. The site provided a rare opportunity to investigate questions of land tenure resilience. During excavation, a palaeoecological sampling strategy, including pollen- and macrofossil analysis, was applied together with a new approach in coupled-dating methods combining optically stimulated luminescence profiling and dating, radiocarbon dates, and Bayesian age modelling. The results point to a landscape dominated by livestock grazing, with an extensive and highly diversified use pattern, based on rotation, fallowing, cultivation and prescribed burning, with indications of both in situ and applied manuring. We show that banks formed gradually c. 750-250 BCE and were part of a dynamic use pattern of often short-lived field plots with long periods of fallow. Our study suggests that Celtic fields in northern Jutland were rooted in a highly complex, specialised, dynamic and diversified landscape use. Agricultural practices may have contributed to local episodes of sand drifting, but overall, the land tenure regime of the Celtic field systems appears low intensity and resilient.",
+    "url": "https://doi.org/10.1002/jqs.70117",
+    "doi": "10.1002/jqs.70117",
+    "abstract": "ABSTRACT Volcanic ash (tephra) provides an important chronostratigraphic framework for correlating Quaternary records. In ultra‐distal (1500 km) settings such as ice cores and marine sediments, deposits are typically preserved as cryptotephra composed of glass shards m. This poses challenges for accurate geochemical characterization as conventional EPMA–WDS methods require beam diameters of m to limit alkali migration, restricting their application to extremely fine‐grained tephra. Here, we develop and evaluate a quantitative m/1 nA EPMA–WDS method for cryptotephra analysis. Analyses of basaltic to rhyolitic glass standards demonstrate that accurate results are achieved when beam‐sensitive elements are measured early, spectrometer configuration is optimized, and count times are systematically determined by element. Under these conditions, major‐element concentrations deviate by 3% for oxides 1 wt.% and 10% for oxides 1 wt.%, with improved precision relative to existing small‐beam approaches. We validate the m/1 nA method by analyzing cryptotephra from the 1831 CE Zavaritskii eruption (NGRIP1 ice core), producing results indistinguishable from conventional m EPMA–WDS analyses conducted across multiple laboratories. This m EPMA–WDS method extends major‐element analysis to the smallest measurable cryptotephra shards, enabling robust correlation of ultra‐distal archives with their proximal volcanic sources and strengthening the global tephrochronological framework.",
     "authors": [
-      "Karen Povlsen",
-      "Tim Kinnaird",
-      "Mette Løvschal",
-      "Morten Fischer Mortensen",
-      "Jesper Olsen",
-      "Peter Steen Henriksen",
-      "Marie Kanstrup",
-      "Søren Munch Kristiansen"
+      "C. R. Smith",
+      "William R. Hutchison",
+      "Iris Buisman",
+      "Sally Law",
+      "Ian T. Lawson",
+      "Richard T. Streeter",
+      "Andrea Burke"
     ],
     "is_editorial": false,
     "abstract_missing": false,
     "always_include": false,
     "score_boost": 0.0,
-    "score": 4.0,
+    "score": 5.0,
     "matched": [
-      "radiocarbon",
-      "Bayesian"
+      "Quaternary",
+      "ice core"
     ],
-    "published": "2026-09-18",
-    "first_seen": "2026-09-19"
-  },
-  {
-    "title": "Physical processes to cause the seasonal change of the sea surface temperature in the equatorial Atlantic",
-    "journal": "Journal of Climate",
-    "source": "openalex:0894-8755",
-    "url": "https://doi.org/10.1175/jcli-d-25-0607.1",
-    "doi": "10.1175/jcli-d-25-0607.1",
-    "abstract": "Abstract The physical mechanisms governing the seasonal cycle of sea surface temperature (SST) in the equatorial Atlantic are investigated, with particular emphasis on the rapid cooling period from April to July. Using mixed layer and subsurface heat budget analyses based on reanalysis data, we identify pronounced zonal contrasts in the dominant processes controlling SST variability. In the western region, surface heat fluxes, including the solar radiation flux (SRF) and latent heat flux (LHF), dominate the seasonal cycle of SST. In contrast, in the eastern region, the vertical diffusion at the base of the mixed layer contributes comparably to the LHF. The seasonal modulation of these processes is strongly influenced by the mixed layer depth (MLD) variations, which alter the mixed layer heat capacity and regulated the response of SST to surface forcing and subsurface heat exchange. In the eastern region, the enhanced vertical diffusion is linked to both MLD variation and changes in the vertical temperature gradient at the bottom of the mixed layer. Subsurface cooling begins earlier than surface cooling and is primarily associated with upwelling below the mixed layer. This subsurface cooling strengthens the vertical temperature gradient and provides an additional contribution to the enhanced vertical diffusion during the cooing period. These results demonstrate how the seasonally evolving mixed layer and subsurface jointly shape the asymmetric seasonal cycle of SST in the equatorial Atlantic.",
-    "authors": [
-      "Ling Qin",
-      "Masanori Konda"
-    ],
-    "is_editorial": false,
-    "abstract_missing": false,
-    "always_include": false,
-    "score_boost": 0.0,
-    "score": 4.0,
-    "matched": [
-      "sea surface temperature",
-      "reanalysis"
-    ],
-    "published": "2026-09-18",
-    "first_seen": "2026-09-19"
+    "published": "2026-09-25",
+    "first_seen": "2026-09-27"
   },
   {
     "title": "The 2025–2026 Iberian Atmospheric Rivers Exhibited Moisture Transport Resembling the Early SSP5‐8.5 Climate Response",
@@ -3194,87 +3249,51 @@
     "first_seen": "2026-09-26"
   },
   {
-    "title": "Thermal and Structural Signatures Associated With Subducted Seamounts in Hyuga‐nada and Off Cape Muroto, Southwest Japan",
-    "journal": "JGR Solid Earth",
-    "source": "rss:jgr-solidearth",
-    "url": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2026JB034209?af=R",
-    "doi": "10.1029/2026jb034209",
-    "abstract": "Journal of Geophysical Research: Solid Earth, Volume 131, Issue 9, September 2026.",
+    "title": "The Coriolis Effects in Parameterization of Atmospheric Turbulence and Convection",
+    "journal": "JAMES",
+    "source": "rss:james",
+    "url": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2026MS005833?af=R",
+    "doi": "10.1029/2026ms005833",
+    "abstract": "Journal of Advances in Modeling Earth Systems, Volume 18, Issue 9, September 2026.",
     "authors": [
-      "Masataka Kinoshita",
-      "Kazuya Shiraishi",
-      "Yoshitaka Hashimoto",
-      "Yohei Hamada",
-      "Rie Nakata"
+      "Hing Ong",
+      "Vincent E. Larson"
     ],
     "is_editorial": false,
     "abstract_missing": false,
     "always_include": false,
     "score_boost": 0.0,
-    "score": 3.0,
+    "score": 4.0,
     "matched": [
-      "solid earth"
+      "parameterization"
     ],
-    "published": "2026-09-18",
-    "first_seen": "2026-09-19"
+    "published": "2026-09-26",
+    "first_seen": "2026-09-27"
   },
   {
-    "title": "MioMG: Reconstructing robust ocean temperatures from Miocene foraminiferal Mg/Ca records",
-    "journal": "Earth System Science Data",
-    "source": "rss:essd",
-    "url": "https://doi.org/10.5194/essd-2026-697",
-    "doi": "10.5194/essd-2026-697",
-    "abstract": "Preprint under review for ESSD (discussion: open, 0 comments) From 23.0 and 5.3 Million years ago (Miocene epoch), atmospheric carbon dioxide levels were similar to those projected for the future. To assess their impact on global climate, it is crucial to robustly reconst ocean temperatures using proxies, such as the magnesium-to-calcium (Mg/Ca) ratio in microfossils called foraminifera. Here we reevaluate global Miocene foraminiferal Mg/Ca records, and use revised calibrations to recalculate, assessing uncertainties, upper and deep ocean temperatures.",
+    "title": "First finding of Icelandic tephra in Czechia: Vedde Ash identified in palaeolake sediments of Stará Jímka",
+    "journal": "Journal of Quaternary Science",
+    "source": "openalex:paleoclimate",
+    "url": "https://doi.org/10.1002/jqs.70120",
+    "doi": "10.1002/jqs.70120",
+    "abstract": "ABSTRACT In this study, we report the first documented occurrence of the Icelandic Vedde Ash (VA) in the Bohemian Forest, identified within palaeolake sediments from Stará Jímka, Czechia, representing the first Icelandic tephra layer identified in Czechia. As part of ongoing efforts to close existing tephrochronological gaps in Eastern Central Europe, two parallel lacustrine sediment cores were investigated for the presence of cryptotephra layers. Two discrete tephra horizons were identified: one corresponding to the previously reported Laacher See Tephra (~13 ka BP) and a second layer (found in both cores) that we attribute to the VA (~12 ka BP) based on combined stratigraphic, chronological and geochemical evidence. These layers constitute key chronostratigraphic markers and together establish a robust chronological framework for correlating and dating Late Glacial sedimentary archives across Central and Northern Europe. In addition, the identification of the VA in the Bohemian Forest has the potential to support independent evaluation of Greenland–Europe climate and ecosystem coupling, substantially improving the spatial tephrochronological coverage and addressing a major gap in Eastern Central Europe.",
     "authors": [
-      "Sindia M. Sosdian",
-      "Karlos G. D. Kochhann",
-      "Anya V. Hess",
-      "Clara Bolton",
-      "Anna Joy Drury",
-      "Emily J. Judd",
-      "Wolfgang Kuhnt",
-      "Caroline H. Lear",
-      "Paul Minton",
-      "Alexandra Auderset",
-      "Sevasti Modestou",
-      "Ann Holbourn"
+      "Verena S. Meier",
+      "Simon A. Larsson",
+      "Martin Ráček",
+      "Daniel Vondrák"
     ],
     "is_editorial": false,
     "abstract_missing": false,
     "always_include": false,
     "score_boost": 0.0,
-    "score": 3.0,
+    "score": 4.0,
     "matched": [
-      "proxy",
-      "foraminifera"
+      "Greenland",
+      "sediment core"
     ],
-    "published": "2026-09-18",
-    "first_seen": "2026-09-19"
-  },
-  {
-    "title": "Enhanced Efficacy Contributes to Tropical Cyclone Intensification in Warmer Climates via Stronger Storm-Scale Radiative Feedbacks",
-    "journal": "Journal of Climate",
-    "source": "openalex:0894-8755",
-    "url": "https://doi.org/10.1175/jcli-d-25-0570.1",
-    "doi": "10.1175/jcli-d-25-0570.1",
-    "abstract": "Abstract Tropical cyclones (TCs) are expected to intensify in a warming climate as sea surface temperatures (SSTs) rise. Potential intensity (PI), the thermodynamic upper limit on storm strength, has long been used to assess how environmental conditions constrain TC intensity. However, a storm’s realized strength also depends on the efficacy in approaching its PI. Using a high-resolution (25 km) global TC-permitting model, we show that uniform SST warming strengthens TCs through concurrent increases in PI and efficacy, leading to a substantial rise in the frequency of Category 3–5 storms. The increased efficacy persists even when changes in wind shear and ventilation effects are accounted for, indicating that changes in TC ventilation are not a primary driver of this response. Instead, the enhanced efficacy is associated with stronger coupling between radiation and moist static energy at the storm scale. This combined increase in thermodynamic limits and storm-level efficacy underscores the importance of considering both PI and efficacy when projecting future TC risks, as focusing on PI alone may underestimate the degree of intensification under warming. Storm-level radiative feedbacks should therefore be incorporated into projections to improve the predictability of TC intensity responses to climate change and variability.",
-    "authors": [
-      "Bosong Zhang",
-      "Brian J. Soden",
-      "Gabriel Vecchi",
-      "Wenchang Yang"
-    ],
-    "is_editorial": false,
-    "abstract_missing": false,
-    "always_include": false,
-    "score_boost": 0.0,
-    "score": 3.0,
-    "matched": [
-      "predictability",
-      "climate change"
-    ],
-    "published": "2026-09-18",
-    "first_seen": "2026-09-19"
+    "published": "2026-09-25",
+    "first_seen": "2026-09-27"
   },
   {
     "title": "Magnetic Dual‐Layer Equivalent Sources on the Sphere",
@@ -3806,6 +3825,110 @@
     ],
     "published": "2026-09-24",
     "first_seen": "2026-09-26"
+  },
+  {
+    "title": "Poromechanics of Particle Remobilization and Interface Stiffness of Dynamically Stressed Fractured Rock",
+    "journal": "JGR Solid Earth",
+    "source": "rss:jgr-solidearth",
+    "url": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025JB033653?af=R",
+    "doi": "10.1029/2025jb033653",
+    "abstract": "Journal of Geophysical Research: Solid Earth, Volume 131, Issue 9, September 2026.",
+    "authors": [
+      "Clay E. Wood",
+      "Jacques Rivière",
+      "Derek Elsworth",
+      "Chris Marone",
+      "Parisa Shokouhi"
+    ],
+    "is_editorial": false,
+    "abstract_missing": false,
+    "always_include": false,
+    "score_boost": 0.0,
+    "score": 3.0,
+    "matched": [
+      "solid earth"
+    ],
+    "published": "2026-09-27",
+    "first_seen": "2026-09-27"
+  },
+  {
+    "title": "Hydrogen‐Induced Volume Expansion in Hexagonal Close‐Packed Iron: Effects of Pressure, Temperature, and Crystal Structure",
+    "journal": "JGR Solid Earth",
+    "source": "rss:jgr-solidearth",
+    "url": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2026JB034491?af=R",
+    "doi": "10.1029/2026jb034491",
+    "abstract": "Journal of Geophysical Research: Solid Earth, Volume 131, Issue 9, September 2026.",
+    "authors": [
+      "Yuichiro Mori",
+      "Masahiro Takano",
+      "Hiroyuki Kagi",
+      "Katsutoshi Aoki",
+      "Sho Kakizawa",
+      "Noriyoshi Tsujino",
+      "Yuji Higo"
+    ],
+    "is_editorial": false,
+    "abstract_missing": false,
+    "always_include": false,
+    "score_boost": 0.0,
+    "score": 3.0,
+    "matched": [
+      "solid earth"
+    ],
+    "published": "2026-09-27",
+    "first_seen": "2026-09-27"
+  },
+  {
+    "title": "Microscale Hyperspectral Mapping of a Kilometer of Mantle Rocks: Insights Into Low‐Temperature Serpentinization Systems From the Oman Drilling Program Cores",
+    "journal": "JGR Solid Earth",
+    "source": "rss:jgr-solidearth",
+    "url": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2026JB034350?af=R",
+    "doi": "10.1029/2026jb034350",
+    "abstract": "Journal of Geophysical Research: Solid Earth, Volume 131, Issue 9, September 2026.",
+    "authors": [
+      "Lucia Mandon",
+      "Bethany L. Ehlmann",
+      "Rebecca N. Greenberger",
+      "Eric T. Ellison",
+      "Lisa E. Mayhew",
+      "Alexis S. Templeton"
+    ],
+    "is_editorial": false,
+    "abstract_missing": false,
+    "always_include": false,
+    "score_boost": 0.0,
+    "score": 3.0,
+    "matched": [
+      "solid earth"
+    ],
+    "published": "2026-09-27",
+    "first_seen": "2026-09-27"
+  },
+  {
+    "title": "Acoustic Wave Signatures of Earthquake Rupture Dynamics in the Upper Atmosphere",
+    "journal": "JGR Solid Earth",
+    "source": "rss:jgr-solidearth",
+    "url": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025JB033013?af=R",
+    "doi": "10.1029/2025jb033013",
+    "abstract": "Journal of Geophysical Research: Solid Earth, Volume 131, Issue 9, September 2026.",
+    "authors": [
+      "Y. Kaneko",
+      "P. A. Inchin",
+      "Y. Nozuka",
+      "R. Sabatini",
+      "R. Enomoto",
+      "J. B. Snively"
+    ],
+    "is_editorial": false,
+    "abstract_missing": false,
+    "always_include": false,
+    "score_boost": 0.0,
+    "score": 3.0,
+    "matched": [
+      "solid earth"
+    ],
+    "published": "2026-09-27",
+    "first_seen": "2026-09-27"
   },
   {
     "title": "Evaluation of the LandscapeDNDC model for drained peatland forest managements, LDNDC v1.35.2 (revision 11434)",
