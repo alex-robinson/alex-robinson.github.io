@@ -90,6 +90,37 @@
     "first_seen": "2026-09-26"
   },
   {
+    "title": "Dynamic thinning and grounding line retreat in Porpoise Bay, Wilkes Land, East Antarctica",
+    "journal": "The Cryosphere",
+    "source": "rss:tc",
+    "url": "https://doi.org/10.5194/tc-20-5509-2026",
+    "doi": "10.5194/tc-20-5509-2026",
+    "abstract": "Parts of the East Antarctic Ice Sheet rest on a bed below sea level, making them vulnerable to ice dynamic changes and instability, but few glaciers have been studied in detail. Here we report on glaciers draining into Porpoise Bay, Wilkes Land, overlying the Aurora Subglacial Basin. We find ice surface thinning, grounding line retreat and ice surface velocity increase over recent decades, consistent with warm ocean waters intrusion. This highlights this region's vulnerability to future warming.",
+    "authors": [
+      "Matilda Weatherley",
+      "Chris R. Stokes",
+      "Stewart S. R. Jamieson",
+      "Sindhu Ramanath",
+      "Alessandro Silvano"
+    ],
+    "is_editorial": false,
+    "abstract_missing": false,
+    "always_include": true,
+    "score_boost": 0.0,
+    "score": 28.0,
+    "matched": [
+      "ice sheet",
+      "grounding line",
+      "subglacial",
+      "glacier",
+      "Antarctic",
+      "Antarctica",
+      "sea level"
+    ],
+    "published": "2026-09-28",
+    "first_seen": "2026-09-29"
+  },
+  {
     "title": "Finite Viscoelastic Modeling of Ice Shelves Using Glen's Flow Law and Depth‐Dependent Material Properties",
     "journal": "PAMM",
     "source": "openalex:cryosphere",
@@ -181,34 +212,6 @@
     ],
     "published": "2026-09-25",
     "first_seen": "2026-09-27"
-  },
-  {
-    "title": "Ensemble simulation of the Last Glacial Maximum marine biogeochemistry and atmospheric pCO2 drawdown due to the soft-tissue biological carbon pump",
-    "journal": "Earth System Dynamics",
-    "source": "rss:esd",
-    "url": "https://doi.org/10.5194/esd-17-1277-2026",
-    "doi": "10.5194/esd-17-1277-2026",
-    "abstract": "We aim to investigate the variability and drivers of atmospheric pCO2 drawdown during the Last Glacial Maximum using an ensemble of model simulations. Our ensemble explores the effects of parameter uncertainty and different forcing scenarios on marine biogeochemistry and pCO2. We show that changes in ocean circulation, nutrient utilization, and iron availability regulate the efficiency of the biological carbon pump, accounting for a substantial portion of the glacial–interglacial pCO2 change.",
-    "authors": [
-      "Chia-Te Chien",
-      "Markus Pahlow",
-      "Christopher J. Somes",
-      "Markus Schartau",
-      "Andreas Oschlies"
-    ],
-    "is_editorial": false,
-    "abstract_missing": false,
-    "always_include": false,
-    "score_boost": 0.0,
-    "score": 20.0,
-    "matched": [
-      "ocean circulation",
-      "last glacial maximum",
-      "interglacial",
-      "ensemble"
-    ],
-    "published": "2026-09-21",
-    "first_seen": "2026-09-21"
   },
   {
     "title": "Fifteen years of regional climate downscaling in CORDEX-Australasia",
@@ -619,30 +622,31 @@
     "first_seen": "2026-09-26"
   },
   {
-    "title": "The history of ground ice formation and intra-permafrost fluid flow as documented by Ra and Th isotopes",
-    "journal": "The Cryosphere",
-    "source": "rss:tc",
-    "url": "https://doi.org/10.5194/tc-20-5303-2026",
-    "doi": "10.5194/tc-20-5303-2026",
-    "abstract": "We investigated the residence time of ground ice in the Svalbard permafrost. Marked variations in salinity and the chemical composition were found in three proximal cores. Radioactive Ra and Th isotopes suggest that while some ice has a residence time of several thousands years, the more saline samples show lower long-to-short-lived Ra ratios, implying a residence time under 100 years. This indicates active within-permafrost flow, which highlights the system's resilience to global warming.",
+    "title": "An Ensemble Kalman Smoother for Online Paleoclimate Data Assimilation",
+    "journal": "JAMES",
+    "source": "rss:james",
+    "url": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025MS005730?af=R",
+    "doi": "10.1029/2025ms005730",
+    "abstract": "Journal of Advances in Modeling Earth Systems, Volume 18, Issue 10, October 2026.",
     "authors": [
-      "Dotan Rotem",
-      "Yishai Weinstein",
-      "Yehudit Harlavan",
-      "Adi Torfstein",
-      "Hanne Hvidtfeldt Christiansen"
+      "Haohao Sun",
+      "Lili Lei",
+      "Zhe‐Min Tan",
+      "Liang Ning",
+      "Zhengyu Liu"
     ],
     "is_editorial": false,
     "abstract_missing": false,
-    "always_include": true,
+    "always_include": false,
     "score_boost": 0.0,
-    "score": 13.0,
+    "score": 14.0,
     "matched": [
-      "permafrost",
-      "global warming"
+      "paleoclimate",
+      "data assimilation",
+      "ensemble"
     ],
-    "published": "2026-09-21",
-    "first_seen": "2026-09-21"
+    "published": "2026-09-28",
+    "first_seen": "2026-09-29"
   },
   {
     "title": "Brief communication: On the potential of dual-coil frequency-domain electromagnetic (FDEM) systems to  detect frozen layers in mountain permafrost environments",
@@ -758,30 +762,6 @@
     ],
     "published": "2026-09-25",
     "first_seen": "2026-09-25"
-  },
-  {
-    "title": "Brief communication: Limitations of medical X-ray computed tomography for estimating ice content in permafrost samples",
-    "journal": "The Cryosphere",
-    "source": "rss:tc",
-    "url": "https://doi.org/10.5194/tc-20-5265-2026",
-    "doi": "10.5194/tc-20-5265-2026",
-    "abstract": "This study assesses the accuracy of medical X-ray computed tomography (CT) for estimating volumetric ice content in permafrost samples. Comparison of 261 cores from northern Canada shows that medical CT systematically underestimates ice in sediment-rich samples and overestimates it in organic-rich ones due to resolution limits and material misclassification. The results highlight medical CT's value for visualizing cryostructures but its limits for quantitative ice estimation.",
-    "authors": [
-      "Mahya Roustaei",
-      "Jonas Darey",
-      "Zakieh Mohammadi",
-      "Daniel Fortier"
-    ],
-    "is_editorial": false,
-    "abstract_missing": false,
-    "always_include": true,
-    "score_boost": 0.0,
-    "score": 12.0,
-    "matched": [
-      "permafrost"
-    ],
-    "published": "2026-09-21",
-    "first_seen": "2026-09-21"
   },
   {
     "title": "Learning Prognostic Variables for AI Convective Parameterizations via Symbolic Distillation",
@@ -1343,6 +1323,63 @@
     "first_seen": "2026-09-28"
   },
   {
+    "title": "Impact of Model Resolution on Antarctic Bottom Water Representation in Coupled Climate Models",
+    "journal": "JGR Oceans",
+    "source": "rss:jgr-oceans",
+    "url": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025JC023640?af=R",
+    "doi": "10.1029/2025jc023640",
+    "abstract": "Journal of Geophysical Research: Oceans, Volume 131, Issue 10, October 2026.",
+    "authors": [
+      "Qi Shu",
+      "Qiang Wang",
+      "Zhaomin Wang",
+      "Yongqiang Yu",
+      "Jiping Liu",
+      "Caili Liu",
+      "Bo An",
+      "Zhenya Song",
+      "Fangli Qiao"
+    ],
+    "is_editorial": false,
+    "abstract_missing": false,
+    "always_include": false,
+    "score_boost": 0.0,
+    "score": 10.0,
+    "matched": [
+      "Antarctic",
+      "coupled climate model"
+    ],
+    "published": "2026-09-29",
+    "first_seen": "2026-09-29"
+  },
+  {
+    "title": "In-situ tracer percolation experiments to quantify the influence of near-surface melting on Svalbard snow signatures",
+    "journal": "The Cryosphere",
+    "source": "rss:tc",
+    "url": "https://doi.org/10.5194/tc-20-5533-2026",
+    "doi": "10.5194/tc-20-5533-2026",
+    "abstract": "The Arctic is warming rapidly, and winter rain-on-snow events are becoming more common. These events can alter snow layers and disturb climate information stored in glaciers. We studied how small rain-on-snow events affect snow structure and water isotopes near Ny-Ålesund, Svalbard. Field experiments show that meltwater flow creates complex features, but isotope changes remain confined to them, meaning seasonal climate signals can still be preserved where enough snow accumulates.",
+    "authors": [
+      "Dorothea Elisabeth Baur",
+      "Andrea Spolaor",
+      "Federico Scoto",
+      "Elizabeth R. Thomas"
+    ],
+    "is_editorial": false,
+    "abstract_missing": false,
+    "always_include": true,
+    "score_boost": 0.0,
+    "score": 10.0,
+    "matched": [
+      "glacier",
+      "Arctic",
+      "surface melt",
+      "meltwater"
+    ],
+    "published": "2026-09-29",
+    "first_seen": "2026-09-29"
+  },
+  {
     "title": "CMIP6 data usage: lessons learned from  more than 200 million downloads",
     "journal": "Geoscientific Model Development",
     "source": "rss:gmd",
@@ -1580,6 +1617,33 @@
     ],
     "published": "2026-09-25",
     "first_seen": "2026-09-25"
+  },
+  {
+    "title": "China regional 3 km downscaling based on residual Corrective Diffusion model",
+    "journal": "Geoscientific Model Development",
+    "source": "rss:gmd",
+    "url": "https://doi.org/10.5194/gmd-19-9235-2026",
+    "doi": "10.5194/gmd-19-9235-2026",
+    "abstract": "This study represents the first application of CorrDiff (Corrective Diffusion), a diffusion-based model, to achieve 3 km resolution statistical downscaling over China by integrating various variables at multiple levels. Through structural improvements to CorrDiff, our methods produce forecasts that outperform the China Meteorological Administration Mesoscale Model for almost all target variables. Our results show that for radar reflectivity prediction, CorrDiff yields more realistic outputs than regression models.",
+    "authors": [
+      "Honglu Sun",
+      "Hao Jing",
+      "Zhixiang Dai",
+      "Sa Xiao",
+      "Wei Xue",
+      "Jian Sun",
+      "Qifeng Lu"
+    ],
+    "is_editorial": false,
+    "abstract_missing": false,
+    "always_include": true,
+    "score_boost": 0.0,
+    "score": 9.0,
+    "matched": [
+      "downscaling"
+    ],
+    "published": "2026-09-29",
+    "first_seen": "2026-09-29"
   },
   {
     "title": "Evaluation of plume rise parameterizations in GEM-MACHv2 with analysis of image data using a deep convolutional neural network",
@@ -1944,33 +2008,6 @@
     "first_seen": "2026-09-27"
   },
   {
-    "title": "Modeling of radiative transfer through cryospheric Earth system: software package SCIATRAN",
-    "journal": "Geoscientific Model Development",
-    "source": "rss:gmd",
-    "url": "https://doi.org/10.5194/gmd-19-8779-2026",
-    "doi": "10.5194/gmd-19-8779-2026",
-    "abstract": "The cryosphere, including snow, ice, and melt ponds, strongly influences how sunlight is reflected and absorbed, affecting climate change. We developed a new version of radiative transfer model SCIATRAN, to better represent these complex surfaces and their interaction with the atmosphere. The model was validated using real measurements and showed good accuracy. These advances help scientists better understand climate processes in polar regions and improve satellite observations.",
-    "authors": [
-      "Linlu Mei",
-      "Vladimir Rozanov",
-      "Alexei Rozanov",
-      "John P. Burrows"
-    ],
-    "is_editorial": false,
-    "abstract_missing": false,
-    "always_include": true,
-    "score_boost": 0.0,
-    "score": 7.0,
-    "matched": [
-      "cryosphere",
-      "polar",
-      "Earth system",
-      "climate change"
-    ],
-    "published": "2026-09-21",
-    "first_seen": "2026-09-21"
-  },
-  {
     "title": "Analysis of trade-offs in urban heat mitigation using a Bayesian Optimization framework for an urban canopy layer model",
     "journal": "arXiv physics.ao-ph",
     "source": "rss:arxiv-ao-ph",
@@ -2071,44 +2108,6 @@
     ],
     "published": "2026-09-28",
     "first_seen": "2026-09-28"
-  },
-  {
-    "title": "Substantial accumulation rates on a glacier avalanche cone from time-lapse photogrammetry and field measurements",
-    "journal": "The Cryosphere",
-    "source": "rss:tc",
-    "url": "https://doi.org/10.5194/tc-20-5327-2026",
-    "doi": "10.5194/tc-20-5327-2026",
-    "abstract": "Avalanches are vital for glacier survival, yet their impact is difficult to quantify. We used low-cost cameras and drones to monitor an avalanche cone in the French Alps for two years. By accounting for ice flow, we found that avalanches can deposit 30 meters of snow annually – 50 times more than normal snowfall. This high-frequency data reveals that these cones fill until reaching a specific steepness, after which new snow slides further down to the base.",
-    "authors": [
-      "Marin Kneib",
-      "Patrick Wagnon",
-      "Laurent Arnaud",
-      "Louise Balmas",
-      "Olivier Laarman",
-      "Bruno Jourdain",
-      "Amaury Dehecq",
-      "Emmanuel Lemeur",
-      "Fanny Brun",
-      "Andrea Kneib-Walter",
-      "Ilaria Santin",
-      "Laurane Charrier",
-      "Thierry Faug",
-      "Giulia Mazzotti",
-      "Antoine Rabatel",
-      "Delphine Six",
-      "Daniel Farinotti"
-    ],
-    "is_editorial": false,
-    "abstract_missing": false,
-    "always_include": true,
-    "score_boost": 0.0,
-    "score": 6.0,
-    "matched": [
-      "ice flow",
-      "glacier"
-    ],
-    "published": "2026-09-21",
-    "first_seen": "2026-09-21"
   },
   {
     "title": "Author Correction: Iceberg-like pyramids in industrially textured silicon enabled 33% efficient perovskite-silicon tandem solar cells",
@@ -2987,73 +2986,6 @@
     "first_seen": "2026-09-28"
   },
   {
-    "title": "Future Redistribution of North Atlantic Tropical Cyclone Risk in Two Contrasting CMIP6 Scenarios",
-    "journal": "Geophysical Research Letters",
-    "source": "rss:grl",
-    "url": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2026GL123424?af=R",
-    "doi": "10.1029/2026gl123424",
-    "abstract": "Geophysical Research Letters, Volume 53, Issue 18, 28 September 2026.",
-    "authors": [
-      "Ratnaksha Lele",
-      "Adam H. Sobel",
-      "Chia‐Ying Lee",
-      "Suzana J. Camargo",
-      "Michael K. Tippett",
-      "Patrick Kelly",
-      "Ted Amdur",
-      "Radovan Drinka"
-    ],
-    "is_editorial": false,
-    "abstract_missing": false,
-    "always_include": false,
-    "score_boost": 0.0,
-    "score": 4.0,
-    "matched": [
-      "CMIP"
-    ],
-    "published": "2026-09-21",
-    "first_seen": "2026-09-21"
-  },
-  {
-    "title": "Accelerated lowland thermokarst development revealed by UAS photogrammetric surveys in the Stordalen mire, Abisko, Sweden",
-    "journal": "The Cryosphere",
-    "source": "rss:tc",
-    "url": "https://doi.org/10.5194/tc-20-5271-2026",
-    "doi": "10.5194/tc-20-5271-2026",
-    "abstract": "This study examines the rate of permafrost degradation, in the form of the transition from intact well-drained palsa to fully thawed and inundated fen at the Stordalen mire, Abisko, Sweden. Across the 14 hectares of the palsa mire, we demonstrate a 10-fold acceleration of the degradation in 2019–2021 compared to previous periods (1970–2014) which might lead to a pool of 12 × 10³ kg of organic carbon exposed annually for the topsoil (23 cm depth).",
-    "authors": [
-      "Maxime Thomas",
-      "Thomas Moenaert",
-      "Julien Radoux",
-      "Baptiste Delhez",
-      "Eléonore du Bois d'Aische",
-      "Maëlle Villani",
-      "Catherine Hirst",
-      "Erik Lundin",
-      "François Jonard",
-      "Sébastien Lambot",
-      "Kristof Van Oost",
-      "Veerle Vanacker",
-      "Matthias B. Siewert",
-      "Carl-Magnus Mörth",
-      "Michael W. Palace",
-      "Ruth K. Varner",
-      "Franklin B. Sullivan",
-      "Christina Herrick",
-      "Sophie Opfergelt"
-    ],
-    "is_editorial": false,
-    "abstract_missing": false,
-    "always_include": true,
-    "score_boost": 0.0,
-    "score": 4.0,
-    "matched": [
-      "permafrost"
-    ],
-    "published": "2026-09-21",
-    "first_seen": "2026-09-21"
-  },
-  {
     "title": "What Is the Observed Sensitivity of Arctic Sea Ice?",
     "journal": "Geophysical Research Letters",
     "source": "rss:grl",
@@ -3505,119 +3437,6 @@
     ],
     "published": "2026-09-23",
     "first_seen": "2026-09-28"
-  },
-  {
-    "title": "Flash energy droughts in solar and wind resources under climate change",
-    "journal": "Nature Climate Change",
-    "source": "rss:nclimate",
-    "url": "https://www.nature.com/articles/s41558-026-02753-3",
-    "doi": "10.1038/s41558-026-02753-3",
-    "abstract": "Nature Climate Change, Published online: 21 September 2026; doi:10.1038/s41558-026-02753-3 Flash energy droughts, rapid drops followed by sustained low wind and solar production, could pose potential challenges to power system operations. Here researchers find that climate change may intensify such events across wind, solar and compound forms.",
-    "authors": [
-      "Yuanyuan Lin",
-      "Dongsheng Zheng",
-      "Dan Tong",
-      "Steven J. Davis",
-      "Zhicong Yin",
-      "Kebin He",
-      "Qiang Zhang"
-    ],
-    "is_editorial": false,
-    "abstract_missing": false,
-    "always_include": false,
-    "score_boost": 0.0,
-    "score": 3.0,
-    "matched": [
-      "climate change"
-    ],
-    "published": null,
-    "first_seen": "2026-09-21"
-  },
-  {
-    "title": "Theoretical Constraints on Tidal Triggering of Slow Earthquakes",
-    "journal": "JGR Solid Earth",
-    "source": "rss:jgr-solidearth",
-    "url": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2026JB033983?af=R",
-    "doi": "10.1029/2026jb033983",
-    "abstract": "Journal of Geophysical Research: Solid Earth, Volume 131, Issue 9, September 2026.",
-    "authors": [
-      "Yishuo Zhou",
-      "Ankit Gupta",
-      "Hideo Aochi",
-      "Alexandre Schubnel",
-      "Satoshi Ide",
-      "Pierpaolo Dubernet",
-      "Harsha S. Bhat"
-    ],
-    "is_editorial": false,
-    "abstract_missing": false,
-    "always_include": false,
-    "score_boost": 0.0,
-    "score": 3.0,
-    "matched": [
-      "solid earth"
-    ],
-    "published": "2026-09-21",
-    "first_seen": "2026-09-21"
-  },
-  {
-    "title": "Phase E: Modulator for Water Distribution and Seismic Low‐Velocity Layers Near 410 km",
-    "journal": "JGR Solid Earth",
-    "source": "rss:jgr-solidearth",
-    "url": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2026JB035256?af=R",
-    "doi": "10.1029/2026jb035256",
-    "abstract": "Journal of Geophysical Research: Solid Earth, Volume 131, Issue 9, September 2026.",
-    "authors": [
-      "Baocun Wang",
-      "Nao Cai",
-      "Duojun Wang",
-      "Rui Zhang",
-      "Junsheng Ma",
-      "Yinan Sun",
-      "Peng Chen",
-      "Sho Kakizawa",
-      "Noriyoshi Tsujino",
-      "Yuji Higo"
-    ],
-    "is_editorial": false,
-    "abstract_missing": false,
-    "always_include": false,
-    "score_boost": 0.0,
-    "score": 3.0,
-    "matched": [
-      "solid earth"
-    ],
-    "published": "2026-09-21",
-    "first_seen": "2026-09-21"
-  },
-  {
-    "title": "Shear Wave Velocity Assessment Offshore Fukushima by Analysis of HVSR From Coda Waves",
-    "journal": "JGR Solid Earth",
-    "source": "rss:jgr-solidearth",
-    "url": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025JB032101?af=R",
-    "doi": "10.1029/2025jb032101",
-    "abstract": "Journal of Geophysical Research: Solid Earth, Volume 131, Issue 9, September 2026.",
-    "authors": [
-      "A. H. Farazi",
-      "Y. Ito",
-      "A. M. Lontsi",
-      "J. Piña‐Flores",
-      "F. J. Sánchez‐Sesma",
-      "E. S. M. Garcia",
-      "M. Shinohara",
-      "R. Hino",
-      "S. Ohyanagi"
-    ],
-    "is_editorial": false,
-    "abstract_missing": false,
-    "always_include": false,
-    "score_boost": 0.0,
-    "score": 3.0,
-    "matched": [
-      "solid earth"
-    ],
-    "published": "2026-09-21",
-    "first_seen": "2026-09-21"
   },
   {
     "title": "A Likelihood‐Free Framework for Seismic Forecasting Models: Application to Incomplete ETAS Model via Simulation‐Based Inference",
@@ -4159,81 +3978,31 @@
     "first_seen": "2026-09-28"
   },
   {
-    "title": "Evaluation of the LandscapeDNDC model for drained peatland forest managements, LDNDC v1.35.2 (revision 11434)",
-    "journal": "Geoscientific Model Development",
-    "source": "rss:gmd",
-    "url": "https://doi.org/10.5194/gmd-19-8815-2026",
-    "doi": "10.5194/gmd-19-8815-2026",
-    "abstract": "Using the process-based model LandscapeDNDC, we successfully simulated the hydrological and carbon-cycle responses of a drained peatland ecosystem under control, rotational forestry and continuous cover forestry management. The developed framework provides a valuable tool for evaluating future management scenarios and supporting the development of forest management strategies aimed at achieving climate neutrality in peatland ecosystems.",
+    "title": "Governments must reconcile dissonant climate assessment approaches",
+    "journal": "Nature Climate Change",
+    "source": "rss:nclimate",
+    "url": "https://www.nature.com/articles/s41558-026-02736-4",
+    "doi": "10.1038/s41558-026-02736-4",
+    "abstract": "Nature Climate Change, Published online: 29 September 2026; doi:10.1038/s41558-026-02736-4 Security analysts and government economists increasingly present policymakers with different pictures of the same climate and nature risk. We argue that governments need a shared way to weigh these assessments, particularly given that under-preparing for a severe, irreversible outcome costs far more than over-preparing.",
     "authors": [
-      "Ahmed Hasan Shahriyer",
-      "David Kraus",
-      "Tiina Markkanen",
-      "Mika Korkiakoski",
-      "Helena Rautakoski",
-      "Suvi Orttenvuori",
-      "Yao Gao",
-      "Henri Kajasilta",
-      "Rüdiger Grote",
-      "Annalea Lohila",
-      "Tuula Aalto"
+      "Paul Behrens",
+      "Jesse F. Abrams",
+      "Hugh Montgomery",
+      "Richard Nugee",
+      "Nathalie Seddon",
+      "Sandy Trust"
     ],
     "is_editorial": false,
     "abstract_missing": false,
-    "always_include": true,
+    "always_include": false,
     "score_boost": 0.0,
-    "score": 2.0,
+    "score": 3.0,
     "matched": [
-      "carbon cycle"
+      "irreversible",
+      "climate change"
     ],
-    "published": "2026-09-21",
-    "first_seen": "2026-09-21"
-  },
-  {
-    "title": "Parameter estimation for land-surface models using Neural Physics",
-    "journal": "Geoscientific Model Development",
-    "source": "rss:gmd",
-    "url": "https://doi.org/10.5194/gmd-19-8801-2026",
-    "doi": "10.5194/gmd-19-8801-2026",
-    "abstract": "This paper uses the Neural Physics approach to determine parameters of a simple land-surface model. We show that we can only obtain a reliable parameter estimation using soil temperature measurements at more than one depth, and that latent and sensible heat fluxes cannot be differentiated. We then apply the inverse model to real urban flux tower data and show that parameters, as well as various heat fluxes, can be reliably estimated using an observed value for the effective surface albedo.",
-    "authors": [
-      "Ruiyue Huang",
-      "Claire E. Heaney",
-      "Maarten van Reeuwijk"
-    ],
-    "is_editorial": false,
-    "abstract_missing": false,
-    "always_include": true,
-    "score_boost": 0.0,
-    "score": 2.0,
-    "matched": [
-      "albedo"
-    ],
-    "published": "2026-09-21",
-    "first_seen": "2026-09-21"
-  },
-  {
-    "title": "Variational Stokes method applied to free surface boundaries  in numerical geodynamical models using the  staggered-grid finite-difference discretisation",
-    "journal": "Geoscientific Model Development",
-    "source": "rss:gmd",
-    "url": "https://doi.org/10.5194/gmd-19-8839-2026",
-    "doi": "10.5194/gmd-19-8839-2026",
-    "abstract": "We developed a new way to model how planetary surfaces rise and sink as the deep interior slowly flows. Existing approaches are either costly or unstable. Our method represents the surface smoothly within a fixed grid, which avoids artificial air layers and numerical problems. Tests show it matches established results while running faster and working in more realistic settings, such as loaded surfaces and global models. This makes simulations of surface evolution more reliable and accessible.",
-    "authors": [
-      "Timothy S. Gray",
-      "Paul J. Tackley",
-      "Taras V. Gerya"
-    ],
-    "is_editorial": false,
-    "abstract_missing": false,
-    "always_include": true,
-    "score_boost": 0.0,
-    "score": 2.0,
-    "matched": [
-      "finite difference"
-    ],
-    "published": "2026-09-21",
-    "first_seen": "2026-09-21"
+    "published": null,
+    "first_seen": "2026-09-29"
   },
   {
     "title": "Numerical modeling on the mechanisms of chlorine chemistry in snowpack and their impact on secondary atmospheric pollution",
@@ -4267,6 +4036,29 @@
     ],
     "published": "2026-09-21",
     "first_seen": "2026-09-23"
+  },
+  {
+    "title": "Effectively assimilate satellite land surface temperature into offline land surface models within ensemble-based assimilation frameworks",
+    "journal": "Geoscientific Model Development",
+    "source": "rss:gmd",
+    "url": "https://doi.org/10.5194/gmd-19-9177-2026",
+    "doi": "10.5194/gmd-19-9177-2026",
+    "abstract": "It is challenging to assimilate land surface temperature (LST) owing to its fast temporally varying nature. This study proposes a scheme by jointly updating the soil temperature and soil moisture. Results show marginal enhancement in LST, yet soil temperature bias over Northeast Asia (NA) drops sharply. Snow temperature and snow depth over NA, and soil moisture in the humid tropics also improve significantly. These consistent improvements demonstrate the effectiveness of the proposed scheme.",
+    "authors": [
+      "Yunhao Fu",
+      "Yongjun Zheng",
+      "Jingjia Luo"
+    ],
+    "is_editorial": false,
+    "abstract_missing": false,
+    "always_include": true,
+    "score_boost": 0.0,
+    "score": 2.0,
+    "matched": [
+      "ensemble"
+    ],
+    "published": "2026-09-28",
+    "first_seen": "2026-09-29"
   },
   {
     "title": "Natural methane emissions feedbacks in MAGICC v. 7.6",
@@ -4618,5 +4410,31 @@
     "matched": [],
     "published": "2026-09-25",
     "first_seen": "2026-09-26"
+  },
+  {
+    "title": "T-REX: the tile-based representation of lateral  exchange processes in ICON-Land",
+    "journal": "Geoscientific Model Development",
+    "source": "rss:gmd",
+    "url": "https://doi.org/10.5194/gmd-19-9203-2026",
+    "doi": "10.5194/gmd-19-9203-2026",
+    "abstract": "The spatial variability in the land surface properties is often not captured by the resolution of land surface models. To overcome this limitation, most models subdivide the grid cells into fractions with homogeneous characteristics, for which the land processes are calculated separately. In reality, the fractions interact via the lateral exchange of water and heat, and the present manuscript details an approach to include these fluxes in the land component of the ICON modeling framework.",
+    "authors": [
+      "Philipp de Vrese",
+      "Tobias Stacke",
+      "Veronika Gayler",
+      "Helena Bergstedt",
+      "Clemens von Baeckmann",
+      "Melanie Thurner",
+      "Christian Beer",
+      "Victor Brovkin"
+    ],
+    "is_editorial": false,
+    "abstract_missing": false,
+    "always_include": true,
+    "score_boost": 0.0,
+    "score": 0.0,
+    "matched": [],
+    "published": "2026-09-29",
+    "first_seen": "2026-09-29"
   }
 ]
