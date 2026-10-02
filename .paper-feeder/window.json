@@ -681,6 +681,68 @@
     "first_seen": "2026-09-30"
   },
   {
+    "title": "Decoded Antarctic snow accumulation history reconciles observed and modeled trends in accumulation and large-scale warming patterns",
+    "journal": "Earth System Dynamics",
+    "source": "rss:esd",
+    "url": "https://doi.org/10.5194/esd-17-1395-2026",
+    "doi": "10.5194/esd-17-1395-2026",
+    "abstract": "Snow accumulation on the Antarctic Ice Sheet could increase with greenhouse warming, storing water that would otherwise raise sea level. Employing multiple Earth system model simulations and reconstructions, we detect a warming-driven increase in accumulation consistent with greenhouse gas forcing, but observations can only be matched if wind and meltwater impacts on large-scale surface warming patterns are accounted for. This implies that predictions ignoring these effects are overconfident.",
+    "authors": [
+      "David P. Schneider",
+      "Ziqi Yin",
+      "Edward Blanchard-Wrigglesworth",
+      "Rajashree Tri Datta",
+      "Zachary I. Espinosa"
+    ],
+    "is_editorial": false,
+    "abstract_missing": false,
+    "always_include": false,
+    "score_boost": 0.0,
+    "score": 19.0,
+    "matched": [
+      "ice sheet",
+      "Antarctic",
+      "meltwater",
+      "sea level",
+      "Earth system model",
+      "Earth system",
+      "greenhouse gas"
+    ],
+    "published": "2026-10-02",
+    "first_seen": "2026-10-02"
+  },
+  {
+    "title": "Gravity topography modeling of the Denman Glacier region using a geostatistical approach",
+    "journal": "The Cryosphere",
+    "source": "rss:tc",
+    "url": "https://doi.org/10.5194/tc-20-5629-2026",
+    "doi": "10.5194/tc-20-5629-2026",
+    "abstract": "Subglacial topography controls how Antarctic ice flows towards the ocean and responds to climate change. In the Denman–Shackleton region, deep valleys connect the ice-sheet interior to the coast. Denman Glacier occupies one of the deepest and could contribute significantly to sea-level rise. Combining new ground-based gravity measurements with airborne data and statistical modelling reveals a more complex landscape than existing maps and a potential vulnerability to unstable retreat.",
+    "authors": [
+      "Mareen Lösing",
+      "Alan Aitken",
+      "Michael Field",
+      "Emma MacKie",
+      "Lu Li"
+    ],
+    "is_editorial": false,
+    "abstract_missing": false,
+    "always_include": true,
+    "score_boost": 0.0,
+    "score": 18.0,
+    "matched": [
+      "ice sheet",
+      "subglacial",
+      "glacier",
+      "Antarctic",
+      "sea level",
+      "sea-level rise",
+      "climate change"
+    ],
+    "published": "2026-10-02",
+    "first_seen": "2026-10-02"
+  },
+  {
     "title": "Climatic and Tectonic Controls on Late Quaternary Fluvial Terrace Development in the Turpan Fold–Thrust Belt, Eastern Tianshan",
     "journal": "Remote Sensing",
     "source": "openalex:paleoclimate",
@@ -792,6 +854,35 @@
     ],
     "published": "2026-09-30",
     "first_seen": "2026-10-01"
+  },
+  {
+    "title": "Impact of blowing snow on the surface radiation balance near the western margin of the Greenland Ice Sheet",
+    "journal": "The Cryosphere",
+    "source": "rss:tc",
+    "url": "https://doi.org/10.5194/tc-20-5609-2026",
+    "doi": "10.5194/tc-20-5609-2026",
+    "abstract": "Strong winds can lift snow into the air, which influences the energy exchange between the surface and the atmosphere. We studied this phenomenon over the Greenland Ice Sheet using observations and a climate model. We found that blowing snow traps heat near the surface like a blanket and reflects incoming sunlight like a mirror. Simulating these processes increases the net energy at the surface and improves model accuracy. Therefore, we recommend including these effects in climate models.",
+    "authors": [
+      "Samuel M. Tax",
+      "Maurice van Tiggelen",
+      "Thirza N. Feenstra",
+      "Paul C. J. P. Smeets",
+      "Srinidhi N. Gadde",
+      "Christiaan T. van Dalum",
+      "Willem Jan van de Berg",
+      "Michiel R. van den Broeke"
+    ],
+    "is_editorial": false,
+    "abstract_missing": false,
+    "always_include": true,
+    "score_boost": 0.0,
+    "score": 15.0,
+    "matched": [
+      "ice sheet",
+      "Greenland"
+    ],
+    "published": "2026-10-01",
+    "first_seen": "2026-10-02"
   },
   {
     "title": "Green Sahara collapse drives Holocene cooling",
@@ -1048,38 +1139,6 @@
     ],
     "published": "2026-09-29",
     "first_seen": "2026-10-01"
-  },
-  {
-    "title": "Glaciers fluctuations during the Lateglacial and the Holocene in Georgian Greater Caucasus from 10 Be moraine dating",
-    "journal": "The Holocene",
-    "source": "openalex:paleoclimate",
-    "url": "https://doi.org/10.1177/09596836261477276",
-    "doi": "10.1177/09596836261477276",
-    "abstract": "Glaciers of the Greater Caucasus are sensitive archives of past climate variability, however little is known about their long-term history. In this study we reconstruct the fluctuations of the Shkhara (42°58′23″N 43°6′0″E) and Namkuami (42°57′57″N 43°7′35″E) glaciers, which were coalescent in the past to form one of the largest glaciated body in the Georgian Caucasus located in the upper Enguri River basin. We combine geomorphological mapping and cosmic-ray exposure dating methods (Beryllium-10) applied to a set of 51 samples from 12 moraines. Results show one moraine dated to the Lateglacial at ~16 ka, five Holocene glacial stages dated to ~5.6, ~2.3, ~1.5, ~1.0 ka, and at least three advances during the Little Ice Age (~0.4–0.5 ka). The absence of Early Holocene moraines suggests smaller glacier extent during this period compared to the Mid/Late-Holocene transition, when the oldest and most extensive Holocene moraines were deposited. The reduced size of the Georgian glaciers during the Early Holocene and the multiphased advances during the Late-Holocene is similar to what is observed on the northern slopes of the Russian Caucasus. The reconstructed chronology provides essential temporal constraints for exploring Holocene environmental change and human-climate interactions in the Caucasus, a key region for Neolithic human expansion and subsequent cultural development.",
-    "authors": [
-      "Vincent Jomelli",
-      "Levan Tielidze",
-      "Joanna Charton",
-      "Andrew N. Mackintosh",
-      "Mikheil Elashvili",
-      "Nicolas Acuña Reyes",
-      "Akaki Nadaraia",
-      "Georges Aumaître",
-      "Karim Keddadouche",
-      "Fawzi Zaïdi"
-    ],
-    "is_editorial": false,
-    "abstract_missing": false,
-    "always_include": false,
-    "score_boost": 0.0,
-    "score": 12.0,
-    "matched": [
-      "glacier",
-      "Holocene",
-      "exposure dating"
-    ],
-    "published": "2026-09-22",
-    "first_seen": "2026-09-24"
   },
   {
     "title": "Trends in south pole particle concentrations imply holocene westerly wind strengthening",
@@ -1534,52 +1593,6 @@
     "first_seen": "2026-09-30"
   },
   {
-    "title": "Divergent deep-sea temperatures in the Pacific and Atlantic during the onset of Antarctic glaciation",
-    "journal": "Nature Geoscience",
-    "source": "rss:ngeo",
-    "url": "https://www.nature.com/articles/s41561-026-02106-x",
-    "doi": "10.1038/s41561-026-02106-x",
-    "abstract": "Nature Geoscience, Published online: 23 September 2026; doi:10.1038/s41561-026-02106-x Deep-sea temperatures in the Pacific Ocean and North Atlantic Ocean responded differently to the expansion of the Antarctic ice sheet at the Eocene–Oligocene transition, according to benthic foraminiferal clumped isotope records.",
-    "authors": [
-      "Victoria E. Taylor",
-      "Alison M. Piasecki",
-      "Eivind O. Straume",
-      "A. Nele Meckler"
-    ],
-    "is_editorial": false,
-    "abstract_missing": false,
-    "always_include": false,
-    "score_boost": 0.0,
-    "score": 9.0,
-    "matched": [
-      "ice sheet",
-      "Antarctic"
-    ],
-    "published": null,
-    "first_seen": "2026-09-24"
-  },
-  {
-    "title": "PR-Smoother: Simulator-Preserving Non-Gaussian Smoothing for Data Assimilation",
-    "journal": "arXiv physics.ao-ph",
-    "source": "rss:arxiv-ao-ph",
-    "url": "https://arxiv.org/abs/2609.26890",
-    "doi": null,
-    "abstract": "arXiv:2609.26890v1 Announce Type: cross Abstract: Many physical data assimilation (DA) workflows require smoothing methods that represent non-Gaussian posteriors over physical state variables, scale to high-dimensional simulators, train from observation windows alone, and remain compatible with calibration of the prescribed simulator. We introduce PR-Smoother, a simulator-preserving amortized smoother designed for this prescribed-simulator DA regime. Its key design principle is to keep the prescribed simulator explicit in both the evidence lower bound and the variational family: rather than learning replacement dynamics or a learned trajectory prior, PR-Smoother learns only future-conditioned corrections around the prescribed rollout. This yields an explicit non-Gaussian smoothing distribution over physical trajectories and supports joint state, parameter, and sensor-bias learning from observations alone. The variational family contains the exact smoother in deterministic and linear-Gaussian limits. Empirically, PR-Smoother captures multimodal posteriors in 4-dimensional Lorenz-96, remains accurate under ambiguous nonlinear observations and process noise in 40-dimensional Lorenz-96, and scales to joint state-parameter-bias inference in 16,384-dimensional Kolmogorov flow.",
-    "authors": [
-      "Yuta Tarumi"
-    ],
-    "is_editorial": false,
-    "abstract_missing": false,
-    "always_include": false,
-    "score_boost": 0.0,
-    "score": 9.0,
-    "matched": [
-      "data assimilation"
-    ],
-    "published": "2026-09-24",
-    "first_seen": "2026-09-24"
-  },
-  {
     "title": "Middle to late Holocene cooling and increased zonal asymmetry in the mid-latitude North Atlantic",
     "journal": "Climate of the Past",
     "source": "rss:cp",
@@ -1735,63 +1748,6 @@
     ],
     "published": "2026-10-01",
     "first_seen": "2026-10-01"
-  },
-  {
-    "title": "Permafrost Detachment Slides: A Distinct High‐Magnitude Permafrost Mass Wasting Process",
-    "journal": "Geophysical Research Letters",
-    "source": "rss:grl",
-    "url": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2026GL124103?af=R",
-    "doi": "10.1029/2026gl124103",
-    "abstract": "Geophysical Research Letters, Volume 53, Issue 18, 28 September 2026.",
-    "authors": [
-      "J. M. Young",
-      "J. van der Sluijs",
-      "S. V. Kokelj",
-      "S. Gruber",
-      "T. Herring",
-      "A. C. A. Rudy",
-      "A. Alvarez",
-      "D. Froese"
-    ],
-    "is_editorial": false,
-    "abstract_missing": false,
-    "always_include": false,
-    "score_boost": 0.0,
-    "score": 8.0,
-    "matched": [
-      "permafrost"
-    ],
-    "published": "2026-09-23",
-    "first_seen": "2026-09-24"
-  },
-  {
-    "title": "Spatial heterogeneity of bottom-water redox evolution in the western Pacific marginal seas since the last deglaciation",
-    "journal": "Deep Sea Research Part I Oceanographic Research Papers",
-    "source": "openalex:paleoclimate",
-    "url": "https://doi.org/10.1016/j.dsr.2026.104757",
-    "doi": "10.1016/j.dsr.2026.104757",
-    "abstract": null,
-    "authors": [
-      "Chenghui Sun",
-      "Yanguang Dou",
-      "Chi Zhang",
-      "Jingyi Cong",
-      "Yong Zhang",
-      "Xi Mei",
-      "Feng Cai",
-      "Yonghua Wu",
-      "Shouye Yang"
-    ],
-    "is_editorial": false,
-    "abstract_missing": true,
-    "always_include": false,
-    "score_boost": 0.0,
-    "score": 8.0,
-    "matched": [
-      "deglaciation"
-    ],
-    "published": "2026-09-19",
-    "first_seen": "2026-09-24"
   },
   {
     "title": "Assessing Earth system responses in mitigation scenarios with activity-driven simulation of carbon dioxide removal",
@@ -2010,31 +1966,6 @@
     "first_seen": "2026-10-01"
   },
   {
-    "title": "A systematic review of biomass and carbon stock estimation approaches: Methods, uncertainties, and emerging opportunities",
-    "journal": "PLOS Climate",
-    "source": "rss:plos-climate",
-    "url": "https://journals.plos.org/climate/article?id=10.1371/journal.pclm.0000935",
-    "doi": "10.1371/journal.pclm.0000935",
-    "abstract": "by Annissa Muhammed Ahmedin Accurate quantification of forest biomass and carbon stocks is essential for understanding terrestrial carbon dynamics, climate change mitigation, and improving forest monitoring and greenhouse gas reporting. However, biomass estimation approaches vary considerably in accuracy, scalability, cost, and uncertainty, creating challenges for selecting appropriate methods across ecosystems and spatial scales. This systematic review synthesizes recent advances in forest biomass and carbon stock estimation and evaluates the strengths, limitations, and future directions of major methodological approaches. Following the Preferred Reporting Items for Systematic Reviews and Meta-Analyses framework, 147 peer-reviewed studies published between 2000 and 2025 were reviewed. The studies encompassed field-based measurements, allometric modelling, remote sensing, machine learning, carbon stock models, and integrated multi-source frameworks. The evidence reveals a clear transition from conventional field inventories toward multi-source approaches that integrate ground observations with optical, radar, and Light Detection and Ranging data, advanced modelling, and artificial intelligence. Field measurements and locally calibrated allometric equations remain indispensable for model development and validation, while remote sensing and machine learning enhance spatial coverage and predictive capability. However, estimation accuracy remains strongly influenced by vegetation structure, environmental conditions, data quality, and model transferability. The review demonstrates that no single approach is universally optimal across all ecosystem conditions. Reliable biomass and carbon stock assessments require integrated frameworks that balance accuracy, scalability, cost, and uncertainty through the complementary use of field observations, remote sensing, and advanced modelling techniques. Future research should prioritize expanding biomass reference datasets in underrepresented regions, strengthening model validation and uncertainty quantification, and developing transparent, ecosystem-specific estimation frameworks. Such advances will improve forest carbon accounting, climate mitigation, and evidence-based forest management.",
-    "authors": [
-      "Annissa Muhammed Ahmedin"
-    ],
-    "is_editorial": false,
-    "abstract_missing": false,
-    "always_include": false,
-    "score_boost": 0.0,
-    "score": 7.0,
-    "matched": [
-      "greenhouse gas",
-      "uncertainty quantification",
-      "machine learning",
-      "remote sensing",
-      "climate change"
-    ],
-    "published": "2026-09-23",
-    "first_seen": "2026-09-24"
-  },
-  {
     "title": "Toward Actionable Predictability of Tropical Mesoscale Convective Systems through Large-scale Recurrent Environments in Northern South America",
     "journal": "arXiv physics.ao-ph",
     "source": "rss:arxiv-ao-ph",
@@ -2158,104 +2089,6 @@
     ],
     "published": "2026-09-30",
     "first_seen": "2026-10-01"
-  },
-  {
-    "title": "Coordinated neural progenitor adaptations contribute to primate neocortical downscaling",
-    "journal": "Science Advances",
-    "source": "rss:sciadv",
-    "url": "https://www.science.org/doi/abs/10.1126/sciadv.aeg5563?af=R",
-    "doi": "10.1126/sciadv.aeg5563?af=r",
-    "abstract": "Science Advances, Volume 12, Issue 39, September 2026.",
-    "authors": [
-      "Lidiia Tynianskaia",
-      "Cesar Mateo Bastidas-Betancourt",
-      "Esther Marie Grewe",
-      "Julia Marie Kniep",
-      "Neringa Liutikaite",
-      "Nesil Esiyok",
-      "İrfan Burak Göloğlu",
-      "Sabrina Heide",
-      "Nancy Rüger",
-      "Dimitri Lindenwald",
-      "Charis Drummer",
-      "Stoyan Petkov",
-      "Nataliya Di Donato",
-      "Michael Heide"
-    ],
-    "is_editorial": false,
-    "abstract_missing": false,
-    "always_include": false,
-    "score_boost": 0.0,
-    "score": 6.0,
-    "matched": [
-      "downscaling"
-    ],
-    "published": null,
-    "first_seen": "2026-09-24"
-  },
-  {
-    "title": "Mapping Glacier Bed Topography in Crevassed Regions: A New Passive Seismic Reflection Method Applied to Isunnguata Sermia, West Greenland",
-    "journal": "Geophysical Research Letters",
-    "source": "rss:grl",
-    "url": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2026GL124881?af=R",
-    "doi": "10.1029/2026gl124881",
-    "abstract": "Geophysical Research Letters, Volume 53, Issue 18, 28 September 2026.",
-    "authors": [
-      "Nicolas Paris",
-      "Florent Gimbert",
-      "Philippe Roux",
-      "Stephen J. Livingstone",
-      "Siobhan F. Killingbeck",
-      "Andrew J. Sole",
-      "Samuel H. Doyle",
-      "Jonathan D. Hawkins",
-      "Matthew W. Peacey",
-      "Adam D. Booth"
-    ],
-    "is_editorial": false,
-    "abstract_missing": false,
-    "always_include": false,
-    "score_boost": 0.0,
-    "score": 6.0,
-    "matched": [
-      "glacier",
-      "Greenland"
-    ],
-    "published": "2026-09-23",
-    "first_seen": "2026-09-24"
-  },
-  {
-    "title": "Polythermal conditions in small glaciers in the Swiss Alps",
-    "journal": "The Cryosphere",
-    "source": "rss:tc",
-    "url": "https://doi.org/10.5194/tc-20-5453-2026",
-    "doi": "10.5194/tc-20-5453-2026",
-    "abstract": "Small Alpine glaciers can exhibit a mix of cold and temperate ice, a polythermal structure, which can promote hazardous conditions. We drilled into six small Swiss glaciers and measured ice temperatures in boreholes. We found polythermal conditions in three of six sites and show that the thermal structure is linked to firn cover loss. Our results suggest that polythermal glaciers may be more common in the Alps than previously recognised.",
-    "authors": [
-      "Janosch Beer",
-      "Mylène Jacquemart",
-      "Matthias Huss",
-      "Ilaria Santin",
-      "Gabriela Clara Racz",
-      "Christophe Ogier",
-      "Saskia Gindraux",
-      "Leo Hösli",
-      "Raphael Moser",
-      "James Irving",
-      "Mauro Fischer",
-      "Daniel Farinotti"
-    ],
-    "is_editorial": false,
-    "abstract_missing": false,
-    "always_include": true,
-    "score_boost": 0.0,
-    "score": 6.0,
-    "matched": [
-      "glacier",
-      "firn"
-    ],
-    "published": "2026-09-23",
-    "first_seen": "2026-09-24"
   },
   {
     "title": "Simulating SAR altimeter echoes from cryospheric surfaces with the Snow Microwave Radiative Transfer (SMRT) model version 1.7",
@@ -2536,65 +2369,105 @@
     "first_seen": "2026-10-01"
   },
   {
-    "title": "Nonuniform Mantle Suture Beneath Northern Tibet Revealed by Helium Isotopes and Attention‐Based Machine Learning: Implications for Crustal Rheology and Growth of the Tibetan Plateau",
-    "journal": "JGR Solid Earth",
-    "source": "rss:jgr-solidearth",
-    "url": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025JB033474?af=R",
-    "doi": "10.1029/2025jb033474",
-    "abstract": "Journal of Geophysical Research: Solid Earth, Volume 131, Issue 9, September 2026.",
+    "title": "Quadrupolar sea level fluctuations reveal episodes of rapid polar wander",
+    "journal": "Science",
+    "source": "rss:science",
+    "url": "https://www.science.org/doi/abs/10.1126/science.aec8423?af=R",
+    "doi": "10.1126/science.aec8423?af=r",
+    "abstract": "Science, Volume 394, Issue 6819, Page 87-90, October 2026.",
     "authors": [
-      "Yingchun Wang",
-      "Xintian Li",
-      "Shuang Liao",
-      "Yi Wang",
-      "Simon Klemperer",
-      "Ji Zhang",
-      "Yinlei Hao",
-      "Jiao Tian",
-      "Yazhou Zhao",
-      "Xiaocheng Zhou",
-      "Dawei Liao",
-      "Yinhui Zuo",
-      "Yanlong Kong",
-      "Zhonghe Pang",
-      "Hikaru Iwamori"
+      "Mathew Domeier",
+      "Leandro C. Gallo",
+      "Chloé M. Marcilly",
+      "Trond H. Torsvik"
     ],
     "is_editorial": false,
     "abstract_missing": false,
     "always_include": false,
     "score_boost": 0.0,
-    "score": 5.0,
+    "score": 6.0,
     "matched": [
-      "solid earth",
-      "machine learning"
+      "polar",
+      "sea level"
     ],
-    "published": "2026-09-22",
-    "first_seen": "2026-09-24"
+    "published": null,
+    "first_seen": "2026-10-02"
   },
   {
-    "title": "Centuries of global heating from Carbon Majors: Dependence on future emissions pathways",
-    "journal": "PLOS Climate",
-    "source": "rss:plos-climate",
-    "url": "https://journals.plos.org/climate/article?id=10.1371/journal.pclm.0001036",
-    "doi": "10.1371/journal.pclm.0001036",
-    "abstract": "by Dargan M. W. Frierson, Lauren A. Henrie A range of recent studies have developed methods and data to attribute past and present global temperature change to individual emitters. We perform simulations that attribute the amount of global warming due to corporations, governments and other entities into the future. We utilize the Finite Amplitude Impulse Response (FaIR) model run until 2500, and the Carbon Majors dataset, a database with the emissions history associated with the top 178 oil, gas, coal, and cement producers. We perform counterfactual experiments to calculate the warming attributable to the emissions associated with these entities, using several different future emissions scenarios. The future atmospheric carbon dioxide (CO 2 ) anomaly attributable to a company’s past emissions is smaller with less ensemble spread in a lower emissions future than it is in a high emissions future. This is due to smaller carbon cycle feedbacks with lower emissions. However, the temperature change from past emissions is larger in a lower emissions future, even with the smaller change in CO 2 . This is due primarily to the logarithmic sensitivity of CO 2 radiative forcing to concentration. Methane concentration post-2080 experiences a negative anomaly, due to a decrease in methane lifetime from elevated temperature, which is a small negative feedback. For any future emissions scenario, the historical emissions from oil, gas, coal, and cement producers affect many aspects of the climate system, including CO 2 in the atmosphere and other parts of the carbon cycle, methane, ozone, and stratospheric water vapor. The total radiative forcing induced by these elements stays positive throughout all simulations, which in turn causes positive temperature perturbations. Thus in addition to the damages that have already occurred, we expect the Carbon Majors to be responsible for calculable climate damages for many centuries into the future.",
+    "title": "Assessing Subseasonal Predictability and Sources of Drought‐Flood Abrupt Alternation Over Eastern China Using ECMWF S2S Ensemble Forecasts",
+    "journal": "JGR Atmospheres",
+    "source": "rss:jgr-atmospheres",
+    "url": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2026JD046625?af=R",
+    "doi": "10.1029/2026jd046625",
+    "abstract": "Journal of Geophysical Research: Atmospheres, Volume 131, Issue 19, 16 October 2026.",
     "authors": [
-      "Dargan M. W. Frierson",
-      "Lauren A. Henrie"
+      "Chunxiang Li",
+      "Wansuo Duan",
+      "Zhe Han"
     ],
     "is_editorial": false,
     "abstract_missing": false,
     "always_include": false,
     "score_boost": 0.0,
-    "score": 5.0,
+    "score": 6.0,
     "matched": [
-      "carbon cycle",
-      "radiative forcing",
-      "ensemble",
-      "global warming"
+      "predictability",
+      "ensemble"
     ],
-    "published": "2026-09-23",
-    "first_seen": "2026-09-24"
+    "published": "2026-10-01",
+    "first_seen": "2026-10-02"
+  },
+  {
+    "title": "AI Emulation of Stochastic Sudden Stratospheric Warming with Interpretable Latent Structure",
+    "journal": "arXiv physics.ao-ph",
+    "source": "rss:arxiv-ao-ph",
+    "url": "https://arxiv.org/abs/2610.02069",
+    "doi": null,
+    "abstract": "arXiv:2610.02069v1 Announce Type: new Abstract: Rare weather regime transitions pose a challenge for data-driven modeling due to class imbalance. In this study, we develop a probabilistic deep learning emulator for a prototypical system with regime transitions, the stochastic Holton--Mass model of stratospheric variability, and analyze the structure of its learned latent space. The Holton--Mass model exhibits two metastable regimes, a strong and a weak polar vortex, maintained by nonlinear wave--mean flow interactions, with weak stochastic forcing intermittently triggering rare transitions between these regimes that qualitatively represent SSW events. We employ a ResNet-inspired Conditional Variational Autoencoder with six-layer encoder and decoder layers and explicit current-state conditioning to model the distribution of the system's state at the next time step (one day). The emulator accurately reproduces short-term dynamics, steady-state probability distributions, regime persistence statistics, rare transition rates, the transition committor function, and the transition expected lead time of the physical model. Beyond emulation fidelity, we interrogate the learned latent representation to understand how the model internalizes the underlying metastable structure of the dynamics. Principal Component Analysis of the 32-dimensional latent space reveals a clear and unsupervised separation into four physically interpretable clusters corresponding to strong versus weak vortex regimes and stable versus transition-prone configurations. Such emergent regime separation in latent space is hard to identify for deep generative models applied to high-dimensional stochastic systems. Our results show that carefully designed probabilistic emulators can uncover physically meaningful manifolds governing extreme-event dynamics, potentially aiding the development of improved operational advanced warning systems.",
+    "authors": [
+      "C. Daniel Boscu",
+      "Daniel Hernandez",
+      "Fabio Alvarez Ventura",
+      "Justin Finkel",
+      "Ashesh Chattopadhyay",
+      "Pedram Hassanzadeh",
+      "Dorian S. Abbot"
+    ],
+    "is_editorial": false,
+    "abstract_missing": false,
+    "always_include": false,
+    "score_boost": 0.0,
+    "score": 6.0,
+    "matched": [
+      "polar",
+      "stochastic forcing",
+      "emulator"
+    ],
+    "published": "2026-10-02",
+    "first_seen": "2026-10-02"
+  },
+  {
+    "title": "Uncertainty Quantification in Forecast Comparisons",
+    "journal": "arXiv physics.ao-ph",
+    "source": "rss:arxiv-ao-ph",
+    "url": "https://arxiv.org/abs/2605.03997",
+    "doi": null,
+    "abstract": "arXiv:2605.03997v2 Announce Type: replace-cross Abstract: Skill scores, which measure the relative improvement of a forecasting method over a benchmark via consistent scoring functions and proper scoring rules, are a standard tool in forecast evaluation, yet their sampling uncertainty is rarely rigorously quantified. With modern forecasting applications being increasingly multivariate and involving evaluations across multiple horizons, variables, spatial locations, and forecasting methods, standard tools like the pairwise Diebold-Mariano forecast accuracy test or pointwise confidence intervals fail to account for the multiple comparison problem, leading to inflated Type I error rates and invalid joint inference. To address the lack of a coherent, statistically rigorous framework for quantifying uncertainty across these multi-dimensional evaluation problems, we introduce simultaneous confidence bands for expected scores and skill scores. Our framework provides a versatile tool for joint inference that is applicable to any forecast type from mean and quantile to full distributional forecasts. We develop a bootstrap implementation and show that our bands are valid under multivariate extensions of the classical Diebold-Mariano assumptions. We demonstrate the practical utility of the approach in two case studies by quantifying the benefits of time-varying parameter models for macroeconomic forecasting, and by comparing data-driven and physics-based models in probabilistic weather forecasting.",
+    "authors": [
+      "Marc-Oliver Pohle",
+      "Tanja Zahn",
+      "Sebastian Lerch"
+    ],
+    "is_editorial": false,
+    "abstract_missing": false,
+    "always_include": false,
+    "score_boost": 0.0,
+    "score": 6.0,
+    "matched": [
+      "uncertainty quantification"
+    ],
+    "published": "2026-10-02",
+    "first_seen": "2026-10-02"
   },
   {
     "title": "Teleseismic Rayleigh Wave Helmholtz Tomography in Northeastern Tibet Using Physics‐Informed Neural Networks",
@@ -2835,37 +2708,6 @@
     ],
     "published": "2026-10-01",
     "first_seen": "2026-10-01"
-  },
-  {
-    "title": "Mechanisms of ENSO‐Modulated Precipitation Seasonality in Southeastern China and Implications for Stalagmite δ18O Records",
-    "journal": "JGR Atmospheres",
-    "source": "rss:jgr-atmospheres",
-    "url": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2026JD047681?af=R",
-    "doi": "10.1029/2026jd047681",
-    "abstract": "Journal of Geophysical Research: Atmospheres, Volume 131, Issue 18, 28 September 2026.",
-    "authors": [
-      "Yueer Li",
-      "Haiwei Zhang",
-      "Ashish Sinha",
-      "Hanying Li",
-      "Jiarui Zhang",
-      "Yina Song",
-      "Liangcheng Tan",
-      "Rui Zhang",
-      "Yanjun Cai",
-      "Kefu Yu",
-      "Hai Cheng"
-    ],
-    "is_editorial": false,
-    "abstract_missing": false,
-    "always_include": false,
-    "score_boost": 0.0,
-    "score": 4.0,
-    "matched": [
-      "d18O"
-    ],
-    "published": "2026-09-23",
-    "first_seen": "2026-09-24"
   },
   {
     "title": "Observational Constraints on Sea Salt Contribution to CCN Over the Southern Ocean",
@@ -3477,54 +3319,81 @@
     "first_seen": "2026-10-01"
   },
   {
-    "title": "A hybrid method for winter road surface temperature prediction using improved LSTMs and stacking-based ensemble learning",
-    "journal": "Geoscientific Model Development",
-    "source": "rss:gmd",
-    "url": "https://doi.org/10.5194/gmd-19-9035-2026",
-    "doi": "10.5194/gmd-19-9035-2026",
-    "abstract": "Accurate winter road surface temperature prediction prevents icy‑road accidents. Existing methods either need rare pavement parameters or miss local weather patterns and long‑term trends. This study combines two deep‑learning models to analyse four winters of Jiangsu data. It achieves lower prediction errors in general and outperforms common models at 1, 3 and 6 h horizons. Station‑based features beat external reanalysis data.",
+    "title": "Seasonal to Decadal Patterns in Sea Ice and Turbidity at Arctic River Mouths",
+    "journal": "JGR Oceans",
+    "source": "rss:jgr-oceans",
+    "url": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2026JC024659?af=R",
+    "doi": "10.1029/2026jc024659",
+    "abstract": "Journal of Geophysical Research: Oceans, Volume 131, Issue 10, October 2026.",
     "authors": [
-      "Wanting Li",
-      "Linyi Zhou",
-      "Xianghua Wu",
-      "Yuanhong Guan",
-      "Yuanhao Guo",
-      "Kun Chen",
-      "Weiqi Huang",
-      "Wenqian Zhao"
-    ],
-    "is_editorial": false,
-    "abstract_missing": false,
-    "always_include": true,
-    "score_boost": 0.0,
-    "score": 3.0,
-    "matched": [
-      "reanalysis",
-      "ensemble"
-    ],
-    "published": "2026-09-24",
-    "first_seen": "2026-09-24"
-  },
-  {
-    "title": "Surrogate inference for threshold-derived environmental indices depends on null placement and seasonal event concentration",
-    "journal": "arXiv physics.ao-ph",
-    "source": "rss:arxiv-ao-ph",
-    "url": "https://arxiv.org/abs/2609.27769",
-    "doi": null,
-    "abstract": "arXiv:2609.27769v1 Announce Type: cross Abstract: Threshold-derived environmental indices convert native-resolution variables into event indicators and aggregated counts, but surrogate tests may impose their null constraints either before or after this transformation. We show that these choices define different inferential targets. A threshold--copula representation separates temporal dependence from the seasonal event-probability vector and makes seasonal concentration an explicit experimental coordinate. In a prespecified benchmark of 13,500 short-memory monthly trajectories, an index-resolution marginal-and-spectrum surrogate and a constrained native-resolution surrogate produced strongly asymmetric paired conclusions: 1084 trajectories rejected only at index resolution, compared with 16 only at native resolution. Holding the expected annual event count fixed while concentrating event probability within the seasonal cycle increased index-only discordance from 4.4\\% to 16.2\\%. In an independent experiment, equalizing monthly event probability reduced the corresponding rate from 15.9\\% to 3.9\\%; the mitigation persisted when monthly percentiles were estimated from an independent 30-year reference period. Native-resolution inference was calibrated under the benchmark null but had strongly mechanism-dependent sensitivity: the strongest prespecified history-feedback alternative had a 30.7\\% detection rate under the fixed synthetic gate, with substantially lower sensitivity to a persistent-regime alternative. A Coupled Model Intercomparison Project Phase 6 Amazon dry-month case study was non-discriminating, illustrating why null placement and design-specific detectability should be reported together. The results provide a practical framework for surrogate inference on threshold-derived hydroclimatic and environmental indices.",
-    "authors": [
-      "Mauricio Herrera-Mar\\'in"
+      "E. Tofte",
+      "N. Lumbert",
+      "A. Piliouras"
     ],
     "is_editorial": false,
     "abstract_missing": false,
     "always_include": false,
     "score_boost": 0.0,
-    "score": 3.0,
+    "score": 4.0,
     "matched": [
-      "model intercomparison"
+      "Arctic",
+      "sea ice"
     ],
-    "published": "2026-09-24",
-    "first_seen": "2026-09-24"
+    "published": "2026-10-01",
+    "first_seen": "2026-10-02"
+  },
+  {
+    "title": "Explaining El Ni\\~no Forecasts with the Average Gradient Outer Product",
+    "journal": "arXiv physics.ao-ph",
+    "source": "rss:arxiv-ao-ph",
+    "url": "https://arxiv.org/abs/2610.01095",
+    "doi": null,
+    "abstract": "arXiv:2610.01095v1 Announce Type: new Abstract: An important and unresolved problem in the physical sciences is explaining the predictions made by neural networks. Several explainable artificial intelligence (XAI) methods have been proposed to address this problem, including gradient XAI, Integrated Gradients, and GradientSHAP. We evaluate the baseline XAI methods according to four scores: sensitivity (XAI patterns strongly affect predictions), attribution (XAI patterns reproduce the change in prediction relative to a baseline), robustness (XAI patterns remain stable for nearby inputs), and coherence (XAI patterns are spatially smooth). We also introduce a new method, average gradient outer product (AGOP) XAI, that uses global gradient information to identify an important direction for a specific input. We apply XAI to neural network predictions of the El Ni\\~no-Southern Oscillation (ENSO) based on data from the Zebiak-Cane model. AGOP XAI achieves the highest attribution, robustness, and coherence scores in the architecture and lead-time comparisons reported here. Its sensitivity is surpassed by gradient XAI, which is maximally sensitive by definition. Beyond diagnosing neural-network behavior, AGOP XAI can generate candidate hypotheses about physical mechanisms. The method highlights an equatorial thermocline-depth signal consistent with recharge oscillator physics, together with a southeastern-Pacific lobe that may be specific to the Zebiak-Cane model. Finally, we test the physical relevance of AGOP using optimized perturbations that move the Zebiak-Cane model along AGOP explanation coordinates. Such perturbations can suppress the selected extreme events or, from a near-neutral ensemble, generate strong El Ni\\~no or La Ni\\~na events 10 months later.",
+    "authors": [
+      "Yuan Hui",
+      "Dorian S. Abbot",
+      "Robert J. Webber"
+    ],
+    "is_editorial": false,
+    "abstract_missing": false,
+    "always_include": false,
+    "score_boost": 0.0,
+    "score": 4.0,
+    "matched": [
+      "ensemble",
+      "neural network",
+      "extreme event"
+    ],
+    "published": "2026-10-02",
+    "first_seen": "2026-10-02"
+  },
+  {
+    "title": "From trends to optimized forecasts: Quantifying the skill and advancing the utility of dynamics-based early warnings for tipping events",
+    "journal": "arXiv physics.ao-ph",
+    "source": "rss:arxiv-ao-ph",
+    "url": "https://arxiv.org/abs/2610.01677",
+    "doi": null,
+    "abstract": "arXiv:2610.01677v1 Announce Type: cross Abstract: In this paper we explore and extend the state of the art for understanding the skill and utility of early warnings of critical transitions (tipping points) in forced nonlinear systems. We highlight some of the challenges and opportunities of transforming estimates of a dynamics-based early warning system, based on trends in stability or resilience into forecasts with high skill. We highlight the importance of (a) quantifying consequences of possible actions in response to warnings that may be false negatives or positives (b) considering finite time horizon predictions to give verifiable predictions (c) assumptions necessary for valid extrapolations of trends. We evaluate approaches to improving the skill and utility of the forecast.",
+    "authors": [
+      "Franco Du Plessis",
+      "Victoria Volodina",
+      "Chris A. Boulton",
+      "Muhammed Fadera",
+      "Sneha Kachhara",
+      "Timothy M. Lenton",
+      "Paul D. L. Ritchie",
+      "Peter Ashwin"
+    ],
+    "is_editorial": false,
+    "abstract_missing": false,
+    "always_include": false,
+    "score_boost": 0.0,
+    "score": 4.0,
+    "matched": [
+      "tipping point"
+    ],
+    "published": "2026-10-02",
+    "first_seen": "2026-10-02"
   },
   {
     "title": "Resolving Sub‐Kilometer Cascading Ruptures of Moderate Earthquakes With Distributed Acoustic Sensing",
@@ -4245,6 +4114,55 @@
     "first_seen": "2026-10-01"
   },
   {
+    "title": "Stress Field and Mantle Flow Patterns in the Ryukyu Subduction Zone From a New Moment Tensor Catalog",
+    "journal": "JGR Solid Earth",
+    "source": "rss:jgr-solidearth",
+    "url": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2026JB034294?af=R",
+    "doi": "10.1029/2026jb034294",
+    "abstract": "Journal of Geophysical Research: Solid Earth, Volume 131, Issue 10, October 2026.",
+    "authors": [
+      "Pei‐Ru Jian",
+      "Ya‐Ju Hsu",
+      "Tai‐Lin Tseng",
+      "Chi‐Hsien Tang"
+    ],
+    "is_editorial": false,
+    "abstract_missing": false,
+    "always_include": false,
+    "score_boost": 0.0,
+    "score": 3.0,
+    "matched": [
+      "solid earth"
+    ],
+    "published": "2026-10-02",
+    "first_seen": "2026-10-02"
+  },
+  {
+    "title": "Effects of climate change on menstrual health and hygiene: A global mixed-methods systematic review",
+    "journal": "PLOS Climate",
+    "source": "rss:plos-climate",
+    "url": "https://journals.plos.org/climate/article?id=10.1371/journal.pclm.0001083",
+    "doi": "10.1371/journal.pclm.0001083",
+    "abstract": "by Lauren D’Mello-Guyett, Neelina Jaggarwal, Jane Wilbur, Belen Torondel, Meghna Ranganathan Menstrual health and hygiene (MHH) encompasses access to menstrual materials; water, sanitation, and disposal facilities; privacy and safety; accurate information; supportive social environments; access to care for menstrual discomfort and disorders; enabling people to manage menstruation with dignity and choice. Climate change is disrupting these interlinked domains, disproportionately affecting women, girls, and people who menstruate. This review synthesises evidence on how climate change affects MHH across diverse climate hazard contexts. We conducted a global mixed-methods systematic review of studies published in English between 1947 and 2025, examining associations between climate-related hazards and MHH. We conducted searches in Medline, Scopus, Embase, and Web of Science. Quantitative, qualitative, and mixed-methods studies were eligible. Given the heterogeneity in exposures, outcomes, and designs, findings were synthesised narratively. From 3,890 records, 25 studies met inclusion criteria, covering floods (n = 7), air pollution (n = 6), cyclones (n = 3), droughts (n = 3), saltwater intrusion (n = 3), and multiple hazards (n = 4). Flood- and cyclone-related studies reported disrupted access to menstrual materials, damaged water and sanitation infrastructure, reduced privacy and safety, limited access to care for menstrual disorders, and unsupportive social environments characterised by stigma and restricted mobility. Drought and salinity intrusion constrained hygiene practices through reduced water availability and quality, affecting comfort, dignity, and infection risk. Across hazards, studies documented adverse physical outcomes, including dermatological irritation and reproductive or urinary tract infections, alongside psychosocial consequences such as shame, anxiety, and harassment. Air pollution studies linked exposures with earlier menarche and menstrual cycle irregularities. Evidence on extreme heat and several MHH domains, including access to information, was limited. Climate-related hazards undermine multiple, interconnected domains of MHH. The evidence base remains fragmented across hazards, geographies, methods, underscoring the need to integrate MHH into climate adaptation, disaster preparedness, and humanitarian response frameworks and to address critical research gaps related to extreme heat, slow-onset hazards, and equity.",
+    "authors": [
+      "Lauren D’Mello-Guyett",
+      "Neelina Jaggarwal",
+      "Jane Wilbur",
+      "Belen Torondel",
+      "Meghna Ranganathan"
+    ],
+    "is_editorial": false,
+    "abstract_missing": false,
+    "always_include": false,
+    "score_boost": 0.0,
+    "score": 3.0,
+    "matched": [
+      "climate change"
+    ],
+    "published": "2026-10-01",
+    "first_seen": "2026-10-02"
+  },
+  {
     "title": "Effectively assimilate satellite land surface temperature into offline land surface models within ensemble-based assimilation frameworks",
     "journal": "Geoscientific Model Development",
     "source": "rss:gmd",
@@ -4266,6 +4184,34 @@
     ],
     "published": "2026-09-28",
     "first_seen": "2026-09-29"
+  },
+  {
+    "title": "ShyBFM v1.0: unstructured grid advection-diffusion-reaction modelling for coastal biogeochemical processes",
+    "journal": "Geoscientific Model Development",
+    "source": "rss:gmd",
+    "url": "https://doi.org/10.5194/gmd-19-9301-2026",
+    "doi": "10.5194/gmd-19-9301-2026",
+    "abstract": "Coastal seas are strongly shaped by complex coastlines, shallow depths, and inputs from rivers, which influence marine life and water quality. This study introduces a new high-resolution modelling system that combines ocean circulation and marine ecosystem processes on unstructured grids. Applied to the northern Adriatic Sea, the model realistically captures seasonal changes in key biogeochemical variables, offering improved tools to support coastal environmental management.",
+    "authors": [
+      "Jacopo Alessandri",
+      "Giulia Bonino",
+      "Tomas Lovato",
+      "Momme Butenschön",
+      "Lorenzo Mentaschi",
+      "Giorgia Verri",
+      "Ivan Federico",
+      "Nadia Pinardi"
+    ],
+    "is_editorial": false,
+    "abstract_missing": false,
+    "always_include": true,
+    "score_boost": 0.0,
+    "score": 2.0,
+    "matched": [
+      "ocean circulation"
+    ],
+    "published": "2026-10-02",
+    "first_seen": "2026-10-02"
   },
   {
     "title": "Natural methane emissions feedbacks in MAGICC v. 7.6",
@@ -4317,28 +4263,6 @@
     ],
     "published": "2026-09-30",
     "first_seen": "2026-09-30"
-  },
-  {
-    "title": "Consideration of radiation absorption by stems in forests for microclimate modeling",
-    "journal": "Geoscientific Model Development",
-    "source": "rss:gmd",
-    "url": "https://doi.org/10.5194/gmd-19-9019-2026",
-    "doi": "10.5194/gmd-19-9019-2026",
-    "abstract": "Computer models used to simulate forest canopy microclimates rely on radiative transfer simulations. These models commonly only consider tree leaves and exclude wood structures. Here we present modifications to a commonly used model to consider stem absorption. We compared model estimates to detailed simulations using 3D data from ground lidar at four deciduous forest sites. We also compared simulations against field observations of sunlight reflected by canopies.",
-    "authors": [
-      "Martin Béland",
-      "Gordon Bonan",
-      "Hideki Kobayashi",
-      "Dennis Baldocchi"
-    ],
-    "is_editorial": false,
-    "abstract_missing": false,
-    "always_include": true,
-    "score_boost": 0.0,
-    "score": 0.0,
-    "matched": [],
-    "published": "2026-09-24",
-    "first_seen": "2026-09-24"
   },
   {
     "title": "Three-stream modelling of radiative transfer for the simulation of Black Sea biogeochemistry in a NEMO framework",
@@ -4450,5 +4374,51 @@
     "matched": [],
     "published": "2026-10-01",
     "first_seen": "2026-10-01"
+  },
+  {
+    "title": "Science or Strategy? The Rejection of the Anthropocene Epoch Demands Transparency",
+    "journal": "Earth's Future",
+    "source": "rss:earths-future",
+    "url": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025EF007638?af=R",
+    "doi": "10.1029/2025ef007638",
+    "abstract": "Earth's Future, Volume 14, Issue 10, October 2026.",
+    "authors": [
+      "Georg N. Schäfer",
+      "Jürgen Renn",
+      "Christoph Rosol",
+      "Jochen Büttner"
+    ],
+    "is_editorial": true,
+    "abstract_missing": false,
+    "always_include": false,
+    "score_boost": 0.0,
+    "score": 0.0,
+    "matched": [],
+    "published": "2026-10-01",
+    "first_seen": "2026-10-02"
+  },
+  {
+    "title": "Sustainable Management of Global Platinum Group Resources in the Energy Transition: A Group Metabolism Perspective",
+    "journal": "Earth's Future",
+    "source": "rss:earths-future",
+    "url": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2026EF009070?af=R",
+    "doi": "10.1029/2026ef009070",
+    "abstract": "Earth's Future, Volume 14, Issue 10, October 2026.",
+    "authors": [
+      "Wang Gu",
+      "Jinze Li",
+      "Yue Xu",
+      "Peixue Xing",
+      "Ziyan Gao",
+      "Yong Geng"
+    ],
+    "is_editorial": true,
+    "abstract_missing": false,
+    "always_include": false,
+    "score_boost": 0.0,
+    "score": 0.0,
+    "matched": [],
+    "published": "2026-10-01",
+    "first_seen": "2026-10-02"
   }
 ]
