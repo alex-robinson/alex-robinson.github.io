@@ -40,39 +40,6 @@
     "first_seen": "2026-10-09"
   },
   {
-    "title": "Sensitivity of the results of Northern Hemisphere ice sheet model simulations to millennium-scale forcing variations in the last glacial cycle",
-    "journal": "Arctic and Antarctic Research",
-    "source": "openalex:paleoclimate",
-    "url": "https://doi.org/10.30758/0555-2648-2026-72-3-440-452",
-    "doi": "10.30758/0555-2648-2026-72-3-440-452",
-    "abstract": "Ensemble simulations with the Northern Hemisphere ice sheets model are performed for the last glacial cycle (last 123 kyr). The time dependence of the atmospheric forcing is reconstructed based on two sets of borehole data — EPICA (The European Project for Ice Coring in Antarctica; the data exhibit weak millennium-scale variabilitу) and NGRIP (North Greenland Ice Core Project; the data show strong temperature variability at the indicated timescale). The time dependence is combined with the long-term means from theERA5 reanalysis(for the present-day state) and with the IPSL-CM4-V1-MR model output for the Last Glacial Maximum. We found that the simulated trajectory in MIS3 (Marine Isotope Stage 3; ~60–30 kyr before present) is very sensitive to the relatively small perturbation of thus constructed paleoscenarios. This sensitivity is exhibited both for EPICA(after perturbing the data by the stochastic autoregressive processes with decorrelation timescale up to 2 kyr) and NGRIP data (after removing the millenium-scale variability from the data by applying the Savitzky– Golay filter). In particular, depending on the existence of such variability in the forcing dataset and provided that this variability is strong enough, an artificial interglacial is developed during MIS3. The physical reason for the development of this interglacial is the location of the system trajectory near the glacial termination threshold owing to the specific Earth orbit parameter configuration in the time interval indicated. We conclude that both the EPICA and NGRIP data can be used to force the Northern Hemisphere ice sheet model in the last glacial cycle. However, it is sensible to exclude the millennium-scale variability from the NGRIP data before applying them to paleoscenario reconstruction. In addition, high sensitivity of the model to the applied forcing during MIS3 might indicate the trajectory splitting in the vicinity of the attractor basin boundary in this time interval.",
-    "authors": [
-      "A. N. Ploskov",
-      "Alexey V. Eliseev"
-    ],
-    "is_editorial": false,
-    "abstract_missing": false,
-    "always_include": false,
-    "score_boost": 1.0,
-    "score": 58.0,
-    "matched": [
-      "ice sheet",
-      "Antarctica",
-      "Greenland",
-      "NH ice sheets",
-      "last glacial maximum",
-      "interglacial",
-      "glacial cycle",
-      "marine isotope stage",
-      "MIS stage",
-      "ice core",
-      "reanalysis",
-      "ensemble"
-    ],
-    "published": "2026-09-30",
-    "first_seen": "2026-10-03"
-  },
-  {
     "title": "On the Fidelity of Oxygen Isotope‐Based Sea Level Reconstructions: A Case Study of Marine Isotope Stage 3",
     "journal": "Paleoceanography and Paleoclimatology",
     "source": "openalex:paleoclimate",
@@ -920,36 +887,6 @@
     "first_seen": "2026-10-10"
   },
   {
-    "title": "Simulated Ocean Oxygen Under Miocene Boundary Conditions",
-    "journal": "Paleoceanography and Paleoclimatology",
-    "source": "openalex:paleoclimate",
-    "url": "https://doi.org/10.1029/2026pa005505",
-    "doi": "10.1029/2026pa005505",
-    "abstract": "Abstract The Miocene Climatic Optimum (MCO; 16.9–14.7 Ma) was a warm interval with atmospheric comparable to end‐of‐21st‐century projections under intermediate emission scenarios. Proxy records indicate the Oxygen Minimum Zone (OMZ) in the Eastern Tropical Pacific (ETP) was small or non‐existent during the MCO, expanding only when declined after 15 Ma. Conversely, the modern ETP OMZ is expanding under anthropogenic warming. The mechanisms behind these opposing trends remain unclear. Here, we use the Geophysical Fluid Dynamics Laboratory coupled model (GFDL CM2.1) with the offline biogeochemistry PCO2 model to simulate Miocene ocean oxygen across multiple levels and two paleogeographic configurations. Increasing produces widespread oxygen loss at shallow and intermediate depths. One configuration develops pervasive hypoxia throughout the water column in the Atlantic and Arctic, driven by stagnation and stratification associated with a collapsed Atlantic Meridional Overturning Circulation (AMOC). In the same configuration, the ETP OMZ contracts at higher due to weaker trade winds, reduced upwelling, and water mass transport changes through the open Central American Seaway (CAS) associated with the shutdown of North Atlantic Deep Water and Tethys Intermediate Water formation. The same circulation reorganization responsible for Atlantic deoxygenation thus contributes to ETP oxygenation, highlighting the spatial complexity of the marine oxygen response to warming. These results indicate Miocene ETP oxygen dynamics are not a perfect analog to future changes: the boundary conditions permitting ETP OMZ contraction (including an open CAS and collapsed AMOC) are absent from the modern ocean, limiting direct extrapolation from proxy evidence.",
-    "authors": [
-      "Jacob Van Den Berg",
-      "David K. Hutchinson",
-      "Katrin Juliane Meissner",
-      "Benoit Pasquier",
-      "Mark Holzer",
-      "Alexandra Auderset"
-    ],
-    "is_editorial": false,
-    "abstract_missing": false,
-    "always_include": false,
-    "score_boost": 0.0,
-    "score": 16.0,
-    "matched": [
-      "Arctic",
-      "Atlantic meridional overturning circulation",
-      "AMOC",
-      "overturning circulation",
-      "proxy"
-    ],
-    "published": "2026-10-01",
-    "first_seen": "2026-10-03"
-  },
-  {
     "title": "Reinterpretation of ice-sheet history and geomorphology in the Lambert-Amery system, East Antarctica, from cosmogenic in-situ 14C analysis",
     "journal": "Quaternary Science Reviews",
     "source": "openalex:cryosphere",
@@ -1391,32 +1328,6 @@
     ],
     "published": "2026-10-09",
     "first_seen": "2026-10-09"
-  },
-  {
-    "title": "Influence of insolation patterns on the spatial distribution of mass balance of ice caps on Bennett Island (East Siberian Sea)",
-    "journal": "Arctic and Antarctic Research",
-    "source": "openalex:cryosphere",
-    "url": "https://doi.org/10.30758/0555-2648-2026-72-3-453-466",
-    "doi": "10.30758/0555-2648-2026-72-3-453-466",
-    "abstract": "Using Bennett Island (East Siberian Sea) as a case study, the role of shortwave radiation was examined in shaping the spatial distribution of the mass balance of Arctic ice caps. The aim of the study was to quantitatively assess the influence of spatial variability in insolation on glacier surface lowering. Changes in the surface elevation of four ice caps on Bennett Island, with a total area of approximately 56 km², over the period 2012–2022 were previously derived from multi-temporal ArcticDEM data. On average, the elevation change amounted to −6.27 ± 0.12 m, corresponding to a mass balance of −5.33 ± 0.39 m w. e. The mean incoming clear-sky shortwave radiation flux for a typical ablation season (76 frost-free days per year, based on ERA5-Land reanalysis data for 1994–2024) was modeled in SAGA GIS, taking into account both astronomical and terrain-related factors. The resulting distribution of values is characterized by spatial heterogeneity and direct dependencies on exposure and slope shading. The spatial variability of clear-sky insolation across the ice caps ranged from 360 to 520 W/m². For two of the ice caps, a statistically significant positive relationship between surface lowering and insolation was identified, with a linear trend of 0.013–0.021 m of additional melt per 1 W/m². Also, for two larger domes, a positive trend of ice melt was revealed, which equals 1.115–1.750 m per 100 m of altitude. It was shown that for smaller ice caps, the maximum differences in clear-sky insolation (160 W/m²) were equivalent to the effect of an elevation gradient of 100–200 m. For the largest ice cap, Toll, the influence of insolation could not be evaluated: due to horizontal ice motion, surface lowering derived using the geodetic method did not directly correspond to the actual melt. Therefore, further investigation required in situ mass balance measurements using the glaciological method.",
-    "authors": [
-      "A. A. Fygina",
-      "Anton Terekhov",
-      "D. V. Bantsev"
-    ],
-    "is_editorial": false,
-    "abstract_missing": false,
-    "always_include": false,
-    "score_boost": 0.0,
-    "score": 12.0,
-    "matched": [
-      "glacier",
-      "Arctic",
-      "insolation",
-      "reanalysis"
-    ],
-    "published": "2026-09-30",
-    "first_seen": "2026-10-03"
   },
   {
     "title": "Millennial-scale ventilation changes in the western equatorial Atlantic during the last glacial inferred from benthic foraminifera stable carbon isotopes",
@@ -1864,6 +1775,37 @@
     "first_seen": "2026-10-07"
   },
   {
+    "title": "Episodic isolation of the Arctic Mediterranean from the North Atlantic during late Pleistocene glacials",
+    "journal": "Communications Earth & Environment",
+    "source": "openalex:paleoclimate",
+    "url": "https://doi.org/10.1038/s43247-026-04133-3",
+    "doi": "10.1038/s43247-026-04133-3",
+    "abstract": "Abstract It has been proposed that the Arctic Ocean and Nordic Seas (“the Arctic Mediterranean”) were not only episodically covered by an ice shelf during late Pleistocene glaciations, but disconnected from the North Atlantic and filled with freshwater. Originally based on the widespread occurrence of marine sediments with intervals barren of 230 Th xs (a function of salinity) and low in cosmogenic 10 Be (interpreted as ice cover), this interpretation is highly debated. Alternative explanations state that sediment pulses could instead have diluted both isotopes. Here, we trace the connection between the Arctic Mediterranean and the North Atlantic using reactive 10 Be/ 9 Be, a water mass tracer resilient to sedimentation variations. We find uniformly low 10 Be/ 9 Be that coincide with the 230 Th xs -minima and more than one order of magnitude below the coeval North Atlantic, consistent with an isolated Arctic Mediterranean. Our findings suggest a highly dynamic coupling between the Arctic Mediterranean and the North Atlantic, opening questions about its impact on global climate.",
+    "authors": [
+      "Agathe Ollive",
+      "Walter Geibert",
+      "Jens Matthießen",
+      "Julia Loftfield",
+      "Johannes Lachner",
+      "Dominik Koll",
+      "Henry Patton",
+      "Christoph Vogt",
+      "Florian Adolphi"
+    ],
+    "is_editorial": false,
+    "abstract_missing": false,
+    "always_include": false,
+    "score_boost": 0.0,
+    "score": 10.0,
+    "matched": [
+      "ice shelf",
+      "Arctic",
+      "cosmogenic"
+    ],
+    "published": "2026-10-11",
+    "first_seen": "2026-10-11"
+  },
+  {
     "title": "Planktonic Foraminifera in Surface Sediments of the Emperor Seamount Chain (Pacific Ocean)",
     "journal": "Russian Journal of Pacific Geology",
     "source": "openalex:paleoclimate",
@@ -2064,6 +2006,30 @@
     ],
     "published": null,
     "first_seen": "2026-10-09"
+  },
+  {
+    "title": "Long-term changes and attribution of lake water levels on the Tibetan Plateau revealed by multisource satellite altimetry data",
+    "journal": "Science of Remote Sensing",
+    "source": "openalex:cryosphere",
+    "url": "https://doi.org/10.1016/j.srs.2026.100523",
+    "doi": "10.1016/j.srs.2026.100523",
+    "abstract": "ABSTRACT Monitoring Tibetan Plateau (TP) lakes is constrained by harsh environments and methodological limitations. To overcome the limited spatiotemporal coverage of single-mission satellite altimetry and the shortcomings of conventional linear analyses, we integrated CryoSat-2 and Sentinel-3A/B altimetry observations with a multilevel robust anomaly-detection framework to generate water-level time series for 11 representative TP lakes (2010–2026). Seasonal-Trend Decomposition using LOESS (STL) and an XGBoost–SHapley Additive exPlanations(SHAP) framework was subsequently employed to characterize spatiotemporal variations and assess nonlinear associations with five hydrometeorological factors. The generated time series showed strong agreement with in-situ observations (R > 0.94, RMSE: 0.07–0.11 m). Over the 16-year study period, more than 80% of the investigated lakes exhibited sustained water-level increases, with a regional mean rate of 0.27 m yr -1 . However, lake trajectories recent lake trajectories diverged, with some showing accelerated rises and others displaying decelerating or reversed trends. Intra-annual variability also intensified: the mean seasonal amplitude increased by 48.6% (0.17 m) during the last five years. Attribution analysis revealed substantial spatial heterogeneity. While statistical modeling indicated that precipitation (32.5%) and groundwater (21.6%) made the largest regional contributions within the XGBoost framework, individual lakes exhibited predominantly precipitation-dominated, thermal-loss-sensitive, or groundwater-associated response patterns. These contrasting patterns are likely modulated by differences in basin topography, lake morphology, and local geological settings. These findings provide an improved basis for estimating lake-water-storage changes, assessing long-term water-level trends, monitoring overflow and flood hazards, and investigating interactions among lake ecosystems, climate variability, and regional water resources across the TP.",
+    "authors": [
+      "Ziyue Dou",
+      "Xin Luo",
+      "Chenyu Sun",
+      "Zhiqiang Xie"
+    ],
+    "is_editorial": false,
+    "abstract_missing": false,
+    "always_include": false,
+    "score_boost": 0.0,
+    "score": 9.0,
+    "matched": [
+      "satellite altimetry"
+    ],
+    "published": "2026-10-01",
+    "first_seen": "2026-10-11"
   },
   {
     "title": "Four decades of Glacier related Research in the Hindu Kush Himalaya (HKH): A Bibliometric and Network Visualization Analysis using Python",
@@ -2448,87 +2414,6 @@
     ],
     "published": "2026-10-08",
     "first_seen": "2026-10-08"
-  },
-  {
-    "title": "Late-Holocene organic carbon accumulation in glacier-fed lakes on the Tibetan Plateau: regional patterns and sediment-routing processes",
-    "journal": "Palaeogeography Palaeoclimatology Palaeoecology",
-    "source": "openalex:paleoclimate",
-    "url": "https://doi.org/10.1016/j.palaeo.2026.114260",
-    "doi": "10.1016/j.palaeo.2026.114260",
-    "abstract": null,
-    "authors": [
-      "Tianlong Yan",
-      "Chun Wang",
-      "Sitong Liu",
-      "Ying Li",
-      "Junjiang Dong",
-      "Qi Zhang",
-      "Xiaoru Zhang",
-      "Xiaomin Gao",
-      "Xiaoshuang Sun",
-      "Jinliang Liu",
-      "Can Zhang"
-    ],
-    "is_editorial": false,
-    "abstract_missing": true,
-    "always_include": false,
-    "score_boost": 0.0,
-    "score": 6.0,
-    "matched": [
-      "glacier",
-      "Holocene"
-    ],
-    "published": "2026-10-01",
-    "first_seen": "2026-10-03"
-  },
-  {
-    "title": "Tracking palaeoenvironmental changes across the Eocene-Oligocene boundary using diagnostic PAH ratios and DWAF assemblages",
-    "journal": "Italian Journal of Geosciences",
-    "source": "openalex:paleoclimate",
-    "url": "https://doi.org/10.3301/ijg.2026.25",
-    "doi": "10.3301/ijg.2026.25",
-    "abstract": "This study investigates the distribution and sources of Polycyclic Aromatic Hydrocarbons (PAH) across the Eocene-Oligocene Transition (EOT) in the Caltavuturo Formation at Portella Colla (northern Sicily, Italy). The EOT represents a critical shift from greenhouse to icehouse conditions, and this research evaluates the utility of PAHs as geochemical proxies for paleoenvironmental and paleoclimatic changes. Nineteen clay samples were analyzed using Gas Chromatography–Mass Spectrometry (GC–MS) to determine the concentration of 14 PAH compounds and assess their origin through diagnostic. Results reveal a pronounced spike in total PAH concentrations at the EOT, primarily driven by high-molecular-weight pyrogenic compounds. This peak correlates with a dramatic reduction in deep-water agglutinated foraminifera (DWAF) diversity and the dominance of the opportunistic species Repmanina charoides. Diagnostic ratios indicate that while late Eocene samples reflect a background of biomass burning, the EOT interval is characterized by a significant increase in pyrogenic activity (wildfires), likely triggered by cooler, more seasonal, or more arid continental conditions. Subsequent Oligocene intervals show a transition toward mixed or petrogenic-dominated sources, alongside fluctuations in the biogenic marker perylene, which indicates shifts in the sediment redox boundary and organic matter flux. The integration of geochemical and micropaleontological data suggests that climate-driven changes in continental processes, such as enhanced erosion and wildfire frequency, directly influenced deep-marine environmental stability and benthic faunal ecology during the EOT.",
-    "authors": [
-      "Andrea Benedetti",
-      "Paolo Benedetti"
-    ],
-    "is_editorial": false,
-    "abstract_missing": false,
-    "always_include": false,
-    "score_boost": 0.0,
-    "score": 6.0,
-    "matched": [
-      "paleoclimate",
-      "proxy",
-      "foraminifera"
-    ],
-    "published": "2026-10-01",
-    "first_seen": "2026-10-03"
-  },
-  {
-    "title": "Decoupling of surface productivity and organic carbon preservation in the southeastern Arabian Sea during the last two glacial-interglacial cycles",
-    "journal": "Quaternary Science Reviews",
-    "source": "openalex:paleoclimate",
-    "url": "https://doi.org/10.1016/j.quascirev.2026.110306",
-    "doi": "10.1016/j.quascirev.2026.110306",
-    "abstract": null,
-    "authors": [
-      "Rahul Pawar",
-      "Dharmendra Pratap Singh",
-      "Neha Goswami",
-      "Rajeev Saraswat",
-      "Abhayanand Singh Maurya"
-    ],
-    "is_editorial": false,
-    "abstract_missing": true,
-    "always_include": false,
-    "score_boost": 0.0,
-    "score": 6.0,
-    "matched": [
-      "interglacial"
-    ],
-    "published": "2026-10-01",
-    "first_seen": "2026-10-03"
   },
   {
     "title": "Cosmogenic 10Be as a Tracer for Recent Heliospheric Encounters With Interstellar Cold Clouds and Nearby Supernovae",
@@ -3102,82 +2987,6 @@
     ],
     "published": "2026-10-07",
     "first_seen": "2026-10-09"
-  },
-  {
-    "title": "Event Reconstruction and Hydroclimatic–Cryospheric Context of the 2018 Badswat Debris Flow–River Blockage, Pakistan",
-    "journal": "Water",
-    "source": "openalex:cryosphere",
-    "url": "https://doi.org/10.3390/w18192440",
-    "doi": "10.3390/w18192440",
-    "abstract": "High Mountain Asia is undergoing rapid warming, with consequences for snow, ground thermal conditions, runoff, sediment availability, and water-related mass-movement hazards. This study combines watershed-scale hydroclimatic and cryospheric diagnostics with an event-scale reconstruction of the 17 July 2018 Badswat debris flow–river blockage in Gilgit–Baltistan, Pakistan. Snow-cover area (MODIS MOD10A1; 2000–2025), surface frost-number terrain (MODIS MOD11A2; 2001–2025), air temperature (ERA5-Land; 1950–2025), and precipitation (CHIRPS; 1981–2025) were analyzed in Google Earth Engine. The event was reconstructed in RAMMS-DF with Voellmy–Salm rheology (μ = 0.09, ξ = 500 m s−2) on a 12.5 m grid. Air temperature increased by 0.13 °C decade−1 (p < 0.001). Snow-cover and permafrost-favorable extents were negatively associated with temperature (r = −0.74 and −0.78), but neither showed a significant temporal trend over the shorter satellite record. CHIRPS precipitation increased by 1.7 mm yr−1 (p < 0.001), mainly in summer, although its annual variability agreed poorly with ERA5-Land and the trend is therefore product-specific. The calibrated scenario reproduced the mapped runout path, river-blockage location, and depositional zone, and yielded maxima of 15.17 m flow height, 33.82 m s−1 velocity, 2544 kPa impact pressure, and 81 kPa basal shear stress, with about 352,540 m3 of deposition. Because dynamic outputs lack independent measurements and joint parameter uncertainty was not quantified, they are scenario estimates rather than design values. The study provides an uncertainty-explicit event reconstruction and separates long-term environmental context from the unresolved event-scale trigger.",
-    "authors": [
-      "Muhammad Jehanzaib Khattak",
-      "Javed Iqbal",
-      "Lijun Su",
-      "Muhammad Fathur Rouf Hasan",
-      "Ashiq Hussain",
-      "Usman Ali"
-    ],
-    "is_editorial": false,
-    "abstract_missing": false,
-    "always_include": false,
-    "score_boost": 0.0,
-    "score": 4.0,
-    "matched": [
-      "permafrost"
-    ],
-    "published": "2026-10-01",
-    "first_seen": "2026-10-03"
-  },
-  {
-    "title": "Assessing Climatic Drivers of Glacier Retreat in Türkiye Using ERA5 Data and Machine Learning Methods",
-    "journal": "Pure and Applied Geophysics",
-    "source": "openalex:cryosphere",
-    "url": "https://doi.org/10.1007/s00024-026-04136-3",
-    "doi": "10.1007/s00024-026-04136-3",
-    "abstract": null,
-    "authors": [
-      "Muhammed Ernur Akıner",
-      "Mehmet Ali Çelik"
-    ],
-    "is_editorial": false,
-    "abstract_missing": true,
-    "always_include": false,
-    "score_boost": 0.0,
-    "score": 4.0,
-    "matched": [
-      "glacier",
-      "machine learning"
-    ],
-    "published": "2026-10-01",
-    "first_seen": "2026-10-03"
-  },
-  {
-    "title": "Late Quaternary high-altitude lake water-depth variability in Nam Co, central Tibetan Plateau",
-    "journal": "Global and Planetary Change",
-    "source": "openalex:paleoclimate",
-    "url": "https://doi.org/10.1016/j.gloplacha.2026.105733",
-    "doi": "10.1016/j.gloplacha.2026.105733",
-    "abstract": null,
-    "authors": [
-      "Yang Zhang",
-      "Junbo Wang",
-      "Qiangqiang Kou",
-      "Cunlin Li",
-      "Siwei Yu",
-      "Jinlei Kai",
-      "Liping Zhu"
-    ],
-    "is_editorial": false,
-    "abstract_missing": true,
-    "always_include": false,
-    "score_boost": 0.0,
-    "score": 4.0,
-    "matched": [
-      "Quaternary"
-    ],
-    "published": "2026-10-01",
-    "first_seen": "2026-10-03"
   },
   {
     "title": "Evaluating hydroclimatic persistence signals in Antarctic snowfall accumulation and sea salt sodium records",
@@ -3785,116 +3594,6 @@
     "first_seen": "2026-10-10"
   },
   {
-    "title": "Global greenhouse gas cobenefits of US irrigated agriculture",
-    "journal": "PNAS",
-    "source": "rss:pnas",
-    "url": "https://www.pnas.org/doi/abs/10.1073/pnas.2528170123?af=R",
-    "doi": "10.1073/pnas.2528170123?af=r",
-    "abstract": "Proceedings of the National Academy of Sciences, Volume 123, Issue 39, September 2026. SignificanceAgriculture produces greenhouse gas emissions from on-farm activities and through conversion of natural ecosystems to agricultural use. Agricultural practices that increase yields can reduce demand for agricultural land, reducing emissions ...",
-    "authors": [
-      "Avery W. DriscollJustin A. JohnsonJoey E. BlumbergAlison E. KingSeth A. Spawn-LeeNathaniel D. Muellerahttps://ror.org/03k1gpj17Department of Soil",
-      "Crop Sciences",
-      "Colorado State University",
-      "Fort Collins",
-      "CO 80523bhttps://ror.org/017zqws13Department of Applied Economics",
-      "University of Minnesota",
-      "Minneapolis",
-      "MN 55108chttps://ror.org/01na82s61U.S. Department of Agriculture Forest Service",
-      "Rocky Mountain Research Station",
-      "Fort Collins",
-      "CO 80526dhttps://ror.org/01adr0w49School of Food",
-      "Agriculture",
-      "University of Maine",
-      "Orono",
-      "ME 04469ehttps://ror.org/0563w1497The Nature Conservancy",
-      "Minneapolis",
-      "MN 55415fhttps://ror.org/03k1gpj17Department of Ecosystem Science",
-      "Sustainability",
-      "Colorado State University",
-      "Fort Collins",
-      "CO 80523"
-    ],
-    "is_editorial": false,
-    "abstract_missing": false,
-    "always_include": false,
-    "score_boost": 0.0,
-    "score": 3.0,
-    "matched": [
-      "greenhouse gas"
-    ],
-    "published": null,
-    "first_seen": "2026-10-03"
-  },
-  {
-    "title": "Recovery from disorders of consciousness: Lesions and GABAergic modulation in a biologically inspired spiking neural network",
-    "journal": "PNAS",
-    "source": "rss:pnas",
-    "url": "https://www.pnas.org/doi/abs/10.1073/pnas.2530522123?af=R",
-    "doi": "10.1073/pnas.2530522123?af=r",
-    "abstract": "Proceedings of the National Academy of Sciences, Volume 123, Issue 39, September 2026. SignificanceThis study presents a computational framework to mechanistically simulate neuronal lesions and interventions for the treatment of disorders of consciousness (DoC). Through a neural network with biologically plausible features, we modeled ...",
-    "authors": [
-      "Francesco AchilliAntoine CautruJean-Pierre ChangeuxGuillaume Dumasahttps://ror.org/00wjc7c48Department of Biomedical",
-      "Clinical Sciences “Luigi Sacco”",
-      "University of Milan",
-      "Milan 20157",
-      "Italybhttps://ror.org/0161xgx34Research Center of the Sainte-Justine Mother",
-      "Child University Hospital Center",
-      "Department of Psychiatry",
-      "Addictology",
-      "University of Montreal",
-      "Montreal H3T 1C5",
-      "QC",
-      "Canadachttps://ror.org/04ex24z53Neuroscience Department",
-      "Institut Pasteur",
-      "Collège de France",
-      "Paris F-75005",
-      "Francedhttps://ror.org/0161xgx34Mila—Québec AI Institute",
-      "University of Montreal",
-      "Montreal H2S 3H1",
-      "QC",
-      "Canada"
-    ],
-    "is_editorial": false,
-    "abstract_missing": false,
-    "always_include": false,
-    "score_boost": 0.0,
-    "score": 3.0,
-    "matched": [
-      "neural network"
-    ],
-    "published": null,
-    "first_seen": "2026-10-03"
-  },
-  {
-    "title": "Robust increase in extreme future precipitation in the Lake Victoria Basin based on km-scale regional climate projections",
-    "journal": "Journal of Climate",
-    "source": "openalex:0894-8755",
-    "url": "https://doi.org/10.1175/jcli-d-25-0682.1",
-    "doi": "10.1175/jcli-d-25-0682.1",
-    "abstract": "Abstract Long multi-decadal transient convection-permitting climate simulations are crucial for reliable regional climate projections. However, the large computational resources required are often not available, particularly in the context of African climate change studies. This poses challenges for regions like the Lake Victoria basin, where extreme weather events, such as thunderstorms and associated wind gusts, result in high waves and flash floods with devastating impacts. Here, we configure a mini-ensemble of convection-permitting pseudo-global warming (PGW) regional climate simulations at 2.8 km for the Lake Victoria basin, providing a computationally efficient approach that allows us to assess model uncertainties related to changes in large-scale dynamics in the driving GCMs and identify robust climate change signals across the members. Our results reveal that, while extreme precipitation scaling is robust among the members (~5%/K), primarily driven by thermodynamic controls, the mean precipitation response is sensitive to uncertainties in large-scale dynamics, resulting in significant ensemble spread. Our projections indicate consistent drying over Lake Victoria during 18-24h UTC (21-03h local time) across the three ensemble members (up to −36% in the simulation with the strongest reduction in easterly trade winds), and a consistent shift from low and intermediate precipitation intensities to high values. Overall, despite uncertainties in large-scale dynamics, our ensemble projections provide critical insights for future climate resilience planning in the Lake Victoria basin.",
-    "authors": [
-      "Elizabeth Majani Sunguti",
-      "Jonas Van de Walle",
-      "Wim Thiery",
-      "Andreas Prein",
-      "Franklin J. Opijah",
-      "Dennis O. Ochuodho",
-      "Nicole P. M. van Lipzig"
-    ],
-    "is_editorial": false,
-    "abstract_missing": false,
-    "always_include": false,
-    "score_boost": 0.0,
-    "score": 3.0,
-    "matched": [
-      "ensemble",
-      "climate change",
-      "global warming"
-    ],
-    "published": "2026-10-01",
-    "first_seen": "2026-10-03"
-  },
-  {
     "title": "Episodic Seismicity Bursts Driven by Magma Intrusion During the 2025 Santorini‐Amorgos Seismic Crisis",
     "journal": "JGR Solid Earth",
     "source": "rss:jgr-solidearth",
@@ -4400,6 +4099,32 @@
     ],
     "published": "2026-10-09",
     "first_seen": "2026-10-10"
+  },
+  {
+    "title": "Rupture and Associated Microseismicity Controlled by Fault Topography",
+    "journal": "JGR Solid Earth",
+    "source": "rss:jgr-solidearth",
+    "url": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2026JB035513?af=R",
+    "doi": "10.1029/2026jb035513",
+    "abstract": "Journal of Geophysical Research: Solid Earth, Volume 131, Issue 10, October 2026.",
+    "authors": [
+      "Zhiming Liang",
+      "Zhenyu Zhang",
+      "Derek Elsworth",
+      "Beata Orlecka‐Sikora",
+      "Haoran Dou",
+      "Kun Long"
+    ],
+    "is_editorial": false,
+    "abstract_missing": false,
+    "always_include": false,
+    "score_boost": 0.0,
+    "score": 3.0,
+    "matched": [
+      "solid earth"
+    ],
+    "published": "2026-10-11",
+    "first_seen": "2026-10-11"
   },
   {
     "title": "Schumpeterian disaggregation and integrated assessment: An endogenous, stock-flow consistent economy in disequilibrium for FRIDA v2.1",
