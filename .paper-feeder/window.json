@@ -204,6 +204,38 @@
     "first_seen": "2026-10-09"
   },
   {
+    "title": "Sea-level contribution from Thwaites Glacier doubles in an observation-constrained ice-sheet model",
+    "journal": "Nature Communications",
+    "source": "openalex:cryosphere",
+    "url": "https://doi.org/10.1038/s41467-026-77976-1",
+    "doi": "10.1038/s41467-026-77976-1",
+    "abstract": "Abstract Thwaites Glacier is a major contributor to Antarctic mass loss and a key source of uncertainty in future sea-level rise. Ocean-driven melting at its grounding line drives rapid retreat, yet most models treat the transition between grounded and floating ice as a sharp boundary, neglecting kilometer-scale seawater intrusions that develop as the grounding line migrates and forms a grounding zone. Here, we show that actively-melting grounding zones are required to reproduce nearly three decades of observed retreat, thinning, and acceleration of Thwaites Glacier in a calibrated ice-sheet model, with successful reconstruction occurring only when grounding zones are represented as 2-5 km wide regions. Extending this model forward, we show that grounding-zone processes govern glacier’s detachment from stabilizing seafloor ridges, enabling unpinning as early as 2038 and producing up to 30 ± 6 mm of global mean sea-level rise by 2100 - approximately double previous projections even without additional climate warming.",
+    "authors": [
+      "Mattia Poinelli",
+      "Eric J. Rignot",
+      "Helene L. Seroussi",
+      "Joshua Cuzzone",
+      "Tyler Pelle",
+      "Eric Larour"
+    ],
+    "is_editorial": false,
+    "abstract_missing": false,
+    "always_include": false,
+    "score_boost": 1.0,
+    "score": 30.0,
+    "matched": [
+      "ice sheet",
+      "grounding line",
+      "glacier",
+      "Antarctic",
+      "mass loss",
+      "sea level",
+      "sea-level rise"
+    ],
+    "published": "2026-10-12",
+    "first_seen": "2026-10-13"
+  },
+  {
     "title": "Hydroclimate of northeast Mexico since the Last Glacial Maximum and possible influence of the Caribbean Low-Level Jet",
     "journal": "Global and Planetary Change",
     "source": "openalex:paleoclimate",
@@ -426,6 +458,36 @@
     "first_seen": "2026-10-07"
   },
   {
+    "title": "Assessment of an updated polar stratospheric cloud parameterisation for the UK Earth System Model (UKESM1.1) within the UK Met Office Unified Model (v13.9) using  CALIOP and MLS observations",
+    "journal": "Geoscientific Model Development",
+    "source": "rss:gmd",
+    "url": "https://doi.org/10.5194/gmd-19-9857-2026",
+    "doi": "10.5194/gmd-19-9857-2026",
+    "abstract": "The UK Earth System Model is updated with an improved polar stratospheric cloud scheme. The performance of the scheme is evaluated against satellite data. While the model fails to form the full range of observed ice, the scheme improves its ability to represent different polar stratospheric cloud types and their variations. This brings the model closer to satellite observations and highlights the need for further development to capture the polar stratospheric clouds with high number densities.",
+    "authors": [
+      "Isabelle Sangha",
+      "Nathan L. Abraham",
+      "Andrew Orr",
+      "Hua Lu",
+      "Michael C. Pitts",
+      "Lamont R. Poole",
+      "Michael Weimer"
+    ],
+    "is_editorial": false,
+    "abstract_missing": false,
+    "always_include": true,
+    "score_boost": 0.0,
+    "score": 22.0,
+    "matched": [
+      "polar",
+      "Earth system model",
+      "Earth system",
+      "parameterization"
+    ],
+    "published": "2026-10-13",
+    "first_seen": "2026-10-13"
+  },
+  {
     "title": "Deep waters in the Southwest Pacific do not record a release of excess respired carbon during the early deglacial CO₂ rise",
     "journal": "Global and Planetary Change",
     "source": "openalex:paleoclimate",
@@ -616,6 +678,38 @@
     ],
     "published": "2026-10-07",
     "first_seen": "2026-10-10"
+  },
+  {
+    "title": "The Arctic carbon cycle response to changing root and rhizosphere processes amid greening and permafrost thaw",
+    "journal": "Nature Reviews Earth & Environment",
+    "source": "rss:natrev-ee",
+    "url": "https://www.nature.com/articles/s43017-026-00832-9",
+    "doi": "10.1038/s43017-026-00832-9",
+    "abstract": "Nature Reviews Earth & Environment, Published online: 12 October 2026; doi:10.1038/s43017-026-00832-9 Arctic warming is rapidly transforming belowground processes and carbon cycling. In this Review, the authors synthesize how root and rhizosphere processes shape carbon balance under permafrost thaw and vegetation change and propose integrative approaches to improve mechanistic understanding and model representation.",
+    "authors": [
+      "Rebecca E. Hewitt",
+      "Gesche Blume-Werry",
+      "Thomas C. Parker",
+      "Isla H. Myers-Smith",
+      "Sylvain Monteux",
+      "Verity G. Salmon",
+      "Colleen M. Iversen",
+      "Lorna E. Street",
+      "Philip A. Wookey",
+      "Michelle C. Mack"
+    ],
+    "is_editorial": false,
+    "abstract_missing": false,
+    "always_include": false,
+    "score_boost": 0.0,
+    "score": 19.0,
+    "matched": [
+      "Arctic",
+      "permafrost",
+      "carbon cycle"
+    ],
+    "published": null,
+    "first_seen": "2026-10-13"
   },
   {
     "title": "Reconstruction of Climate and Glaciers on Mount Elbrus in the 15th–21st Centuries Using CMIP6 Model Data",
@@ -855,39 +949,6 @@
     "first_seen": "2026-10-08"
   },
   {
-    "title": "Short-lived halogen sources and chemistry in the Community  Earth System Model v2 (CESM2-SLH)",
-    "journal": "Geoscientific Model Development",
-    "source": "rss:gmd",
-    "url": "https://doi.org/10.5194/gmd-19-9325-2026",
-    "doi": "10.5194/gmd-19-9325-2026",
-    "abstract": "In this work we summarize 15 years of research and developments of short-lived halogens (SLH) using the Community Earth System Model (CESM) and present a complete description of the implementation and capabilities achieved with the latest version v2. The CESM2-SLH release includes specific namelist options, input files and technical notes detailing the most important SLH updates that must be considered for the different model configurations and resolutions.",
-    "authors": [
-      "Rafael P. Fernandez",
-      "Carlos A. Cuevas",
-      "Julián Villamayor",
-      "Aryeh Feinberg",
-      "Douglas E. Kinnison",
-      "Francis Vitt",
-      "Adriana Bossolasco",
-      "Javier A. Barrera",
-      "Amelia Reynoso",
-      "Orlando G. Tomazzeli",
-      "Qinyi Li",
-      "Alfonso Saiz-Lopez"
-    ],
-    "is_editorial": false,
-    "abstract_missing": false,
-    "always_include": true,
-    "score_boost": 0.0,
-    "score": 15.0,
-    "matched": [
-      "Earth system model",
-      "Earth system"
-    ],
-    "published": "2026-10-05",
-    "first_seen": "2026-10-05"
-  },
-  {
     "title": "A decade of monthly frontal ablation  at 147 tidewater glaciers in Svalbard",
     "journal": "Earth System Science Data",
     "source": "rss:essd",
@@ -1022,6 +1083,35 @@
     "first_seen": "2026-10-10"
   },
   {
+    "title": "Subseasonal forecast improvements from sea ice concentration data assimilation in the Antarctic",
+    "journal": "The Cryosphere",
+    "source": "rss:tc",
+    "url": "https://doi.org/10.5194/tc-20-5867-2026",
+    "doi": "10.5194/tc-20-5867-2026",
+    "abstract": "Antarctic sea ice has shifted from its overall increasing trend in the past decades to the recent decline, which attracted attention from the research community. Providing more accurate subseasonal predictions of Antarctic sea ice is critical to managing the accelerating human activities. We demonstrate that by incorporating satellite observations of sea ice concentration with modeling, the subseasonal predictions of Antarctic sea ice can be improved significantly.",
+    "authors": [
+      "Yong-Fei Zhang",
+      "Mitchell Bushuk",
+      "Michael Winton",
+      "William Gregory",
+      "Bill Hurlin",
+      "Liwei Jia",
+      "Feiyu Lu"
+    ],
+    "is_editorial": false,
+    "abstract_missing": false,
+    "always_include": true,
+    "score_boost": 0.0,
+    "score": 15.0,
+    "matched": [
+      "Antarctic",
+      "sea ice",
+      "data assimilation"
+    ],
+    "published": "2026-10-13",
+    "first_seen": "2026-10-13"
+  },
+  {
     "title": "Temperature dependence of grain size in Tibetan ice core",
     "journal": "The Cryosphere",
     "source": "rss:tc",
@@ -1125,32 +1215,6 @@
     ],
     "published": "2026-10-09",
     "first_seen": "2026-10-09"
-  },
-  {
-    "title": "Circumpolar Effects of a Velocity‐Restoring Scheme for Antarctic Fast Ice on Shelf Waters and Ice Shelf Melt Simulated by NEMO4‐SI3",
-    "journal": "JGR Oceans",
-    "source": "rss:jgr-oceans",
-    "url": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025JC023673?af=R",
-    "doi": "10.1029/2025jc023673",
-    "abstract": "Journal of Geophysical Research: Oceans, Volume 131, Issue 10, October 2026.",
-    "authors": [
-      "N. Pirlet",
-      "T. Fichefet",
-      "M. Vancoppenolle",
-      "C. de Lavergne",
-      "N. C. Jourdain"
-    ],
-    "is_editorial": false,
-    "abstract_missing": false,
-    "always_include": false,
-    "score_boost": 0.0,
-    "score": 12.0,
-    "matched": [
-      "ice shelf",
-      "Antarctic"
-    ],
-    "published": "2026-10-05",
-    "first_seen": "2026-10-05"
   },
   {
     "title": "A 2020 permafrost distribution map of the Qinghai-Tibet Plateau",
@@ -1311,31 +1375,6 @@
     "first_seen": "2026-10-09"
   },
   {
-    "title": "DAWIS: Data Assimilation with Windowed Inverse Sampling via Multitask Interpolants",
-    "journal": "arXiv physics.ao-ph",
-    "source": "rss:arxiv-ao-ph",
-    "url": "https://arxiv.org/abs/2610.03314",
-    "doi": null,
-    "abstract": "arXiv:2610.03314v1 Announce Type: cross Abstract: Flow- and diffusion-based generative models have recently emerged as flexible and highly efficient forecasting models for dynamical systems. When combined with inference-time guidance, they offer a promising route to high-dimensional non-Gaussian data assimilation (DA), the problem of combining forecasts with observations to estimate latent system states. Existing filters, however, condition on a fixed history and assimilate only the most recent observation, leaving them unable to revise past states when new observations arrive. Estimates then stay tethered to a history that later observations may contradict, and errors accumulate over the assimilation run. To this end, we introduce **DAWIS**, a unified DA method covering filtering, fixed-lag smoothing, and block smoothing within a single framework. DAWIS replaces the single flow time of a state-level prior with a multitask stochastic interpolant over a window of consecutive states, assigning a separate flow time to each. An assimilation cycle inverts the window to a vector of per-state turning points and regenerates it under observation guidance, with the turning points controlling how strongly each state is held fixed, revised, or generated from scratch. The same construction can also absorb the forecast into the assimilation cycle, removing the need for a separate forecasting model. Experiments on challenging nonlinear systems show that DAWIS improves on both filtering and smoothing baselines under sparse, noisy, and nonlinear observations. The code for DAWIS is available at https://github.com/Erik-Wikingsson/DAWIS",
-    "authors": [
-      "Erik Wikingsson",
-      "Martin Andrae",
-      "Tomas Landelius",
-      "Fredrik Lindsten"
-    ],
-    "is_editorial": false,
-    "abstract_missing": false,
-    "always_include": false,
-    "score_boost": 0.0,
-    "score": 11.0,
-    "matched": [
-      "dynamical system",
-      "data assimilation"
-    ],
-    "published": "2026-10-05",
-    "first_seen": "2026-10-05"
-  },
-  {
     "title": "Simulating jökulhlaups from an ice-marginal lake within a 2D model of subglacial drainage and basal sliding",
     "journal": "The Cryosphere",
     "source": "rss:tc",
@@ -1370,6 +1409,35 @@
     ],
     "published": "2026-10-06",
     "first_seen": "2026-10-06"
+  },
+  {
+    "title": "Hydrological responses to climate change in a central Himalayan basin: insights from snow and glacier runoff modelling",
+    "journal": "International Journal of River Basin Management",
+    "source": "openalex:cryosphere",
+    "url": "https://doi.org/10.1080/15715124.2026.2740076",
+    "doi": "10.1080/15715124.2026.2740076",
+    "abstract": "Assessment of the impacts of climate change on central Himalayan hydrology is vital for the sustainable management of downstream water resources under recent CMIP6 climate projections. We focused on the hydrological processes and water components of the Ghaghara River basin (GRB), particularly on snow- and glacier-melt runoff under projected CMIP6 scenarios. The Spatial Processes in Hydrology (SPHY) model was calibrated and validated for the baseline period (2001–2010), achieving good-to-excellent performance at daily and monthly scales. In the baseline scenario, snow and glacier melt contributed 13.17% and 6.09% of total runoff, respectively. The snowmelt runoff declined by up to 5.49%; however, glacier melt increased by up to 6.13% under the high-emission scenario (SSP5-8.5) compared to the baseline. Rainfall-runoff is expected to increase by ~8% relative to the baseline period. Snowmelt runoff anomalies are expected to decrease after mid-century, particularly under high-emission scenarios, due to reduced snow cover during melt periods. The findings suggest that incorporating climate projections and their associated uncertainties is important for regional water management and planning.",
+    "authors": [
+      "Nirmal Kumar",
+      "Amit Kumar Dubey",
+      "Sudhir Kumar Singh",
+      "Ram L. Ray",
+      "Rupendra Prakash Singh"
+    ],
+    "is_editorial": false,
+    "abstract_missing": false,
+    "always_include": false,
+    "score_boost": 0.0,
+    "score": 11.0,
+    "matched": [
+      "glacier",
+      "CMIP",
+      "climate change",
+      "SSP",
+      "emission scenario"
+    ],
+    "published": "2026-10-12",
+    "first_seen": "2026-10-13"
   },
   {
     "title": "High‐ and Low‐Latitude Insolation Forcing Drives the Half‐Precession Cycle in Winter Arctic Sea Ice",
@@ -1453,6 +1521,66 @@
     ],
     "published": "2026-10-11",
     "first_seen": "2026-10-11"
+  },
+  {
+    "title": "A Catchment‐Based Global Model of River Discharge and Flow Velocity for Earth System Models",
+    "journal": "JAMES",
+    "source": "rss:james",
+    "url": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025MS005234?af=R",
+    "doi": "10.1029/2025ms005234",
+    "abstract": "Journal of Advances in Modeling Earth Systems, Volume 18, Issue 10, October 2026.",
+    "authors": [
+      "Yujin Zeng",
+      "Randal D. Koster",
+      "Rolf H. Reichle",
+      "Biljana Orescanin",
+      "Jana Kolassa",
+      "P. C. D. Milly"
+    ],
+    "is_editorial": false,
+    "abstract_missing": false,
+    "always_include": false,
+    "score_boost": 0.0,
+    "score": 10.0,
+    "matched": [
+      "Earth system model",
+      "Earth system"
+    ],
+    "published": "2026-10-12",
+    "first_seen": "2026-10-13"
+  },
+  {
+    "title": "Reconstruction of temperature, annual accumulation rate, and sea-ice concentration changes in coastal Dronning Maud Land, Antarctica (1942–2022) based on the H15 ice core",
+    "journal": "Polar Science",
+    "source": "openalex:paleoclimate",
+    "url": "https://doi.org/10.1016/j.polar.2026.101442",
+    "doi": "10.1016/j.polar.2026.101442",
+    "abstract": null,
+    "authors": [
+      "Mai Matsumoto",
+      "Kaoru Kawakami",
+      "Sumito Matoba",
+      "Saori Nishino",
+      "Shuji Fujita",
+      "Akira Hori",
+      "Yutaka Kurosaki",
+      "Sakiko Ishino",
+      "Keiichiro Hara",
+      "Shun Tsutaki",
+      "Naoyuki Kurita",
+      "Yoshinori Iizuka"
+    ],
+    "is_editorial": false,
+    "abstract_missing": true,
+    "always_include": false,
+    "score_boost": 0.0,
+    "score": 10.0,
+    "matched": [
+      "Antarctica",
+      "ice core"
+    ],
+    "published": "2026-10-01",
+    "first_seen": "2026-10-13"
   },
   {
     "title": "Rock glaciers in the Hindu Kush Himalaya: A regional synthesis",
@@ -1620,29 +1748,25 @@
     "first_seen": "2026-10-11"
   },
   {
-    "title": "Stochastic thermodynamics and predictability of Ornstein-Uhlenbeck processes: an application to the Madden-Julian Oscillation",
-    "journal": "arXiv physics.ao-ph",
-    "source": "rss:arxiv-ao-ph",
-    "url": "https://arxiv.org/abs/2610.03355",
-    "doi": null,
-    "abstract": "arXiv:2610.03355v1 Announce Type: new Abstract: Climate oscillations are intrinsically out-of-equilibrium phenomena, yet the connection between their predictability and nonequilibrium thermodynamic properties remains unexplored. We develop a coarse-grained stochastic thermodynamic framework for Ornstein-Uhlenbeck (OU) processes and apply this framework to climate data via linear inverse models (LIMs), linking predictability, entropy production, dynamical activity, and path action. Climate oscillations are often studied in a 2d phase space of climate indices, which are even under time-reversal, motivating our focus on 2d OU dynamics with even variables. We find that coordinate-invariant properties of 2d OU processes can be reduced to a minimal three-parameter description: two diffusivities and a phase-space rotation. We show that these quantities fundamentally characterize distinct aspects of the dynamics. We find that higher irreversibility and dynamical activity do not necessarily imply reduced predictability. Rather, it is the path action which is most closely connected to a commonly used measure of predictability, the anomaly correlation coefficient (ACC). As an illustrative example, we apply this framework to the Madden-Julian Oscillation (MJO) over the twentieth century. We find that the MJO has become simultaneously more predictable, as seen previously, while at the same time becoming more irreversible and more active. Predictability is driven predominantly by the reduced mean diffusion. Entropy production reflects the combined evolution of all three parameters. These results suggest that stochastic thermodynamics provides a powerful lens for studying nonequilibrium climate phenomena.",
+    "title": "EnviFlux (v1.0): a simplified surface flux inversion tool based on four-dimensional variational data assimilation (4D-Var)",
+    "journal": "Geoscientific Model Development",
+    "source": "rss:gmd",
+    "url": "https://doi.org/10.5194/gmd-19-9751-2026",
+    "doi": "10.5194/gmd-19-9751-2026",
+    "abstract": "EnviFlux is a low-cost data assimilation tool to estimate trace gas fluxes at the Earth's surface. Data assimilation ideas are often first studied with \"toy models\", but none exists for flux estimation, hence the purpose of EnviFlux. EnviFlux is described, and then used to show how model error and bias can influence the inferred surface flux features. This is done in two scenarios, one with no prior knowledge of a source/sink pair, and another with prior knowledge in a more realistic situation.",
     "authors": [
-      "Roberta Benincasa",
-      "Danni Du",
-      "Gregory S. Duane",
-      "Jeffrey B. Weiss"
+      "Ross N. Bannister"
     ],
     "is_editorial": false,
     "abstract_missing": false,
-    "always_include": false,
+    "always_include": true,
     "score_boost": 0.0,
-    "score": 8.0,
+    "score": 9.0,
     "matched": [
-      "irreversible",
-      "predictability"
+      "data assimilation"
     ],
-    "published": "2026-10-05",
-    "first_seen": "2026-10-05"
+    "published": "2026-10-12",
+    "first_seen": "2026-10-13"
   },
   {
     "title": "Continental-scale reorganization of North American pollen assemblages since the Last Glacial Maximum",
@@ -1750,33 +1874,95 @@
     "first_seen": "2026-10-10"
   },
   {
-    "title": "Seasonal evolution of suncup roughness describes broadband albedo decay on alpine snow",
-    "journal": "The Cryosphere",
-    "source": "rss:tc",
-    "url": "https://doi.org/10.5194/tc-20-5653-2026",
-    "doi": "10.5194/tc-20-5653-2026",
-    "abstract": "Melting alpine snowfields develop cup-shaped hollows that reduce how much sunlight the snow reflects, accelerating melt. Over three seasons in the Swiss Alps, we monitored how these hollows form and grow with a laser scanner. Two processes reduce reflectivity at the same time: hollows trap light through internal reflections, and meltwater washes dark particles into them. Because they are difficult to separate, surface roughness alone emerges as a proxy for overall reflectivity loss.",
+    "title": "Petagram‐Scale Dissolved Organic Carbon Stocks in Alaskan Permafrost Soils",
+    "journal": "Geophysical Research Letters",
+    "source": "rss:grl",
+    "url": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2026GL123633?af=R",
+    "doi": "10.1029/2026gl123633",
+    "abstract": "Geophysical Research Letters, Volume 53, Issue 20, 28 October 2026.",
     "authors": [
-      "Francesca Carletti",
-      "Nora Helbig",
-      "Nander Wever",
-      "Loïc Brouet",
-      "Mathias Bavay",
-      "Benjamin Walter",
-      "Michael Lehning"
+      "Yongni He",
+      "Songfan He",
+      "Jack A. Hutchings",
+      "Mikhail Kanevskiy",
+      "Yongge Sun",
+      "Xiaowen Zhang"
     ],
     "is_editorial": false,
     "abstract_missing": false,
-    "always_include": true,
+    "always_include": false,
     "score_boost": 0.0,
-    "score": 7.0,
+    "score": 8.0,
     "matched": [
-      "meltwater",
-      "albedo",
-      "proxy"
+      "permafrost"
     ],
-    "published": "2026-10-05",
-    "first_seen": "2026-10-05"
+    "published": "2026-10-12",
+    "first_seen": "2026-10-13"
+  },
+  {
+    "title": "Millennial‐Scale Deoxygenation in the Southern California Oxygen Minimum Zone Over the Last Glacial Cycle",
+    "journal": "Geophysical Research Letters",
+    "source": "rss:grl",
+    "url": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2026GL126297?af=R",
+    "doi": "10.1029/2026gl126297",
+    "abstract": "Geophysical Research Letters, Volume 53, Issue 20, 28 October 2026.",
+    "authors": [
+      "Fang Qian",
+      "Yi Wang",
+      "Kassandra M. Costa",
+      "Ingrid L. Hendy",
+      "Sune G. Nielsen"
+    ],
+    "is_editorial": false,
+    "abstract_missing": false,
+    "always_include": false,
+    "score_boost": 0.0,
+    "score": 8.0,
+    "matched": [
+      "glacial cycle"
+    ],
+    "published": "2026-10-12",
+    "first_seen": "2026-10-13"
+  },
+  {
+    "title": "High‐Resolution Temperature and Precipitation Variability in Northeast Asia Since the Last Glacial Maximum Recorded in an Annually Laminated Maar Lake",
+    "journal": "JGR Atmospheres",
+    "source": "rss:jgr-atmospheres",
+    "url": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2026JD047113?af=R",
+    "doi": "10.1029/2026jd047113",
+    "abstract": "Journal of Geophysical Research: Atmospheres, Volume 131, Issue 20, 28 October 2026.",
+    "authors": [
+      "Deke Xu",
+      "Jiatong Lu",
+      "Guoqiang Chu",
+      "Caiming Shen",
+      "Ning Tan",
+      "Anning Cui",
+      "Hao Li",
+      "Baoshuo Fan",
+      "Bing Song",
+      "Xiudong Yang",
+      "Kangyou Huang",
+      "Yun Zhang",
+      "Yuecong Li",
+      "Sangheon Yi",
+      "Jungjae Park",
+      "Zhuo Zheng",
+      "Qinghai Xu",
+      "Jie Liu",
+      "Chang Li",
+      "Houyuan Lu"
+    ],
+    "is_editorial": false,
+    "abstract_missing": false,
+    "always_include": false,
+    "score_boost": 0.0,
+    "score": 8.0,
+    "matched": [
+      "last glacial maximum"
+    ],
+    "published": "2026-10-12",
+    "first_seen": "2026-10-13"
   },
   {
     "title": "The Dynamics of Anthropogenic Snow Patch Melting and Assessment of Pollution in Meltwater",
@@ -1924,54 +2110,33 @@
     "first_seen": "2026-10-08"
   },
   {
-    "title": "10‐Year Changes in Oceanic Mesoscale Eddies in Northeast Asia Using the Coupling of GOCI and Satellite Altimetry Data",
-    "journal": "JGR Oceans",
-    "source": "rss:jgr-oceans",
-    "url": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025JC022741?af=R",
-    "doi": "10.1029/2025jc022741",
-    "abstract": "Journal of Geophysical Research: Oceans, Volume 131, Issue 10, October 2026.",
+    "title": "Climatic heterogeneity determines the distribution and resilience of Tibetan Plateau rock glaciers",
+    "journal": "CATENA",
+    "source": "openalex:cryosphere",
+    "url": "https://doi.org/10.1016/j.catena.2026.110682",
+    "doi": "10.1016/j.catena.2026.110682",
+    "abstract": "Rock glaciers (RGs) are pivotal indicators of mountain permafrost, yet the environmental controls governing their distribution patterns remain poorly understood. Using a generalized boosted model and an inventory of over 40,000 RGs, this study reveals regional shifts in the dominant environmental controls of RG distribution across the Tibetan Plateau. In the westerly-dominated northwest, snow duration days are the primary control, indicating snow as the main ice source; whereas wind speed, overlooked in earlier studies, emerges as the leading driver in the monsoon-influenced southeast. Specifically, wind speeds exceeding 3.2 m·s −1 favor RG occurrence, possibly by enhancing ventilation-induced cooling within coarse blocky layers. Subregional models outperform plateau-wide models by better capturing localized environmental thresholds, underscoring the importance of regionalized approaches for permafrost prediction. Projections further suggest that climatic suitability for RG occurrence remains relatively resilient to future warming scenarios, with implications for the potential role of RGs as hydrological buffers in high-mountain environments.",
     "authors": [
-      "He Cui",
-      "Jianyu Chen",
-      "Delu Pan",
-      "Xiaoyi Jiang",
-      "Yu Fu"
+      "Xiaowen Wang",
+      "Jiaxin Cai",
+      "Lin Liu",
+      "Tingting Wu",
+      "Kai Cui",
+      "Zhiwei Zhou",
+      "Liming Jiang",
+      "Guoxiang Liu"
     ],
     "is_editorial": false,
     "abstract_missing": false,
     "always_include": false,
     "score_boost": 0.0,
-    "score": 6.0,
+    "score": 7.0,
     "matched": [
-      "satellite altimetry"
+      "glacier",
+      "permafrost"
     ],
-    "published": "2026-10-05",
-    "first_seen": "2026-10-05"
-  },
-  {
-    "title": "Geodesic vortex detection on curved surfaces: Analyzing the 2002 austral stratospheric polar vortex warming event",
-    "journal": "arXiv physics.ao-ph",
-    "source": "rss:arxiv-ao-ph",
-    "url": "https://arxiv.org/abs/2501.03135",
-    "doi": null,
-    "abstract": "arXiv:2501.03135v3 Announce Type: replace-cross Abstract: Geodesic vortex detection is a tool in nonlinear dynamical systems to objectively identify transient vortices with flow-invariant boundaries that defy the typical deformation found in 2-d turbulence. Initially formulated for flows on the Euclidean plane with Cartesian coordinates, we have extended this technique to flows on 2-d Riemannian manifolds with arbitrary coordinates. This extension required the further formulation of the concept of objectivity on manifolds. Moreover, a recently proposed birth-and-death vortex framing algorithm, based on geodesic detection, has been adapted to address the limited temporal validity of 2-d motion in otherwise 3-d flows, like those found in the Earth's stratosphere. With these adaptations, we focused on the Lagrangian, i.e., kinematic, aspects of the austral stratospheric polar vortex during the exceptional sudden warming event of 2002, which resulted in the vortex splitting. This study involved applying geodesic vortex detection to isentropic winds from reanalysis data. We provide a detailed analysis of the vortex's life cycle, covering its birth, the splitting process, and its eventual death. In addition, we offer new kinematic insights into ozone depletion within the vortex.",
-    "authors": [
-      "Fernando Andrade-Canto",
-      "Francisco J. Beron-Vera",
-      "Gage Bonner"
-    ],
-    "is_editorial": false,
-    "abstract_missing": false,
-    "always_include": false,
-    "score_boost": 0.0,
-    "score": 6.0,
-    "matched": [
-      "polar",
-      "dynamical system",
-      "reanalysis"
-    ],
-    "published": "2026-10-05",
-    "first_seen": "2026-10-05"
+    "published": "2026-10-12",
+    "first_seen": "2026-10-13"
   },
   {
     "title": "Two Localization Strategies for Sequential MCMC Data Assimilation With Applications to Nonlinear Non‐Gaussian Geophysical Models",
@@ -2305,6 +2470,86 @@
     "first_seen": "2026-10-10"
   },
   {
+    "title": "Future Northeastward Shift of Extratropical Transition of Tropical Cyclones Over the North Atlantic in Downscaling Projections",
+    "journal": "Geophysical Research Letters",
+    "source": "rss:grl",
+    "url": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2026GL122052?af=R",
+    "doi": "10.1029/2026gl122052",
+    "abstract": "Geophysical Research Letters, Volume 53, Issue 20, 28 October 2026.",
+    "authors": [
+      "Dian‐Yi Li",
+      "Kevin A. Reed",
+      "Adam H. Sobel",
+      "Suzana J. Camargo",
+      "Colin M. Zarzycki",
+      "Chia‐Ying Lee",
+      "Boniface O. Fosu"
+    ],
+    "is_editorial": false,
+    "abstract_missing": false,
+    "always_include": false,
+    "score_boost": 0.0,
+    "score": 6.0,
+    "matched": [
+      "downscaling"
+    ],
+    "published": "2026-10-12",
+    "first_seen": "2026-10-13"
+  },
+  {
+    "title": "Evaluating Statistical Downscaling Techniques for Regional Hydroclimatic Change Projections Over CONUS",
+    "journal": "JGR Atmospheres",
+    "source": "rss:jgr-atmospheres",
+    "url": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2026JD046624?af=R",
+    "doi": "10.1029/2026jd046624",
+    "abstract": "Journal of Geophysical Research: Atmospheres, Volume 131, Issue 20, 28 October 2026.",
+    "authors": [
+      "Nicholas D. Lybarger",
+      "Ethan D. Gutmann",
+      "Andrew J. Newman",
+      "Chanel Mueller",
+      "Samantha H. Hartke",
+      "Soren Rasmussen",
+      "Michael D. Warner",
+      "Andrew W. Wood"
+    ],
+    "is_editorial": false,
+    "abstract_missing": false,
+    "always_include": false,
+    "score_boost": 0.0,
+    "score": 6.0,
+    "matched": [
+      "downscaling"
+    ],
+    "published": "2026-10-13",
+    "first_seen": "2026-10-13"
+  },
+  {
+    "title": "Review of the Salpausselkä ice‐marginal formations in Finland",
+    "journal": "Journal of Quaternary Science",
+    "source": "openalex:paleoclimate",
+    "url": "https://doi.org/10.1002/jqs.70123",
+    "doi": "10.1002/jqs.70123",
+    "abstract": "ABSTRACT Extensive Salpausselkä ice‐marginal formations were deposited in southern and eastern Finland during the Weichselian deglaciation. These comprise three major ridges (I, II, and III Salpausselkäs) and their eastern counterparts (Tuupovaara, Koitere, and Pielisjärvi), together forming laterally continuous ice‐marginal formations extending approximately 650 km, with a total mapped length of 1530 km. Among the largest ice‐marginal deposits globally, the Salpausselkäs consist mainly of glaciofluvial sand and gravel, locally interbedded with till. They include ice‐contact deltas, subaqueous fans, sandurs, moraine slabs and ridges, and shoreline deposits, with depositional architecture strongly controlled by ice‐lobe dynamics, meltwater discharge, proglacial water depth, and bedrock topography. In this review, we synthesize the current understanding of the chronology, composition, and depositional environments of the Salpausselkäs, drawing together a substantial body of literature accumulated over the decades, including numerous studies published only in the Finnish language. Uncertainties related to their deposition, as well as topics requiring further investigation, are also discussed.",
+    "authors": [
+      "Jukka‐Pekka Palmu",
+      "Jussi Hovikoski",
+      "Reijo Pitkäranta",
+      "Antti E.K. Ojala"
+    ],
+    "is_editorial": false,
+    "abstract_missing": false,
+    "always_include": false,
+    "score_boost": 0.0,
+    "score": 6.0,
+    "matched": [
+      "meltwater",
+      "deglaciation"
+    ],
+    "published": "2026-10-12",
+    "first_seen": "2026-10-13"
+  },
+  {
     "title": "From pollen to pixels: Towards spatially meaningful pollen-based vegetation reconstructions across southeastern Australia",
     "journal": "The Holocene",
     "source": "openalex:paleoclimate",
@@ -2419,63 +2664,28 @@
     "first_seen": "2026-10-12"
   },
   {
-    "title": "PhyEddy-Net: A sub-15-km daily global mesoscale eddy detection dataset from multimodal altimetry–vorticity–SST fusion",
-    "journal": "Earth System Science Data",
-    "source": "rss:essd",
-    "url": "https://doi.org/10.5194/essd-2026-670",
-    "doi": "10.5194/essd-2026-670",
-    "abstract": "Preprint under review for ESSD (discussion: open, 0 comments) We present PhyEddy-Net, a global mesoscale eddy detection dataset at 0.125° resolution for 2010–2021. It combines satellite altimetry, geostrophic vorticity, and sea surface temperature using a multimodal deep-learning model. The catalogue contains 36.7 million detections with polarity, area, radius, and probability. Independent Argo validation shows an 87.1 % hit rate and 92.1 % type agreement. PhyEddy-Net supports studies of eddy occurrence, spatial distribution, and ocean model validation.",
+    "title": "Introducing a new normalized cryospheric index (NCI) to categorize sub-watersheds on arid environments",
+    "journal": "The Cryosphere",
+    "source": "rss:tc",
+    "url": "https://doi.org/10.5194/tc-20-5829-2026",
+    "doi": "10.5194/tc-20-5829-2026",
+    "abstract": "In arid zones, water comes mainly from snow, glaciers and ice-rich permafrost landforms. We introduce the Normalized Cryospheric Index (NCI), which combines ice storage and snow permanence to rank sub-watersheds where no regulatory framework exists. Applied to the Copiapó basin (Atacama, Chile), the NCI identifies the Montosa, Del Potro, Manflas and Estero Come Caballos sub-watersheds as priority targets for sustaining runoff in Chile's national water resources strategy.",
     "authors": [
-      "Zhiwei Qiu",
-      "Tianjian Zong",
-      "Zhengyi Xia",
-      "Wandi Zhou",
-      "Chenxi Wang"
+      "Christopher Ulloa",
+      "Ayon García",
+      "Anouk Beniest"
     ],
     "is_editorial": false,
     "abstract_missing": false,
-    "always_include": false,
+    "always_include": true,
     "score_boost": 0.0,
-    "score": 4.0,
+    "score": 5.0,
     "matched": [
-      "sea surface temperature",
-      "satellite altimetry"
+      "glacier",
+      "permafrost"
     ],
-    "published": "2026-10-05",
-    "first_seen": "2026-10-05"
-  },
-  {
-    "title": "Carbon and nitrogen isotopes reveal organic matter provenance and late holocene dynamics off northeastern Hainan Island",
-    "journal": "Geo-Marine Letters",
-    "source": "openalex:paleoclimate",
-    "url": "https://doi.org/10.1007/s00367-026-00863-7",
-    "doi": "10.1007/s00367-026-00863-7",
-    "abstract": null,
-    "authors": [
-      "Xianqing Wang",
-      "Xuewan Wu",
-      "Haiyan Tang",
-      "Wei Li",
-      "Cheng Xu",
-      "Xiuyu Yun",
-      "Boqun Li",
-      "Haotian Wei",
-      "Hang Xu",
-      "Jiandong Meng",
-      "ZanHui Huang",
-      "Zhaofan Wang",
-      "Zhifeng Wan"
-    ],
-    "is_editorial": false,
-    "abstract_missing": true,
-    "always_include": false,
-    "score_boost": 0.0,
-    "score": 4.0,
-    "matched": [
-      "Holocene"
-    ],
-    "published": "2026-10-02",
-    "first_seen": "2026-10-05"
+    "published": "2026-10-13",
+    "first_seen": "2026-10-13"
   },
   {
     "title": "Cloud Microphysics and Drizzle Relationships With CCN Modality in Southern Ocean Stratocumuli",
@@ -2954,49 +3164,175 @@
     "first_seen": "2026-10-12"
   },
   {
-    "title": "Evolution of Scaled Energy During Earthquake Ruptures",
-    "journal": "JGR Solid Earth",
-    "source": "rss:jgr-solidearth",
-    "url": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2026JB034166?af=R",
-    "doi": "10.1029/2026jb034166",
-    "abstract": "Journal of Geophysical Research: Solid Earth, Volume 131, Issue 10, October 2026.",
+    "title": "Contribution of the Pacific Decadal Oscillation to Global Mean Sea Level Trends: Revisited",
+    "journal": "Geophysical Research Letters",
+    "source": "rss:grl",
+    "url": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2026GL124649?af=R",
+    "doi": "10.1029/2026gl124649",
+    "abstract": "Geophysical Research Letters, Volume 53, Issue 20, 28 October 2026.",
     "authors": [
-      "Binhao Wang",
-      "Heidi Houston"
+      "Yingjie Wang",
+      "Xianyao Chen"
     ],
     "is_editorial": false,
     "abstract_missing": false,
     "always_include": false,
     "score_boost": 0.0,
-    "score": 3.0,
+    "score": 4.0,
     "matched": [
-      "solid earth"
+      "sea level"
     ],
-    "published": "2026-10-05",
-    "first_seen": "2026-10-05"
+    "published": "2026-10-12",
+    "first_seen": "2026-10-13"
   },
   {
-    "title": "S2S-JEPA: Predicting the Predictable at Subseasonal-to-Seasonal Timescales",
-    "journal": "arXiv physics.ao-ph",
-    "source": "rss:arxiv-ao-ph",
-    "url": "https://arxiv.org/abs/2610.03106",
-    "doi": null,
-    "abstract": "arXiv:2610.03106v1 Announce Type: new Abstract: The subseasonal-to-seasonal (S2S) timescale, roughly from two weeks to two months ahead, is a critical forecast window for sectors such as agriculture, energy, and water management. Yet, it is widely known as the `predictability desert'. Recent AI weather models excel up to two weeks ahead but deteriorate beyond, largely because they are trained to predict fine-scale details that are neither predictable nor essential at S2S timescales. We argue that a more physically grounded objective is to forecast only the slowly varying components that remain predictable. Computer vision reached the same conclusion with the Joint-Embedding Predictive Architecture (JEPA), which predicts in latent space, discarding unpredictable details. In this work, we introduce S2S-JEPA, which brings the JEPA paradigm to S2S forecasting. It is tailored to this task through design elements from state-of-the-art AI weather models. S2S-JEPA achieves comparable skill to the gold-standard ECMWF physics-based ensemble and surpasses it on multiple metrics at weeks 5 to 6.",
+    "title": "Resolution Dependence of the Climate Feedback Parameter in Km‐Scale Climate Models",
+    "journal": "Geophysical Research Letters",
+    "source": "rss:grl",
+    "url": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2026GL124621?af=R",
+    "doi": "10.1029/2026gl124621",
+    "abstract": "Geophysical Research Letters, Volume 53, Issue 20, 28 October 2026.",
     "authors": [
-      "Chenyu Dong",
-      "Gianmarco Mengaldo"
+      "Angel Peinado Bravo",
+      "Masaki Toda",
+      "Hauke Schmidt",
+      "Sandrine Bony",
+      "Sarah M. Kang",
+      "Daniel Klocke",
+      "Lukas Kluft",
+      "Bjorn Stevens",
+      "Daisuke Takasuka"
     ],
     "is_editorial": false,
     "abstract_missing": false,
     "always_include": false,
     "score_boost": 0.0,
-    "score": 3.0,
+    "score": 4.0,
     "matched": [
-      "predictability",
-      "ensemble"
+      "climate feedback"
     ],
-    "published": "2026-10-05",
-    "first_seen": "2026-10-05"
+    "published": "2026-10-12",
+    "first_seen": "2026-10-13"
+  },
+  {
+    "title": "Reassessing Methanesulfonic Acid as a Sea Ice Proxy: An Example From the Weddell Sea Sector",
+    "journal": "Geophysical Research Letters",
+    "source": "rss:grl",
+    "url": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2026GL124543?af=R",
+    "doi": "10.1029/2026gl124543",
+    "abstract": "Geophysical Research Letters, Volume 53, Issue 20, 28 October 2026.",
+    "authors": [
+      "R. M. Smith",
+      "Z. C. Weich",
+      "C. Giorio",
+      "C. S. Allen",
+      "E. R. Thomas"
+    ],
+    "is_editorial": false,
+    "abstract_missing": false,
+    "always_include": false,
+    "score_boost": 0.0,
+    "score": 4.0,
+    "matched": [
+      "sea ice",
+      "proxy"
+    ],
+    "published": "2026-10-12",
+    "first_seen": "2026-10-13"
+  },
+  {
+    "title": "Interpreting Air Temperature Trends Across the Antarctic Peninsula Between 1979 and 2025",
+    "journal": "Geophysical Research Letters",
+    "source": "rss:grl",
+    "url": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2026GL125798?af=R",
+    "doi": "10.1029/2026gl125798",
+    "abstract": "Geophysical Research Letters, Volume 53, Issue 20, 28 October 2026.",
+    "authors": [
+      "Koen van der Aa",
+      "Carleen Reijmer",
+      "Peter Kuipers Munneke",
+      "Michiel van den Broeke"
+    ],
+    "is_editorial": false,
+    "abstract_missing": false,
+    "always_include": false,
+    "score_boost": 0.0,
+    "score": 4.0,
+    "matched": [
+      "Antarctic"
+    ],
+    "published": "2026-10-12",
+    "first_seen": "2026-10-13"
+  },
+  {
+    "title": "Analysis of Snow Cover Dynamics in the Beas River Basin during 2019-2021",
+    "journal": "International Journal For Multidisciplinary Research",
+    "source": "openalex:cryosphere",
+    "url": "https://doi.org/10.36948/ijfmr.2026.v08i05.89408",
+    "doi": "10.36948/ijfmr.2026.v08i05.89408",
+    "abstract": "Snow is a key component of the Himalayan cryosphere and plays a significant role in water resource availability and hydrological processes. This study examines the characteristics of snow cover in the Beas River Basin using MODIS satellite imagery for the period 2019-2021, with particular emphasis on temporal variations in snow cover and its potential influence on the hydrological cycle. Snow Cover Area (SCA) was estimated for the basin using the improved 8-day snow-cover product (Version 6), Terra-Aqua (MOYDGL06), generated from the Moderate Resolution Imaging Spectroradiometer (MODIS) sensor. In addition, snow-cover maps were developed from the MODIS observations to analyse the spatial distribution and temporal variability of snow cover across the Beas River Basin. During the study period, SCA in the region varied from 41% (November 2020) to 90% (February 2019). SCA and total precipitation showed declining trends at rates of 2.1 km² and 47.3 cm, respectively, while the average temperature increased from 2019 to 2021 at a rate of 0.14°C. However, during 2019-2021, SCA declined at a higher rate of 19.21 km² and total precipitation decreased at a rate of 28.6 cm. In contrast, the mean temperature increased at a higher rate of 0.40°C. The study indicates that SCA and precipitation declined more rapidly during 2019-2021. The findings suggest that climate change may be an important factor influencing the observed trends in SCA, precipitation, and mean temperature. The observed SCA trend was also found to be consistent with the climatic parameters. The study examines SCA variability from January to December.",
+    "authors": [
+      "Sunita Sunita"
+    ],
+    "is_editorial": false,
+    "abstract_missing": false,
+    "always_include": false,
+    "score_boost": 0.0,
+    "score": 4.0,
+    "matched": [
+      "cryosphere",
+      "climate change"
+    ],
+    "published": "2026-10-10",
+    "first_seen": "2026-10-13"
+  },
+  {
+    "title": "Threat and action under strain: Risk Perception Shapes Heat Protective Behavior in the Context of Differing Physical and Mental Health",
+    "journal": "Journal of Environmental Psychology",
+    "source": "openalex:cites-me",
+    "url": "https://doi.org/10.1016/j.jenvp.2026.103239",
+    "doi": "10.1016/j.jenvp.2026.103239",
+    "abstract": "Heat can adversely affect both mental and physical health and increase mortality risk. Heat-related deaths are an increasing global phenomenon, particularly during heat waves or sudden temperature increases, before acclimatization can take place. For effective prevention, it is important to identify predictors of heat protection intentions and behaviors. To address the often-neglected risk that heat poses to mental health, we have developed a multidimensional questionnaire to measure heat-related risk perception. It assesses negative affect caused by heat, perceived probability of being affected by heat, and expected consequences of unprotected heat exposure. We examined the scale's relationship with heat protection intention and behavior, as well as whether mental or physical strain negatively moderated this relationship. Self-efficacy and health literacy were additional exogenous variables. A total of 1,803 adults in Germany participated in the study. The data were evaluated using structural equation modeling. After minor adjustments, the measurement model showed a fair fit. All factors of heat-related risk perception, self-efficacy, and the intention to protect oneself from heat were significantly related to heat protection behavior. Negative moderation by physical or mental strain was not detected. The results suggest that the affective factor of heat-related risk perception (e.g., “I feel afraid when I think about heat”), the intention to protect oneself, and self-efficacy are particularly decisive in determining whether people take protective measures against heat. Communication strategies that increase the emotional salience of heat hazards, which are supplemented by programs that specifically strengthen self-efficacy, could effectively elicit behavioral change in physically and mentally inconspicuous and strained populations.",
+    "authors": [
+      "Jonatan Elias Matthies",
+      "F. Junne",
+      "C. Nikendei",
+      "H.C. Friederich",
+      "K. Geue",
+      "N. Gebhardt",
+      "H. Wallis"
+    ],
+    "is_editorial": false,
+    "abstract_missing": false,
+    "always_include": false,
+    "score_boost": 1.0,
+    "score": 4.0,
+    "matched": [
+      "heat wave"
+    ],
+    "published": "2026-10-01",
+    "first_seen": "2026-10-13"
+  },
+  {
+    "title": "Heterogeneous effects of climate change on real GDP per capita: evidence from selected MENA countries and Türkiye",
+    "journal": "Frontiers in Environmental Science",
+    "source": "openalex:cites-me",
+    "url": "https://doi.org/10.3389/fenvs.2026.1930700",
+    "doi": "10.3389/fenvs.2026.1930700",
+    "abstract": "The Middle East and North Africa (MENA) region is highly exposed to climate risks, but the economies considered in this study differ substantially in their resource structures and sectoral composition. It therefore remains unclear whether a single regional panel average can adequately reflect the relationship between climate change and real gross domestic product (GDP) per capita across these countries. This study examines this relationship using an 11-country panel covering selected MENA countries and Türkiye over the period 1995–2024, with particular attention to Gulf-non-Gulf and country-level variation. The climate variables were the temperature anomaly, the squared temperature anomaly, and the Standardized Precipitation-Evapotranspiration Index (SPEI), with real GDP per capita as the dependent variable. The Cross-Sectionally Augmented Autoregressive Distributed Lag (CS-ARDL) model was employed as the baseline estimator to account for cross-sectional dependence and slope heterogeneity, with Common Correlated Effects Mean Group (CCEMG) and Driscoll-Kraay estimates used as complementary checks. Full-panel results show no strong and consistent average relationship between the climate variables and real GDP per capita across estimators. Subsample estimates suggest a possible negative temperature pattern in the non-Gulf group, but the corresponding marginal effects are not statistically significant at the 5% level and the pattern is not reproduced in additional sensitivity checks. Formal tests do not indicate a statistically significant difference between Gulf and non-Gulf temperature responses. Additional full-panel robustness specifications do not materially alter this conclusion. The study contributes by examining the relationship at the full-panel, subgroup, and country levels. The results suggest that regional averages may conceal some variation across countries and groups, although the small subgroup sizes limit inference and these patterns require confirmation in larger samples. Policy assessment in the region should therefore take country-level conditions into account rather than rely on a single regional average. The findings are also relevant to the broader objectives of the Sustainable Development Goals (SDGs), particularly SDG 8 and SDG 13.",
+    "authors": [
+      "Hüseyin Yılmaz"
+    ],
+    "is_editorial": false,
+    "abstract_missing": false,
+    "always_include": false,
+    "score_boost": 1.0,
+    "score": 4.0,
+    "matched": [
+      "climate change"
+    ],
+    "published": "2026-10-12",
+    "first_seen": "2026-10-13"
   },
   {
     "title": "A global, temporally continuous, hourly CO2 concentration dataset at GAW monitoring stations for 2000–2024: Enabling fine-scale carbon dynamics analysis",
@@ -3487,6 +3823,211 @@
     "first_seen": "2026-10-12"
   },
   {
+    "title": "Why not every global problem can be tackled by an IPCC-like organization",
+    "journal": "Nature",
+    "source": "rss:nature",
+    "url": "https://www.nature.com/articles/d41586-026-03234-5",
+    "doi": "10.1038/d41586-026-03234-5",
+    "abstract": "Nature, Published online: 13 October 2026; doi:10.1038/d41586-026-03234-5 Why not every global problem can be tackled by an IPCC-like organization",
+    "authors": [
+      "Mike Hulme"
+    ],
+    "is_editorial": false,
+    "abstract_missing": false,
+    "always_include": false,
+    "score_boost": 0.0,
+    "score": 3.0,
+    "matched": [
+      "IPCC"
+    ],
+    "published": null,
+    "first_seen": "2026-10-13"
+  },
+  {
+    "title": "Anelasticity of the Mantle Beneath Taiwan Revealed by GPS Tidal Displacements",
+    "journal": "JGR Solid Earth",
+    "source": "rss:jgr-solidearth",
+    "url": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2026JB034227?af=R",
+    "doi": "10.1029/2026jb034227",
+    "abstract": "Journal of Geophysical Research: Solid Earth, Volume 131, Issue 10, October 2026.",
+    "authors": [
+      "Xiaowen You",
+      "Linguo Yuan",
+      "Benjamin Fong Chao"
+    ],
+    "is_editorial": false,
+    "abstract_missing": false,
+    "always_include": false,
+    "score_boost": 0.0,
+    "score": 3.0,
+    "matched": [
+      "solid earth"
+    ],
+    "published": "2026-10-13",
+    "first_seen": "2026-10-13"
+  },
+  {
+    "title": "Glacier response to the transition from lake- to land-terminating following a glacial lake outburst flood at Jinwu Glacier, southeastern Tibet",
+    "journal": "The Cryosphere",
+    "source": "rss:tc",
+    "url": "https://doi.org/10.5194/tc-20-5883-2026",
+    "doi": "10.5194/tc-20-5883-2026",
+    "abstract": "After a glacial lake outburst flood in 2020, Jinwu Glacier in southeastern Tibet lost contact with its lake. Using satellite images, we found that the glacier front slowed by about 44% and showed ice-cliff collapse and a short-lived advance. The study shows that sudden lake drainage can rapidly change glacier behaviour, with implications for how lake-terminating glaciers evolve after outburst floods.",
+    "authors": [
+      "Yunyi Luo",
+      "Qiao Liu",
+      "Yin Fu",
+      "Xueyuan Lu",
+      "Yongsheng Yin",
+      "Jiawei Yang",
+      "Guoxiong Zheng",
+      "Xuyang Lu"
+    ],
+    "is_editorial": false,
+    "abstract_missing": false,
+    "always_include": true,
+    "score_boost": 0.0,
+    "score": 3.0,
+    "matched": [
+      "glacier"
+    ],
+    "published": "2026-10-13",
+    "first_seen": "2026-10-13"
+  },
+  {
+    "title": "Shifting climate in Caribbean tropical forests: Long-term trends at La Selva (Costa Rica) and El Verde (Puerto Rico)",
+    "journal": "PLOS Climate",
+    "source": "rss:plos-climate",
+    "url": "https://journals.plos.org/climate/article?id=10.1371/journal.pclm.0001044",
+    "doi": "10.1371/journal.pclm.0001044",
+    "abstract": "by Alonso Ramírez, Marcelo Ardón, Pavel García, Nicholas S. Marzolf, David Genereux Climate change is altering ecosystems worldwide, but long-term, site-level hydroclimatic responses remain comparatively under-documented in many tropical regions. We analyzed long-term air and water temperature, precipitation, and stream water level data from two active Caribbean research sites: La Selva Research Station, Costa Rica, and El Verde Field Station, Puerto Rico. Our goal was to assess long-term hydroclimatic trends and changes in extreme events using continuous monitoring from automatic and manual sensors. Long-term records show a mean daily temperature of 25.1°C (1992–2024, range: 19.5-29.6°C) at La Selva and 23.6°C (2000–2024, range: 17.7-28.2°C) at El Verde. Mean annual precipitation is 4166 mm at La Selva (1983–2024) and 3635.8 mm at El Verde (1975–2024). We found a decadal warming trend of 0.29°C at both locations. The El Niño Southern Oscillation (ENSO) influenced air temperature at El Verde, where La Niña (+0.02°C day −1 , 95% CI: 0.002–0.042) phase was associated with higher daily temperatures, but had no detectable effect on air temperature at La Selva. A significant increase in the frequency of extreme temperature events (defined as exceeding the 95 th , 97 th , and 99 th percentiles) was observed at both sites. Using the 95 th percentile and a fitted generalized linear model, both locations had ~8 extreme temperature events per year in the beginning and increased to ~35 events per year in 2024. Changes in precipitation extremes were site-specific and differed between wet and dry metrics. La Selva showed an increase in wet extremes (heavy precipitation), with 99 th percentile rainfall exceedances rising from ~1 event per year (1983–1985) to 6 per year in 2024. In contrast, El Verde showed no significant increase in heavy-precipitation events, but exhibited an increase in dry extremes (dry days th percentile at La Selva and 95 th percentile at El Verde), with estimated durations above these extreme thresholds roughly doubling over the study period. Overall, our study shows an increasing frequency of extreme events, both wet and dry, at these two Caribbean protected locations. These findings suggest important and distinct regional changes in climate over the region, with important consequences for ecosystem conservation and management.",
+    "authors": [
+      "Alonso Ramírez",
+      "Marcelo Ardón",
+      "Pavel García",
+      "Nicholas S. Marzolf",
+      "David Genereux"
+    ],
+    "is_editorial": false,
+    "abstract_missing": false,
+    "always_include": false,
+    "score_boost": 0.0,
+    "score": 3.0,
+    "matched": [
+      "extreme event",
+      "climate change"
+    ],
+    "published": "2026-10-12",
+    "first_seen": "2026-10-13"
+  },
+  {
+    "title": "Extensive glacier loss in the coterminous United States",
+    "journal": "Proceedings of the National Academy of Sciences",
+    "source": "openalex:cryosphere",
+    "url": "https://doi.org/10.1073/pnas.2600941123",
+    "doi": "10.1073/pnas.2600941123",
+    "abstract": "Glaciers populate the mountain ranges of the western conterminous United States and despite their importance to alpine hydrology, their area and volume change have never been comprehensively evaluated. Our study shows that since the mid-twentieth century about one-quarter of the glaciers have disappeared and the overall area and volume are reduced by one-third. The pattern of glacier shrinkage suggests most glaciers in the conterminous United States are largely maintained by local topographic influences due to their small size. These results improve our understanding of evolving high alpine hydrology and importance to ecosystem processes.",
+    "authors": [
+      "Andrew G. Fountain",
+      "Bryce Glenn",
+      "Christopher J. Mcneil",
+      "Brian Menounos"
+    ],
+    "is_editorial": false,
+    "abstract_missing": false,
+    "always_include": false,
+    "score_boost": 0.0,
+    "score": 3.0,
+    "matched": [
+      "glacier"
+    ],
+    "published": "2026-10-12",
+    "first_seen": "2026-10-13"
+  },
+  {
+    "title": "Glacier change at the ISM-MLW transition: multi-decadal evidence of spatial heterogeneity from the Sara Umga watershed, western Himalaya",
+    "journal": "Frontiers in Earth Science",
+    "source": "openalex:cryosphere",
+    "url": "https://doi.org/10.3389/feart.2026.1896483",
+    "doi": "10.3389/feart.2026.1896483",
+    "abstract": "This study presents a multi-decadal assessment of glacier change in the Sara Umga Watershed (SUW), between the Parvati and Chandra basins. The region receives a majority of its annual precipitation from Indian Summer Monsoon (ISM) and a comparatively lower share contributed by winter Mid Latitude Westerlies (MLW). Using multi-temporal satellite data, we quantify changes in glacier length, area, surface velocity, elevation, debris cover, ice cliff dynamics, and high-faltitude lakes, supplemented by long-term climate trend analysis. A total of 54 glaciers (>0.05 km 2 ) were mapped, covering 128.38 ± 2.98 km 2 in 2024, of which 24.84 ± 1.15 km 2 comprised debris-covered ice. Between 1994 and 2024, total glacier area declined by 4.54 ± 0.04 km 2 (0.15 ± 0.001 km 2 yr −1 ), while debris cover expanded to 24.84 ± 1.15 km 2 (0.37 ± 0.09 km 2 yr −1 ). Frontal retreat rates for the five major glaciers ranged from ∼12 to 26.2 m yr −1 . The largest glacier, Sara Umga (GL01), exhibited a mean surface velocity of ∼23.4 m yr −1 . Elevation-change analysis reveals pronounced spatial heterogeneity in glacier thinning, with maximum surface lowering concentrated in the lower, debris-covered ablation zone (3900–4400 m a.s.l.; −1.22 ± 0.95 to −1.67 ± 0.39 m yr −1 , locally exceeding −3.0 m yr −1 ), diminishing thinning at mid-elevations, and near-equilibrium conditions across the accumulation area of GL01 (−0.07 ± 0.54 to 0.06 ± 0.33 m yr −1 ). Zones of higher thinning and flow attenuation coincide with dense ice-cliff and lake development, indicating strong melt-dynamics coupling. Climate analysis (1901–2024) shows significant winter warming (0.01 °C yr −1 ) and declining Mid-Latitude Westerly (MLW) dominated winter precipitation (−0.160 mm yr −1 ), alongside increasing pre- (0.354 mm yr −1 ) and post-monsoon (0.070 mm yr −1 ) precipitation. These findings demonstrate that changes in debris-covered Himalayan glaciers cannot be inferred from frontal retreat alone. Instead, coupled changes in thickness, velocity, surface morphology, and climate trends govern long-term glacier response and hence should be studied alongside.",
+    "authors": [
+      "Soumik Das",
+      "Soumik Das",
+      "Suresh Das",
+      "Suresh Das",
+      "Sandip Tanu Mandal",
+      "Elora Chakraborty",
+      "Prachi Rajput",
+      "Ishita Manna",
+      "Sanjay Deswal",
+      "Milap Chand Sharma"
+    ],
+    "is_editorial": false,
+    "abstract_missing": false,
+    "always_include": false,
+    "score_boost": 0.0,
+    "score": 3.0,
+    "matched": [
+      "glacier"
+    ],
+    "published": "2026-10-12",
+    "first_seen": "2026-10-13"
+  },
+  {
+    "title": "Study of Snow Cover Characteristics According to the Data of Meteorological Stations of Western Kazakhstan in the Context of Global Climate Change",
+    "journal": "Water",
+    "source": "openalex:cryosphere",
+    "url": "https://doi.org/10.3390/w18202517",
+    "doi": "10.3390/w18202517",
+    "abstract": "In the Republic of Kazakhstan, runoff in lowland rivers is 90% determined by snowmelt. Therefore, assessing snow reserves in a changing climate is of great scientific and applied importance. This work aims to assess how global climate change affects snow cover characteristics in Western Kazakhstan in the Caspian Sea basin. For the first time, we conducted a comprehensive assessment of snow cover depth, water equivalent, and snow cover duration in the drainage basin. We used statistical analysis of data from 50 meteorological stations for the period 1950–2024. Only data from 14 meteorological stations in the Mugalzhar lowlands (north of the Aktobe region) and on the Podural plateau (north of the West Kazakhstan region), where errors did not exceed 2–4%, were suitable for climate studies. The results showed an increase in average snow height by 3 cm, a decrease in maximum height by 4 cm, and a 17-day reduction in the duration of stable snow cover. However, these trends are not statistically significant (the coefficient of determination is 0.02–0.24), and their values fall within the statistical error. The calculated Pearson and Spearman indicators confirm a statistical relationship between individual global and regional climate indicators (correlation coefficients of 0.23–0.40 at the significance level p = 0.03). However, most snow cover indicators show no statistical dependence: correlation coefficients range from −0.02 to 0.20, with p = 0.30–0.90. The results obtained indicate a random, stochastic nature of the long-term dynamics of depth, water equivalent, and duration of snow cover in the region under study.",
+    "authors": [
+      "Akhmetkal Rakhmetullayevich Medeu",
+      "V. V. Zhdanov",
+      "Viktor Blagovechshenskiy",
+      "Nina V. Pimankina"
+    ],
+    "is_editorial": false,
+    "abstract_missing": false,
+    "always_include": false,
+    "score_boost": 0.0,
+    "score": 3.0,
+    "matched": [
+      "climate change"
+    ],
+    "published": "2026-10-12",
+    "first_seen": "2026-10-13"
+  },
+  {
+    "title": "Past moisture and vegetation conditions at Lake Aura, Norway using n -alkanes and pollen",
+    "journal": "The Holocene",
+    "source": "openalex:paleoclimate",
+    "url": "https://doi.org/10.1177/09596836261487383",
+    "doi": "10.1177/09596836261487383",
+    "abstract": "Wetlands are valuable paleoenvironmental archives where pollen and n -alkane samples can be collected and used to reconstruct local vegetation patterns and hydrological conditions. However, the impact of local environmental heterogeneity on n -alkanes specifically remains poorly constrained. To address this, we apply a combined n -alkane and pollen approach which allows for a more nuanced reconstruction. In this study, we analyze three separate peat cores around Lake Aura, a high-altitude lake in central Norway, to reconstruct the Holocene vegetation and hydrological development. The area has extensive evidence of successive archaeological activity, and human impacts on vegetation are considered. Our records show a general pattern of arboreal dominance, but with increasing percentages of grassy vegetation towards the Late Holocene, possibly associated with the onset and intensification of pastoralism. Although pollen and n -alkane records broadly converge, intervals where the n -alkane wood/grass ratio rises while the arboreal pollen declines show that the proxies capture different aspects of vegetation change, refining the overall reconstruction. Our study demonstrates the value of combining pollen with molecular markers for reconstructing Holocene vegetation and moisture patterns, and we highlight the broader potential of this tandem approach for refining paleoenvironmental reconstructions in heterogeneous landscapes.",
+    "authors": [
+      "Anastasia Bertheussen",
+      "David  Keith Wright",
+      "Jago Jonathan Birk",
+      "Calin Constantin Steindal",
+      "Sabine Fiedler",
+      "Stefanie Klassen",
+      "Anette Overland",
+      "Axel Mjærum"
+    ],
+    "is_editorial": false,
+    "abstract_missing": false,
+    "always_include": false,
+    "score_boost": 0.0,
+    "score": 3.0,
+    "matched": [
+      "Holocene",
+      "proxy"
+    ],
+    "published": "2026-10-12",
+    "first_seen": "2026-10-13"
+  },
+  {
     "title": "Schumpeterian disaggregation and integrated assessment: An endogenous, stock-flow consistent economy in disequilibrium for FRIDA v2.1",
     "journal": "Geoscientific Model Development",
     "source": "rss:gmd",
@@ -3537,35 +4078,60 @@
     "first_seen": "2026-10-12"
   },
   {
-    "title": "Evaluation of HNO3, SO2, and NH3 in the Surface Tiled Aerosol and Gaseous Exchange (STAGE) option in the Community Multiscale Air Quality Model version 5.3.2 against field-scale, in situ and satellite observations",
+    "title": "High-performance geodynamics on GPUs using  the PETSc CUDA backend (GAUZZ v1.0.0)",
     "journal": "Geoscientific Model Development",
     "source": "rss:gmd",
-    "url": "https://doi.org/10.5194/gmd-19-9377-2026",
-    "doi": "10.5194/gmd-19-9377-2026",
-    "abstract": "We applied a consistent modeling approach for both field and regional scales of multi-pollutants to evaluate the air-surface exchange processes contributing to regional air quality modeling biases when evaluated against observed network and satellite ammonia concentrations. This multi-resolution approach will serve the modeling and measurement community in their future development and generalization of air-surface exchange models utilizing flux, routine network and satellite observations.",
+    "url": "https://doi.org/10.5194/gmd-19-9781-2026",
+    "doi": "10.5194/gmd-19-9781-2026",
+    "abstract": "Geodynamic simulations of mantle flow repeatedly solve the Stokes equations at high memory and computational cost. We developed a Stokes solver for graphics processing units by coupling two open-source libraries. A single graphics processing unit solved the Stokes equations 6–11 times faster than a 32-core central processor, with the same accuracy. Two units further shortened the solution time of large problems. The doubled memory extended the maximum size of three-dimensional simulations.",
     "authors": [
-      "Jesse O. Bash",
-      "John T. Walker",
-      "Zhiyong Wu",
-      "Ian C. Rumsey",
-      "Ben Murphy",
-      "Christian Hogrefe",
-      "Kathleen M. Fahey",
-      "Havala O. T. Pye",
-      "Matthew R. Jones",
-      "K. Wyat Appel",
-      "Mark W. Shephard",
-      "Najwa I. Alnsour",
-      "Karen E. Cady-Periera"
+      "Kyeong-Min Lee",
+      "Deok-Kyu Jang",
+      "Cedric Thieulot",
+      "Byung-Dal So"
     ],
     "is_editorial": false,
     "abstract_missing": false,
     "always_include": true,
     "score_boost": 0.0,
-    "score": 0.0,
-    "matched": [],
-    "published": "2026-10-05",
-    "first_seen": "2026-10-05"
+    "score": 1.0,
+    "matched": [
+      "solver"
+    ],
+    "published": "2026-10-13",
+    "first_seen": "2026-10-13"
+  },
+  {
+    "title": "Enhancing the advection module performance in the EPICC-Model V1.6.0 via GPU-HADVPPM4HIP V1.0 coupling and GPU-optimized strategies",
+    "journal": "Geoscientific Model Development",
+    "source": "rss:gmd",
+    "url": "https://doi.org/10.5194/gmd-19-9807-2026",
+    "doi": "10.5194/gmd-19-9807-2026",
+    "abstract": "This study achieves significant acceleration by developing an optimized advection module for Emission and atmospheric Processes Integrated and Coupled Community Model on Graphics Processing Unit. Through implementing thread-block indexing, minimizing Central Processing Unit and Graphics Processing Unit communication, and an parallel framework, we demonstrate speedups: 556.5× faster offline performance for the Heterogeneous Interface advection solver and 20.5× acceleration in coupled simulations.",
+    "authors": [
+      "Kai Cao",
+      "Qizhong Wu",
+      "Xiao Tang",
+      "Jinxi Li",
+      "Xueshun Chen",
+      "Huansheng Chen",
+      "Wending Wang",
+      "Huangjian Wu",
+      "Lei Kong",
+      "Jie Li",
+      "Jiang Zhu",
+      "Zifa Wang"
+    ],
+    "is_editorial": false,
+    "abstract_missing": false,
+    "always_include": true,
+    "score_boost": 0.0,
+    "score": 1.0,
+    "matched": [
+      "solver"
+    ],
+    "published": "2026-10-13",
+    "first_seen": "2026-10-13"
   },
   {
     "title": "Development and evaluation of the ECHAM6-iMAPLE  v1.0 coupled atmosphere–ecosystem model",
@@ -3837,5 +4403,44 @@
     "matched": [],
     "published": "2026-10-12",
     "first_seen": "2026-10-12"
+  },
+  {
+    "title": "Local Generation of Plasmaspheric Plume Hiss",
+    "journal": "Geophysical Research Letters",
+    "source": "rss:grl",
+    "url": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2026GL125292?af=R",
+    "doi": "10.1029/2026gl125292",
+    "abstract": "Geophysical Research Letters, Volume 53, Issue 20, 28 October 2026.",
+    "authors": [
+      "Yoshiharu Omura"
+    ],
+    "is_editorial": true,
+    "abstract_missing": false,
+    "always_include": false,
+    "score_boost": 0.0,
+    "score": 0.0,
+    "matched": [],
+    "published": "2026-10-12",
+    "first_seen": "2026-10-13"
+  },
+  {
+    "title": "Physics vs. AI in weather prediction: evaluating GraphCast, AIFS, and FuXi against an observation-corrected WRF model for flash floods",
+    "journal": "Geoscientific Model Development",
+    "source": "rss:gmd",
+    "url": "https://doi.org/10.5194/gmd-19-9831-2026",
+    "doi": "10.5194/gmd-19-9831-2026",
+    "abstract": "Artificial intelligence (AI) weather models are now competing with traditional physics-based models for flood forecasting. We tested three of them and a physics-based model against observations from three flood events in Luxembourg. The AI models detected light rain and predicted temperatures better, but the physics-based model was more skilful at the heavy rainfall that actually causes floods. One AI model kept its skill on an event after its training period.",
+    "authors": [
+      "Haseeb ur Rehman",
+      "Félicia Norma Rebecca Teferle"
+    ],
+    "is_editorial": false,
+    "abstract_missing": false,
+    "always_include": true,
+    "score_boost": 0.0,
+    "score": 0.0,
+    "matched": [],
+    "published": "2026-10-13",
+    "first_seen": "2026-10-13"
   }
 ]
