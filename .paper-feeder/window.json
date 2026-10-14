@@ -949,35 +949,6 @@
     "first_seen": "2026-10-08"
   },
   {
-    "title": "A decade of monthly frontal ablation  at 147 tidewater glaciers in Svalbard",
-    "journal": "Earth System Science Data",
-    "source": "rss:essd",
-    "url": "https://doi.org/10.5194/essd-18-7319-2026",
-    "doi": "10.5194/essd-18-7319-2026",
-    "abstract": "Monthly frontal ablation is quantified at 147 Svalbard tidewater glaciers from 2015–2024 using terminus positions derived from a deep-learning segmentation model's predictions of the calving fronts on satellite radar images. Our high spatio-temporal resolution results will improve the process understanding of frontal ablation, provide reference data for the modeling community, and deliver an ideal dataset for studying controls of frontal ablation.",
-    "authors": [
-      "Dakota Pyles",
-      "Marcel Dreier",
-      "Anna Wendleder",
-      "Will Kochtitzky",
-      "Nora Gourmelon",
-      "Vincent Christlein",
-      "Thorsten Seehaus"
-    ],
-    "is_editorial": false,
-    "abstract_missing": false,
-    "always_include": false,
-    "score_boost": 0.0,
-    "score": 15.0,
-    "matched": [
-      "glacier",
-      "calving",
-      "tidewater glacier"
-    ],
-    "published": "2026-10-06",
-    "first_seen": "2026-10-06"
-  },
-  {
     "title": "Formational Conditions of Ribbed Moraines in Norway: An Inventory and Distribution Analysis",
     "journal": "Norwegian Journal of Geology",
     "source": "openalex:cryosphere",
@@ -1191,6 +1162,30 @@
     "first_seen": "2026-10-10"
   },
   {
+    "title": "Multi‐Year Subglacial Lake Activity and Hydrological Connectivity Beneath the Mid‐to‐Upper Reaches of David Glacier, East Antarctica, Inferred From DInSAR and Altimetry",
+    "journal": "JGR Earth Surface",
+    "source": "rss:jgr-earthsurface",
+    "url": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2026JF009247?af=R",
+    "doi": "10.1029/2026jf009247",
+    "abstract": "Journal of Geophysical Research: Earth Surface, Volume 131, Issue 10, October 2026.",
+    "authors": [
+      "Taewook Kim",
+      "Hyangsun Han"
+    ],
+    "is_editorial": false,
+    "abstract_missing": false,
+    "always_include": false,
+    "score_boost": 0.0,
+    "score": 14.0,
+    "matched": [
+      "subglacial",
+      "glacier",
+      "Antarctica"
+    ],
+    "published": "2026-10-13",
+    "first_seen": "2026-10-14"
+  },
+  {
     "title": "Deep learning in the abyss: a stratified Physics Informed Neural Network for data assimilation",
     "journal": "arXiv physics.ao-ph",
     "source": "rss:arxiv-ao-ph",
@@ -1215,59 +1210,6 @@
     ],
     "published": "2026-10-09",
     "first_seen": "2026-10-09"
-  },
-  {
-    "title": "A 2020 permafrost distribution map of the Qinghai-Tibet Plateau",
-    "journal": "The Cryosphere",
-    "source": "rss:tc",
-    "url": "https://doi.org/10.5194/tc-20-5697-2026",
-    "doi": "10.5194/tc-20-5697-2026",
-    "abstract": "This study presents a 1-km permafrost map of the Qinghai-Tibet Plateau for 2020, generated via a frost number model and space-for-time substitution. Permafrost covers 1.038×10⁶ km² (39.35 %), a 1.82 % decline since 2010, while seasonally frozen ground covers 1.466×10⁶ km² (55.57 %). Validated against boreholes, the map achieves 0.84 accuracy (Kappa= 0.58). This map offers a critical, up-to-date baseline for cryospheric research.",
-    "authors": [
-      "Yuhong Chen",
-      "Zhuotong Nan",
-      "Wenbiao Tian",
-      "Yi Zhao",
-      "Shuping Zhao",
-      "Dongkai Yang",
-      "Guifei Jing",
-      "Fujun Niu"
-    ],
-    "is_editorial": false,
-    "abstract_missing": false,
-    "always_include": true,
-    "score_boost": 0.0,
-    "score": 12.0,
-    "matched": [
-      "permafrost"
-    ],
-    "published": "2026-10-06",
-    "first_seen": "2026-10-06"
-  },
-  {
-    "title": "Using ocean surface paleo-density to evaluate PMIP3 and PMIP4 Last Glacial Maximum climate simulations",
-    "journal": "Climate of the Past",
-    "source": "rss:cp",
-    "url": "https://doi.org/10.5194/cp-22-1803-2026",
-    "doi": "10.5194/cp-22-1803-2026",
-    "abstract": "This study evaluates climate model simulations of the Last Glacial Maximum using ocean surface density reconstructions from foraminiferal shells δ¹⁸O. Models capture global patterns but regional climate changes are less well simulated, especially in the North Indian Ocean. Tropical differences between reconstructions and model simulations are mainly driven by changes in ocean salinity linked to precipitation.",
-    "authors": [
-      "Héloïse Barathieu",
-      "Thibaut Caley",
-      "Masa Kageyama",
-      "Didier Swingedouw",
-      "Pascale Braconnot"
-    ],
-    "is_editorial": false,
-    "abstract_missing": false,
-    "always_include": false,
-    "score_boost": 0.0,
-    "score": 12.0,
-    "matched": [
-      "last glacial maximum"
-    ],
-    "published": "2026-10-06",
-    "first_seen": "2026-10-06"
   },
   {
     "title": "The interface of data assimilation and machine learning",
@@ -1375,42 +1317,6 @@
     "first_seen": "2026-10-09"
   },
   {
-    "title": "Simulating jökulhlaups from an ice-marginal lake within a 2D model of subglacial drainage and basal sliding",
-    "journal": "The Cryosphere",
-    "source": "rss:tc",
-    "url": "https://doi.org/10.5194/tc-20-5675-2026",
-    "doi": "10.5194/tc-20-5675-2026",
-    "abstract": "Lakes at glacier margins can drain beneath the ice in devastating, floods called jökulhlaups. We present the first 2D model of jökulhlaup propagation, first applying it to a synthetic glacier, before then assessing its ability to reproduce an observed record of lake fill-drain cycles in Greenland. Our results match a 17-year record of flood timing but underpredicts peak discharge likely because we are missing certain physical processes. Our results hold promise for simulating jökulhlaups.",
-    "authors": [
-      "Adam J. Hepburn",
-      "Sammie Buzzard",
-      "Andrew J. Sole",
-      "Stephen J. Livingstone",
-      "Felix Ng",
-      "Mathieu Morlighem",
-      "Elizabeth A. Bagshaw",
-      "Caroline Clason",
-      "Lisa Craw",
-      "Christine F. Dow",
-      "Samuel Doyle",
-      "Jonathan Hawkins",
-      "Matthew Peacey",
-      "Robert Storrar"
-    ],
-    "is_editorial": false,
-    "abstract_missing": false,
-    "always_include": true,
-    "score_boost": 0.0,
-    "score": 11.0,
-    "matched": [
-      "subglacial",
-      "glacier",
-      "Greenland"
-    ],
-    "published": "2026-10-06",
-    "first_seen": "2026-10-06"
-  },
-  {
     "title": "Hydrological responses to climate change in a central Himalayan basin: insights from snow and glacier runoff modelling",
     "journal": "International Journal of River Basin Management",
     "source": "openalex:cryosphere",
@@ -1438,35 +1344,6 @@
     ],
     "published": "2026-10-12",
     "first_seen": "2026-10-13"
-  },
-  {
-    "title": "High‐ and Low‐Latitude Insolation Forcing Drives the Half‐Precession Cycle in Winter Arctic Sea Ice",
-    "journal": "Geophysical Research Letters",
-    "source": "rss:grl",
-    "url": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2026GL125062?af=R",
-    "doi": "10.1029/2026gl125062",
-    "abstract": "Geophysical Research Letters, Volume 53, Issue 19, 16 October 2026.",
-    "authors": [
-      "Zhipeng Wu",
-      "Qiuzhen Yin",
-      "André Berger",
-      "Zhengtang Guo",
-      "Zhifeng Zhang",
-      "Ming‐Qiang Liang",
-      "Wei Liu"
-    ],
-    "is_editorial": false,
-    "abstract_missing": false,
-    "always_include": false,
-    "score_boost": 0.0,
-    "score": 10.0,
-    "matched": [
-      "Arctic",
-      "sea ice",
-      "insolation"
-    ],
-    "published": "2026-10-05",
-    "first_seen": "2026-10-06"
   },
   {
     "title": "Discrepancies in Extreme Daily and Monthly Precipitation Trends Between Observations and Earth System Models",
@@ -2139,29 +2016,6 @@
     "first_seen": "2026-10-13"
   },
   {
-    "title": "Two Localization Strategies for Sequential MCMC Data Assimilation With Applications to Nonlinear Non‐Gaussian Geophysical Models",
-    "journal": "JAMES",
-    "source": "rss:james",
-    "url": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2026MS005908?af=R",
-    "doi": "10.1029/2026ms005908",
-    "abstract": "Journal of Advances in Modeling Earth Systems, Volume 18, Issue 10, October 2026.",
-    "authors": [
-      "Hamza Ruzayqat",
-      "Hristo G. Chipilski",
-      "Omar Knio"
-    ],
-    "is_editorial": false,
-    "abstract_missing": false,
-    "always_include": false,
-    "score_boost": 0.0,
-    "score": 6.0,
-    "matched": [
-      "data assimilation"
-    ],
-    "published": "2026-10-06",
-    "first_seen": "2026-10-06"
-  },
-  {
     "title": "Unprecedented hole opened up in Antarctic winter sea ice",
     "journal": "Nature",
     "source": "rss:nature",
@@ -2550,6 +2404,32 @@
     "first_seen": "2026-10-13"
   },
   {
+    "title": "Impact of Spatially Continuous Urban Surface Properties on Summertime and Heatwave Simulations: A Multi‐City Analysis",
+    "journal": "JAMES",
+    "source": "rss:james",
+    "url": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2026MS005775?af=R",
+    "doi": "10.1029/2026ms005775",
+    "abstract": "Journal of Advances in Modeling Earth Systems, Volume 18, Issue 10, October 2026.",
+    "authors": [
+      "Timothy Jiang",
+      "TC Chakraborty",
+      "Yifan Cheng",
+      "Rohit Mukherjee",
+      "Lei Zhao",
+      "Alberto Martilli"
+    ],
+    "is_editorial": false,
+    "abstract_missing": false,
+    "always_include": false,
+    "score_boost": 0.0,
+    "score": 6.0,
+    "matched": [
+      "heat wave"
+    ],
+    "published": "2026-10-13",
+    "first_seen": "2026-10-14"
+  },
+  {
     "title": "From pollen to pixels: Towards spatially meaningful pollen-based vegetation reconstructions across southeastern Australia",
     "journal": "The Holocene",
     "source": "openalex:paleoclimate",
@@ -2686,85 +2566,6 @@
     ],
     "published": "2026-10-13",
     "first_seen": "2026-10-13"
-  },
-  {
-    "title": "Cloud Microphysics and Drizzle Relationships With CCN Modality in Southern Ocean Stratocumuli",
-    "journal": "JGR Atmospheres",
-    "source": "rss:jgr-atmospheres",
-    "url": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2026JD047923?af=R",
-    "doi": "10.1029/2026jd047923",
-    "abstract": "Journal of Geophysical Research: Atmospheres, Volume 131, Issue 19, 16 October 2026.",
-    "authors": [
-      "James G. Hudson",
-      "Fatma Emin",
-      "Stephen Noble"
-    ],
-    "is_editorial": false,
-    "abstract_missing": false,
-    "always_include": false,
-    "score_boost": 0.0,
-    "score": 4.0,
-    "matched": [
-      "Southern Ocean"
-    ],
-    "published": "2026-10-05",
-    "first_seen": "2026-10-06"
-  },
-  {
-    "title": "Reduced Order Modeling for Tsunami Forecasting With Bayesian Hierarchical Pooling",
-    "journal": "JAMES",
-    "source": "rss:james",
-    "url": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025MS005663?af=R",
-    "doi": "10.1029/2025ms005663",
-    "abstract": "Journal of Advances in Modeling Earth Systems, Volume 18, Issue 10, October 2026.",
-    "authors": [
-      "Shane X. Coffing",
-      "John Tipton",
-      "Arvind T. Mohan",
-      "Darren Engwirda"
-    ],
-    "is_editorial": false,
-    "abstract_missing": false,
-    "always_include": false,
-    "score_boost": 0.0,
-    "score": 4.0,
-    "matched": [
-      "Bayesian"
-    ],
-    "published": "2026-10-06",
-    "first_seen": "2026-10-06"
-  },
-  {
-    "title": "Evaluation of Timing and Amplitude Biases in the Controls of Simulated Southern Ocean pCO2",
-    "journal": "JAMES",
-    "source": "rss:james",
-    "url": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2026MS005774?af=R",
-    "doi": "10.1029/2026ms005774",
-    "abstract": "Journal of Advances in Modeling Earth Systems, Volume 18, Issue 10, October 2026.",
-    "authors": [
-      "Seth M. Bushinsky",
-      "Lionel A. Arteaga",
-      "Andrea J. Fassbender",
-      "Judith Hauck",
-      "Matthew R. Mazloff",
-      "Ivana Cerovečki",
-      "Peter Landschützer",
-      "Christopher Danek",
-      "Anastasia Romanou",
-      "Paul Lerner",
-      "Alison R. Gray",
-      "Sarah Schlunegger"
-    ],
-    "is_editorial": false,
-    "abstract_missing": false,
-    "always_include": false,
-    "score_boost": 0.0,
-    "score": 4.0,
-    "matched": [
-      "Southern Ocean"
-    ],
-    "published": "2026-10-06",
-    "first_seen": "2026-10-06"
   },
   {
     "title": "Xaurora: Generative Weather Forecasting with Denoising Stochastic Interpolants from a Foundation Model Prior",
@@ -3335,34 +3136,33 @@
     "first_seen": "2026-10-13"
   },
   {
-    "title": "A global, temporally continuous, hourly CO2 concentration dataset at GAW monitoring stations for 2000–2024: Enabling fine-scale carbon dynamics analysis",
-    "journal": "Earth System Science Data",
-    "source": "rss:essd",
-    "url": "https://doi.org/10.5194/essd-2026-554",
-    "doi": "10.5194/essd-2026-554",
-    "abstract": "Preprint under review for ESSD (discussion: open, 0 comments) We present a temporally continuous hourly CO2 dataset for global GAW stations from 2000 to 2024. Gaps in the original hourly observations can bias daily, monthly, and annual mean CO2 estimates and obscure diurnal variability and short-lived events. The dataset enables improved estimates of global mean surface CO2, regional short-term CO2 variability, and regional carbon-emission inversions.",
+    "title": "Decadal Sea Level Variability Along the U.S. East Coast: Roles of Extratropical Versus Tropical Climate Modes Over the North Atlantic Ocean",
+    "journal": "Geophysical Research Letters",
+    "source": "rss:grl",
+    "url": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2026GL125873?af=R",
+    "doi": "10.1029/2026gl125873",
+    "abstract": "Geophysical Research Letters, Volume 53, Issue 20, 28 October 2026.",
     "authors": [
-      "Tan Mi",
-      "Xueting Pu",
-      "Xi Zheng",
-      "Guangcheng Nie",
-      "Xinyi Liu",
-      "Han Zhang",
-      "Michael L. Grieneisen",
-      "Yu Zhan",
-      "Maohua Wang",
-      "Fumo Yang"
+      "Yingli Zhu",
+      "Weiqing Han",
+      "Jianing Wang",
+      "Jian Zheng",
+      "D. L. Suhas",
+      "Aneesh C. Subramanian",
+      "Lai‐yung Ruby Leung",
+      "Oluwayemi Garuba",
+      "Karthik Balaguru"
     ],
     "is_editorial": false,
     "abstract_missing": false,
     "always_include": false,
     "score_boost": 0.0,
-    "score": 3.0,
+    "score": 4.0,
     "matched": [
-      "CO2"
+      "sea level"
     ],
-    "published": "2026-10-06",
-    "first_seen": "2026-10-06"
+    "published": "2026-10-13",
+    "first_seen": "2026-10-14"
   },
   {
     "title": "Deep diffractive optical neural networks for detecting skyrmionic topologies of light and their live training",
@@ -4028,29 +3828,46 @@
     "first_seen": "2026-10-13"
   },
   {
-    "title": "Schumpeterian disaggregation and integrated assessment: An endogenous, stock-flow consistent economy in disequilibrium for FRIDA v2.1",
-    "journal": "Geoscientific Model Development",
-    "source": "rss:gmd",
-    "url": "https://doi.org/10.5194/gmd-19-9411-2026",
-    "doi": "10.5194/gmd-19-9411-2026",
-    "abstract": "This study develops a novel global economic model to better capture how climate change interacts with finance, innovation, employment, and public budgets. Instead of treating climate damage as a simple output loss, the model traces how rising temperatures affect investment risk, productivity, unemployment, and government spending. Large simulation ensembles show that without stronger climate action, growth slows, financial fragility rises, and welfare and debt pressures increase.",
+    "title": "Species hybridization belongs on the climate change agenda",
+    "journal": "Nature Climate Change",
+    "source": "rss:nclimate",
+    "url": "https://www.nature.com/articles/s41558-026-02780-0",
+    "doi": "10.1038/s41558-026-02780-0",
+    "abstract": "Nature Climate Change, Published online: 14 October 2026; doi:10.1038/s41558-026-02780-0 Species hybridization belongs on the climate change agenda",
     "authors": [
-      "Martin B. Grimeland",
-      "Benjamin Blanz",
-      "William Schoenberg",
-      "Beniamino Callegari"
+      "Isabel Marques"
     ],
     "is_editorial": false,
     "abstract_missing": false,
-    "always_include": true,
+    "always_include": false,
     "score_boost": 0.0,
-    "score": 2.0,
+    "score": 3.0,
     "matched": [
-      "ensemble",
       "climate change"
     ],
-    "published": "2026-10-06",
-    "first_seen": "2026-10-06"
+    "published": null,
+    "first_seen": "2026-10-14"
+  },
+  {
+    "title": "Determining soil microbial responses to climate change with multi-omics",
+    "journal": "Nature Reviews Earth & Environment",
+    "source": "rss:natrev-ee",
+    "url": "https://www.nature.com/articles/s43017-026-00845-4",
+    "doi": "10.1038/s43017-026-00845-4",
+    "abstract": "Nature Reviews Earth & Environment, Published online: 13 October 2026; doi:10.1038/s43017-026-00845-4 Zongzhi Wu explains how multi-omics approaches can help characterize soil microbiome responses to future climate change.",
+    "authors": [
+      "Zongzhi Wu"
+    ],
+    "is_editorial": false,
+    "abstract_missing": false,
+    "always_include": false,
+    "score_boost": 0.0,
+    "score": 3.0,
+    "matched": [
+      "climate change"
+    ],
+    "published": null,
+    "first_seen": "2026-10-14"
   },
   {
     "title": "Temperature sensitivity of snow viscoplasticity: Evidence from controlled creep experiments",
@@ -4132,31 +3949,6 @@
     ],
     "published": "2026-10-13",
     "first_seen": "2026-10-13"
-  },
-  {
-    "title": "Development and evaluation of the ECHAM6-iMAPLE  v1.0 coupled atmosphere–ecosystem model",
-    "journal": "Geoscientific Model Development",
-    "source": "rss:gmd",
-    "url": "https://doi.org/10.5194/gmd-19-9395-2026",
-    "doi": "10.5194/gmd-19-9395-2026",
-    "abstract": "Land-atmosphere interaction is an important process for the exchange of matter and energy between land and atmosphere. In this work, we incorporated the interactive Model for Air Pollution and Land Ecosystems into the European Centre Hamburg general circulation model. Compare with original configuration, the new coupling model demonstrates better performance in simulating terrestrial carbon and water fluxes. Our research provides a useful tool for studying land–atmosphere interactions.",
-    "authors": [
-      "Weijie Fu",
-      "Chenguang Tian",
-      "Yuan Zhao",
-      "Yihan Hu",
-      "Jingchao Huang",
-      "Haishan Chen",
-      "Xu Yue"
-    ],
-    "is_editorial": false,
-    "abstract_missing": false,
-    "always_include": true,
-    "score_boost": 0.0,
-    "score": 0.0,
-    "matched": [],
-    "published": "2026-10-06",
-    "first_seen": "2026-10-06"
   },
   {
     "title": "Mechanisms and patterns of snow depth and land surface temperature interactions in arid mountains: coupling coordination and lagged responses across Xinjiang, China",
