@@ -1,5 +1,35 @@
 [
   {
+    "title": "Pteropod preservation reveals carbonate dissolution across the Mid-Pleistocene Transition and an Eemian preservation spike in the Andaman Sea",
+    "journal": "Quaternary International",
+    "source": "openalex:paleoclimate",
+    "url": "https://doi.org/10.1016/j.quaint.2026.110500",
+    "doi": "10.1016/j.quaint.2026.110500",
+    "abstract": "Pteropods are aragonitic holoplanktonic molluscs whose shells preserved in marine sediments provide a sensitive archive of past seawater carbonate saturation state, intermediate-water ventilation, and monsoon-driven oceanographic change. Here, we present a ∼1.2 Myr record of pteropod assemblages and preservation from sediment core NGHP-17 (1344 m water depth) in the Andaman Sea. Sixteen species were quantified across 180 samples, together with the Fragmentation Ratio (FR), Limacina Dissolution Index (LDX), epipelagic/mesopelagic (Epi/Meso) ratio, and selected planktonic and benthic foraminiferal abundances. Pteropod preservation is episodic, with pronounced preservation peaks during several glacial intervals. In contrast, generally poor and intermittent preservation during MIS 25–14 characterizes much of the Mid-Pleistocene Transition (MPT), although preservation windows occur during MIS 22, 18, and 16. This pre-MBDI decline was followed by the Mid-Brunhes Dissolution Interval (MBDI; MIS 13–11), within which a pronounced MIS 12 preservation peak demonstrates that unfavorable conditions were not continuous. An earlier preservation event occurs during MIS 26. The highest pteropod abundance is observed across MIS 6–5e, with a maximum at ∼125 ka and species maxima spanning ∼137–116 ka, indicating a transient Termination II/deglacial-to-early-interglacial preservation event. The significant inverse relationship between total pteropod abundance and FR supports a substantial preservation control on the record. Overall, the results indicate that pteropod preservation at NGHP-17 was strongly influenced by changes in bottom-water aragonite preservation conditions, within a broader framework of large-scale carbonate-system changes and regional hydrographic variability.",
+    "authors": [
+      "E. Sreevidya",
+      "R.A. Sebastian",
+      "M.B.L. Mascarenhas‐Pereira",
+      "B. Nagender Nath",
+      "R. Mohan",
+      "Adukkam V. Sijinkumar"
+    ],
+    "is_editorial": false,
+    "abstract_missing": false,
+    "always_include": false,
+    "score_boost": 0.0,
+    "score": 34.0,
+    "matched": [
+      "interglacial",
+      "Eemian",
+      "Mid-Pleistocene transition",
+      "MIS stage",
+      "sediment core"
+    ],
+    "published": "2026-10-17",
+    "first_seen": "2026-10-19"
+  },
+  {
     "title": "Fracture and Calving Front Evolution: A Case Study of Fimbul Ice Shelf, Antarctica",
     "journal": "PAMM",
     "source": "openalex:cryosphere",
@@ -195,6 +225,35 @@
     "first_seen": "2026-10-18"
   },
   {
+    "title": "Sudden collapse of ice mélange under increasing submarine melt at tidewater glaciers",
+    "journal": "Nature Communications",
+    "source": "rss:ncomms",
+    "url": "https://www.nature.com/articles/s41467-026-78423-x",
+    "doi": "10.1038/s41467-026-78423-x",
+    "abstract": "Nature Communications, Published online: 19 October 2026; doi:10.1038/s41467-026-78423-x This study models the collapse of ice mélange in glacial fjords in response increasing submarine melt rates. It shows that perennial mélange today is vulnerable to collapse subject to increasing melt, potentially accelerating glacier mass loss.",
+    "authors": [
+      "Paul T. Summers",
+      "Alexander A. Robel",
+      "Rebecca H. Jackson",
+      "Michalea D. King",
+      "Jason M. Amundson",
+      "Justin C. Burton"
+    ],
+    "is_editorial": false,
+    "abstract_missing": false,
+    "always_include": false,
+    "score_boost": 0.0,
+    "score": 23.0,
+    "matched": [
+      "glacier",
+      "mass loss",
+      "submarine melt",
+      "tidewater glacier"
+    ],
+    "published": null,
+    "first_seen": "2026-10-19"
+  },
+  {
     "title": "Assessment of an updated polar stratospheric cloud parameterisation for the UK Earth System Model (UKESM1.1) within the UK Met Office Unified Model (v13.9) using  CALIOP and MLS observations",
     "journal": "Geoscientific Model Development",
     "source": "rss:gmd",
@@ -364,6 +423,55 @@
     ],
     "published": null,
     "first_seen": "2026-10-17"
+  },
+  {
+    "title": "Energy-Aware Earth System Science: A Community Roadmap",
+    "journal": "arXiv physics.ao-ph",
+    "source": "rss:arxiv-ao-ph",
+    "url": "https://arxiv.org/abs/2610.23216",
+    "doi": null,
+    "abstract": "arXiv:2610.23216v1 Announce Type: new Abstract: Earth system models underpin the evidence that informs net-zero policy, yet their energy demands are rarely considered when judging model quality. Using archived output from 159 models spanning five generations of the Coupled Model Intercomparison Project (CMIP), we show that model error has fallen at a constant rate of 13.5 per cent per doubling of compute since 1995. Halving CMIP6 error would require 28 times more compute. Improvements are uneven, with sea-level pressure and surface air temperature errors declining 3.5-fold and 2.7-fold since CMIP1, but precipitation error by only 7 per cent. Machine-learning weather models match or exceed operational forecast skill at a fraction of the runtime, but none publishes measured energy, and including training changes how they rank. We propose a skill-energy framework that combines an empirical Pareto front with a ranking score. These findings argue for standardised reporting of energy use and performance ahead of CMIP8.",
+    "authors": [
+      "Ioana Colfescu",
+      "Annalisa Bracco",
+      "Kara Moraw",
+      "Chen Lu",
+      "Michael Bareford",
+      "Tom Beucler",
+      "Massimo Bollasina",
+      "Juan Carlos Bilbao-Ludena",
+      "Hannah Christensen",
+      "Serafina DiGioia",
+      "Gregory J. Hakim",
+      "Thomas Hauser",
+      "Adrian Jackson",
+      "Phong Le",
+      "Ilenia Manco",
+      "Stephen Mobbs",
+      "Amirpasha Mozaffari",
+      "Antonio Navarra",
+      "Mark Parsons",
+      "James W. B. Rae",
+      "Thomas Reichler",
+      "Carlos Rodriguez-Pardo",
+      "Graham Stacey",
+      "Mich\\`ele Weiland"
+    ],
+    "is_editorial": false,
+    "abstract_missing": false,
+    "always_include": false,
+    "score_boost": 0.0,
+    "score": 15.0,
+    "matched": [
+      "sea level",
+      "Earth system model",
+      "Earth system",
+      "model intercomparison",
+      "CMIP",
+      "machine learning"
+    ],
+    "published": "2026-10-19",
+    "first_seen": "2026-10-19"
   },
   {
     "title": "Multi‐Year Subglacial Lake Activity and Hydrological Connectivity Beneath the Mid‐to‐Upper Reaches of David Glacier, East Antarctica, Inferred From DInSAR and Altimetry",
@@ -627,37 +735,6 @@
     "first_seen": "2026-10-13"
   },
   {
-    "title": "Episodic isolation of the Arctic Mediterranean from the North Atlantic during late Pleistocene glacials",
-    "journal": "Communications Earth & Environment",
-    "source": "openalex:paleoclimate",
-    "url": "https://doi.org/10.1038/s43247-026-04133-3",
-    "doi": "10.1038/s43247-026-04133-3",
-    "abstract": "Abstract It has been proposed that the Arctic Ocean and Nordic Seas (“the Arctic Mediterranean”) were not only episodically covered by an ice shelf during late Pleistocene glaciations, but disconnected from the North Atlantic and filled with freshwater. Originally based on the widespread occurrence of marine sediments with intervals barren of 230 Th xs (a function of salinity) and low in cosmogenic 10 Be (interpreted as ice cover), this interpretation is highly debated. Alternative explanations state that sediment pulses could instead have diluted both isotopes. Here, we trace the connection between the Arctic Mediterranean and the North Atlantic using reactive 10 Be/ 9 Be, a water mass tracer resilient to sedimentation variations. We find uniformly low 10 Be/ 9 Be that coincide with the 230 Th xs -minima and more than one order of magnitude below the coeval North Atlantic, consistent with an isolated Arctic Mediterranean. Our findings suggest a highly dynamic coupling between the Arctic Mediterranean and the North Atlantic, opening questions about its impact on global climate.",
-    "authors": [
-      "Agathe Ollive",
-      "Walter Geibert",
-      "Jens Matthießen",
-      "Julia Loftfield",
-      "Johannes Lachner",
-      "Dominik Koll",
-      "Henry Patton",
-      "Christoph Vogt",
-      "Florian Adolphi"
-    ],
-    "is_editorial": false,
-    "abstract_missing": false,
-    "always_include": false,
-    "score_boost": 0.0,
-    "score": 10.0,
-    "matched": [
-      "ice shelf",
-      "Arctic",
-      "cosmogenic"
-    ],
-    "published": "2026-10-11",
-    "first_seen": "2026-10-11"
-  },
-  {
     "title": "A Catchment‐Based Global Model of River Discharge and Flow Velocity for Earth System Models",
     "journal": "JAMES",
     "source": "rss:james",
@@ -833,30 +910,6 @@
     "first_seen": "2026-10-17"
   },
   {
-    "title": "Long-term changes and attribution of lake water levels on the Tibetan Plateau revealed by multisource satellite altimetry data",
-    "journal": "Science of Remote Sensing",
-    "source": "openalex:cryosphere",
-    "url": "https://doi.org/10.1016/j.srs.2026.100523",
-    "doi": "10.1016/j.srs.2026.100523",
-    "abstract": "ABSTRACT Monitoring Tibetan Plateau (TP) lakes is constrained by harsh environments and methodological limitations. To overcome the limited spatiotemporal coverage of single-mission satellite altimetry and the shortcomings of conventional linear analyses, we integrated CryoSat-2 and Sentinel-3A/B altimetry observations with a multilevel robust anomaly-detection framework to generate water-level time series for 11 representative TP lakes (2010–2026). Seasonal-Trend Decomposition using LOESS (STL) and an XGBoost–SHapley Additive exPlanations(SHAP) framework was subsequently employed to characterize spatiotemporal variations and assess nonlinear associations with five hydrometeorological factors. The generated time series showed strong agreement with in-situ observations (R > 0.94, RMSE: 0.07–0.11 m). Over the 16-year study period, more than 80% of the investigated lakes exhibited sustained water-level increases, with a regional mean rate of 0.27 m yr -1 . However, lake trajectories recent lake trajectories diverged, with some showing accelerated rises and others displaying decelerating or reversed trends. Intra-annual variability also intensified: the mean seasonal amplitude increased by 48.6% (0.17 m) during the last five years. Attribution analysis revealed substantial spatial heterogeneity. While statistical modeling indicated that precipitation (32.5%) and groundwater (21.6%) made the largest regional contributions within the XGBoost framework, individual lakes exhibited predominantly precipitation-dominated, thermal-loss-sensitive, or groundwater-associated response patterns. These contrasting patterns are likely modulated by differences in basin topography, lake morphology, and local geological settings. These findings provide an improved basis for estimating lake-water-storage changes, assessing long-term water-level trends, monitoring overflow and flood hazards, and investigating interactions among lake ecosystems, climate variability, and regional water resources across the TP.",
-    "authors": [
-      "Ziyue Dou",
-      "Xin Luo",
-      "Chenyu Sun",
-      "Zhiqiang Xie"
-    ],
-    "is_editorial": false,
-    "abstract_missing": false,
-    "always_include": false,
-    "score_boost": 0.0,
-    "score": 9.0,
-    "matched": [
-      "satellite altimetry"
-    ],
-    "published": "2026-10-01",
-    "first_seen": "2026-10-11"
-  },
-  {
     "title": "EnviFlux (v1.0): a simplified surface flux inversion tool based on four-dimensional variational data assimilation (4D-Var)",
     "journal": "Geoscientific Model Development",
     "source": "rss:gmd",
@@ -904,6 +957,36 @@
     ],
     "published": "2026-10-15",
     "first_seen": "2026-10-15"
+  },
+  {
+    "title": "Orbital-scale precipitation variations in the western Qaidam Basin during the Late Pliocene: evidence from magnetic parameters and median grain-size",
+    "journal": "Climate of the Past",
+    "source": "rss:cp",
+    "url": "https://doi.org/10.5194/cp-22-1913-2026",
+    "doi": "10.5194/cp-22-1913-2026",
+    "abstract": "This study suggests that the dominant periodicity of precipitation shifted from eccentricity-scale (~100–125-kyr) variability to 20-kyr precessional variability during the Late Pliocene, implying that the processes controlling the westward penetration of summer moisture into the basin varied under different background climate states. These findings provide new insight into how background climate conditions may shape the orbital-scale response of precipitation during warm periods.",
+    "authors": [
+      "Zeng Luo",
+      "Hansheng Wang",
+      "Xiaoli Yu",
+      "Zhongbao Zhang",
+      "Zhifen Song",
+      "Jing Yang",
+      "Wanfeng Chen",
+      "Qingda Su",
+      "Yang Lu",
+      "Shun Hua"
+    ],
+    "is_editorial": false,
+    "abstract_missing": false,
+    "always_include": false,
+    "score_boost": 0.0,
+    "score": 9.0,
+    "matched": [
+      "Pliocene"
+    ],
+    "published": "2026-10-19",
+    "first_seen": "2026-10-19"
   },
   {
     "title": "Petagram‐Scale Dissolved Organic Carbon Stocks in Alaskan Permafrost Soils",
@@ -1723,6 +1806,29 @@
     "first_seen": "2026-10-17"
   },
   {
+    "title": "Remote Influences of Land Surface Temperature and their Implications for Sea Surface Temperature Patterns",
+    "journal": "arXiv physics.ao-ph",
+    "source": "rss:arxiv-ao-ph",
+    "url": "https://arxiv.org/abs/2603.28481",
+    "doi": null,
+    "abstract": "arXiv:2603.28481v3 Announce Type: replace Abstract: The spatial pattern of sea surface temperature (SST) plays a central role in shaping the climate system, yet the influence of land surface temperature (LST) on large-scale SST patterns remains understudied. Using a state-of-the-art coupled climate model, we investigate the climate response to regional abrupt LST warming and time-dependent ramped-warming. We find that regional LST warming can substantially alter the mean-state SST pattern, with the response depending strongly on the location of land warming. In particular, warming over South America strengthens the zonal SST gradient across the tropical Pacific, producing a more La Ni\\~na-like mean state. Enhanced land warming increases the zonal contrast in diabatic heating, which excites stationary Rossby wave responses that strengthen alongshore winds and coastal upwelling in the eastern tropical Pacific, providing a dynamical pathway linking regional land warming to changes in the equatorial Pacific mean state. Similar remote SST responses occur for warming over North America, which is accompanied by cooling in the North Pacific, and over Central Africa, which is accompanied by cooling in the tropical Atlantic. In contrast, warming over the Maritime Continent and Tibetan Plateau produces little systematic change in large-scale SST patterns. These results demonstrate that regional LST changes can exert a substantial and geographically dependent influence on remote ocean temperatures. They further suggest that biases in both the mean state and warming trends of LST may contribute to biases in simulated SST patterns in historical simulations, highlighting the importance of accurately representing LST in climate models.",
+    "authors": [
+      "Bosong Zhang",
+      "Timothy M. Merlis"
+    ],
+    "is_editorial": false,
+    "abstract_missing": false,
+    "always_include": false,
+    "score_boost": 0.0,
+    "score": 6.0,
+    "matched": [
+      "sea surface temperature",
+      "coupled climate model"
+    ],
+    "published": "2026-10-19",
+    "first_seen": "2026-10-19"
+  },
+  {
     "title": "An abrupt shift towards a hotter and drier climate regime in the Western Eurasian Steppe",
     "journal": "Nature Geoscience",
     "source": "rss:ngeo",
@@ -1941,6 +2047,29 @@
     ],
     "published": "2026-10-15",
     "first_seen": "2026-10-17"
+  },
+  {
+    "title": "Rescene: stable century-long climate emulation from a frozen weather model",
+    "journal": "arXiv physics.ao-ph",
+    "source": "rss:arxiv-ao-ph",
+    "url": "https://arxiv.org/abs/2608.09971",
+    "doi": null,
+    "abstract": "arXiv:2608.09971v2 Announce Type: replace Abstract: Machine-learning weather models now match or exceed operational numerical prediction in the medium range, but when they are run freely for years they drift, blow up or lose their variability, and dedicated climate emulators are expensive to train. Here we present Rescene, a 0.4 M-parameter wrapper that turns a frozen 1.5$^\\circ$, 6-hourly, 69-variable weather model into a stochastic climate emulator. A deterministic slow clock anchors the frozen model to a calendar climatology, and a band-limited AR(1) perturbation, whose spectral envelope is fixed to the observed anomaly spectrum, restores the weather that anchoring removes. A 100-year, 8-member Rescene run shows no detectable drift ($-0.004 \\pm 0.014$ K per 100 years), and on the 2022 test year the 16-member ensemble is calibrated (spread/skill 0.89, 0.97 and 0.93 for Z500, T2m and MSLP) with an extratropical synoptic amplitude of 97% of ERA5 on the tuning year. The free run reproduces the geography of day-to-day variability (pattern correlation 0.83 for Z500) and 71% of the observed blocking frequency, where the deterministic wrapper alone has none. Interventions on the frozen operator show a scale-local, approximately linear response in which Z500 perturbations grow upscale 6--14 times more than downscale per 6 h. All constants are fitted on a training year against a rule declared beforehand, and we show that common evaluation shortcuts would have overstated variability and skill. Rescene makes an existing weather model usable for century-long ensembles at negligible training cost.",
+    "authors": [
+      "Minjong Cheon"
+    ],
+    "is_editorial": false,
+    "abstract_missing": false,
+    "always_include": false,
+    "score_boost": 0.0,
+    "score": 5.0,
+    "matched": [
+      "emulator",
+      "ensemble",
+      "machine learning"
+    ],
+    "published": "2026-10-19",
+    "first_seen": "2026-10-19"
   },
   {
     "title": "Improving the CLASSIC (v1.8) snow model  to better simulate Arctic snowpacks",
@@ -2505,30 +2634,31 @@
     "first_seen": "2026-10-18"
   },
   {
-    "title": "Rupture and Associated Microseismicity Controlled by Fault Topography",
-    "journal": "JGR Solid Earth",
-    "source": "rss:jgr-solidearth",
-    "url": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2026JB035513?af=R",
-    "doi": "10.1029/2026jb035513",
-    "abstract": "Journal of Geophysical Research: Solid Earth, Volume 131, Issue 10, October 2026.",
+    "title": "Closed-loop photoreactor design enabled by machine learning and digital twins",
+    "journal": "Nature Communications",
+    "source": "rss:ncomms",
+    "url": "https://www.nature.com/articles/s41467-026-78785-2",
+    "doi": "10.1038/s41467-026-78785-2",
+    "abstract": "Nature Communications, Published online: 19 October 2026; doi:10.1038/s41467-026-78785-2 Designing efficient photoreactors remains challenging due to the complex interplay of light transport phenomena, shaped by reflection, scattering and absorption processes. Here, we introduce a workflow that integrates ray-tracing digital twins with multi-objective Bayesian optimization to autonomously design photoreactors in a closed-loop manner, achieving high photon capture and uniform irradiation.",
     "authors": [
-      "Zhiming Liang",
-      "Zhenyu Zhang",
-      "Derek Elsworth",
-      "Beata Orlecka‐Sikora",
-      "Haoran Dou",
-      "Kun Long"
+      "Jasper H. A. Schuurmans",
+      "Miguel Claros",
+      "Elia Savino",
+      "Florian Lukas",
+      "Aidan Slattery",
+      "Timothy Noël"
     ],
     "is_editorial": false,
     "abstract_missing": false,
     "always_include": false,
     "score_boost": 0.0,
-    "score": 3.0,
+    "score": 4.0,
     "matched": [
-      "solid earth"
+      "Bayesian",
+      "machine learning"
     ],
-    "published": "2026-10-11",
-    "first_seen": "2026-10-11"
+    "published": null,
+    "first_seen": "2026-10-19"
   },
   {
     "title": "The Role of Slab Folding in Modulating the Landscape Evolution of Ribbon Collision",
