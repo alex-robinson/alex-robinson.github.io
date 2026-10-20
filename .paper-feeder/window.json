@@ -284,6 +284,32 @@
     "first_seen": "2026-10-13"
   },
   {
+    "title": "A review of Last Interglacial sea-level proxies  in South Asia and the Indian Ocean",
+    "journal": "Earth System Science Data",
+    "source": "rss:essd",
+    "url": "https://doi.org/10.5194/essd-18-7627-2026",
+    "doi": "10.5194/essd-18-7627-2026",
+    "abstract": "We compiled a database of 54 ancient shoreline markers from Iran, Oman, India, the Maldives and the Cocos Islands, dating to Marine Isotopic Stage 5. The records show that the same past ocean level can appear far above today's sea on rising coasts, near today's level on stable coasts, and many meters underwater where land is sinking. This helps separate true ocean change from land motion and improves future sea-level planning.",
+    "authors": [
+      "Mubashir Ali",
+      "Ciro Cerrone",
+      "Alessio Rovere"
+    ],
+    "is_editorial": false,
+    "abstract_missing": false,
+    "always_include": false,
+    "score_boost": 0.0,
+    "score": 22.0,
+    "matched": [
+      "interglacial",
+      "last interglacial",
+      "proxy",
+      "sea level"
+    ],
+    "published": "2026-10-20",
+    "first_seen": "2026-10-20"
+  },
+  {
     "title": "The Arctic carbon cycle response to changing root and rhizosphere processes amid greening and permafrost thaw",
     "journal": "Nature Reviews Earth & Environment",
     "source": "rss:natrev-ee",
@@ -314,32 +340,6 @@
     ],
     "published": null,
     "first_seen": "2026-10-13"
-  },
-  {
-    "title": "Interannual and seasonal evolution of supraglacial drainage systems on Nivlisen Ice Shelf, East Antarctica",
-    "journal": "The Cryosphere",
-    "source": "rss:tc",
-    "url": "https://doi.org/10.5194/tc-20-5785-2026",
-    "doi": "10.5194/tc-20-5785-2026",
-    "abstract": "Supraglacial drainage systems mediate meltwater transport over ice shelves and may influence their stability. Our mapping of Nivlisen Ice Shelf from satellite imagery shows significant variation in interannual and seasonal drainage extent. During warm summers, channels become increasingly connected, redistributing meltwater from high to low elevations across the ice shelf. Channel location is controlled by ice shelf structure, and annual extent is correlated with regional air temperature.",
-    "authors": [
-      "Jiao Chen",
-      "Rebecca A. Hodge",
-      "Stewart S. R. Jamieson",
-      "Chris R. Stokes"
-    ],
-    "is_editorial": false,
-    "abstract_missing": false,
-    "always_include": true,
-    "score_boost": 0.0,
-    "score": 18.0,
-    "matched": [
-      "ice shelf",
-      "Antarctica",
-      "meltwater"
-    ],
-    "published": "2026-10-12",
-    "first_seen": "2026-10-12"
   },
   {
     "title": "Hydroclimatic changes in southeastern Mongolia from the earlier Late Pleistocene to the mid-Holocene: a multi-proxy record from a glacier-decoupled closed-basin sedimentary sequence in Bayan Tohom Gobi",
@@ -1829,33 +1829,27 @@
     "first_seen": "2026-10-19"
   },
   {
-    "title": "An abrupt shift towards a hotter and drier climate regime in the Western Eurasian Steppe",
-    "journal": "Nature Geoscience",
-    "source": "rss:ngeo",
-    "url": "https://www.nature.com/articles/s41561-026-02125-8",
-    "doi": "10.1038/s41561-026-02125-8",
-    "abstract": "Nature Geoscience, Published online: 12 October 2026; doi:10.1038/s41561-026-02125-8 The Western Eurasian Steppe has undergone an abrupt and persistent transition to a hotter and drier summer climate that exceeds the range of natural variability, driven by external climate forcing and amplified by internal variability and land–atmosphere feedbacks, according to observations and Earth system model simulations.",
+    "title": "Improved Estimates of Equilibrium Climate Sensitivity From Non‐Equilibrated Climate Simulations",
+    "journal": "JGR Atmospheres",
+    "source": "rss:jgr-atmospheres",
+    "url": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2026JD046855?af=R",
+    "doi": "10.1029/2026jd046855",
+    "abstract": "Journal of Geophysical Research: Atmospheres, Volume 131, Issue 20, 28 October 2026.",
     "authors": [
-      "Jinling Piao",
-      "Jong-Seong Kug",
-      "Wen Chen",
-      "Mi-Kyung Sung",
-      "Shangfeng Chen",
-      "Zhikai Wang",
-      "Qingyu Cai",
-      "Danbi Lee"
+      "Haozhe He",
+      "Brian J. Soden",
+      "Ryan J. Kramer"
     ],
     "is_editorial": false,
     "abstract_missing": false,
     "always_include": false,
     "score_boost": 0.0,
-    "score": 5.0,
+    "score": 6.0,
     "matched": [
-      "Earth system model",
-      "Earth system"
+      "climate sensitivity"
     ],
-    "published": null,
-    "first_seen": "2026-10-12"
+    "published": "2026-10-19",
+    "first_seen": "2026-10-20"
   },
   {
     "title": "Introducing a new normalized cryospheric index (NCI) to categorize sub-watersheds on arid environments",
@@ -2070,34 +2064,6 @@
     ],
     "published": "2026-10-19",
     "first_seen": "2026-10-19"
-  },
-  {
-    "title": "Improving the CLASSIC (v1.8) snow model  to better simulate Arctic snowpacks",
-    "journal": "Geoscientific Model Development",
-    "source": "rss:gmd",
-    "url": "https://doi.org/10.5194/gmd-19-9581-2026",
-    "doi": "10.5194/gmd-19-9581-2026",
-    "abstract": "This study enhances a snow model for Arctic environments by improving the heat exchanges within the snowpack and at its interfaces, revising the compaction scheme, and adding consideration of blowing snow sublimation losses. Simulations at ten Arctic, mid-latitude, and Alpine sites show significant reductions in simulated soil and snow temperature biases and improved simulated snow depth and density, which are key features to improve simulated energy, water, and carbon budgets in the Arctic.",
-    "authors": [
-      "Mickaël Lalande",
-      "Alexandre Roy",
-      "Libo Wang",
-      "Diana Verseghy",
-      "Vincent Vionnet",
-      "Florent Dominé",
-      "Christophe Kinnard"
-    ],
-    "is_editorial": false,
-    "abstract_missing": false,
-    "always_include": true,
-    "score_boost": 0.0,
-    "score": 4.0,
-    "matched": [
-      "Arctic",
-      "snowpack"
-    ],
-    "published": "2026-10-12",
-    "first_seen": "2026-10-12"
   },
   {
     "title": "Contribution of the Pacific Decadal Oscillation to Global Mean Sea Level Trends: Revisited",
@@ -2661,29 +2627,35 @@
     "first_seen": "2026-10-19"
   },
   {
-    "title": "The Role of Slab Folding in Modulating the Landscape Evolution of Ribbon Collision",
-    "journal": "JGR Solid Earth",
-    "source": "rss:jgr-solidearth",
-    "url": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2026JB034098?af=R",
-    "doi": "10.1029/2026jb034098",
-    "abstract": "Journal of Geophysical Research: Solid Earth, Volume 131, Issue 10, October 2026.",
+    "title": "Declining Surface Solar Radiation Resources in Polar Regions Under Global Warming",
+    "journal": "Geophysical Research Letters",
+    "source": "rss:grl",
+    "url": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2026GL125763?af=R",
+    "doi": "10.1029/2026gl125763",
+    "abstract": "Geophysical Research Letters, Volume 53, Issue 20, 28 October 2026.",
     "authors": [
-      "Andrés Felipe Rodríguez Corcho",
-      "Claire Mallard",
-      "Sara Polanco",
-      "Camilo Montes",
-      "Louis Moresi"
+      "Liangke Huang",
+      "Ling Xiong",
+      "Zhaoliang Zeng",
+      "Jianeng Jiang",
+      "Ruqing Zhu",
+      "Ke Gui",
+      "Minghu Ding",
+      "Yaqiang Wang",
+      "Huizheng Che",
+      "Lilong Liu"
     ],
     "is_editorial": false,
     "abstract_missing": false,
     "always_include": false,
     "score_boost": 0.0,
-    "score": 3.0,
+    "score": 4.0,
     "matched": [
-      "solid earth"
+      "polar",
+      "global warming"
     ],
-    "published": "2026-10-12",
-    "first_seen": "2026-10-12"
+    "published": "2026-10-19",
+    "first_seen": "2026-10-20"
   },
   {
     "title": "Why not every global problem can be tackled by an IPCC-like organization",
@@ -3398,6 +3370,102 @@
     "first_seen": "2026-10-17"
   },
   {
+    "title": "Nepal’s disaster is an urgent wake-up call",
+    "journal": "Nature",
+    "source": "rss:nature",
+    "url": "https://www.nature.com/articles/d41586-026-03314-6",
+    "doi": "10.1038/d41586-026-03314-6",
+    "abstract": "Nature, Published online: 20 October 2026; doi:10.1038/d41586-026-03314-6 Record-breaking avalanches and floods are signs of things to come. Scientists must evaluate and respond to growing risks in mountain regions.",
+    "authors": [
+      "Christian Huggel",
+      "Simon K. Allen",
+      "Emily Mark",
+      "Dan H. Shugar",
+      "Jakob Steiner",
+      "Kavita Upadhyay"
+    ],
+    "is_editorial": false,
+    "abstract_missing": false,
+    "always_include": false,
+    "score_boost": 0.0,
+    "score": 3.0,
+    "matched": [
+      "record-breaking"
+    ],
+    "published": null,
+    "first_seen": "2026-10-20"
+  },
+  {
+    "title": "Scattering‐to‐Intrinsic Transition Governing Coda Attenuation in the US Continental Crust",
+    "journal": "JGR Solid Earth",
+    "source": "rss:jgr-solidearth",
+    "url": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2026JB034331?af=R",
+    "doi": "10.1029/2026jb034331",
+    "abstract": "Journal of Geophysical Research: Solid Earth, Volume 131, Issue 10, October 2026.",
+    "authors": [
+      "Yutong Liang",
+      "Wei Wang",
+      "Juan Li",
+      "Ling Chen",
+      "Ji Zhang",
+      "Zhuowei Xiao"
+    ],
+    "is_editorial": false,
+    "abstract_missing": false,
+    "always_include": false,
+    "score_boost": 0.0,
+    "score": 3.0,
+    "matched": [
+      "solid earth"
+    ],
+    "published": "2026-10-20",
+    "first_seen": "2026-10-20"
+  },
+  {
+    "title": "Effects of Microstructural Heterogeneity on the Macroscopic Spectrum of Elastically Accommodated Grain‐Boundary Sliding",
+    "journal": "JGR Solid Earth",
+    "source": "rss:jgr-solidearth",
+    "url": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2026JB034881?af=R",
+    "doi": "10.1029/2026jb034881",
+    "abstract": "Journal of Geophysical Research: Solid Earth, Volume 131, Issue 10, October 2026.",
+    "authors": [
+      "Zhengxuan Li",
+      "John F. Rudge"
+    ],
+    "is_editorial": false,
+    "abstract_missing": false,
+    "always_include": false,
+    "score_boost": 0.0,
+    "score": 3.0,
+    "matched": [
+      "solid earth"
+    ],
+    "published": "2026-10-19",
+    "first_seen": "2026-10-20"
+  },
+  {
+    "title": "Pervasive Velocity‐Weakening Behavior of Simulated Quartz Gouge at Crustal Faulting Conditions",
+    "journal": "JGR Solid Earth",
+    "source": "rss:jgr-solidearth",
+    "url": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2026JB033942?af=R",
+    "doi": "10.1029/2026jb033942",
+    "abstract": "Journal of Geophysical Research: Solid Earth, Volume 131, Issue 10, October 2026.",
+    "authors": [
+      "Jianye Chen",
+      "André R. Niemeijer"
+    ],
+    "is_editorial": false,
+    "abstract_missing": false,
+    "always_include": false,
+    "score_boost": 0.0,
+    "score": 3.0,
+    "matched": [
+      "solid earth"
+    ],
+    "published": "2026-10-19",
+    "first_seen": "2026-10-20"
+  },
+  {
     "title": "Stratospheric Aerosol From Above: Laser‐Ablation Mass Spectrometer Samples Polar Vortex Air for the First Time",
     "journal": "JGR Atmospheres",
     "source": "rss:jgr-atmospheres",
@@ -3423,31 +3491,6 @@
     ],
     "published": "2026-10-14",
     "first_seen": "2026-10-16"
-  },
-  {
-    "title": "Temperature sensitivity of snow viscoplasticity: Evidence from controlled creep experiments",
-    "journal": "The Cryosphere",
-    "source": "rss:tc",
-    "url": "https://doi.org/10.5194/tc-20-5813-2026",
-    "doi": "10.5194/tc-20-5813-2026",
-    "abstract": "Snow slowly compacts under its own weight, and this process depends strongly on temperature, but past estimates vary widely. We developed a device to precisely control temperature and tested the same snow sample under different conditions. We found two distinct temperature regimes and a stronger sensitivity than assumed in existing snowpack models, improving how snow compaction is represented.",
-    "authors": [
-      "Louis Védrine",
-      "Marius Brun",
-      "Mathis Bozon",
-      "Benoit Laurent",
-      "Pascal Hagenmuller"
-    ],
-    "is_editorial": false,
-    "abstract_missing": false,
-    "always_include": true,
-    "score_boost": 0.0,
-    "score": 1.0,
-    "matched": [
-      "snowpack"
-    ],
-    "published": "2026-10-12",
-    "first_seen": "2026-10-12"
   },
   {
     "title": "High-performance geodynamics on GPUs using  the PETSc CUDA backend (GAUZZ v1.0.0)",
@@ -3506,104 +3549,28 @@
     "first_seen": "2026-10-13"
   },
   {
-    "title": "MONKI: a three-dimensional Monte Carlo simulator for transfer of polarised light in planetary atmospheres",
+    "title": "Improving photosynthate allocation dynamic simulations  of crops under water stress conditions",
     "journal": "Geoscientific Model Development",
     "source": "rss:gmd",
-    "url": "https://doi.org/10.5194/gmd-19-9677-2026",
-    "doi": "10.5194/gmd-19-9677-2026",
-    "abstract": "We present MONKI (Monte Carlo KNMI), an accurate and efficient Fortran radiative transfer code for simulating total and polarised sunlight in 3D planetary atmospheres. Its novelty is the derivation of Monte Carlo equations for the transfer of polarised light, fully accounting for polarisation-dependent scattering directions. This formulation gives reliable convergence even for optically thick, strongly polarising atmospheres, supporting observations of Earth, Venus, or any other planet.",
+    "url": "https://doi.org/10.5194/gmd-19-9973-2026",
+    "doi": "10.5194/gmd-19-9973-2026",
+    "abstract": "This study improves the Agro-C model to better represent how crops respond to changing soil moisture. The updated model adjusts carbon allocation between roots and leaves according to soil moisture and growth stage, and also accounts for leaf aging under water stress. Tests with field data for maize and wheat showed better predictions of plant growth above and below ground. The results can improve estimates of crop production and soil carbon storage under future drought and climate change.",
     "authors": [
-      "Victor J. H. Trees",
-      "Ping Wang",
-      "Job I. Wiltink",
-      "Piet Stammes",
-      "Daphne M. Stam",
-      "David P. Donovan",
-      "A. Pier Siebesma"
+      "Wei Xu",
+      "Wen Zhang",
+      "Yongqiang Yu",
+      "Qing Zhang"
     ],
     "is_editorial": false,
     "abstract_missing": false,
     "always_include": true,
     "score_boost": 0.0,
-    "score": 0.0,
-    "matched": [],
-    "published": "2026-10-12",
-    "first_seen": "2026-10-12"
-  },
-  {
-    "title": "Process-based evaluation of green roof models for assessment of heat mitigation efficacy in WRF (v4.3.1) and EnergyPlus (v8.6.0)",
-    "journal": "Geoscientific Model Development",
-    "source": "rss:gmd",
-    "url": "https://doi.org/10.5194/gmd-19-9729-2026",
-    "doi": "10.5194/gmd-19-9729-2026",
-    "abstract": "Green roofs can help cool cities, but models must represent them accurately to quantify this potential. Yet few studies evaluate green roof models against real data. We evaluated two versions of EcoRoof, the green roof module in EnergyPlus, and a green roof option for WRF (Weather and Research Forecasting model) using measurements from London, Ontario. EcoRoof generally matched observed heat fluxes, surface temperature, and soil moisture, while WRF overestimated heat and underestimated cooling.",
-    "authors": [
-      "Maria Martinez Mendoza",
-      "Alireza Saeedi",
-      "James A. Voogt",
-      "E. Scott Krayenhoff"
+    "score": 1.0,
+    "matched": [
+      "climate change"
     ],
-    "is_editorial": false,
-    "abstract_missing": false,
-    "always_include": true,
-    "score_boost": 0.0,
-    "score": 0.0,
-    "matched": [],
-    "published": "2026-10-12",
-    "first_seen": "2026-10-12"
-  },
-  {
-    "title": "Towards high-fidelity simulations of coastal submesoscale  baroclinic instabilities with MPAS–O (vE3SM3.0.0)  – Part 2: Realistic experiments",
-    "journal": "Geoscientific Model Development",
-    "source": "rss:gmd",
-    "url": "https://doi.org/10.5194/gmd-19-9627-2026",
-    "doi": "10.5194/gmd-19-9627-2026",
-    "abstract": "River plumes can strongly influence coastal dynamics but are poorly resolved in global ocean models. Building on a companion study, we perform high-resolution simulations of the Mississippi–Atchafalaya (M–A) plume with the Model for Prediction Across Scales–Ocean (MPAS–O), a global model, and compare with a limited-domain Regional Ocean Modeling System configuration. MPAS–O qualitatively captures the M–A plume seasonality but fails to generate realistic eddies on the Texas–Louisiana shelf.",
-    "authors": [
-      "Dylan R. Schlichting",
-      "Katherine M. Smith",
-      "Mark R. Petersen",
-      "Robert D. Hetland",
-      "Kyle E. Hinson",
-      "Darren Engwirda"
-    ],
-    "is_editorial": false,
-    "abstract_missing": false,
-    "always_include": true,
-    "score_boost": 0.0,
-    "score": 0.0,
-    "matched": [],
-    "published": "2026-10-12",
-    "first_seen": "2026-10-12"
-  },
-  {
-    "title": "Evaluating the EPICC-Model for regional air quality simulation: a comparative study with CAMx and CMAQ",
-    "journal": "Geoscientific Model Development",
-    "source": "rss:gmd",
-    "url": "https://doi.org/10.5194/gmd-19-9651-2026",
-    "doi": "10.5194/gmd-19-9651-2026",
-    "abstract": "This study compares the model performance of the Emission and atmospheric Processes Integrated and Coupled Community Model with the two air quality models in China. The EPICC-Model excels in simulating summer ozone peaks, accurately captures pollution characteristics in highly polluted areas, and better reproduces persistent compound pollution processes. The study reveals common issues among the models and directions for improvement, providing a basis for optimizing global air quality models.",
-    "authors": [
-      "Mengjie Lou",
-      "Qizhong Wu",
-      "Wending Wang",
-      "Huansheng Chen",
-      "Kai Cao",
-      "Xiaohan Fan",
-      "Dingyue Liang",
-      "Fenfen Yu",
-      "Jiating Zhang",
-      "Wei Wang",
-      "Zifa Wang"
-    ],
-    "is_editorial": false,
-    "abstract_missing": false,
-    "always_include": true,
-    "score_boost": 0.0,
-    "score": 0.0,
-    "matched": [],
-    "published": "2026-10-12",
-    "first_seen": "2026-10-12"
+    "published": "2026-10-19",
+    "first_seen": "2026-10-20"
   },
   {
     "title": "Local Generation of Plasmaspheric Plume Hiss",
@@ -3734,5 +3701,71 @@
     "matched": [],
     "published": "2026-10-16",
     "first_seen": "2026-10-16"
+  },
+  {
+    "title": "How Microporosity Shapes Carbonate Hydraulic Behavior: A Digital Rock Physics Perspective",
+    "journal": "Geophysical Research Letters",
+    "source": "rss:grl",
+    "url": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2026GL126174?af=R",
+    "doi": "10.1029/2026gl126174",
+    "abstract": "Geophysical Research Letters, Volume 53, Issue 20, 28 October 2026.",
+    "authors": [
+      "Qiuheng Xie",
+      "Lijun Liu",
+      "Haosen Zhang",
+      "Vahid Niasar",
+      "Senyou An"
+    ],
+    "is_editorial": true,
+    "abstract_missing": false,
+    "always_include": false,
+    "score_boost": 0.0,
+    "score": 0.0,
+    "matched": [],
+    "published": "2026-10-19",
+    "first_seen": "2026-10-20"
+  },
+  {
+    "title": "A Lagrangian particle tracking framework for the  super-droplet method in SCALE-SDM 5.2.6-2.3.1:  implementation and computational evaluation",
+    "journal": "Geoscientific Model Development",
+    "source": "rss:gmd",
+    "url": "https://doi.org/10.5194/gmd-19-9993-2026",
+    "doi": "10.5194/gmd-19-9993-2026",
+    "abstract": "We developed and tested a way to trace selected cloud particles in a simulation, including how they grow and merge. One run identifies particles that meet chosen conditions, and a second reconstructs only their saved histories. In a three-dimensional test, the saved data were estimated to be one-fifth of what would be needed to keep all particle histories. Larger reductions are possible when fewer particles are selected, making such studies more practical in large simulations.",
+    "authors": [
+      "Chongzhi Yin",
+      "Shin-Ichiro Shima",
+      "Chunsong Lu"
+    ],
+    "is_editorial": false,
+    "abstract_missing": false,
+    "always_include": true,
+    "score_boost": 0.0,
+    "score": 0.0,
+    "matched": [],
+    "published": "2026-10-20",
+    "first_seen": "2026-10-20"
+  },
+  {
+    "title": "Development and validation of ARMS-gb v2.0: extending fast radiative transfer modeling capability to all-sky conditions  for ground-based microwave radiometer retrievals",
+    "journal": "Geoscientific Model Development",
+    "source": "rss:gmd",
+    "url": "https://doi.org/10.5194/gmd-19-9957-2026",
+    "doi": "10.5194/gmd-19-9957-2026",
+    "abstract": "Ground-based microwave instruments can continuously observe the lower atmosphere, but clouds make their measurements harder to use. We improved a computer model so that it represents how cloud and rain particles affect these observations, and tested it with six months of measurements from two sites in China. The updated model performed better under cloudy conditions without rain, supporting more reliable use of these observations in atmospheric monitoring and weather forecasting.",
+    "authors": [
+      "Ziyue Huang",
+      "Yi-Ning Shi",
+      "Fuzhong Weng",
+      "Jun Yang"
+    ],
+    "is_editorial": false,
+    "abstract_missing": false,
+    "always_include": true,
+    "score_boost": 0.0,
+    "score": 0.0,
+    "matched": [],
+    "published": "2026-10-19",
+    "first_seen": "2026-10-20"
   }
 ]
