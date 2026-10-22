@@ -15,7 +15,7 @@ jobs:
       - uses: actions/checkout@v4
 
       # Install paper-feeder, score, and write the digest into feed/.
-      # State lives in .paper-feeder/ (a dot-dir Jekyll excludes from the build).
+      # State lives in .paper-feeder/ (not part of the Quarto render).
       - uses: alex-robinson/paper-feeder@v0.1.12
         with:
           config: config

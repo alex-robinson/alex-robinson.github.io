@@ -1,0 +1,192 @@
+/*-- scss:defaults --*/
+
+// Values carried over from the former Jekyll theme (_sass/, css/main.scss)
+$text-color:       #18576e;
+$background-color: #fdfdfd;
+$header-color:     #e8eaeb;
+$brand-color:      #2a7ae2;
+$grey-color:       #828282;
+$grey-color-light: lighten($grey-color, 40%);
+$grey-color-dark:  darken($grey-color, 25%);
+
+$font-family-sans-serif: 'Open Sans', Helvetica, Arial, sans-serif;
+$font-size-root:   18px;
+$font-size-base:   1rem;
+$font-weight-base: 300;
+$line-height-base: 1.5;
+
+$body-bg:          $background-color;
+$body-color:       $text-color;
+$headings-color:   $text-color;
+$headings-font-weight: 300;
+$headings-line-height: 1.5;
+$link-color:       $brand-color;
+$link-decoration:  none;
+$link-hover-decoration: underline;
+
+$enable-rfs: false;
+
+$navbar-bg:        $header-color;
+$navbar-fg:        $text-color;
+$navbar-hl:        $text-color;
+$footer-bg:        $background-color;
+$footer-fg:        $grey-color;
+
+/*-- scss:rules --*/
+
+body {
+  font-weight: $font-weight-base;
+}
+
+a:visited {
+  color: darken($brand-color, 15%);
+}
+a:hover {
+  color: $text-color;
+}
+
+img {
+  max-width: 100%;
+  height: auto;
+}
+
+// Header: title on the left, links on the right, tall grey band.
+// Scrolls away with the page instead of Quarto's fixed/headroom header.
+#quarto-header {
+  position: static;
+  transform: none !important;
+}
+body {
+  padding-top: 0 !important;
+}
+.navbar {
+  border-bottom: 1px solid $grey-color-light;
+  padding-top: 50px;
+  padding-bottom: 0;
+}
+.navbar > .container-fluid {
+  max-width: 1000px;
+  padding-left: 40px;
+  padding-right: 40px;
+  margin: 0 auto;
+}
+.navbar-title {
+  font-size: 26px;
+  font-weight: 300;
+  letter-spacing: -1px;
+  color: $grey-color-dark;
+}
+.navbar .navbar-brand {
+  padding: 0;
+  line-height: 56px;
+}
+.navbar .navbar-nav .nav-link {
+  color: $text-color;
+  padding-left: 0;
+  padding-right: 0;
+}
+.navbar .navbar-nav .nav-item:not(:last-child) {
+  margin-right: 25px;  // 20px margin + inline whitespace in the Jekyll header
+}
+.navbar .nav-link.active,
+.navbar .nav-link:hover {
+  color: $text-color;
+}
+
+// Content area
+#quarto-content {
+  padding-top: 40px;
+  min-height: 0 !important;  // footer follows the content, not the viewport bottom
+}
+#quarto-content main.content {
+  margin-top: 0;
+  padding-top: 0;
+}
+#title-block-header.quarto-title-block {
+  margin: 0;
+}
+#title-block-header.quarto-title-block.default {
+  margin-bottom: 40px;
+}
+#title-block-header .quarto-title h1.title {
+  font-size: 42px;
+  letter-spacing: -1px;
+  line-height: 1;
+  margin: 0;
+}
+main h1, main h2, main h3, main h4, main h5, main h6 {
+  font-weight: 300;
+  border-bottom: none;
+  margin-top: 0;
+}
+// Home page uses the browser default; other pages the Jekyll post sizes
+main h1 { font-size: 36px; }
+main h2 { font-size: 27px; }
+main h3 { font-size: 26px; }
+main h4 { font-size: 20px; }
+// Bootstrap uses 1rem; the Jekyll theme used half the spacing unit (20px)
+p, ul, ol, h1, h2, h3, h4 {
+  margin-bottom: 20px;
+}
+ul, ol {
+  padding-left: 40px;
+}
+
+// Centred bold image captions used on the News page
+.center {
+  font-size: 0.875rem;
+  font-weight: bold;
+  text-align: center;
+
+  p { margin-bottom: 0; }
+}
+
+// Footer: three columns (35/20/45) as in the Jekyll theme
+footer.footer {
+  border-top: 1px solid $grey-color-light;
+}
+footer.footer .nav-footer {
+  max-width: 1000px;
+  margin: 0 auto;
+  padding: 40px 40px;
+  border-top: none;
+  font-size: 15px;
+  color: $grey-color;
+  align-items: flex-start;
+  text-align: left;
+}
+footer.footer .nav-footer > div {
+  font-size: inherit;
+  padding: 0;
+  min-height: 0;
+}
+.nav-footer-left   { flex: 0 0 35%; text-align: left; }
+.nav-footer-center { flex: 0 0 20%; text-align: left; }
+.nav-footer-right  { flex: 0 0 45%; text-align: left; }
+.nav-footer p { margin-bottom: 0; }
+footer.footer .nav-footer a {
+  color: $brand-color;
+}
+footer.footer .nav-footer .bi {
+  color: $grey-color;
+}
+
+@media (max-width: 600px) {
+  .nav-footer-left,
+  .nav-footer-center,
+  .nav-footer-right { flex: 0 0 100%; }
+}
+
+// Collapsed navbar on narrow screens
+@media (max-width: 991.98px) {
+  .navbar {
+    padding-top: 0;
+  }
+  .navbar > .container-fluid {
+    padding-left: 20px;
+    padding-right: 20px;
+  }
+  .navbar .navbar-brand-container {
+    max-width: none;
+  }
+}

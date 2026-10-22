@@ -1,0 +1,38 @@
+name: publish
+
+on:
+  push:
+    branches: [master]
+  # Pushes made by the scan workflow (GITHUB_TOKEN) do not trigger `push`,
+  # so rebuild after each scan to pick up the new feed/.
+  workflow_run:
+    workflows: [scan]
+    types: [completed]
+  workflow_dispatch: {}
+
+permissions:
+  contents: write
+
+concurrency:
+  group: publish
+  cancel-in-progress: true
+
+jobs:
+  build-deploy:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: master
+
+      - uses: quarto-dev/quarto-actions/setup@v2
+
+      - name: Render Quarto site
+        uses: quarto-dev/quarto-actions/render@v2
+
+      - name: Publish to gh-pages branch
+        uses: peaceiris/actions-gh-pages@v4
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: _site
+          publish_branch: gh-pages
