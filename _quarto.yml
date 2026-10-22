@@ -1,0 +1,56 @@
+project:
+  type: website
+  output-dir: _site
+  render:
+    - index.qmd
+    - publications/index.qmd
+    - news/index.qmd
+    - media/index.qmd
+    - talks/index.qmd
+  resources:
+    - files/**
+    - feed/**
+    - favicon.ico
+
+website:
+  title: "Alexander Robinson"
+  description: "Senior scientist, Alfred Wegener Institute, Helmholtz Centre for Polar and Marine Research"
+  site-url: https://alex-robinson.github.io
+  favicon: favicon.svg
+  search: false
+  navbar:
+    background: light
+    right:
+      - text: Publications
+        href: publications/index.qmd
+      - text: News
+        href: news/index.qmd
+      - text: Media
+        href: media/index.qmd
+      - text: Talks
+        href: talks/index.qmd
+      - text: Paper Feed
+        href: feed/index.html
+
+  page-footer:
+    left: |
+      Alexander Robinson<br>
+      [alexander.robinson@awi.de](mailto:alexander.robinson@awi.de)
+    center: |
+      [<i class="bi bi-github"></i> alex-robinson](https://github.com/alex-robinson)
+    right: |
+      Senior scientist<br>
+      Alfred Wegener Institute, Helmholtz Centre for Polar and Marine Research
+
+format:
+  html:
+    theme:
+      - cosmo
+      - assets/css/custom.scss
+    toc: false
+    anchor-sections: false
+    page-layout: article
+    grid:
+      body-width: 924px
+      margin-width: 0px
+      sidebar-width: 0px
