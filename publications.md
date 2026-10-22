@@ -50,6 +50,10 @@ Scopus profile
 <h3 id="2026">2026</h3>
 
 <p>
+Swierczek-Jereczek, J., Blasco, J., <b>Robinson, A.</b>, Alvarez-Solas, J., and Montoya, M.: Antarctic marine-based ice destabilized when warming outpaces solid-Earth feedbacks, Nature Geoscience, https://doi.org/10.1038/s41561-026-02117-8, 2026.
+</p>
+
+<p>
 Juarez-Martinez, A., <b>Robinson, A.</b>, Swierczek-Jereczek, J., Blasco, J., Alvarez-Solas, J., and Montoya, M.: Parameterizing tidal-water intrusions in long-term Antarctic ice-sheet projections, The Cryosphere, 20, 5345–5363, https://doi.org/10.5194/tc-20-5345-2026, 2026.
 </p>
 
