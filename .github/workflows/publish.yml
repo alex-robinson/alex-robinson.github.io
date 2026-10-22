@@ -2,7 +2,7 @@ name: publish
 
 on:
   push:
-    branches: [master]
+    branches: [main]
   # Pushes made by the scan workflow (GITHUB_TOKEN) do not trigger `push`,
   # so rebuild after each scan to pick up the new feed/.
   workflow_run:
@@ -23,7 +23,7 @@ jobs:
     steps:
       - uses: actions/checkout@v4
         with:
-          ref: master
+          ref: main
 
       - uses: quarto-dev/quarto-actions/setup@v2
 
