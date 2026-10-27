@@ -110,34 +110,28 @@
     "first_seen": "2026-10-21"
   },
   {
-    "title": "Pteropod preservation reveals carbonate dissolution across the Mid-Pleistocene Transition and an Eemian preservation spike in the Andaman Sea",
-    "journal": "Quaternary International",
-    "source": "openalex:paleoclimate",
-    "url": "https://doi.org/10.1016/j.quaint.2026.110500",
-    "doi": "10.1016/j.quaint.2026.110500",
-    "abstract": "Pteropods are aragonitic holoplanktonic molluscs whose shells preserved in marine sediments provide a sensitive archive of past seawater carbonate saturation state, intermediate-water ventilation, and monsoon-driven oceanographic change. Here, we present a ∼1.2 Myr record of pteropod assemblages and preservation from sediment core NGHP-17 (1344 m water depth) in the Andaman Sea. Sixteen species were quantified across 180 samples, together with the Fragmentation Ratio (FR), Limacina Dissolution Index (LDX), epipelagic/mesopelagic (Epi/Meso) ratio, and selected planktonic and benthic foraminiferal abundances. Pteropod preservation is episodic, with pronounced preservation peaks during several glacial intervals. In contrast, generally poor and intermittent preservation during MIS 25–14 characterizes much of the Mid-Pleistocene Transition (MPT), although preservation windows occur during MIS 22, 18, and 16. This pre-MBDI decline was followed by the Mid-Brunhes Dissolution Interval (MBDI; MIS 13–11), within which a pronounced MIS 12 preservation peak demonstrates that unfavorable conditions were not continuous. An earlier preservation event occurs during MIS 26. The highest pteropod abundance is observed across MIS 6–5e, with a maximum at ∼125 ka and species maxima spanning ∼137–116 ka, indicating a transient Termination II/deglacial-to-early-interglacial preservation event. The significant inverse relationship between total pteropod abundance and FR supports a substantial preservation control on the record. Overall, the results indicate that pteropod preservation at NGHP-17 was strongly influenced by changes in bottom-water aragonite preservation conditions, within a broader framework of large-scale carbonate-system changes and regional hydrographic variability.",
-    "authors": [
-      "E. Sreevidya",
-      "R.A. Sebastian",
-      "M.B.L. Mascarenhas‐Pereira",
-      "B. Nagender Nath",
-      "R. Mohan",
-      "Adukkam V. Sijinkumar"
-    ],
+    "title": "An Arctic ice shelf in the Last Glacial Maximum rivalled Antarctica’s modern ice shelves",
+    "journal": "Nature Geoscience",
+    "source": "rss:ngeo",
+    "url": "https://www.nature.com/articles/s41561-026-02127-6",
+    "doi": "10.1038/s41561-026-02127-6",
+    "abstract": "Nature Geoscience, Published online: 26 October 2026; doi:10.1038/s41561-026-02127-6 Ice shelves stabilize marine-terminating ice sheets, and their loss can trigger rapid, irreversible ice-sheet retreat. New geomorphic evidence for a multi-kilometre-thick ice shelf in Baffin Bay during the last glacial period constrains the maximum extents of three surrounding ice sheets and demonstrates that their stability was fundamentally linked.",
+    "authors": [],
     "is_editorial": false,
     "abstract_missing": false,
     "always_include": false,
     "score_boost": 0.0,
-    "score": 34.0,
+    "score": 31.0,
     "matched": [
-      "interglacial",
-      "Eemian",
-      "Mid-Pleistocene transition",
-      "MIS stage",
-      "sediment core"
+      "ice sheet",
+      "ice shelf",
+      "Antarctica",
+      "Arctic",
+      "irreversible",
+      "last glacial maximum"
     ],
-    "published": "2026-10-17",
-    "first_seen": "2026-10-19"
+    "published": null,
+    "first_seen": "2026-10-27"
   },
   {
     "title": "The Baffin Bay Ice Shelf stabilized three adjacent ice sheets during the last glacial period",
@@ -206,35 +200,6 @@
     ],
     "published": "2026-10-22",
     "first_seen": "2026-10-23"
-  },
-  {
-    "title": "Sudden collapse of ice mélange under increasing submarine melt at tidewater glaciers",
-    "journal": "Nature Communications",
-    "source": "rss:ncomms",
-    "url": "https://www.nature.com/articles/s41467-026-78423-x",
-    "doi": "10.1038/s41467-026-78423-x",
-    "abstract": "Nature Communications, Published online: 19 October 2026; doi:10.1038/s41467-026-78423-x This study models the collapse of ice mélange in glacial fjords in response increasing submarine melt rates. It shows that perennial mélange today is vulnerable to collapse subject to increasing melt, potentially accelerating glacier mass loss.",
-    "authors": [
-      "Paul T. Summers",
-      "Alexander A. Robel",
-      "Rebecca H. Jackson",
-      "Michalea D. King",
-      "Jason M. Amundson",
-      "Justin C. Burton"
-    ],
-    "is_editorial": false,
-    "abstract_missing": false,
-    "always_include": false,
-    "score_boost": 0.0,
-    "score": 23.0,
-    "matched": [
-      "glacier",
-      "mass loss",
-      "submarine melt",
-      "tidewater glacier"
-    ],
-    "published": null,
-    "first_seen": "2026-10-19"
   },
   {
     "title": "Resolving short-term meteorological variability amplifies projected glacier loss and sea-level rise",
@@ -323,6 +288,53 @@
     ],
     "published": "2026-10-21",
     "first_seen": "2026-10-23"
+  },
+  {
+    "title": "Bistability of ice-shelf cavity circulation and melt under coastal polynya forcing",
+    "journal": "arXiv physics.ao-ph",
+    "source": "rss:arxiv-ao-ph",
+    "url": "https://arxiv.org/abs/2610.35359",
+    "doi": null,
+    "abstract": "arXiv:2610.35359v1 Announce Type: new Abstract: Antarctic ice shelves play a key role in controlling the mass loss of the Antarctic Ice Sheet. Increasing evidence from regional studies suggests the possibility of abrupt transitions from low to high basal melt regimes under future climate forcing. The computational cost and complexity of these realistic simulations yet limit their ability to systematically investigate the steady-state response of ice shelves to incremental forcing, the reversibility of abrupt transitions and the underlying positive feedback loops. Here, we report a detailed analysis of abrupt regime changes in an ice-shelf cavity with idealized geometry, subject to prescribed temperature and salinity stratifications in the far field and near-ice-front surface salt fluxes representing the impact of sea-ice production in coastal polynyas. We show that a cold regime emerges when the buoyancy loss in the polynya is sufficient to trigger deep convection, while a warm regime develops otherwise. The steady response of the system exhibits hysteresis, characteristic of irreversible transitions, and scaling laws are proposed for both melt rates and transition thresholds. We demonstrate that bistability emerges when a gyre recirculates the meltwater within the ice-shelf front area. The bistable forcing range increases with far-field ocean temperature but decreases with background stratification. We also show that increasing horizontal viscosity limits bistability, which may explain the range of behaviors reported in previous studies.",
+    "authors": [
+      "Louis Saddier (ENS de Lyon",
+      "CNRS",
+      "LPENSL",
+      "Lyon",
+      "France)",
+      "Corentin Herbert (CNRS",
+      "ENS de Lyon",
+      "LPENSL",
+      "Lyon",
+      "France)",
+      "Christopher Y. S. Bull (ACCESS-NRI",
+      "Australian National University",
+      "Canberra",
+      "Australia)",
+      "Louis-Alexandre Couston (Universit\\'e Claude Bernard Lyon 1",
+      "ENS de Lyon",
+      "CNRS",
+      "LPENSL",
+      "Lyon",
+      "France)"
+    ],
+    "is_editorial": false,
+    "abstract_missing": false,
+    "always_include": false,
+    "score_boost": 0.0,
+    "score": 21.0,
+    "matched": [
+      "ice sheet",
+      "ice shelf",
+      "Antarctic",
+      "basal melt",
+      "meltwater",
+      "mass loss",
+      "hysteresis",
+      "irreversible"
+    ],
+    "published": "2026-10-27",
+    "first_seen": "2026-10-27"
   },
   {
     "title": "Net Carbon Transfer From Ocean to Land During the Last Deglaciation Synchronous With Sea Level Rise and Lagging Atmospheric CO2 by Several Millennia",
@@ -525,55 +537,6 @@
     "first_seen": "2026-10-21"
   },
   {
-    "title": "Energy-Aware Earth System Science: A Community Roadmap",
-    "journal": "arXiv physics.ao-ph",
-    "source": "rss:arxiv-ao-ph",
-    "url": "https://arxiv.org/abs/2610.23216",
-    "doi": null,
-    "abstract": "arXiv:2610.23216v1 Announce Type: new Abstract: Earth system models underpin the evidence that informs net-zero policy, yet their energy demands are rarely considered when judging model quality. Using archived output from 159 models spanning five generations of the Coupled Model Intercomparison Project (CMIP), we show that model error has fallen at a constant rate of 13.5 per cent per doubling of compute since 1995. Halving CMIP6 error would require 28 times more compute. Improvements are uneven, with sea-level pressure and surface air temperature errors declining 3.5-fold and 2.7-fold since CMIP1, but precipitation error by only 7 per cent. Machine-learning weather models match or exceed operational forecast skill at a fraction of the runtime, but none publishes measured energy, and including training changes how they rank. We propose a skill-energy framework that combines an empirical Pareto front with a ranking score. These findings argue for standardised reporting of energy use and performance ahead of CMIP8.",
-    "authors": [
-      "Ioana Colfescu",
-      "Annalisa Bracco",
-      "Kara Moraw",
-      "Chen Lu",
-      "Michael Bareford",
-      "Tom Beucler",
-      "Massimo Bollasina",
-      "Juan Carlos Bilbao-Ludena",
-      "Hannah Christensen",
-      "Serafina DiGioia",
-      "Gregory J. Hakim",
-      "Thomas Hauser",
-      "Adrian Jackson",
-      "Phong Le",
-      "Ilenia Manco",
-      "Stephen Mobbs",
-      "Amirpasha Mozaffari",
-      "Antonio Navarra",
-      "Mark Parsons",
-      "James W. B. Rae",
-      "Thomas Reichler",
-      "Carlos Rodriguez-Pardo",
-      "Graham Stacey",
-      "Mich\\`ele Weiland"
-    ],
-    "is_editorial": false,
-    "abstract_missing": false,
-    "always_include": false,
-    "score_boost": 0.0,
-    "score": 15.0,
-    "matched": [
-      "sea level",
-      "Earth system model",
-      "Earth system",
-      "model intercomparison",
-      "CMIP",
-      "machine learning"
-    ],
-    "published": "2026-10-19",
-    "first_seen": "2026-10-19"
-  },
-  {
     "title": "Tipping point forecasting in nonstationary dynamics on function spaces",
     "journal": "PNAS",
     "source": "rss:pnas",
@@ -664,6 +627,32 @@
     ],
     "published": "2026-10-21",
     "first_seen": "2026-10-23"
+  },
+  {
+    "title": "Bayesian Synchronization of Proxy Paleorecords with Reference Chronologies",
+    "journal": "Environmetrics",
+    "source": "openalex:paleoclimate",
+    "url": "https://doi.org/10.1002/env.70159",
+    "doi": "10.1002/env.70159",
+    "abstract": "ABSTRACT Many scientific fields compare two or more noisy time series that integrate the same process but are recorded on different time scales. In paleoclimate studies, for example, proxy measurements are collected versus stratigraphic depth in a climate archive and then converted to calendar time. Synchronizing two proxy records often requires estimating an alignment that maps the depth (or preliminary age) of an input record onto the calendar‐time scale of an absolutely‐dated target record so that corresponding proxy signals line up. Existing alignment approaches are generally optimization‐based and return a single transformation, providing limited formal uncertainty quantification. Here, we introduce BSync, a Bayesian synchronization framework that treats alignments as inference over a monotone time‐mapping function to match an input to a target record. The alignment is expressed as a transformation of the input depth (or age) scale to match the target record, achieved through a link function that locally expands and compresses the input scale. The model is parameterized through interpretable local rate parameters, enabling the specification of priors on deposition times to regularize the alignment toward physically plausible deformations. BSync jointly infers the aligned chronology and provides posterior uncertainty for the time‐warping function and the resulting age scale. In synthetic data experiments and a real‐data case study, BSync yields well‐calibrated credible intervals for the aligned time scale and achieves more accurate alignments than a state‐of‐the‐art automated method, particularly when independent age constraints are sparse.",
+    "authors": [
+      "Marco A. Aquino‐López",
+      "Francesco Muschitiello",
+      "Matt Osman"
+    ],
+    "is_editorial": false,
+    "abstract_missing": false,
+    "always_include": false,
+    "score_boost": 0.0,
+    "score": 15.0,
+    "matched": [
+      "paleoclimate",
+      "proxy",
+      "uncertainty quantification",
+      "Bayesian"
+    ],
+    "published": "2026-10-25",
+    "first_seen": "2026-10-27"
   },
   {
     "title": "GlaUnTI: a hybrid physics–machine learning model enables transferable glacier surface mass balance estimation",
@@ -1174,36 +1163,6 @@
     "first_seen": "2026-10-26"
   },
   {
-    "title": "Orbital-scale precipitation variations in the western Qaidam Basin during the Late Pliocene: evidence from magnetic parameters and median grain-size",
-    "journal": "Climate of the Past",
-    "source": "rss:cp",
-    "url": "https://doi.org/10.5194/cp-22-1913-2026",
-    "doi": "10.5194/cp-22-1913-2026",
-    "abstract": "This study suggests that the dominant periodicity of precipitation shifted from eccentricity-scale (~100–125-kyr) variability to 20-kyr precessional variability during the Late Pliocene, implying that the processes controlling the westward penetration of summer moisture into the basin varied under different background climate states. These findings provide new insight into how background climate conditions may shape the orbital-scale response of precipitation during warm periods.",
-    "authors": [
-      "Zeng Luo",
-      "Hansheng Wang",
-      "Xiaoli Yu",
-      "Zhongbao Zhang",
-      "Zhifen Song",
-      "Jing Yang",
-      "Wanfeng Chen",
-      "Qingda Su",
-      "Yang Lu",
-      "Shun Hua"
-    ],
-    "is_editorial": false,
-    "abstract_missing": false,
-    "always_include": false,
-    "score_boost": 0.0,
-    "score": 9.0,
-    "matched": [
-      "Pliocene"
-    ],
-    "published": "2026-10-19",
-    "first_seen": "2026-10-19"
-  },
-  {
     "title": "Pan-Tropical Sea Surface Temperature Modulation of Boreal Summer Asian–Australian Monsoon Interannual Variability and Its Seasonal Predictability",
     "journal": "Journal of Climate",
     "source": "openalex:0894-8755",
@@ -1522,27 +1481,28 @@
     "first_seen": "2026-10-23"
   },
   {
-    "title": "Remote Influences of Land Surface Temperature and their Implications for Sea Surface Temperature Patterns",
+    "title": "Probabilistic adjustment of seasonal forecasts using cVAE with a non-parametric decoder: A case study of Arctic sea ice predictions",
     "journal": "arXiv physics.ao-ph",
     "source": "rss:arxiv-ao-ph",
-    "url": "https://arxiv.org/abs/2603.28481",
+    "url": "https://arxiv.org/abs/2605.29172",
     "doi": null,
-    "abstract": "arXiv:2603.28481v3 Announce Type: replace Abstract: The spatial pattern of sea surface temperature (SST) plays a central role in shaping the climate system, yet the influence of land surface temperature (LST) on large-scale SST patterns remains understudied. Using a state-of-the-art coupled climate model, we investigate the climate response to regional abrupt LST warming and time-dependent ramped-warming. We find that regional LST warming can substantially alter the mean-state SST pattern, with the response depending strongly on the location of land warming. In particular, warming over South America strengthens the zonal SST gradient across the tropical Pacific, producing a more La Ni\\~na-like mean state. Enhanced land warming increases the zonal contrast in diabatic heating, which excites stationary Rossby wave responses that strengthen alongshore winds and coastal upwelling in the eastern tropical Pacific, providing a dynamical pathway linking regional land warming to changes in the equatorial Pacific mean state. Similar remote SST responses occur for warming over North America, which is accompanied by cooling in the North Pacific, and over Central Africa, which is accompanied by cooling in the tropical Atlantic. In contrast, warming over the Maritime Continent and Tibetan Plateau produces little systematic change in large-scale SST patterns. These results demonstrate that regional LST changes can exert a substantial and geographically dependent influence on remote ocean temperatures. They further suggest that biases in both the mean state and warming trends of LST may contribute to biases in simulated SST patterns in historical simulations, highlighting the importance of accurately representing LST in climate models.",
+    "abstract": "arXiv:2605.29172v2 Announce Type: replace-cross Abstract: Seasonal climate predictions support planning and risk management by offering early information of the likely climate conditions in the coming months, and associated uncertainties. Ensemble forecasts enable this by simulating many plausible outcomes, allowing predictions to be expressed as usable probabilities. Large ensembles and high-resolution forecasts strengthen this by better sampling uncertainty and capturing finer-scale processes but come with significant computational cost. Moreover, forecast ensembles drift and exhibit systematic biases and spatio-temporal errors that grow with lead time, requiring careful post-processing and calibration. A probabilistic post-processing framework based on conditional Variational Autoencoders (cVAEs) was developed at the Canadian Center for Climate Modeling and Analysis to generate large ensembles of adjusted seasonal predictions of Arctic sea ice. The generative model was designed to learn the observational distribution conditioned on the biased model prediction. This enables generation of arbitrarily large ensembles of calibrated, bias corrected forecasts with improved skill. Here, we extend this framework to a Generalized Variational Inference problem to address the loss of fine-scale energy and the characteristic blurriness, a known limitation of standard cVAEs. Specifically, we employ a generator in place of the Gaussian parametrized decoder in cVAE and use Continuous Ranked Probability Score (CRPS) in the objective function instead of the Gaussian log-likelihood. We further use a higher resolution target dataset compared to the raw forecast. We show that the adjusted forecasts are better calibrated, more consistent with the observational distribution, and exhibit smaller errors than benchmark predictions, while also enhancing the resolution of the raw forecasts and improving sharpness and spectral power relative to the standard cVAE.",
     "authors": [
-      "Bosong Zhang",
-      "Timothy M. Merlis"
+      "Parsa Gooya",
+      "Reinel Sospedra-Alfonso"
     ],
     "is_editorial": false,
     "abstract_missing": false,
     "always_include": false,
     "score_boost": 0.0,
-    "score": 6.0,
+    "score": 7.0,
     "matched": [
-      "sea surface temperature",
-      "coupled climate model"
+      "Arctic",
+      "sea ice",
+      "ensemble"
     ],
-    "published": "2026-10-19",
-    "first_seen": "2026-10-19"
+    "published": "2026-10-27",
+    "first_seen": "2026-10-27"
   },
   {
     "title": "Improved Estimates of Equilibrium Climate Sensitivity From Non‐Equilibrated Climate Simulations",
@@ -1905,27 +1865,28 @@
     "first_seen": "2026-10-26"
   },
   {
-    "title": "Rescene: stable century-long climate emulation from a frozen weather model",
-    "journal": "arXiv physics.ao-ph",
-    "source": "rss:arxiv-ao-ph",
-    "url": "https://arxiv.org/abs/2608.09971",
-    "doi": null,
-    "abstract": "arXiv:2608.09971v2 Announce Type: replace Abstract: Machine-learning weather models now match or exceed operational numerical prediction in the medium range, but when they are run freely for years they drift, blow up or lose their variability, and dedicated climate emulators are expensive to train. Here we present Rescene, a 0.4 M-parameter wrapper that turns a frozen 1.5$^\\circ$, 6-hourly, 69-variable weather model into a stochastic climate emulator. A deterministic slow clock anchors the frozen model to a calendar climatology, and a band-limited AR(1) perturbation, whose spectral envelope is fixed to the observed anomaly spectrum, restores the weather that anchoring removes. A 100-year, 8-member Rescene run shows no detectable drift ($-0.004 \\pm 0.014$ K per 100 years), and on the 2022 test year the 16-member ensemble is calibrated (spread/skill 0.89, 0.97 and 0.93 for Z500, T2m and MSLP) with an extratropical synoptic amplitude of 97% of ERA5 on the tuning year. The free run reproduces the geography of day-to-day variability (pattern correlation 0.83 for Z500) and 71% of the observed blocking frequency, where the deterministic wrapper alone has none. Interventions on the frozen operator show a scale-local, approximately linear response in which Z500 perturbations grow upscale 6--14 times more than downscale per 6 h. All constants are fitted on a training year against a rule declared beforehand, and we show that common evaluation shortcuts would have overstated variability and skill. Rescene makes an existing weather model usable for century-long ensembles at negligible training cost.",
+    "title": "scBOA: Bayesian optimization of single-cell analysis pipelines for robust annotation and discovery",
+    "journal": "Nature Communications",
+    "source": "rss:ncomms",
+    "url": "https://www.nature.com/articles/s41467-026-78718-z",
+    "doi": "10.1038/s41467-026-78718-z",
+    "abstract": "Nature Communications, Published online: 27 October 2026; doi:10.1038/s41467-026-78718-z Here, the authors introduce scBOA, a Bayesian optimization tool that helps researchers choose single-cell analysis settings for cell-type annotation. They perform benchmarking to show that performance depends on the dataset, reference and objective.",
     "authors": [
-      "Minjong Cheon"
+      "Qiang Su",
+      "Yi Long",
+      "Fuyu Duan",
+      "Qizhou Lian"
     ],
     "is_editorial": false,
     "abstract_missing": false,
     "always_include": false,
     "score_boost": 0.0,
-    "score": 5.0,
+    "score": 6.0,
     "matched": [
-      "emulator",
-      "ensemble",
-      "machine learning"
+      "Bayesian"
     ],
-    "published": "2026-10-19",
-    "first_seen": "2026-10-19"
+    "published": null,
+    "first_seen": "2026-10-27"
   },
   {
     "title": "BridgeCast: Bridging Ocean Wave Forecasts to Reanalysis via Flow Matching with Exogenous Variables",
@@ -2024,33 +1985,6 @@
     ],
     "published": "2026-10-22",
     "first_seen": "2026-10-22"
-  },
-  {
-    "title": "Closed-loop photoreactor design enabled by machine learning and digital twins",
-    "journal": "Nature Communications",
-    "source": "rss:ncomms",
-    "url": "https://www.nature.com/articles/s41467-026-78785-2",
-    "doi": "10.1038/s41467-026-78785-2",
-    "abstract": "Nature Communications, Published online: 19 October 2026; doi:10.1038/s41467-026-78785-2 Designing efficient photoreactors remains challenging due to the complex interplay of light transport phenomena, shaped by reflection, scattering and absorption processes. Here, we introduce a workflow that integrates ray-tracing digital twins with multi-objective Bayesian optimization to autonomously design photoreactors in a closed-loop manner, achieving high photon capture and uniform irradiation.",
-    "authors": [
-      "Jasper H. A. Schuurmans",
-      "Miguel Claros",
-      "Elia Savino",
-      "Florian Lukas",
-      "Aidan Slattery",
-      "Timothy Noël"
-    ],
-    "is_editorial": false,
-    "abstract_missing": false,
-    "always_include": false,
-    "score_boost": 0.0,
-    "score": 4.0,
-    "matched": [
-      "Bayesian",
-      "machine learning"
-    ],
-    "published": null,
-    "first_seen": "2026-10-19"
   },
   {
     "title": "Declining Surface Solar Radiation Resources in Polar Regions Under Global Warming",
@@ -2319,6 +2253,34 @@
     ],
     "published": "2026-10-26",
     "first_seen": "2026-10-26"
+  },
+  {
+    "title": "GNN-VIEW: Visual Inspection and Explanation of Graph-based Earth-System Models",
+    "journal": "arXiv physics.ao-ph",
+    "source": "rss:arxiv-ao-ph",
+    "url": "https://arxiv.org/abs/2610.35693",
+    "doi": null,
+    "abstract": "arXiv:2610.35693v1 Announce Type: cross Abstract: Machine learning Earth-system models are becoming increasingly important, and so is their development. Graph-based models, one of the most prominent approaches, allow developers to constrain the learning process before training via graph connectivity. Yet, developing these models remains challenging: the graph is built algorithmically with little intuition about the final result beyond static plotting, which requires extra work and is often not detailed enough. Even after successful training, how the model arrives at forecasts remains obscure. We present GNN-VIEW, an interactive browser-based tool that supports the development of such systems. GNN-VIEW exposes the graph's information pathways, allowing model developers to debug the graph structure before training. After training, GNN-VIEW uses attribution-based explainability to reveal which input features are used by the trained model for a given forecast. This helps developers understand why a model fails. We showcase the usefulness of GNN-VIEW in the construction stage of a graph for an ocean forecasting model, and in explaining poorly predicted precipitation of a trained weather forecasting model during Hurricane Laura.",
+    "authors": [
+      "Alessandro Lucatelli",
+      "Ferdinand Unterhuber",
+      "Katharina Krenzer",
+      "Mennatallah El-Assady",
+      "Benedikt Soja",
+      "Christina Humer",
+      "Joel Oskarsson"
+    ],
+    "is_editorial": false,
+    "abstract_missing": false,
+    "always_include": false,
+    "score_boost": 0.0,
+    "score": 4.0,
+    "matched": [
+      "Earth system",
+      "machine learning"
+    ],
+    "published": "2026-10-27",
+    "first_seen": "2026-10-27"
   },
   {
     "title": "Nepal’s disaster is an urgent wake-up call",
@@ -2938,6 +2900,80 @@
     "first_seen": "2026-10-26"
   },
   {
+    "title": "Satellite-derived bathymetry of Arabian Gulf ports under leakage-free validation: a multi-site benchmark of empirical, machine-learning and deep-learning models against 285,000 multibeam soundings, with an outlook for UAE waters",
+    "journal": "arXiv physics.ao-ph",
+    "source": "rss:arxiv-ao-ph",
+    "url": "https://arxiv.org/abs/2610.33609",
+    "doi": null,
+    "abstract": "arXiv:2610.33609v1 Announce Type: cross Abstract: Satellite-derived bathymetry (SDB) is often proposed as a low-cost complement to multibeam surveys of ports, but its accuracy is seldom measured on an area the model has never seen. We test SDB in the turbid, shallow and tidal waters of the Abu Dhabi coast against 285,619 multibeam soundings from twelve surveys at six port areas, reduced to Lowest Astronomical Tide. The Stumpf ratio, the Lyzenga transform, a monotonic gradient-boosted tree model (LightGBM) and a U-Net ensemble were trained on 72 Sentinel-2 images and tested in transfer to an unseen site and with local control (about 20% of a site's soundings, spatial blocks beyond a 225 m buffer). The validation design changed the result more than the model: the same LightGBM model gave 0.57 m RMSE under a random pixel split, 1.30 m under spatial blocks and 1.66 m at an unseen site. In transfer the Stumpf ratio (1.45 m) was not beaten by LightGBM, the U-Net or Lyzenga. With local control a hybrid of the tree output and the band ratio reached 1.11 m over 0-11 m, 67% of pixels within the IHO S-44 Order 2 tolerance and a conformal 95% interval with 95% observed coverage; in clear water it reached 0.29-0.53 m. The seabed could not be read beyond 11 m, and summer images were five to six times more turbid than winter ones. ICESat-2 ATL24 agreed with the surveys to 0.25 m after a depth-dependent offset was removed. A 60 m reconnaissance mosaic of 17,200 km2 of the UAE coast, calibrated cell by cell on ICESat-2 without any vessel survey, reached 1.42 m RMSE on held-out blocks over half of the product. Sentinel-2 SDB with about a hundred control depths per image is a usable reconnaissance and change-monitoring tool in these waters to about 10 m; it does not meet S-44 Order 1 without local control, and accuracies from random splits should not be taken as operational accuracy.",
+    "authors": [
+      "Muhammad Saeed",
+      "Fatema Al Hajri",
+      "Mohamed H. Alhosani",
+      "Dmitry Mikhaylov",
+      "Yasser F. Al Wahedi"
+    ],
+    "is_editorial": false,
+    "abstract_missing": false,
+    "always_include": false,
+    "score_boost": 0.0,
+    "score": 3.0,
+    "matched": [
+      "ensemble",
+      "machine learning"
+    ],
+    "published": "2026-10-27",
+    "first_seen": "2026-10-27"
+  },
+  {
+    "title": "Automated Detection and Climatological Analysis of Ripple-Scale Gravity Wave Instabilities Using a Squeeze-and-Excitation Convolutional Neural Network",
+    "journal": "arXiv physics.ao-ph",
+    "source": "rss:arxiv-ao-ph",
+    "url": "https://arxiv.org/abs/2603.03669",
+    "doi": null,
+    "abstract": "arXiv:2603.03669v4 Announce Type: replace Abstract: All-sky OH airglow imaging provides two-dimensional observations of mesospheric wave morphology near the nominal OH emission peak altitude. Small, localized ripple-like structures are difficult to catalogue consistently through manual inspection and may represent either instability-related features or secondary gravity waves. We present an automated detection framework based on a squeeze-and-excitation convolutional neural network (SE-CNN) trained on 41 x 41-pixel patches extracted from 512 x 512-pixel all-sky images acquired at Yucca Ridge Field Station. Signed differences between consecutive images separated by approximately 2 min are normalized using spatial median-absolute-deviation scaling before classification. The trained model is applied to complete images through sliding-window inference, followed by score-map reconstruction, component filtering, and spatial matching. On the held-out patch test set, the classifier achieved an accuracy of 0.92, precision of 0.89, recall of 0.93, and F1 score of 0.92. Within a selected cohort of manually positive validation frames, 299 of 415 evaluable frames contained at least one reference-automated spatial overlap, and 324 of 559 eligible reference supports received a one-to-one automated-component assignment. In a separate blinded single-reviewer audit of disagreement patches, 411 of 543 model-candidate/reference-unmarked crops were classified as clear ripple-like, corresponding to a clear-ripple fraction of 75.7% with a night-cluster bootstrap 95% interval of 70.4%-80.2%. Because the audit was restricted to selected disagreement cases from manually positive frames, this value is not an archive-wide precision estimate.",
+    "authors": [
+      "Jiahui Hu",
+      "Alan Liu",
+      "Adriana Feener",
+      "Wenjun Dong"
+    ],
+    "is_editorial": false,
+    "abstract_missing": false,
+    "always_include": false,
+    "score_boost": 0.0,
+    "score": 3.0,
+    "matched": [
+      "neural network"
+    ],
+    "published": "2026-10-27",
+    "first_seen": "2026-10-27"
+  },
+  {
+    "title": "Representing canopy interception in a distributed snow model to improve snow accumulation and melt timing",
+    "journal": "Journal of Hydrology",
+    "source": "openalex:cryosphere",
+    "url": "https://doi.org/10.1016/j.jhydrol.2026.136669",
+    "doi": "10.1016/j.jhydrol.2026.136669",
+    "abstract": "Seasonal snowmelt is a vital water resource for downstream populations and supports ecological processes in the mountainous Western United States. In subalpine forests, snow interception by tree canopies strongly influences snow accumulation, snow duration, and runoff timing. However, canopy interception has not been incorporated into the widely used, process-based distributed snow energy balance model, iSnobal. To address this gap, we integrated multiple forest canopy snow processes into iSnobal. To assess the version of iSnobal with canopy processes, it was run over five water years in the East River Watershed, a mountainous, partially forested basin in the Upper Colorado River Basin. Across model runs, 50–––150 mm of snowfall, equivalent to 10% − 30% of cumulative snowfall, was intercepted annually. Within the canopy, melt dominated snow loss, while wind-driven unloading was limited and elevation-dependent. Relative to baseline runs, snow depths were decreased (mean 0.09–0.11 m) and snow cover duration was shortened (7–16 days) due to delayed snow onset and faster snow depletion. The model was assessed against lidar-mapped snow depth, which showed that accounting for interception improved model performance, with 39.4% to 57.3% of pixels exhibiting better agreement and reduced errors, especially during late melt (May and June). Random forest analysis identified intercepted snowfall, snow onset date, leaf area index, cumulative snowfall, and aspect as primary controls on snow depth differences between default iSnobal and its canopy-enabled version. This study emphasizes the importance of accounting for forest canopy processes in snow models and provides a basis for more reliable snowmelt inputs to water supply forecasting in snow-dominated forested regions.",
+    "authors": [
+      "Yijing Liu",
+      "J. Michelle Hu",
+      "Alvaro Robledano",
+      "S. McKenzie Skiles"
+    ],
+    "is_editorial": false,
+    "abstract_missing": false,
+    "always_include": false,
+    "score_boost": 0.0,
+    "score": 3.0,
+    "matched": [
+      "energy balance model"
+    ],
+    "published": "2026-10-23",
+    "first_seen": "2026-10-27"
+  },
+  {
     "title": "Improving photosynthate allocation dynamic simulations  of crops under water stress conditions",
     "journal": "Geoscientific Model Development",
     "source": "rss:gmd",
@@ -3212,5 +3248,26 @@
     "matched": [],
     "published": "2026-10-26",
     "first_seen": "2026-10-26"
+  },
+  {
+    "title": "Stochastic homogeneous freezing of supercooled droplets in mixed-phase clouds in particle-based idealised microphysics framework (exemplified with PySDM v3.0)",
+    "journal": "Geoscientific Model Development",
+    "source": "rss:gmd",
+    "url": "https://doi.org/10.5194/gmd-19-10185-2026",
+    "doi": "10.5194/gmd-19-10185-2026",
+    "abstract": "Homogeneous freezing describes the spontaneous freezing of supercooled droplets, with the probability depending on temperature, droplet size, and elapsed time. Droplets freeze across a range of temperatures rather than all at once, and faster updrafts and larger droplets lead to freezing at warmer temperatures. Once some droplets freeze, the growing ice crystals deplete the surrounding vapour, causing the remaining droplets to evaporate. This affects the number of ice crystals in the cloud.",
+    "authors": [
+      "Tim Lüttmer",
+      "Sylwester Arabas",
+      "Peter Spichtinger"
+    ],
+    "is_editorial": false,
+    "abstract_missing": false,
+    "always_include": true,
+    "score_boost": 0.0,
+    "score": 0.0,
+    "matched": [],
+    "published": "2026-10-27",
+    "first_seen": "2026-10-27"
   }
 ]
