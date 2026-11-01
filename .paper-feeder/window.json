@@ -1,45 +1,5 @@
 [
   {
-    "title": "The last glacial cycle in western Norway—extensive MIS 5d glaciation, multiple glacial advances and LGM glacial advance phases",
-    "journal": "Boreas",
-    "source": "openalex:paleoclimate",
-    "url": "https://doi.org/10.1111/bor.70092",
-    "doi": "10.1111/bor.70092",
-    "abstract": "We have investigated fine‐grained marine sediments buried under delta sediments and multiple till beds in a tributary valley in western Norway. The marine bed contains bivalves, foraminifera and terrestrial plant material. The fauna and flora are rather poor, but the presence of molluscan species Mytilus edulis and Arctica islandica suggests that Atlantic waters reached the coastal areas at the time of deposition. The age range of radiocarbon dates from about 25 to 50 ka BP conflicts with previous studies from the area and is considered as minimum ages only. This conclusion is supported by amino acid epimerization values in molluscs from the radiocarbon‐dated unit, indicating that it should be correlated with an Early Weichselian, MIS 5c interstadial. The marine unit and overlying delta succession are situated on the outer coast up to 56 m above present sea level, suggesting that they were deposited during a high sea‐level stand following retreat of an extensive MIS 5d glaciation. A compiled Weichselian glaciation curve shows five major glacial advances extending to the outermost coast or beyond. These advances seem to correspond to periods with North Atlantic sea surface cooling. Three till units on top of the delta are interpreted to represent glacier advance prior to the Last Glacial Maximum (LGM) and during the subsequent deglaciation. Clast fabrics in the lower till and orientation of clastic dikes show an upvalley component opposite to LGM maximum ice‐flow direction. This indicates that initial glacier advance was by fjord glaciers extending to the outer coast while there was limited glacier extent in coastal mountain areas. This interpretation favours fast ice flow along the fjords and major supply of ice from interior mountain areas. Glacier growth in coastal mountains led to merging with fjord glaciers, reorientation of the ice‐flow direction and ultimately maximum glacier extent. Empirical data on ice‐sheet growth are extremely rare and may have been overlooked in many stratigraphic records. Such data are vital for understanding behaviour of ice sheets and in a wider sense, the climate system.",
-    "authors": [
-      "Eiliv A. Larsen",
-      "Hans Petter Sejrup",
-      "BRENT C. WARD",
-      "William E. N. Austin",
-      "Hilary H. Birks",
-      "Oddvar Longva",
-      "Astrid Lyså",
-      "Dag Ottesen",
-      "Bente Philippsen",
-      "Martin Seiler"
-    ],
-    "is_editorial": false,
-    "abstract_missing": false,
-    "always_include": false,
-    "score_boost": 0.0,
-    "score": 53.0,
-    "matched": [
-      "ice sheet",
-      "ice flow",
-      "glacier",
-      "deglaciation",
-      "last glacial maximum",
-      "LGM",
-      "glacial cycle",
-      "MIS stage",
-      "foraminifera",
-      "radiocarbon",
-      "sea level"
-    ],
-    "published": "2026-10-22",
-    "first_seen": "2026-10-24"
-  },
-  {
     "title": "Reversible Atlantic overturning despite continued Greenland ice sheet melt",
     "journal": "Science Advances",
     "source": "openalex:cites-me",
@@ -156,43 +116,6 @@
     ],
     "published": "2026-10-28",
     "first_seen": "2026-10-30"
-  },
-  {
-    "title": "Late Holocene reexpansion of the Laurentide Ice Sheet",
-    "journal": "Science",
-    "source": "openalex:paleoclimate",
-    "url": "https://doi.org/10.1126/science.aed3379",
-    "doi": "10.1126/science.aed3379",
-    "abstract": "During interglaciations, the Laurentide Ice Sheet (LIS), which is the largest of the Pleistocene ice sheets, retreats to Arctic Canada, where it achieves a minimum configuration. The reexpansion of the LIS following this minimum marks the start of the next glaciation. Here, we show that the last remaining remnant of the most recent LIS, Barnes Ice Cap (Baffin Island, Canada), achieved its minimum interglacial dimensions after ~3.6 thousand years ago, before reexpanding ~2000 years ago, marking the onset of the next glaciation. The new LIS reached maximum dimensions in ~1960 CE, after which anthropogenic summer warming resulted in a negative mass balance, ice margin recession, and the termination of the next glaciation. The demise of the next glaciation, despite the ongoing decline in summer insolation, illustrates the influence of anomalous greenhouse gas forcing on climate.",
-    "authors": [
-      "Nicolás E. Young",
-      "Gifford Hubbs Miller",
-      "Martha K. Raynolds",
-      "Helga Bültmann",
-      "Scott J. Lehman",
-      "Jonathan H. Raberg",
-      "Kylie Seward",
-      "Simon L. Pendleton",
-      "John T. Andrews",
-      "Patrick J. Webber",
-      "Joerg M. Schaefer"
-    ],
-    "is_editorial": false,
-    "abstract_missing": false,
-    "always_include": false,
-    "score_boost": 0.0,
-    "score": 36.0,
-    "matched": [
-      "ice sheet",
-      "Arctic",
-      "Laurentide",
-      "interglacial",
-      "insolation",
-      "Holocene",
-      "greenhouse gas"
-    ],
-    "published": "2026-10-22",
-    "first_seen": "2026-10-24"
   },
   {
     "title": "An Arctic ice shelf in the Last Glacial Maximum rivalled Antarctica’s modern ice shelves",
@@ -546,6 +469,38 @@
     "first_seen": "2026-10-29"
   },
   {
+    "title": "Climate variability and human adaptation in late quaternary Northeast Asia: A critical review of paleoenvironmental and archaeological records from Northeast China and Primorye of Russia",
+    "journal": "Anthropocene",
+    "source": "openalex:paleoclimate",
+    "url": "https://doi.org/10.1016/j.ancene.2026.100593",
+    "doi": "10.1016/j.ancene.2026.100593",
+    "abstract": "Northeast China and Russian Primorye lie at the confluence of the East Asian summer monsoon, Siberian High, and Pacific maritime circulation. The region experienced pronounced glacial-interglacial variability and served as a corridor for human dispersal among Siberia, East Asia, and the Americas. This review synthesises palaeoecological and archaeological evidence, principally from the past ca. 50 ka. Environmental records trace a transition from the cold, arid steppe of the Last Glacial Maximum (ca. 26.5–19.0 ka BP) to warmer, more forested Holocene landscapes, while revealing strong spatial heterogeneity and abrupt events. Although the ≥146 ka Harbin cranium predates the main review interval, it establishes a Middle Pleistocene hominin presence; securely dated archaeological sequences considered here begin in the Late Pleistocene. These records document developments from Upper Palaeolithic lithic industries to Neolithic sedentism, millet agriculture, and Bronze Age sociopolitical complexity. A central limitation is the spatial separation of most palaeoclimatic archives and archaeological sites. Their differing chronological resolution further restricts direct causal attribution, leaving many proposed climate-culture relationships as working hypotheses. We therefore advocate co-located multiproxy transects, improved chronological control, and tephrochronological correlation. A site-by-site appraisal of radiocarbon, OSL, and U-series chronologies identifies relationships that are currently testable. The Boisman-Krounovka sequence suggests that resource breadth and specialisation may mediate vulnerability to environmental change, although the roles of social organisation, mobility, and demography remain unresolved. Northeast Asia thus offers a framework for generating and testing hypotheses about climatic variability, demographic processes, and cultural change rather than demonstrating simple climate-driven causation.",
+    "authors": [
+      "Xinrong Zhang",
+      "Jing Xu",
+      "Alexandra Romanova",
+      "Yuri Mikishin",
+      "Yuri Vostretsov",
+      "Peter Jia",
+      "John Dodson"
+    ],
+    "is_editorial": false,
+    "abstract_missing": false,
+    "always_include": false,
+    "score_boost": 0.0,
+    "score": 18.0,
+    "matched": [
+      "paleoclimate",
+      "last glacial maximum",
+      "interglacial",
+      "Holocene",
+      "Quaternary",
+      "radiocarbon"
+    ],
+    "published": "2026-10-24",
+    "first_seen": "2026-11-01"
+  },
+  {
     "title": "Late Quaternary lake filling and drying in northern Australia's largest freshwater lake",
     "journal": "Journal of Quaternary Science",
     "source": "openalex:paleoclimate",
@@ -670,6 +625,35 @@
     ],
     "published": "2026-10-23",
     "first_seen": "2026-10-25"
+  },
+  {
+    "title": "The internal variability modulates marine heatwave duration changes by day-to-day ocean memory in the recent decades",
+    "journal": "Journal of Climate",
+    "source": "openalex:0894-8755",
+    "url": "https://doi.org/10.1175/jcli-d-26-0002.1",
+    "doi": "10.1175/jcli-d-26-0002.1",
+    "abstract": "Abstract The duration of marine heatwaves (MHWs) determines the cumulative thermal stress imposed on marine organisms, thereby strongly influencing the severity of ecological consequences. Recently, day-to-day ocean memory, quantified by a first-order sea surface temperature (SST) autocorrelation model, has been found as an effective metric to depict the duration of MHWs, due to its consistent climatological distribution and trends with MHW duration in the observations. However, the relative importance of external forcing and internal variability in modulating the day-to-day ocean memory and, more importantly, its relationship with MHW duration, remain unclear. In this study, we employ 100 ensemble members of CESM2 and 32 CMIP6 models to analyze the roles of external forcing and internal variability in the day-to-day ocean memory and MHW duration. We find that internal variability dominates the trends of day-to-day ocean memory in the recent decades and further modulates the trends of MHW duration, particularly in the tropical oceans. The zonal gradient of SST trends over the tropical Pacific emerges as a key feature of the internal variability. By combining a stochastic climate model framework with a mixed-layer heat budget, we further reveal that ocean mixing and dynamics are the primary processes through which internal variability modulates trends in day-to-day ocean memory, whereas SST-surface heat flux feedback provides a secondary contribution and variations in mixed-layer depth play negligible roles. This study demonstrates that internal variability exerts a considerable influence on MHW duration through its modulation on day-to-day ocean memory, providing crucial evidence and a new perspective for understanding and predicting MHW duration in a warming climate.",
+    "authors": [
+      "Di Sun",
+      "Lu Dong",
+      "Fengfei Song",
+      "Zhao Jing",
+      "Shijie Zeng",
+      "Lixin Wu"
+    ],
+    "is_editorial": false,
+    "abstract_missing": false,
+    "always_include": false,
+    "score_boost": 0.0,
+    "score": 13.0,
+    "matched": [
+      "sea surface temperature",
+      "CMIP",
+      "ensemble",
+      "heat wave"
+    ],
+    "published": "2026-10-30",
+    "first_seen": "2026-11-01"
   },
   {
     "title": "Climate Change and the Stability of Glacier-Fed River Systems: Implications for Water Security in Vulnerable Regions",
@@ -1330,63 +1314,6 @@
     ],
     "published": "2026-10-29",
     "first_seen": "2026-10-31"
-  },
-  {
-    "title": "Early Gravettian genomic data from Western Europe reveal population movements before the LGM",
-    "journal": "Science Advances",
-    "source": "rss:sciadv",
-    "url": "https://www.science.org/doi/abs/10.1126/sciadv.aeh6128?af=R",
-    "doi": "10.1126/sciadv.aeh6128?af=r",
-    "abstract": "Science Advances, Volume 12, Issue 43, October 2026.",
-    "authors": [
-      "Pere Gelabert",
-      "Susanna Sawyer",
-      "Vanessa Villalba-Mouco",
-      "Olivia Cheronet",
-      "Victoria Oberreiter",
-      "Diego Gárate",
-      "Christian Normand",
-      "Lawrence G. Straus",
-      "Manuel R. González Morales",
-      "Igor Gutiérrez-Zugasti",
-      "David Cuenca-Solana",
-      "Joëlle Darricau",
-      "Henry de Lumley",
-      "José-Miguel Tejero",
-      "Mareike Stahlschmidt",
-      "Thomas Higham",
-      "Maddalena Giannì",
-      "Laura G. van der Sluis",
-      "Carla Gómez-Montes",
-      "Miriam Ibáñez-Herranz",
-      "Michelle Hämmerle",
-      "Brina Zagorc",
-      "Florian Exler",
-      "Florian Brück",
-      "Stefan Franz",
-      "Fernanda Tenorio Cano",
-      "Kristin Stewardson",
-      "Lijun Qiu",
-      "Ana B. Marín-Arroyo",
-      "Michaela Lucci",
-      "Alessia Nava",
-      "Francesco Genchi",
-      "Donato Coppola",
-      "Chiara La Marca",
-      "Alfredo Coppa",
-      "David Reich",
-      "Ron Pinhasi"
-    ],
-    "is_editorial": false,
-    "abstract_missing": false,
-    "always_include": false,
-    "score_boost": 0.0,
-    "score": 8.0,
-    "matched": [
-      "LGM"
-    ],
-    "published": null,
-    "first_seen": "2026-10-24"
   },
   {
     "title": "Evolution of the Tibetan Plateau-Northern Indian Ocean thermal contrast since the last deglaciation and its regulation of the Indian Summer Monsoon",
@@ -2061,6 +1988,35 @@
     "first_seen": "2026-10-31"
   },
   {
+    "title": "Regional climatic change following the Eocene–Oligocene Transition in central northern Tibet",
+    "journal": "Geological Society of America Bulletin",
+    "source": "openalex:paleoclimate",
+    "url": "https://doi.org/10.1130/b39299.1",
+    "doi": "10.1130/b39299.1",
+    "abstract": "The Eocene–Oligocene Transition (EOT) constitutes one of the most dramatic climatic changes in the Cenozoic era; it is characterized by global cooling, increasing aridity, extinction of fauna and flora, and a major drop of global sea level. However, how continental settings responded to global climatic change after the EOT event has still received little consideration. Here we report a high-resolution and well-dated terrestrial EOT record from the Tuotuohe Basin (central northern Tibetan Plateau). Sedimentary facies, fossil evidence, new proxy, and climate modeling data suggest a transition from warm and dry to cool and wet climatic conditions ca. 33 Ma, in contrast with other records from the Tibetan Plateau that commonly document drier conditions after the EOT (ca. 34 Ma). Having considered the potential forcing mechanisms, we propose that the Indian monsoon likely expanded into the Tuotuohe Basin after the EOT due to a combination of factors, such as the land-sea pressure gradient caused by the retreat of the Paratethys Sea, tectonic uplift in central northern Tibet and increased cross-equatorial pressure gradients. This study opens new perspectives for paleoclimate model simulations around the EOT that encompasses major environmental reorganizations at the continent scale, such as the Mongolian Re-modeling (faunal turnovers of Paleogene mammals from the Mongolian Plateau) and the Grande Coupure (extinction of a large number of European native mammals).",
+    "authors": [
+      "Leyi Li",
+      "Hong Chang",
+      "Philippe Sorrel",
+      "Jing Lei",
+      "Balázs Bradák",
+      "Xiaoke Qiang",
+      "Qiufang Chang"
+    ],
+    "is_editorial": false,
+    "abstract_missing": false,
+    "always_include": false,
+    "score_boost": 0.0,
+    "score": 6.0,
+    "matched": [
+      "paleoclimate",
+      "proxy",
+      "sea level"
+    ],
+    "published": "2026-10-30",
+    "first_seen": "2026-11-01"
+  },
+  {
     "title": "Climate change impacts on the predicted performance of optimized building-integrated photovoltaics",
     "journal": "PLOS Climate",
     "source": "rss:plos-climate",
@@ -2354,187 +2310,60 @@
     "first_seen": "2026-10-31"
   },
   {
-    "title": "Spin-adapted neural network wavefunctions in real space",
-    "journal": "Nature Communications",
-    "source": "rss:ncomms",
-    "url": "https://www.nature.com/articles/s41467-026-78600-y",
-    "doi": "10.1038/s41467-026-78600-y",
-    "abstract": "Nature Communications, Published online: 24 October 2026; doi:10.1038/s41467-026-78600-y The authors introduce a general framework that embeds exact spin symmetry directly into the neural network wavefunction, guaranteeing spin-pure states by construction. This design enables accurate resolution of near-degenerate spin states in challenging chemical systems.",
+    "title": "Ice breakup dynamics on the Kuskokwim River: climatic trends and hydro-meteorological drivers",
+    "journal": "Hydrological Sciences Journal",
+    "source": "openalex:cryosphere",
+    "url": "https://doi.org/10.1080/02626667.2026.2740185",
+    "doi": "10.1080/02626667.2026.2740185",
+    "abstract": "River ice breakup is a critical hydrological process governing flood risk and transportation in sub-arctic regions. This study investigates hydroclimatic drivers of breakup timing on the lower Kuskokwim River, Alaska, synthesizing a 102-year observational record (1924–2025) with ERA5 reanalysis. Statistical analysis reveals a winter warming trend driving a phenological advancement of 0.77 days per decade, yet inter-decadal timing variance remains persistently high. Classifying historical events into early, normal, and late categories demonstrate that despite varying spring warming rates, the ice cover consistently requires ∼ 231°C-days of thermal accumulation to reach structural susceptibility. Late breakups are delayed by deep spring snowpacks acting as thermal insulators, not by differing thermal requirements. While atmospheric heat pre-conditions the ice, pre-breakup discharge acts as an independent mechanical trigger. These results provide a categorical framework for tracking warming trajectories and contextualizing extreme events in data-limited basins.",
     "authors": [
-      "Ruichen Li",
-      "Yuzhi Liu",
-      "Du Jiang",
-      "Yixiao Chen",
-      "Xuelan Wen",
-      "Wenrui Li",
-      "Di He",
-      "Liwei Wang",
-      "Ji Chen",
-      "Weiluo Ren"
+      "Sergio Gómez Muñoz",
+      "K. E. Lindenschmidt",
+      "J. S. Ostman",
+      "Crane Johnson"
     ],
     "is_editorial": false,
     "abstract_missing": false,
     "always_include": false,
     "score_boost": 0.0,
-    "score": 3.0,
+    "score": 4.0,
     "matched": [
-      "neural network"
+      "Arctic",
+      "reanalysis",
+      "extreme event"
     ],
-    "published": null,
-    "first_seen": "2026-10-24"
+    "published": "2026-10-30",
+    "first_seen": "2026-11-01"
   },
   {
-    "title": "Microgravity Measurements Spanning 2019–2022 Indicate No Change in Magma Supply or Storage During Kīlauea's Reawakening",
-    "journal": "JGR Solid Earth",
-    "source": "rss:jgr-solidearth",
-    "url": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2026JB034231?af=R",
-    "doi": "10.1029/2026jb034231",
-    "abstract": "Journal of Geophysical Research: Solid Earth, Volume 131, Issue 10, October 2026.",
+    "title": "Monsoon zonal seesaw: Development of the South Asian monsoon aridified North Africa in the Cenozoic",
+    "journal": "Science Advances",
+    "source": "openalex:paleoclimate",
+    "url": "https://doi.org/10.1126/sciadv.aee1112",
+    "doi": "10.1126/sciadv.aee1112",
+    "abstract": "North Africa experienced a pronounced transition from humid to arid conditions during the early Cenozoic. Meanwhile, the South Asian monsoon underwent substantial intensification, largely driven by the uplift of the Himalayan-Tibetan Plateau. Here, we demonstrate that the two events, which greatly shaped the paleoenvironment and modern regional climate, are not independent responses to paleogeography changes; rather, the former is primarily driven by the latter through the monsoon-desert mechanism, in which South Asian monsoon diabatic heating produces large-scale subsidence and aridity over North Africa. Using multiple ensembles of paleoclimate simulations and a model for the atmospheric response to imposed diabatic heating, we show that the intensification and poleward shift of Asian monsoon rainfall each make comparable contributions to the aridification of North Africa. Our findings identify a persistent dynamical pathway linking the South Asian and North African monsoons and suggest that it played a major role in early Cenozoic North African aridification, while its climatic expression at other times depended on the relative strengths of competing forcings.",
     "authors": [
-      "Michael P. Poland",
-      "Elske van Dalfsen",
-      "Marco Bagnardi",
-      "Ashton F. Flinders",
-      "Ingrid A. Johanson",
-      "Andria P. Ellis",
-      "Michael H. Zoeller"
+      "Zihan Yin",
+      "Ji Nie",
+      "William R. Boos",
+      "Alex Farnsworth",
+      "Zhongshi Zhang",
+      "Yonggang Liu",
+      "Jun Yang",
+      "Zhengtang Guo",
+      "Yongyun Hu"
     ],
     "is_editorial": false,
     "abstract_missing": false,
     "always_include": false,
     "score_boost": 0.0,
-    "score": 3.0,
+    "score": 4.0,
     "matched": [
-      "solid earth"
+      "paleoclimate",
+      "ensemble"
     ],
-    "published": "2026-10-23",
-    "first_seen": "2026-10-24"
-  },
-  {
-    "title": "Shallow S‐Wave Velocity Structure and Azimuthal Anisotropy Beneath the Qujiang‐Xiaojiang Fault Junction in Tonghai, Yunnan Province, China",
-    "journal": "JGR Solid Earth",
-    "source": "rss:jgr-solidearth",
-    "url": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2026JB035554?af=R",
-    "doi": "10.1029/2026jb035554",
-    "abstract": "Journal of Geophysical Research: Solid Earth, Volume 131, Issue 10, October 2026.",
-    "authors": [
-      "Huigui Sun",
-      "Xiaodong Song",
-      "Lijun Chang",
-      "Haoran Meng",
-      "Zengxi Ge",
-      "Zhousheng Yang",
-      "Weicui Ding"
-    ],
-    "is_editorial": false,
-    "abstract_missing": false,
-    "always_include": false,
-    "score_boost": 0.0,
-    "score": 3.0,
-    "matched": [
-      "solid earth"
-    ],
-    "published": "2026-10-23",
-    "first_seen": "2026-10-24"
-  },
-  {
-    "title": "Lithospheric Stretching Styles During Continental Breakup: Evidence From the Hyper‐Extended Xisha Trough",
-    "journal": "JGR Solid Earth",
-    "source": "rss:jgr-solidearth",
-    "url": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2026JB034165?af=R",
-    "doi": "10.1029/2026jb034165",
-    "abstract": "Journal of Geophysical Research: Solid Earth, Volume 131, Issue 10, October 2026.",
-    "authors": [
-      "Jiafei Lu",
-      "Xiaobin Shi",
-      "Wentao Zhang",
-      "Peng Zhao",
-      "Xuanwen Lai",
-      "Junfeng Zhao",
-      "Xiaoqiu Yang"
-    ],
-    "is_editorial": false,
-    "abstract_missing": false,
-    "always_include": false,
-    "score_boost": 0.0,
-    "score": 3.0,
-    "matched": [
-      "solid earth"
-    ],
-    "published": "2026-10-23",
-    "first_seen": "2026-10-24"
-  },
-  {
-    "title": "Hydrothermal Vent Complexes Associated With the Infinity Sill (Vøring Basin, Offshore Norway)",
-    "journal": "JGR Solid Earth",
-    "source": "rss:jgr-solidearth",
-    "url": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2026JB034094?af=R",
-    "doi": "10.1029/2026jb034094",
-    "abstract": "Journal of Geophysical Research: Solid Earth, Volume 131, Issue 10, October 2026.",
-    "authors": [
-      "C. M. Binde",
-      "A. Plaza‐Faverola",
-      "S. Bünz",
-      "S. Planke"
-    ],
-    "is_editorial": false,
-    "abstract_missing": false,
-    "always_include": false,
-    "score_boost": 0.0,
-    "score": 3.0,
-    "matched": [
-      "solid earth"
-    ],
-    "published": "2026-10-23",
-    "first_seen": "2026-10-24"
-  },
-  {
-    "title": "Tectonic Model of the 2021 Haiti Earthquake Based on a Newly‐Formed Strike‐Slip Bypass Fault Across a Paired Restraining‐Releasing Bend",
-    "journal": "JGR Solid Earth",
-    "source": "rss:jgr-solidearth",
-    "url": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2026JB034163?af=R",
-    "doi": "10.1029/2026jb034163",
-    "abstract": "Journal of Geophysical Research: Solid Earth, Volume 131, Issue 10, October 2026.",
-    "authors": [
-      "Lei Sun",
-      "Xiaohua Xu",
-      "Paul Mann"
-    ],
-    "is_editorial": false,
-    "abstract_missing": false,
-    "always_include": false,
-    "score_boost": 0.0,
-    "score": 3.0,
-    "matched": [
-      "solid earth"
-    ],
-    "published": "2026-10-23",
-    "first_seen": "2026-10-24"
-  },
-  {
-    "title": "Paleomagnetism of the Scourie Dykes, Lewisian Foreland, NW Scotland: Constraints on Early Paleoproterozoic Paleogeography of Kenorland",
-    "journal": "JGR Solid Earth",
-    "source": "rss:jgr-solidearth",
-    "url": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025JB033570?af=R",
-    "doi": "10.1029/2025jb033570",
-    "abstract": "Journal of Geophysical Research: Solid Earth, Volume 131, Issue 10, October 2026.",
-    "authors": [
-      "M. Mirzaei",
-      "V. A. Kravchinsky",
-      "F. Alizadeh",
-      "L. Heaman",
-      "A. Goguitchaichvili"
-    ],
-    "is_editorial": false,
-    "abstract_missing": false,
-    "always_include": false,
-    "score_boost": 0.0,
-    "score": 3.0,
-    "matched": [
-      "solid earth"
-    ],
-    "published": "2026-10-23",
-    "first_seen": "2026-10-24"
+    "published": "2026-10-30",
+    "first_seen": "2026-11-01"
   },
   {
     "title": "Coseis‐Diff: A Data‐Independent Diffusion Transformer for Single Coseismic Interferogram Error Correction and Deformation Recovery",
@@ -3092,6 +2921,111 @@
     ],
     "published": "2026-10-29",
     "first_seen": "2026-10-30"
+  },
+  {
+    "title": "PKPPcP–PcPPKP Splitting: Observations, Modeling, and Implications for 3‐D Earth's Mantle Heterogeneity",
+    "journal": "JGR Solid Earth",
+    "source": "rss:jgr-solidearth",
+    "url": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2026JB034048?af=R",
+    "doi": "10.1029/2026jb034048",
+    "abstract": "Journal of Geophysical Research: Solid Earth, Volume 131, Issue 11, November 2026.",
+    "authors": [
+      "Yulong Su",
+      "Wenbo Wu",
+      "Sidao Ni",
+      "Baolong Zhang",
+      "Yulin Chen"
+    ],
+    "is_editorial": false,
+    "abstract_missing": false,
+    "always_include": false,
+    "score_boost": 0.0,
+    "score": 3.0,
+    "matched": [
+      "solid earth"
+    ],
+    "published": "2026-11-01",
+    "first_seen": "2026-11-01"
+  },
+  {
+    "title": "General Solution Scaling Relations in Linear Elastic Dynamic Rupture Models",
+    "journal": "JGR Solid Earth",
+    "source": "rss:jgr-solidearth",
+    "url": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2026JB034482?af=R",
+    "doi": "10.1029/2026jb034482",
+    "abstract": "Journal of Geophysical Research: Solid Earth, Volume 131, Issue 11, November 2026.",
+    "authors": [
+      "Baoning Wu",
+      "David D. Oglesby",
+      "Christodoulos Kyriakopoulos",
+      "Jennifer Tarnowski",
+      "Alice‐Agnes Gabriel"
+    ],
+    "is_editorial": false,
+    "abstract_missing": false,
+    "always_include": false,
+    "score_boost": 0.0,
+    "score": 3.0,
+    "matched": [
+      "solid earth"
+    ],
+    "published": "2026-11-01",
+    "first_seen": "2026-11-01"
+  },
+  {
+    "title": "Hydrothermal Sealing at Turrialba, Poás, and Rincón de la Vieja Volcanoes (Costa Rica) Promotes Phreatic and Phreatomagmatic Eruptions",
+    "journal": "JGR Solid Earth",
+    "source": "rss:jgr-solidearth",
+    "url": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2026JB034343?af=R",
+    "doi": "10.1029/2026jb034343",
+    "abstract": "Journal of Geophysical Research: Solid Earth, Volume 131, Issue 11, November 2026.",
+    "authors": [
+      "Michael J. Heap",
+      "Geoffroy Avard",
+      "Claire E. Harnett",
+      "H. Albert Gilg",
+      "James Hickey",
+      "Thierry Reuschlé",
+      "Fabian B. Wadsworth",
+      "Maëlys Moulin",
+      "Sophie Pearson‐Grant",
+      "J. Maarten de Moor",
+      "Emily Mick",
+      "Patrick Baud"
+    ],
+    "is_editorial": false,
+    "abstract_missing": false,
+    "always_include": false,
+    "score_boost": 0.0,
+    "score": 3.0,
+    "matched": [
+      "solid earth"
+    ],
+    "published": "2026-11-01",
+    "first_seen": "2026-11-01"
+  },
+  {
+    "title": "3‐D Plate Interaction Beneath the Active Taiwan Orogen Revealed by Source‐Side Seismic Tomography: Implications for Slab Breakoff and Orogenic Evolution",
+    "journal": "JGR Solid Earth",
+    "source": "rss:jgr-solidearth",
+    "url": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2026JB034301?af=R",
+    "doi": "10.1029/2026jb034301",
+    "abstract": "Journal of Geophysical Research: Solid Earth, Volume 131, Issue 11, November 2026.",
+    "authors": [
+      "Po‐Li Su",
+      "Hsin‐Hua Huang",
+      "Justin Yen‐Ting Ko"
+    ],
+    "is_editorial": false,
+    "abstract_missing": false,
+    "always_include": false,
+    "score_boost": 0.0,
+    "score": 3.0,
+    "matched": [
+      "solid earth"
+    ],
+    "published": "2026-11-01",
+    "first_seen": "2026-11-01"
   },
   {
     "title": "Calibration guidelines and a runoff-isotope module  for lake proxy system modeling (PRYSM v2.0)",
