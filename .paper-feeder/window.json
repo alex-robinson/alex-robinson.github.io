@@ -142,6 +142,50 @@
     "first_seen": "2026-10-27"
   },
   {
+    "title": "Seasonal icings reveal subsurface water drainage of a Greenland Ice Sheet outlet glacier",
+    "journal": "The Cryosphere",
+    "source": "rss:tc",
+    "url": "https://doi.org/10.5194/tc-20-6263-2026",
+    "doi": "10.5194/tc-20-6263-2026",
+    "abstract": "Ice cores from Isunnguata Sermia’s forefield reveal how proglacial naled and accreted ices form in Greenland. Naledi build up in winter from precipitation and mineral-rich subglacial water, while accreted ice forms in summer through supercooled water upwelling. Geophysical surveys indicate both are fed by subsurface flows potentially originating from the glacier bed. Here, we present the first conceptual model of these formations in Greenland.",
+    "authors": [
+      "Rebecca McCerery",
+      "Joseph A. Graly",
+      "Christopher L. Hansen",
+      "Kate Winter",
+      "William P. Gilhooly III",
+      "Trinity L. Hamilton",
+      "Moses Jatta",
+      "Jeff R. Havig",
+      "Felipe Napoleoni",
+      "Alicia M. Rutledge",
+      "Matthew Terrell",
+      "Tanya M. Trott",
+      "Kayla Woodie",
+      "Bernd Kulessa",
+      "Sevi Modestou",
+      "Hannah Bahrani",
+      "Tori Kennedy",
+      "Alexandra Messerli",
+      "Kathy Licht"
+    ],
+    "is_editorial": false,
+    "abstract_missing": false,
+    "always_include": true,
+    "score_boost": 0.0,
+    "score": 28.0,
+    "matched": [
+      "ice sheet",
+      "subglacial",
+      "glacier",
+      "Greenland",
+      "outlet glacier",
+      "ice core"
+    ],
+    "published": "2026-11-03",
+    "first_seen": "2026-11-03"
+  },
+  {
     "title": "Holocene millennial climate variability influenced by tropical–Antarctic ocean–atmosphere interactions",
     "journal": "Proceedings of the National Academy of Sciences",
     "source": "openalex:paleoclimate",
@@ -500,6 +544,40 @@
     ],
     "published": "2026-10-29",
     "first_seen": "2026-10-31"
+  },
+  {
+    "title": "Imaging the Ross Ice Streams of West Antarctica using active source seismology",
+    "journal": "Earth System Science Data",
+    "source": "rss:essd",
+    "url": "https://doi.org/10.5194/essd-2026-723",
+    "doi": "10.5194/essd-2026-723",
+    "abstract": "Preprint under review for ESSD (discussion: open, 0 comments) Knowledge of the past and future of Earth's ice sheets requires us to image beneath the ice surface and into the ice, water, sediment, and rock that lies beneath. An effective way of doing this uses active source seismology. Here we present active source seismic data imaging a diverse range of subglacial environments including subglacial lakes, sub-ice ocean cavities, and geological archives preserving the history of the ice sheets.",
+    "authors": [
+      "Huw Joseph Horgan",
+      "Andrew Robert Gorman",
+      "J. Paul Winberry",
+      "Sridhar Anandakrishnan",
+      "Howard Conway",
+      "Gavin B. Dunbar",
+      "Tina van de Flierdt",
+      "Denise K. Kulhanek",
+      "Richard H. Levy",
+      "Molly O. Patterson",
+      "Ilaria Santin"
+    ],
+    "is_editorial": false,
+    "abstract_missing": false,
+    "always_include": false,
+    "score_boost": 0.0,
+    "score": 19.0,
+    "matched": [
+      "ice sheet",
+      "ice stream",
+      "subglacial",
+      "Antarctica"
+    ],
+    "published": "2026-11-02",
+    "first_seen": "2026-11-03"
   },
   {
     "title": "Evidence of a reduced Greenland Ice Sheet during Marine Isotope Stage 3 based on modelling of in situ 14C and 10Be nuclides",
@@ -873,32 +951,6 @@
     "first_seen": "2026-10-28"
   },
   {
-    "title": "Reconstructing Glacier Dynamics in Complex Terrain with ICESat-2 and Gaussian Process Interpolation",
-    "journal": "The Cryosphere",
-    "source": "rss:tc",
-    "url": "https://doi.org/10.5194/tc-20-6107-2026",
-    "doi": "10.5194/tc-20-6107-2026",
-    "abstract": "Satellite altimeters only sample surface heights at scattered points. We developed a method to turn these measurements into maps of glacier height change while also estimating how reliable the results are. Applying this approach to glaciers in Svalbard and Antarctica shows strong ice loss and clearly captures short-lived events such as glacier surges. Our results improve the ability to monitor glacier change in difficult terrain and help better assess future contributions to sea level rise.",
-    "authors": [
-      "Thorsten Seehaus",
-      "Alex S. Gardner",
-      "Johan Nilsson"
-    ],
-    "is_editorial": false,
-    "abstract_missing": false,
-    "always_include": true,
-    "score_boost": 0.0,
-    "score": 10.0,
-    "matched": [
-      "glacier",
-      "Antarctica",
-      "sea level",
-      "sea-level rise"
-    ],
-    "published": "2026-10-26",
-    "first_seen": "2026-10-26"
-  },
-  {
     "title": "Projected Changes in Extreme Sea Level and Sea‐Level Distribution in the China Marginal Seas Using Dynamical Downscaling",
     "journal": "JGR Oceans",
     "source": "rss:jgr-oceans",
@@ -1020,34 +1072,6 @@
     ],
     "published": "2026-10-30",
     "first_seen": "2026-10-31"
-  },
-  {
-    "title": "Stratospheric aerosol forcing for CMIP7 – Part 2: Volcanic sulfur dioxide emissions",
-    "journal": "Geoscientific Model Development",
-    "source": "rss:gmd",
-    "url": "https://doi.org/10.5194/gmd-19-10155-2026",
-    "doi": "10.5194/gmd-19-10155-2026",
-    "abstract": "We document the historical (1750–2023) volcanic sulfur dioxide emission dataset created for phase 7 of the Coupled Model Intercomparison Project, which is a set of coordinated climate model experiments run by modelling center worldwide. Our dataset underpins the stratospheric aerosol optical property dataset which will be used as input by most climate models. However, models with interactive stratospheric aerosol capability can directly input our emission dataset to run CMIP7 experiments.",
-    "authors": [
-      "Thomas J. Aubry",
-      "Michael Sigl",
-      "Matthew Toohey",
-      "Man Mei Chim",
-      "Magali Verkerk",
-      "Anja Schmidt",
-      "Simon A. Carn"
-    ],
-    "is_editorial": false,
-    "abstract_missing": false,
-    "always_include": true,
-    "score_boost": 0.0,
-    "score": 9.0,
-    "matched": [
-      "model intercomparison",
-      "CMIP"
-    ],
-    "published": "2026-10-26",
-    "first_seen": "2026-10-26"
   },
   {
     "title": "Mass-independent oxygen isotope fractionation driven by energetic-particle irradiation of icy solids",
@@ -1279,6 +1303,31 @@
     ],
     "published": "2026-10-29",
     "first_seen": "2026-10-31"
+  },
+  {
+    "title": "A Basin‐Wise GLOF Susceptibility Assessment in the Western Himalayas: Integrating Remote Sensing‐ GIS and Multi‐Criteria Decision Analysis",
+    "journal": "Transactions in GIS",
+    "source": "openalex:cryosphere",
+    "url": "https://doi.org/10.1111/tgis.70443",
+    "doi": "10.1111/tgis.70443",
+    "abstract": "ABSTRACT Glacial Lake Outburst Floods (GLOFs) pose an increasing threat to high mountain environments across the world, especially in the Himalayas where climate change is accelerating glacier retreat and permafrost degradation. This study presents a detailed GLOF susceptibility analysis of the western Himalayas covering five major river basins, ie Satluj, Chenab, Jhelum, Beas, and Ravi by integrating high‐resolution remote sensing data with a multi‐criteria decision‐making approach. A detailed inventory of 1573 glacial lakes was developed using manual delineation of Sentinel‐2A and LISS‐IV images. Forty‐eight potentially dangerous lakes were identified based on size and dam composition. Following the guidelines of NDMA and GAPHAZ, 12 important physical and geomorphic parameters were selected and evaluated using Analytic Hierarchy Process (AHP) with the addition of Cumulative Weightage Technique (CWT). AHP Analysis indicated that 20 lakes were high hazard, 23 lakes were medium hazard, and five lakes were low hazard. The basin‐wise analysis revealed that Satluj and Chenab are particularly vulnerable owing to the presence of large and fast‐growing lakes. A temporal assessment of 48 selected potentially dangerous lakes from 2000 to 2024 revealed a 115% increase in total lake area, highlighting their rapid expansion under a warming climate. The susceptibility framework was validated using seven historical GLOF events, all of which had hazard scores > 0.7, in agreement with the high susceptibility lakes identified in this study. The study recommends that detailed field investigations be carried out on high‐hazard lakes including bathymetric surveys, assessments of moraine stability, and real‐time monitoring to validate remote sensing findings and to inform early warning systems. This approach offers a transferable and policy‐relevant framework to support GLOF risk mitigation and climate adaptation planning in glacierized regions. This study relies primarily on remote sensing data, and uncertainties in lake identification and the lack of field validation may affect susceptibility classification.",
+    "authors": [
+      "Rayees Ahmed",
+      "Anil Vishnupant Kulkarni"
+    ],
+    "is_editorial": false,
+    "abstract_missing": false,
+    "always_include": false,
+    "score_boost": 0.0,
+    "score": 9.0,
+    "matched": [
+      "glacier",
+      "permafrost",
+      "remote sensing",
+      "climate change"
+    ],
+    "published": "2026-11-01",
+    "first_seen": "2026-11-03"
   },
   {
     "title": "Evolution of the Tibetan Plateau-Northern Indian Ocean thermal contrast since the last deglaciation and its regulation of the Indian Summer Monsoon",
@@ -1647,60 +1696,6 @@
     "first_seen": "2026-10-28"
   },
   {
-    "title": "Covariance-Informed Ensemble Score Filtering: Embedding Localized Covariance Geometry into Score-Based Transport",
-    "journal": "arXiv physics.ao-ph",
-    "source": "rss:arxiv-ao-ph",
-    "url": "https://arxiv.org/abs/2610.32148",
-    "doi": null,
-    "abstract": "arXiv:2610.32148v1 Announce Type: cross Abstract: Background-error covariance models are central to atmospheric data assimilation because they spread partial observational information across space, variables, and dynamically coupled scales. Ensemble and variational methods exploit this covariance geometry efficiently, but their standard analysis formulations are largely built around Gaussian or locally quadratic approximations. Score-based ensemble filtering provides a framework for nonlinear distributional transport, but existing Ensemble Score Filter (EnSF) formulations lack an intrinsic covariance-mediated pathway for propagating likelihood information from observed to unobserved state components. We introduce a covariance-informed ensemble score filter (CI-EnSF) that embeds localized forecast-error covariance geometry directly into the forward diffusion and reverse transport. The proposed forward diffusion is covariance-shaped in standardized state space and becomes isotropic under the corresponding control-variable transformation. This covariance structure continuously propagates observational information from observed to unobserved state components throughout the reverse transport analysis trajectory. Experiments with Lorenz-96 and surface quasi-geostrophic (SQG) dynamics show a clear regime dependence. For linear observations, a well-tuned LETKF is more accurate, while CI-EnSF maintains stable cycling and effective covariance-mediated information propagation. Under strongly nonlinear observations and under climatological initialization, CI-EnSF achieves lower analysis error and greater cycling robustness than Gaussian ensemble benchmarks such as the LETKF, with improvements extending across spatial scales in the nonlinear SQG experiment. These results suggest that the principal benefit of CI-EnSF arises from combining nonlinear distributional transport with the mature covariance geometry used in conventional data assimilation.",
-    "authors": [
-      "Siming Liang",
-      "Peter Jan van Leeuwen",
-      "Hristo G. Chipilski",
-      "Zezhong Zhang",
-      "Feng Bao",
-      "Guannan Zhang"
-    ],
-    "is_editorial": false,
-    "abstract_missing": false,
-    "always_include": false,
-    "score_boost": 0.0,
-    "score": 6.0,
-    "matched": [
-      "data assimilation",
-      "ensemble"
-    ],
-    "published": "2026-10-26",
-    "first_seen": "2026-10-26"
-  },
-  {
-    "title": "Remotely sensed annual glacier mass balance in the China-Pakistan Economic Corridor during 2000–2020: Widespread mass loss and regional contrasts",
-    "journal": "Journal of Hydrology Regional Studies",
-    "source": "openalex:cryosphere",
-    "url": "https://doi.org/10.1016/j.ejrh.2026.104116",
-    "doi": "10.1016/j.ejrh.2026.104116",
-    "abstract": null,
-    "authors": [
-      "Yi Liu",
-      "Liming Jiang",
-      "Hansheng Wang",
-      "Xiaoguang Pang",
-      "Xiaoen Li",
-      "Xi Lu"
-    ],
-    "is_editorial": false,
-    "abstract_missing": true,
-    "always_include": false,
-    "score_boost": 0.0,
-    "score": 6.0,
-    "matched": [
-      "glacier",
-      "mass loss"
-    ],
-    "published": "2026-10-24",
-    "first_seen": "2026-10-26"
-  },
-  {
     "title": "scBOA: Bayesian optimization of single-cell analysis pipelines for robust annotation and discovery",
     "journal": "Nature Communications",
     "source": "rss:ncomms",
@@ -1957,6 +1952,28 @@
     "first_seen": "2026-11-02"
   },
   {
+    "title": "Exposing the Forcing of the Global and Nino 3.4 Temperatures to Higher Levels by the South East Asian Aerosol Plume Using CMIP6, MERRA‐2, MODIS on TERRA, Last Millennium Ensemble, and Volcanic Eruption Data",
+    "journal": "JGR Atmospheres",
+    "source": "rss:jgr-atmospheres",
+    "url": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025JD045946?af=R",
+    "doi": "10.1029/2025jd045946",
+    "abstract": "Journal of Geophysical Research: Atmospheres, Volume 131, Issue 21, 16 November 2026.",
+    "authors": [
+      "Keith Alan Potts"
+    ],
+    "is_editorial": false,
+    "abstract_missing": false,
+    "always_include": false,
+    "score_boost": 0.0,
+    "score": 6.0,
+    "matched": [
+      "CMIP",
+      "ensemble"
+    ],
+    "published": "2026-11-02",
+    "first_seen": "2026-11-03"
+  },
+  {
     "title": "Climate change impacts on the predicted performance of optimized building-integrated photovoltaics",
     "journal": "PLOS Climate",
     "source": "rss:plos-climate",
@@ -2066,30 +2083,29 @@
     "first_seen": "2026-10-30"
   },
   {
-    "title": "HUST-Grace2026s: a high-resolution static gravity field product from GRACE and GRACE-FO observations (2002–2025)",
-    "journal": "Earth System Science Data",
-    "source": "rss:essd",
-    "url": "https://doi.org/10.5194/essd-18-7697-2026",
-    "doi": "10.5194/essd-18-7697-2026",
-    "abstract": "By combining over twenty years of satellite data from the GRACE (Gravity Recovery and Climate Experiment) and GRACE-FO (Gravity Recovery and Climate Experiment Follow-on) missions, this research creates a unified and highly accurate map of Earth's gravity field. Our advanced processing technique significantly improves accuracy, reducing errors by over half compared to previous models. The resulting dataset is crucial for precisely tracking long-term environmental shifts, such as water storage changes and ice sheet melt, thereby improving our understanding of climate change impacts.",
+    "title": "Technical note: Evaluation of snow water equivalent from large-scale land-surface products over Italy",
+    "journal": "Hydrology and earth system sciences",
+    "source": "openalex:cryosphere",
+    "url": "https://doi.org/10.5194/hess-30-6763-2026",
+    "doi": "10.5194/hess-30-6763-2026",
+    "abstract": "Abstract. Snow water equivalent (SWE) is a critical hydrological variable for water resource management in mountainous regions, where seasonal snowpacks function as natural reservoirs regulating streamflow and water supply. While high-resolution, observation-constrained regional or national snow products provide reliable daily SWE estimates at fine spatial resolution (less than 1 km), their limited temporal coverage often restricts their use for long-term hydro-climatological studies. Large-scale land-surface products, in which SWE is derived from land-surface model simulations driven by atmospheric reanalyses or regional dynamical downscaling systems, provide multi-decadal coverage, but their reliability may be affected by biases in meteorological forcing, limited topographic representation, and simplified snow process parameterisation, requiring rigorous regional evaluation. This study evaluates the SWE estimates of three large-scale land-surface products, i.e., the global ERA5-Land, the European CERRA-Land, and the Italian VHR-REA_IT, against the national reference dataset IT-SNOW across Italy. The analysis combines grid-scale bias assessment of mean annual SWE and snow cover duration with temporal correlation analysis of daily SWE series, and is complemented by an evaluation of precipitation and temperature biases in each product, providing insight into how each product represents the atmospheric conditions governing snow accumulation and ablation and thereby supporting the interpretation of the identified SWE discrepancies. The results show clear regional differences in product performance, with no single product performing best across all metrics. ERA5-Land shows the strongest temporal correlation with IT-SNOW, but tends to overestimate mean annual SWE and snow cover duration in the Alps. CERRA-Land shows more moderate biases than ERA5-Land in the Italian Alps, but generally underestimates mean annual SWE across most subregions, where autumn and winter precipitation deficits in the forcing limit snow accumulation. Across the Apennines, both ERA5-Land and CERRA-Land tend to underestimate SWE and snow cover duration, particularly in the northern sectors. VHR-REA_IT shows widespread underestimation and the weakest temporal correspondence with IT-SNOW: this may be due to its fully coupled atmosphere–land architecture with no assimilation of meteorological observations. Overall, the results suggest that forcing biases explain a substantial part of the observed SWE discrepancies, although not all of them. This study provides useful insights for the use of SWE estimates from large-scale land-surface products in long-term hydro-climatological assessments over Italy and helps to understand whether the products can be used to evaluate snow dynamics in mountainous regions lacking high-quality benchmark estimates.",
     "authors": [
-      "Lijun Zheng",
-      "Hao Zhou",
-      "Xiang Guo",
-      "Zebing Zhou",
-      "Zhicai Luo"
+      "Gökhan Sarigil",
+      "Mattia Neri",
+      "Francesco Avanzi",
+      "Elena Toth"
     ],
     "is_editorial": false,
     "abstract_missing": false,
     "always_include": false,
     "score_boost": 0.0,
-    "score": 4.0,
+    "score": 5.0,
     "matched": [
-      "ice sheet",
-      "climate change"
+      "parameterization",
+      "downscaling"
     ],
-    "published": "2026-10-26",
-    "first_seen": "2026-10-26"
+    "published": "2026-11-02",
+    "first_seen": "2026-11-03"
   },
   {
     "title": "GNN-VIEW: Visual Inspection and Explanation of Graph-based Earth-System Models",
@@ -2440,61 +2456,6 @@
     ],
     "published": "2026-11-02",
     "first_seen": "2026-11-02"
-  },
-  {
-    "title": "Single‐Crystal Elasticity of Lawsonite at High Pressure: Implications for High Poisson's Ratio and VP/VS Zones in Subduction Zones",
-    "journal": "JGR Solid Earth",
-    "source": "rss:jgr-solidearth",
-    "url": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2026JB035363?af=R",
-    "doi": "10.1029/2026jb035363",
-    "abstract": "Journal of Geophysical Research: Solid Earth, Volume 131, Issue 10, October 2026.",
-    "authors": [
-      "Shuo Gao",
-      "Xinyang Li",
-      "Jiacheng Zhang",
-      "Sergio Speziale",
-      "Haotian Zhang",
-      "Zihan Zhang",
-      "You Tian",
-      "Xiaohui Yu",
-      "Youyue Zhang",
-      "Liang Li",
-      "Zhaodong Liu",
-      "Fangfei Li",
-      "Qiang Zhou"
-    ],
-    "is_editorial": false,
-    "abstract_missing": false,
-    "always_include": false,
-    "score_boost": 0.0,
-    "score": 3.0,
-    "matched": [
-      "solid earth"
-    ],
-    "published": "2026-10-26",
-    "first_seen": "2026-10-26"
-  },
-  {
-    "title": "Data Quality Audit and Bivariate Temperature-Humidity Analysis of a Long-Term LoRaWAN Network: Anomaly Detection, PCA, Clustering and Machine Learning",
-    "journal": "arXiv physics.ao-ph",
-    "source": "rss:arxiv-ao-ph",
-    "url": "https://arxiv.org/abs/2610.32438",
-    "doi": null,
-    "abstract": "arXiv:2610.32438v1 Announce Type: cross Abstract: Long-term environmental IoT/LPWAN deployments often aggregate heterogeneous data streams from diverse devices without systematic auditing of each variable's actual coverage prior to analysis-an increased risk when multiple sensor types coexist within the same network. This work proposes a C++17 processing pipeline applied to the Tour Perret LoRaWAN dataset (421 937 frames, June 2021--June 2023, 5 devices). A systematic coverage audit integrated into the extraction phase reveals that CO2 is completely missing (0% coverage) and pressure is reported only by an isolated base module (Wyres, 4.24% of the corpus), invalidating the initial hypothesis of a joint four-variable analysis. The analysis is refocused on the Temperature--Humidity pair, jointly available across 205{,}005 frames (95.76%) from 4 Elsys EMS sensors. The pipeline sequentially performs anomaly detection (modified Z-score, Isolation Forest), bivariate Principal Component Analysis, clustering (K-means, DBSCAN), and a multilayer perceptron predicting humidity from temperature and time, whose residuals serve as a detector for slow drift. On real-world data: Temperature--Humidity correlation r=-0.662, two-component PCA (PC1 =83.1% of variance), Isolation Forest detects 2.12% multivariate anomalies while univariate Z-score detects none, calibrated DBSCAN isolates 0.17% noise across 13 clusters, and the MLP achieves $R^2=0.672$ (RMSE =10.54%) in cross-validation. This work demonstrates that per-variable coverage auditing prior to modeling is a necessary methodological step for heterogeneous multi-sensor IoT datasets.",
-    "authors": [
-      "Mamadou Sow"
-    ],
-    "is_editorial": false,
-    "abstract_missing": false,
-    "always_include": false,
-    "score_boost": 0.0,
-    "score": 3.0,
-    "matched": [
-      "CO2",
-      "machine learning"
-    ],
-    "published": "2026-10-26",
-    "first_seen": "2026-10-26"
   },
   {
     "title": "Satellite-derived bathymetry of Arabian Gulf ports under leakage-free validation: a multi-site benchmark of empirical, machine-learning and deep-learning models against 285,000 multibeam soundings, with an outlook for UAE waters",
@@ -3158,6 +3119,75 @@
     "first_seen": "2026-11-02"
   },
   {
+    "title": "Contrasting Effects of Propagating Versus Focused Uplift on Himalayan Erosion",
+    "journal": "JGR Solid Earth",
+    "source": "rss:jgr-solidearth",
+    "url": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2026JB033902?af=R",
+    "doi": "10.1029/2026jb033902",
+    "abstract": "Journal of Geophysical Research: Solid Earth, Volume 131, Issue 11, November 2026.",
+    "authors": [
+      "Yuqiang Li",
+      "Xiaoping Yuan",
+      "Chuanqi He",
+      "Xiaoming Shen",
+      "Junfeng Zhang"
+    ],
+    "is_editorial": false,
+    "abstract_missing": false,
+    "always_include": false,
+    "score_boost": 0.0,
+    "score": 3.0,
+    "matched": [
+      "solid earth"
+    ],
+    "published": "2026-11-03",
+    "first_seen": "2026-11-03"
+  },
+  {
+    "title": "Tectonics on Early Earth Driven by Earth's Changing Shape During Tidal Recession of the Moon",
+    "journal": "JGR Solid Earth",
+    "source": "rss:jgr-solidearth",
+    "url": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025JB033676?af=R",
+    "doi": "10.1029/2025jb033676",
+    "abstract": "Journal of Geophysical Research: Solid Earth, Volume 131, Issue 11, November 2026.",
+    "authors": [
+      "S. J. Lock"
+    ],
+    "is_editorial": false,
+    "abstract_missing": false,
+    "always_include": false,
+    "score_boost": 0.0,
+    "score": 3.0,
+    "matched": [
+      "solid earth"
+    ],
+    "published": "2026-11-02",
+    "first_seen": "2026-11-03"
+  },
+  {
+    "title": "Decadal strengthening of the preceding-winter ENSO influence on subsequent pre-flood-season precipitation over southern China. Part II: Strengthened La Niña teleconnection due to slower decay and enhanced WES feedback",
+    "journal": "Journal of Climate",
+    "source": "openalex:0894-8755",
+    "url": "https://doi.org/10.1175/jcli-d-26-0122.1",
+    "doi": "10.1175/jcli-d-26-0122.1",
+    "abstract": "Abstract In Part I, we documented a marked mid-1990s strengthening of the ENSO influence on pre-flood-season (PFS; April–June) rainfall over southern China (SC) and identified the dominant mechanism for the strengthened El Niño teleconnection. Here we focus on La Niña and examine why its influence on SC PFS rainfall strengthens after the mid-1990s. Observations show that La Niña events during 1996–2021 (P2) exhibit a slower decay than those during 1959–1995 (P1), allowing cold sea surface temperature (SST) anomalies to persist into AMJ over the Niño4 region and more strongly suppressing central-Pacific convection. The resulting Matsuno–Gill response induces more pronounced low-level wind anomalies over the western North Pacific (WNP). Together with intensified wind–evaporation–SST (WES) coupling in P2, these wind anomalies more effectively modulate surface latent heat fluxes and amplify local SST and convection anomalies over the WNP, exciting a stronger cyclonic circulation spanning the South China Sea and WNP. The associated northeasterly anomalies enhance cold–dry advection over SC, favoring anomalous subsidence and reduced moisture supply and thereby intensifying SC rainfall deficits during La Niña decay years in P2. CMIP6 historical simulations provide complementary support: models with a stronger WES coupling show a stronger La Niña–SC PFS linkage. These results show that the strengthened La Niña teleconnection arises from the combined effects of slower La Niña decay and enhanced WES coupling, providing a phase-dependent counterpart to the El Niño mechanism identified in Part I and highlighting the importance of accurately representing ENSO evolution and WNP air–sea coupling in seasonal prediction of SC PFS rainfall.",
+    "authors": [
+      "Yuqing Li",
+      "Lin Chen"
+    ],
+    "is_editorial": false,
+    "abstract_missing": false,
+    "always_include": false,
+    "score_boost": 0.0,
+    "score": 3.0,
+    "matched": [
+      "sea surface temperature",
+      "CMIP"
+    ],
+    "published": "2026-11-02",
+    "first_seen": "2026-11-03"
+  },
+  {
     "title": "Calibration guidelines and a runoff-isotope module  for lake proxy system modeling (PRYSM v2.0)",
     "journal": "Geoscientific Model Development",
     "source": "rss:gmd",
@@ -3207,73 +3237,31 @@
     "first_seen": "2026-10-31"
   },
   {
-    "title": "Probability indication maps for avalanche runout for decision support in daily traffic rout risk management",
-    "journal": "The Cryosphere",
-    "source": "rss:tc",
-    "url": "https://doi.org/10.5194/tc-20-6087-2026",
-    "doi": "10.5194/tc-20-6087-2026",
-    "abstract": "Snow avalanches threaten roads, ski areas, and communities in mountain regions. We present a practical method to create daily maps showing where avalanches are likely to travel and how strong they may be. By combining weather data, snow measurements, and computer simulations, our approach supports safer decisions on road closures and avalanche control and helps protect people and infrastructure.",
-    "authors": [
-      "Julia Glaus",
-      "Jan Kleinn",
-      "Lukas Stoffel",
-      "Pia Ruttner",
-      "Katreen Wikstrom Jones",
-      "Johan Gaume",
-      "Yves Bühler"
-    ],
-    "is_editorial": false,
-    "abstract_missing": false,
-    "always_include": true,
-    "score_boost": 0.0,
-    "score": 0.0,
-    "matched": [],
-    "published": "2026-10-26",
-    "first_seen": "2026-10-26"
-  },
-  {
-    "title": "AstroComb(v.1.0): non-linear, multi-channel, probabilistic cyclostratigraphic analysis",
+    "title": "Leveraging leaf-level optimality processes with explicit  acclimation improves global GPP representation in  an individual-based DGVM (LPJ-GUESS v4.1.1)",
     "journal": "Geoscientific Model Development",
     "source": "rss:gmd",
-    "url": "https://doi.org/10.5194/gmd-19-10143-2026",
-    "doi": "10.5194/gmd-19-10143-2026",
-    "abstract": "We introduce a new method to more precisely date ancient sediment layers using astronomical time cycles recorded in the rock. Unlike previous tools, it handles complex, multi-channel data without oversimplifying and gives clear estimates of dating uncertainty. This helps future research in better understand Earth's past climate, biological changes, and geologic events with greater confidence and accuracy.",
+    "url": "https://doi.org/10.5194/gmd-19-10365-2026",
+    "doi": "10.5194/gmd-19-10365-2026",
+    "abstract": "Global photosynthesis on land is a large flow of carbon in the Earth system which underpins food production and ecosystems. It is particularly important to know how it responds to climate change, but current vegetation models do not agree on this. We implemented a new photosynthesis model based on recent theoretical advances into a vegetation model. We found that it improved the representation of photosynthesis when compared both to global data from satellites and detailed site measurements.",
     "authors": [
-      "Iris Fernandes",
-      "Klaus Mosegaard",
-      "Aske L. Sørensen",
-      "Mohammad Youssof",
-      "Nicolas Thibault",
-      "Tais W. Dahl"
+      "Matthew Forrest",
+      "Mateus Dantas de Paula",
+      "Filipe Gomes de Almeida",
+      "Sandy P. Harrison",
+      "I. Colin Prentice",
+      "Thomas Hickler"
     ],
     "is_editorial": false,
     "abstract_missing": false,
     "always_include": true,
     "score_boost": 0.0,
-    "score": 0.0,
-    "matched": [],
-    "published": "2026-10-26",
-    "first_seen": "2026-10-26"
-  },
-  {
-    "title": "Observation operator and detection limits for MODIS and VIIRS Fire Radiative Power products",
-    "journal": "Geoscientific Model Development",
-    "source": "rss:gmd",
-    "url": "https://doi.org/10.5194/gmd-19-10123-2026",
-    "doi": "10.5194/gmd-19-10123-2026",
-    "abstract": "Satellites can observe fires globally, but sensitivity of instruments in space is limited: they miss small fires and cannot see through clouds. We analyzed fire observations of two instruments and obtained their sensitivity to small fires, which depends on the resolution of the instrument, timing of the observation (day or night), and details of the data processing. We developed a procedure for comparing fire model predictions with satellite observations accounting for their limited sensitivity.",
-    "authors": [
-      "Mikhail Sofiev",
-      "Rostislav Kouznetsov"
+    "score": 2.0,
+    "matched": [
+      "Earth system",
+      "climate change"
     ],
-    "is_editorial": false,
-    "abstract_missing": false,
-    "always_include": true,
-    "score_boost": 0.0,
-    "score": 0.0,
-    "matched": [],
-    "published": "2026-10-26",
-    "first_seen": "2026-10-26"
+    "published": "2026-11-03",
+    "first_seen": "2026-11-03"
   },
   {
     "title": "Stochastic homogeneous freezing of supercooled droplets in mixed-phase clouds in particle-based idealised microphysics framework (exemplified with PySDM v3.0)",
