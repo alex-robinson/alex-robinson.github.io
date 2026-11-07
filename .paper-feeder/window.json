@@ -71,19 +71,17 @@
     "first_seen": "2026-11-06"
   },
   {
-    "title": "The role of upper–deep ocean heat exchange in shaping warming patterns and climate feedbacks in CMIP6 models",
+    "title": "Radiative effects of decreased North America and European aerosols weaken the AMOC via wind-driven freshwater advection",
     "journal": "Journal of Climate",
     "source": "openalex:0894-8755",
-    "url": "https://doi.org/10.1175/jcli-d-25-0738.1",
-    "doi": "10.1175/jcli-d-25-0738.1",
-    "abstract": "Abstract Surface warming patterns modulate climate feedbacks. Ocean heat exchange redistributes heat between the upper and deep ocean, shaping warming patterns. However, its influence on climate feedbacks remains unclear. We explore this issue in the CMIP6 abrupt-4×CO2 experiment by dividing the simulation into fast, intermediate and slow phases and using an effective upper–deep ocean heat exchange coefficient (γ) inferred from a two-layer energy balance model. The intermediate phase stands out as the period when ocean heat exchange leaves its strongest imprint on warming patterns and climate feedbacks. Models with stronger ocean heat exchange (high-γ ensemble) differ from those with weaker exchange (low-γ ensemble) in both background ocean state and response, exhibiting weaker mean-state stratification and a stronger Atlantic Meridional Overturning Circulation (AMOC) favoring stronger heat penetration, subsurface warming, and distinct warming pattern and feedback evolution. Across the three phases, the low-γ ensemble sustains intensified warming in the tropical eastern Pacific and Southern Ocean alongside subdued warming in the Northern Hemisphere extratropics. However, the high-γ ensemble experiences a warming pattern reversal over these regions, tied to stronger intermediate-phase heat penetration and AMOC weakening. This centennial-scale warming pattern reversal, overlooked in previous work, partly mirrors the millennial-scale reversal previously found in multi-millennial abrupt-4×CO2 simulations. The high-γ ensemble also exhibits a larger increase and later peak change in net climate feedback. These findings highlight ocean heat exchange and associated ocean mean-state differences as key controls on time-evolving warming patterns and climate feedbacks.",
+    "url": "https://doi.org/10.1175/jcli-d-26-0085.1",
+    "doi": "10.1175/jcli-d-26-0085.1",
+    "abstract": "Abstract Growing observational and modeling evidence suggests that the Atlantic Meridional Overturning Circulation (AMOC) has weakened since the 1980s, with reductions in North American and European (NAEU) aerosols identified as a potential contributing factor. Here we use fully coupled climate model experiments to demonstrate that the radiative forcing associated with decreased NAEU aerosols weakens the AMOC by enhancing freshwater transport from the Arctic and subtropical regions into the deep convection region. Reduced aerosol loading induces large-scale atmospheric circulation adjustments, including cyclonic wind stress anomalies over the Arctic Ocean and the subtropical North Atlantic. Over the Arctic Ocean, the cyclonic wind stress anomaly weakens the Beaufort Gyre, releasing freshwater that accumulates north of the Canadian Arctic Archipelago and Greenland. This freshwater is then exported through Baffin Bay into the Labrador Sea, suppressing deep convection there. Simultaneously, enhanced cyclonic wind stress over the subtropical North Atlantic weakens the North Atlantic Current (NAC), reducing the northward transport of saline water and promoting the freshwater accumulation within the subpolar gyre. This freshwater anomaly is then advected toward the Labrador Sea, further suppressing deep convection and weakening the AMOC. Together, our results identify a remotely driven pathway through which reductions in NAEU aerosols weaken the AMOC via wind-driven freshwater advection. The robustness of this mechanism is further supported by the multi-model ensemble mean from the Coupled Model Intercomparison Project Phase 6 (CMIP6) simulations, which exhibits consistent oceanic and atmospheric circulation responses.",
     "authors": [
-      "Guo Duan",
-      "Duoying Ji",
-      "Min Cui",
-      "吕欣宇",
-      "Jiaxu Wang",
-      "Yongjiu Dai"
+      "Xuyang Li",
+      "Fukai Liu",
+      "Yiyong Luo",
+      "Xiao-Tong Zheng"
     ],
     "is_editorial": false,
     "abstract_missing": false,
@@ -91,19 +89,19 @@
     "score_boost": 0.0,
     "score": 37.0,
     "matched": [
-      "energy balance model",
+      "Greenland",
+      "Arctic",
       "Atlantic meridional overturning circulation",
       "AMOC",
       "overturning circulation",
-      "Southern Ocean",
-      "millennial-scale",
+      "coupled climate model",
+      "model intercomparison",
       "CMIP",
-      "climate feedback",
-      "CO2",
+      "radiative forcing",
       "ensemble"
     ],
-    "published": "2026-10-28",
-    "first_seen": "2026-10-30"
+    "published": "2026-11-05",
+    "first_seen": "2026-11-07"
   },
   {
     "title": "North Atlantic response to a quasi-realistic Greenland meltwater forcing in eddy-rich EC-Earth3P-VHR hosing simulations",
@@ -215,6 +213,93 @@
     ],
     "published": "2026-11-04",
     "first_seen": "2026-11-06"
+  },
+  {
+    "title": "Glacial abrupt transitions in ocean circulation were much slower than ice-core records imply",
+    "journal": "Science",
+    "source": "openalex:paleoclimate",
+    "url": "https://doi.org/10.1126/science.aed4270",
+    "doi": "10.1126/science.aed4270",
+    "abstract": "Dansgaard-Oeschger (DO) events during the last ice age are thought to reflect rapid shifts in the Atlantic Meridional Overturning Circulation (AMOC). Greenland ice cores suggest warming transitions within only a few decades—or even just over 10 years. Using precisely dated speleothem oxygen-isotope records from the Asian monsoon region, we have shown that the same DO warmings unfolded over more than a century. Isotope modeling revealed that Greenland records primarily capture a rapid atmospheric reorganization triggered by the initial sea-ice retreat in the northeastern North Atlantic, whereas the parallel AMOC recovery and hemispheric thermal adjustment proceeded much more slowly. These findings reveal that natural AMOC transitions evolved more slowly than the rapid North Greenland oxygen-isotope shifts would imply, thereby refining our understanding of “abruptness” during DO events.",
+    "authors": [
+      "Xiyu Dong",
+      "Xu Zhang",
+      "Yuchen Sun",
+      "Gayatri Kathayat",
+      "Youwei Li",
+      "Sune Olander Rasmussen",
+      "Anders M. Svensson",
+      "Christo Buizert",
+      "Ashish Sinha",
+      "Stephen Barker",
+      "Carlos Pérez‐Mejías",
+      "Gregor Knorr",
+      "Rishui Chen",
+      "Kan Zhao",
+      "Wenjing Du",
+      "Haiwei Zhang",
+      "Hanying Li",
+      "Andrea Columbu",
+      "Liangcheng Tan",
+      "Yuao Zhang",
+      "Youfeng Ning",
+      "Martin Werner",
+      "Yongjin Wang",
+      "Richard Lawrence Edwards",
+      "Hai Cheng"
+    ],
+    "is_editorial": false,
+    "abstract_missing": false,
+    "always_include": false,
+    "score_boost": 0.0,
+    "score": 28.0,
+    "matched": [
+      "Greenland",
+      "Atlantic meridional overturning circulation",
+      "AMOC",
+      "overturning circulation",
+      "ocean circulation",
+      "Dansgaard-Oeschger",
+      "ice core"
+    ],
+    "published": "2026-11-05",
+    "first_seen": "2026-11-07"
+  },
+  {
+    "title": "The rise and fall of a volcanic plateau: Landscape evolution at the fringes of the former Patagonian Ice Sheet, Meseta Chile Chico, central Patagonian Andes",
+    "journal": "Journal of Quaternary Science",
+    "source": "openalex:paleoclimate",
+    "url": "https://doi.org/10.1002/jqs.70126",
+    "doi": "10.1002/jqs.70126",
+    "abstract": "ABSTRACT Understanding Earth‐surface processes along the fringes of large ice sheets is integral to deciphering cold‐region environmental variability and anticipating slope instability under climate change. We investigate the Meseta Chile Chico, a volcanic plateau in the central Patagonian Andes, located at the eastern margin of the former Patagonian Ice Sheet. Here, glacier retreat patterns are well‐constrained, while the influence of periglacial, paraglacial, and postglacial processes is not. We employ geomorphological mapping integrated with geological and palaeoclimate reconstructions to provide a spatio‐temporal model of landscape evolution. Enhanced erosion since the late Pliocene, caused by differential tectonic uplift and glacial isostatic rebound, produced the rugged morphology that characterizes the Meseta Chile Chico. During the Last Glacial Maximum, glaciers occupied surrounding valleys, while the surface of the plateau was reshaped by long‐lasting periglacial freeze‐thaw cycles and nivation. Postglacial landscape adjustment included intensified landslide activity along the edges of the plateau (linked to paraglacial de‐buttressing at its bordering valleys) and regional base‐level changes. During the Holocene, flow‐type landslides became increasingly controlled by climatic variability. The geomorphology of the Meseta Chile Chico reflects an interplay between inherited geology, (de)glaciation, and climate, highlighting the importance of an interdisciplinary approach for understanding recent landscape dynamics in deglaciating mountain regions.",
+    "authors": [
+      "Carolina Franco",
+      "Emma-Louise Cooper",
+      "Antonio Maldonado",
+      "María Eugenia de Porras",
+      "Amalia Nuevo Delaunay",
+      "César Méndez",
+      "Varyl R. Thorndycraft",
+      "Alessa Janine Geiger",
+      "Bernd Zolitschka"
+    ],
+    "is_editorial": false,
+    "abstract_missing": false,
+    "always_include": false,
+    "score_boost": 0.0,
+    "score": 27.0,
+    "matched": [
+      "ice sheet",
+      "buttressing",
+      "glacier",
+      "paleoclimate",
+      "last glacial maximum",
+      "Holocene",
+      "Pliocene",
+      "climate change"
+    ],
+    "published": "2026-11-05",
+    "first_seen": "2026-11-07"
   },
   {
     "title": "Holocene water mass structure changes in Lake Nurume, Lützow-Holm Bay, East Antarctica",
@@ -559,45 +644,6 @@
     "first_seen": "2026-11-05"
   },
   {
-    "title": "Late Quaternary lake filling and drying in northern Australia's largest freshwater lake",
-    "journal": "Journal of Quaternary Science",
-    "source": "openalex:paleoclimate",
-    "url": "https://doi.org/10.1002/jqs.70130",
-    "doi": "10.1002/jqs.70130",
-    "abstract": "ABSTRACT Lake Woods, Jurrkulu, is northern Australia's largest freshwater lake filled today in strong Indo–Australian summer monsoons (IASM) to maximum depths of ~5 m. On the western margins of the lake, two large arcuate ridges occur 20 to 40 m above the lake floor and inset within these are other mid‐elevation lake deposits, such as depositional ridges, which suggest past filling events much higher than the modern maximum. We have undertaken the analysis of 20 samples for single‐grain optically stimulated luminescence (OSL) from shoreline and lake‐floor deposits and supplemented this chronology with an analysis of the basin hypsometry, basin‐wide erosion rates and rare earth elements to ascertain the dominant source of the large source‐bordering ridges. The outer and inner arcuate ridges represent both aeolian accumulation and inferred lake‐level highstands due to the presence of fine gravel facies and gastropods contained within them. We document two lake highstands at 195 ± 16 ka and at 98 ± 7 ka (20 and 15 m above the lake floor, respectively; the lake floor is 197 m Australian Height Datum, AHD). We also present a third but undated filling event 18.5 m above the lake floor (215.5 m AHD) but that is bracketed by two OSL ages of 91 ± 5 and 52 ± 3 ka, with a Bayesian modelled boundary age for lake filling of 95.9 to 53.8 ka (95% credible interval; C.I.). We find no evidence of the previously reported late Marine Isotope Stage [MIS] 3 highstand deposits and the prevalence of gully‐filled structureless sediments, dated to the mid to late Holocene, many of which contain archaeological artefacts that do not allow for the quantification of any accurate Holocene lake‐filling episodes. The lake floor is characterised by deeply cracking silts and clays, with single‐grain OSL results supporting significant post‐depositional mixing (maximum ages are <143 ka). Denudation rate data from detrital stream sediment samples indicate some of the lowest rates of denudation in northern Australia, of between 2.05 ± 0.51 and 0.83 ± 0.23 m/Myr, with the latter rate stemming from the dominant catchment area in the Barkly Tablelands. Sediment provenance data indicate that the slowly eroding Barkly Tablelands is the dominant source for the clays and silts in the lake basin. Despite being the largest lake in northern Australia, the slow rates of catchment‐wide erosion coupled with the intermittent filling have only produced a discontinuous record of the IASM, but one that shows exceptional episodic filling in MIS 5 to 4.",
-    "authors": [
-      "Tim J. Cohen",
-      "Zenobia L. Jacobs",
-      "Caitlyn Scobie",
-      "Samuel K. Marx",
-      "William Reynolds",
-      "MATTHEW S. FORBES",
-      "Haidee Cadd",
-      "Xue Rui",
-      "Laura A. Mogensen",
-      "Alexandru T. Codilean",
-      "‪Réka-Hajnalka Fülöp‬",
-      "Klaus M. Wilcken",
-      "Fabian Boesl",
-      "Alexander F. Wall",
-      "Nicola Stromsoe"
-    ],
-    "is_editorial": false,
-    "abstract_missing": false,
-    "always_include": false,
-    "score_boost": 0.0,
-    "score": 16.0,
-    "matched": [
-      "marine isotope stage",
-      "MIS stage",
-      "Holocene",
-      "Quaternary",
-      "Bayesian"
-    ],
-    "published": "2026-10-28",
-    "first_seen": "2026-10-30"
-  },
-  {
     "title": "Regional Pathways and Impacts of Greenland Ice Sheet Meltwater Simulated in a Sea Ice‒Ocean Model",
     "journal": "JGR Oceans",
     "source": "rss:jgr-oceans",
@@ -655,6 +701,37 @@
     ],
     "published": "2026-11-01",
     "first_seen": "2026-11-04"
+  },
+  {
+    "title": "Assessing the potential of Individual Foraminifera Analyses (δ18O) to reconstruct variability, seasonality and  extremes in the tropical Indian Ocean",
+    "journal": "Climate of the Past",
+    "source": "rss:cp",
+    "url": "https://doi.org/10.5194/cp-22-1993-2026",
+    "doi": "10.5194/cp-22-1993-2026",
+    "abstract": "The Indian Ocean regulates global climate through heat and moisture exchanges. To understand past climate variability, we analyzed oxygen isotopes in individual fossil shells of tiny marine organisms. Combining numerical simulations, we show that shell chemistry reflects seasonal temperature changes driven by both the monsoon and the Indian Ocean Dipole. This opens new perspectives for reconstructing past climate extreme events.",
+    "authors": [
+      "Yohan Lichterfeld",
+      "Guillaume Leduc",
+      "Kaustubh Thirumalai",
+      "Laurence Vidal",
+      "Thibault de Garidel-Thoron",
+      "Corinne Sonzogni",
+      "Clara T. Bolton"
+    ],
+    "is_editorial": false,
+    "abstract_missing": false,
+    "always_include": false,
+    "score_boost": 0.0,
+    "score": 16.0,
+    "matched": [
+      "oxygen isotope",
+      "d18O",
+      "foraminifera",
+      "extreme event",
+      "climate extreme"
+    ],
+    "published": "2026-11-06",
+    "first_seen": "2026-11-07"
   },
   {
     "title": "Investigating the transition in ice dynamics from a land- to lake-terminating glacier using a simple glacier dynamics model",
@@ -846,6 +923,38 @@
     "first_seen": "2026-11-04"
   },
   {
+    "title": "Drivers of Ocean pH Variation in Front of Dotson Ice Shelf, West Antarctica",
+    "journal": "JGR Oceans",
+    "source": "rss:jgr-oceans",
+    "url": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2026JC024620?af=R",
+    "doi": "10.1029/2026jc024620",
+    "abstract": "Journal of Geophysical Research: Oceans, Volume 131, Issue 11, November 2026.",
+    "authors": [
+      "Daisy D. Pickup",
+      "Dorothee C. E. Bakker",
+      "Karen J. Heywood",
+      "Emily M. Hammermeister",
+      "Yixi Zheng",
+      "Gareth A. Lee",
+      "Socratis Loucaides",
+      "David R. Munro",
+      "Bastien Y. Queste",
+      "Patricia L. Yager",
+      "Rob A. Hall"
+    ],
+    "is_editorial": false,
+    "abstract_missing": false,
+    "always_include": false,
+    "score_boost": 0.0,
+    "score": 12.0,
+    "matched": [
+      "ice shelf",
+      "Antarctica"
+    ],
+    "published": "2026-11-07",
+    "first_seen": "2026-11-07"
+  },
+  {
     "title": "Can multi-glacier moraine analysis constrain paleoclimate reconstructions? Evidence from 3D glacier modeling in the Cordillera Real, Bolivia",
     "journal": "Climate of the Past",
     "source": "rss:cp",
@@ -905,6 +1014,37 @@
     "first_seen": "2026-11-05"
   },
   {
+    "title": "Holocene Paleoenvironmental Evolution Recorded in Nearshore Deposits from the Zhejiang Coast",
+    "journal": "Geosciences",
+    "source": "openalex:paleoclimate",
+    "url": "https://doi.org/10.3390/geosciences16110461",
+    "doi": "10.3390/geosciences16110461",
+    "abstract": "The Zhejiang region preserves a complete evolutionary trajectory from hunter-gatherer to early state-level societies, which offers critical material for examining social complexity. Nevertheless, the lack of continuous, high-quality Holocene paleoenvironmental archives in this area hampers a thorough assessment of the human–environment interaction over time. This study investigates pollen, ostracod, foraminiferal and particle-size proxies to reconstruct regional environmental dynamics from core TQ1 in Taizhou Bay spanning 14.8–0.4 cal ka BP based on AMS 14C dating. Core TQ1 records a transition from predominantly terrestrial influence during the late deglaciation to increasing marine influence during the early Holocene. Based on paleoenvironmental changes, the Holocene can be further divided into three stages. Stage 1 (11.5–8.5 cal ka BP) was characterized by a coastal environment with stronger hydrodynamics; arboreal pollen declined while herbs, ferns and algae increased. Stage 2 (8.5–4.2 cal ka BP) represented the peak transgression with open marine conditions and maximum microfossil abundance, and forest recovery as terrestrial herbs and algae decreased. Stage 3 (4.2–0.4 cal ka BP) shifted back to nearshore shallow-sea conditions, with persistently high arboreal percentages and sustained pollen input from forested terrestrial source areas. The intense paleoenvironmental changes, coupled with the evolutionary processes of ancient cultures in the adjacent areas, provide new evidence for a deeper understanding of regional cultural evolution.",
+    "authors": [
+      "Shengdong Xu",
+      "Yao Zhang",
+      "Dingyi Zhao",
+      "Junjie Zhang",
+      "Pinjing Chen",
+      "Zhenhao Zhu",
+      "Lei Yang",
+      "Yongqing Xie",
+      "Jia Jia"
+    ],
+    "is_editorial": false,
+    "abstract_missing": false,
+    "always_include": false,
+    "score_boost": 0.0,
+    "score": 11.0,
+    "matched": [
+      "deglaciation",
+      "Holocene",
+      "proxy"
+    ],
+    "published": "2026-11-05",
+    "first_seen": "2026-11-07"
+  },
+  {
     "title": "Empirical evidence of overestimated Ku-band sea ice radar freeboards in satellite altimetry",
     "journal": "The Cryosphere",
     "source": "rss:tc",
@@ -931,38 +1071,53 @@
     "first_seen": "2026-10-31"
   },
   {
-    "title": "Late-glacial and Holocene vegetation dynamics in response to climate, land use and fire at Lago di Andromia (Ossola, Italian Alps)",
-    "journal": "Quaternary Science Reviews",
-    "source": "openalex:paleoclimate",
-    "url": "https://doi.org/10.1016/j.quascirev.2026.110302",
-    "doi": "10.1016/j.quascirev.2026.110302",
-    "abstract": "Understanding of past vegetation dynamics provides valuable information to better assess future ecosystem impacts under global change. In this context, the European Alps offer the opportunity to study diverse environments. Here, we present a multi-proxy palaeoecological study from the Pennine Alps combining pollen, spores, stomata, charcoal and plant macrofossil analysis. We reconstructed the vegetation dynamics over the past ca. 14,000 years based on sediment cores from Lago di Andromia (1926 m a.s.l.), a small lake located in the subalpine belt of the Ossola valley (Italy). During the Allerød the site was just above the treeline, before Larix decidua trees reached it ca. 11,500 years ago, in response to Holocene warming. Pinus cembra established locally ca. 500 years later, whereas Abies alba reached the site at the latest ca. 10,500 years ago and became co-dominant after 10,000 cal yr BP . Our new evidence confirms that the Ossola valley was an important corridor for the spread of Abies alba across the Alps, highlighting the crucial role of mid-to high elevations for its Holocene range expansion. Vegetation structure and composition remained rather stable during the Holocene Thermal Maximum (ca. 10,000–5000 cal yr BP). Earliest evidence for local pastoralism dates to 5500 years ago and was linked to anthropogenic fires to clear forests. During the Early Bronze Age (ca. 4200 years ago), both pastoral and arable farming increased in the valley, leading to a marked opening in the vegetation. Although sparse, evidence of Juglans regia cultivation during the Late-Neolithic coincides with similar results in Northern Italy, suggesting a striking centrality of the Andromia area, likely tied to its position at the confluence of five Alpine valleys close to the present-day city of Domodossola.",
+    "title": "Record‐Shattering Winter “Heatwave” Over the Antarctic Peninsula in 2026, Associated Primarily With Tropical East Indian Ocean Surface Temperature Anomalies",
+    "journal": "Geophysical Research Letters",
+    "source": "rss:grl",
+    "url": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2026GL126171?af=R",
+    "doi": "10.1029/2026gl126171",
+    "abstract": "Geophysical Research Letters, Volume 53, Issue 21, 16 November 2026.",
     "authors": [
-      "Lionel de Montmollin",
-      "Lieveke van Vugt",
-      "Christoph Schwörer",
-      "Erika Gobet",
-      "Sina C. Aregger",
-      "Valentine Paquet",
-      "Johannes Muhs",
-      "Adrianus Damanik",
-      "Hendrik Vogel",
-      "Flavio S. Anselmetti",
-      "Boris Vannière",
-      "Willy Tinner"
+      "Zhaosheng Zhai",
+      "Yetang Wang",
+      "Xiaolu Li",
+      "Qingli Wu",
+      "Yulun Zhang"
     ],
     "is_editorial": false,
     "abstract_missing": false,
     "always_include": false,
     "score_boost": 0.0,
-    "score": 9.0,
+    "score": 10.0,
     "matched": [
-      "Holocene",
-      "proxy",
-      "sediment core"
+      "Antarctic",
+      "heat wave"
     ],
-    "published": "2026-10-28",
-    "first_seen": "2026-10-30"
+    "published": "2026-11-06",
+    "first_seen": "2026-11-07"
+  },
+  {
+    "title": "Climate–cryosphere controls on future GLOF hazards in the Teesta River Basin: CMIP6 projections",
+    "journal": "Proceedings of the Geologists Association",
+    "source": "openalex:cryosphere",
+    "url": "https://doi.org/10.1016/j.pgeola.2026.101244",
+    "doi": "10.1016/j.pgeola.2026.101244",
+    "abstract": null,
+    "authors": [
+      "M. R. Resmi",
+      "Labli Das"
+    ],
+    "is_editorial": false,
+    "abstract_missing": true,
+    "always_include": false,
+    "score_boost": 0.0,
+    "score": 10.0,
+    "matched": [
+      "cryosphere",
+      "CMIP"
+    ],
+    "published": "2026-11-01",
+    "first_seen": "2026-11-07"
   },
   {
     "title": "Deploying machine learning components coupled to Earth  System Models with OASIS3-MCT (v6) and Eophis (v1.1)",
@@ -1104,6 +1259,37 @@
     ],
     "published": null,
     "first_seen": "2026-11-06"
+  },
+  {
+    "title": "Loss of snow persistence during late season drives snow-season shortening in Northeast China under global warming",
+    "journal": "Communications Earth & Environment",
+    "source": "openalex:cryosphere",
+    "url": "https://doi.org/10.1038/s43247-026-04156-w",
+    "doi": "10.1038/s43247-026-04156-w",
+    "abstract": "Northeast China lies on a mid-latitude boundary where small warming can shift snowfall to rain and shorten the snow season, but climate models often simulate snow fields with large regional biases. Here we show that satellite-constrained, 1-km machine-learning emulators project snow-cover duration without directly using modeled snow variables. They relate observed daily snow cover during 2001–2020 to temperature, precipitation, snowfall fraction and terrain, and are driven by bias-corrected climate projections. Snow seasons shorten almost everywhere, with more than 98% of land grid cells agreeing on the sign of change. By 2081–2100, domain-mean snow-cover duration decreases by 42, 64, and 85 days under low-, intermediate- and high-emission pathways, respectively, and areas with fewer than 50 snow days expand from 19% to 99% under high emissions. Snow-season shortening is dominated by loss of late-winter and spring snow persistence, especially at low–middle elevations and along the present rain–snow transition zone. The loss of snow persistence during late winter to spring across Northeast China leads to shorter snow season under global warming, as suggested by bias-corrected CMIP6 climate projections based on Satellite-constrained machine learning framework.",
+    "authors": [
+      "Yao Xiao",
+      "Guojie Hu",
+      "Ren Li",
+      "Guangyue Liu",
+      "Tonghua Wu",
+      "Xiaodong Wu",
+      "Defu Zou",
+      "Lin Zhao"
+    ],
+    "is_editorial": false,
+    "abstract_missing": false,
+    "always_include": false,
+    "score_boost": 0.0,
+    "score": 9.0,
+    "matched": [
+      "CMIP",
+      "emulator",
+      "machine learning",
+      "global warming"
+    ],
+    "published": "2026-11-05",
+    "first_seen": "2026-11-07"
   },
   {
     "title": "Moment Tensor Inversion Reveals Diverse Mechanisms for Icequakes in Ross Ice Shelf Rift WR4",
@@ -1360,6 +1546,88 @@
     ],
     "published": "2026-11-03",
     "first_seen": "2026-11-05"
+  },
+  {
+    "title": "Physics‐Informed Neural Networks as Differentiable Surrogates for 4D‐Variational Data Assimilation",
+    "journal": "JAMES",
+    "source": "rss:james",
+    "url": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025MS005619?af=R",
+    "doi": "10.1029/2025ms005619",
+    "abstract": "Journal of Advances in Modeling Earth Systems, Volume 18, Issue 11, November 2026.",
+    "authors": [
+      "Kevin Egan",
+      "Brian Powell"
+    ],
+    "is_editorial": false,
+    "abstract_missing": false,
+    "always_include": false,
+    "score_boost": 0.0,
+    "score": 8.0,
+    "matched": [
+      "data assimilation",
+      "neural network"
+    ],
+    "published": "2026-11-06",
+    "first_seen": "2026-11-07"
+  },
+  {
+    "title": "Machine Learning‐Based Representation of Model Error and Observation Error With Estimated Cross‐Correlation in Data Assimilation",
+    "journal": "JAMES",
+    "source": "rss:james",
+    "url": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025MS005702?af=R",
+    "doi": "10.1029/2025ms005702",
+    "abstract": "Journal of Advances in Modeling Earth Systems, Volume 18, Issue 11, November 2026.",
+    "authors": [
+      "Yingjie Chen",
+      "Yuefei Zeng",
+      "Kefeng Zhu",
+      "Yuxuan Feng",
+      "Tijana Janjić"
+    ],
+    "is_editorial": false,
+    "abstract_missing": false,
+    "always_include": false,
+    "score_boost": 0.0,
+    "score": 8.0,
+    "matched": [
+      "data assimilation",
+      "machine learning"
+    ],
+    "published": "2026-11-06",
+    "first_seen": "2026-11-07"
+  },
+  {
+    "title": "BrGDGT-based temperature reconstruction from glacial lake sediments on the Tibetan Plateau during the Last Deglaciation",
+    "journal": "Palaeogeography Palaeoclimatology Palaeoecology",
+    "source": "openalex:paleoclimate",
+    "url": "https://doi.org/10.1016/j.palaeo.2026.114327",
+    "doi": "10.1016/j.palaeo.2026.114327",
+    "abstract": null,
+    "authors": [
+      "Ming Zhu",
+      "Xinggong Kong",
+      "Zhijun Zhao",
+      "Haoran Dong",
+      "Junwei Chen",
+      "Zixin Zhang",
+      "Yang Liu",
+      "Mengjing Li",
+      "Lin Chen",
+      "Aifeng Zhou",
+      "Changchun Huang",
+      "Zhiping Zhang",
+      "Yanwu Duan"
+    ],
+    "is_editorial": false,
+    "abstract_missing": true,
+    "always_include": false,
+    "score_boost": 0.0,
+    "score": 8.0,
+    "matched": [
+      "deglaciation"
+    ],
+    "published": "2026-10-31",
+    "first_seen": "2026-11-07"
   },
   {
     "title": "Bayesian Calibration of Dynamic Models of Earthquake Sequences Using Observations From Past Large Earthquakes",
@@ -1715,27 +1983,105 @@
     "first_seen": "2026-11-06"
   },
   {
-    "title": "Using a two-stage Rosenbrock solver to increase computational efficiency in the DOE's Exascale Earth   System Model version 1 (E3SMv1)",
-    "journal": "Geoscientific Model Development",
-    "source": "rss:gmd",
-    "url": "https://doi.org/10.5194/gmd-19-10309-2026",
-    "doi": "10.5194/gmd-19-10309-2026",
-    "abstract": "We implemented a two-stage Rosenbrock solver (ROS2) in E3SMv1 and evaluated it with two atmospheric chemistry mechanisms. At a 180 s timestep, ROS2 reduced chemistry integration time by ~33% versus the original implicit solver on Cori/KNL CPUs, while maintaining stable one-year simulations and small ozone differences (≤1.03 ppb). Species-dependent differences in ozone, NO, NO2, and OH were small. Results support ROS2 as a lower-cost option, with further convergence and CPU/GPU testing needed.",
+    "title": "Three-way circulation–soil moisture–temperature feedbacks amplify the most extreme mid-latitudinal heat waves",
+    "journal": "Science Advances",
+    "source": "rss:sciadv",
+    "url": "https://www.science.org/doi/abs/10.1126/sciadv.aeh9111?af=R",
+    "doi": "10.1126/sciadv.aeh9111?af=r",
+    "abstract": "Science Advances, Volume 12, Issue 45, November 2026.",
     "authors": [
-      "Rong-You Chien",
-      "Joshua S. Fu"
+      "Yinglin Tian",
+      "Jiangong Liu",
+      "Yu Huang",
+      "Pierre Gentine",
+      "Kai Kornhuber"
     ],
     "is_editorial": false,
     "abstract_missing": false,
-    "always_include": true,
+    "always_include": false,
     "score_boost": 0.0,
-    "score": 5.0,
+    "score": 6.0,
     "matched": [
-      "Earth system",
-      "solver"
+      "heat wave"
     ],
-    "published": "2026-10-29",
-    "first_seen": "2026-10-30"
+    "published": null,
+    "first_seen": "2026-11-07"
+  },
+  {
+    "title": "Exploring Air–Sea Interactions in a Regional Weakly Coupled Data Assimilation System: An Observing System Experiment for the 2023 Indian Ocean Monsoon and Cyclone Biparjoy",
+    "journal": "JAMES",
+    "source": "rss:james",
+    "url": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2026MS005804?af=R",
+    "doi": "10.1029/2026ms005804",
+    "abstract": "Journal of Advances in Modeling Earth Systems, Volume 18, Issue 11, November 2026.",
+    "authors": [
+      "Rui Sun",
+      "Aneesh C. Subramanian",
+      "Matthew R. Mazloff",
+      "Sivareddy Sanikommu",
+      "Ganesh Gopalakrishnan",
+      "Bruce D. Cornuelle",
+      "Tien‐Yiao Hsu",
+      "Arthur J. Miller",
+      "Prajeesh Ag",
+      "Ibrahim Hoteit"
+    ],
+    "is_editorial": false,
+    "abstract_missing": false,
+    "always_include": false,
+    "score_boost": 0.0,
+    "score": 6.0,
+    "matched": [
+      "data assimilation"
+    ],
+    "published": "2026-11-06",
+    "first_seen": "2026-11-07"
+  },
+  {
+    "title": "Start cryosphere flood warnings at the source",
+    "journal": "Science",
+    "source": "openalex:cryosphere",
+    "url": "https://doi.org/10.1126/science.ael8929",
+    "doi": "10.1126/science.ael8929",
+    "abstract": null,
+    "authors": [
+      "Chunlin Song"
+    ],
+    "is_editorial": false,
+    "abstract_missing": true,
+    "always_include": false,
+    "score_boost": 0.0,
+    "score": 6.0,
+    "matched": [
+      "cryosphere"
+    ],
+    "published": "2026-11-05",
+    "first_seen": "2026-11-07"
+  },
+  {
+    "title": "Palynostratigraphy, paleoenvironments and paleoclimates of late Eocene–Miocene deposits, northern Ñirihuau Basin, Argentina",
+    "journal": "Review of Palaeobotany and Palynology",
+    "source": "openalex:paleoclimate",
+    "url": "https://doi.org/10.1016/j.revpalbo.2026.105754",
+    "doi": "10.1016/j.revpalbo.2026.105754",
+    "abstract": null,
+    "authors": [
+      "Mirta E. Quattrocchio",
+      "M. Elina Cornou",
+      "Pablo Díaz",
+      "Marcelo Adrián Martínez",
+      "Marcos A. Asensio"
+    ],
+    "is_editorial": false,
+    "abstract_missing": true,
+    "always_include": false,
+    "score_boost": 0.0,
+    "score": 6.0,
+    "matched": [
+      "paleoclimate"
+    ],
+    "published": "2026-11-05",
+    "first_seen": "2026-11-07"
   },
   {
     "title": "Technical note: Evaluation of snow water equivalent from large-scale land-surface products over Italy",
@@ -2455,150 +2801,107 @@
     "first_seen": "2026-11-06"
   },
   {
-    "title": "Seismogenic Consequences of COH‐Fluid Rock Interactions in Ultramafic Fault Zones Insights From Carbonation‐Decarbonation Friction Experiments",
-    "journal": "JGR Solid Earth",
-    "source": "rss:jgr-solidearth",
-    "url": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2026JB035218?af=R",
-    "doi": "10.1029/2026jb035218",
-    "abstract": "Journal of Geophysical Research: Solid Earth, Volume 131, Issue 11, November 2026.",
+    "title": "Humid periods over western Sahara during the Middle Miocene Climate Transition and their implications on the carbon cycle",
+    "journal": "Science Advances",
+    "source": "rss:sciadv",
+    "url": "https://www.science.org/doi/abs/10.1126/sciadv.aec7963?af=R",
+    "doi": "10.1126/sciadv.aec7963?af=r",
+    "abstract": "Science Advances, Volume 12, Issue 45, November 2026.",
     "authors": [
-      "L. Eberhard",
-      "M. D. Menzel",
-      "A. R. Niemeijer",
-      "O. Plümper"
+      "Ray Zammit",
+      "Caroline H. Lear",
+      "Lucas J. Lourens",
+      "Paul N. Pearson",
+      "Amy Thomas-Sparkes",
+      "Marcus P. S. Badger"
     ],
     "is_editorial": false,
     "abstract_missing": false,
     "always_include": false,
     "score_boost": 0.0,
-    "score": 3.0,
+    "score": 4.0,
     "matched": [
-      "solid earth"
+      "carbon cycle"
+    ],
+    "published": null,
+    "first_seen": "2026-11-07"
+  },
+  {
+    "title": "Impacts of Convective Microphysics Parameterization on MJO Simulation in E3SM",
+    "journal": "JAMES",
+    "source": "rss:james",
+    "url": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025MS005200?af=R",
+    "doi": "10.1029/2025ms005200",
+    "abstract": "Journal of Advances in Modeling Earth Systems, Volume 18, Issue 11, November 2026.",
+    "authors": [
+      "Xiaoliang Song",
+      "Guang J. Zhang",
+      "Shaocheng Xie",
+      "Chris Terai"
+    ],
+    "is_editorial": false,
+    "abstract_missing": false,
+    "always_include": false,
+    "score_boost": 0.0,
+    "score": 4.0,
+    "matched": [
+      "parameterization"
+    ],
+    "published": "2026-11-06",
+    "first_seen": "2026-11-07"
+  },
+  {
+    "title": "Forest or tundra? How different vegetation reconstructions of Last Glacial landscapes in Europe may shape our perception of early human dispersal processes",
+    "journal": "Journal of Quaternary Science",
+    "source": "openalex:paleoclimate",
+    "url": "https://doi.org/10.1002/jqs.70134",
+    "doi": "10.1002/jqs.70134",
+    "abstract": "ABSTRACT Regional variability and long‐term changes of past ecosystems likely had a strong impact on hunter–gatherer population dynamics, including the expansion of anatomically modern humans and the disappearance of Neanderthals. However, our understanding of these ecosystems remains limited, even when looking at large‐scale patterns, such as the extent and distribution of forested areas. Vegetation reconstructions are key to better understanding ecological preferences and their influence on the spatial distribution and dispersals of early humans. Here, we compare four different vegetation reconstruction techniques, two based on pollen data and two vegetation models, between 70 and 20 thousand years before present in Europe. Absolute values in forest cover can differ by up to 40% between reconstruction techniques, highlighting that the choice of method can make the difference between a boreal forest and a tundra. Besides method‐specific and statistical uncertainties, the reason for such a substantial offset lies in the loose definition of forest cover metrics, rendering a direct comparison between methods impossible. At the same time, we show that all reconstruction techniques accurately reconstruct ecosystem dynamics over time on continental to regional scales. We therefore highly recommend that researchers use relative forest cover measures as the more robust method to estimate past landscapes.",
+    "authors": [
+      "Oliver A. Kern",
+      "Anne Dallmeyer",
+      "Andreas Maier",
+      "Philipp Schlüter",
+      "Annika Vogel",
+      "Nikki Vercauteren"
+    ],
+    "is_editorial": false,
+    "abstract_missing": false,
+    "always_include": false,
+    "score_boost": 0.0,
+    "score": 4.0,
+    "matched": [
+      "boreal forest"
+    ],
+    "published": "2026-11-05",
+    "first_seen": "2026-11-07"
+  },
+  {
+    "title": "Decoupled δ2H and effective-moisture records reveal vapor-source control on Holocene precipitation isotope in West Asia",
+    "journal": "Global and Planetary Change",
+    "source": "openalex:paleoclimate",
+    "url": "https://doi.org/10.1016/j.gloplacha.2026.105787",
+    "doi": "10.1016/j.gloplacha.2026.105787",
+    "abstract": null,
+    "authors": [
+      "Li Liu",
+      "Shengqian Chen",
+      "Panpan Ji",
+      "Aifeng Zhou",
+      "Duo Wu",
+      "Juzhi Hou",
+      "Jianhui Chen"
+    ],
+    "is_editorial": false,
+    "abstract_missing": true,
+    "always_include": false,
+    "score_boost": 0.0,
+    "score": 4.0,
+    "matched": [
+      "Holocene"
     ],
     "published": "2026-10-30",
-    "first_seen": "2026-10-30"
-  },
-  {
-    "title": "Mechanical Decoupling Across the Deep Megathrust Boundary",
-    "journal": "JGR Solid Earth",
-    "source": "rss:jgr-solidearth",
-    "url": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2026JB035092?af=R",
-    "doi": "10.1029/2026jb035092",
-    "abstract": "Journal of Geophysical Research: Solid Earth, Volume 131, Issue 11, November 2026.",
-    "authors": [
-      "Keisuke Yoshida",
-      "Masaoki Uno",
-      "Lina Yamaya",
-      "Ryohei Sasajima",
-      "Roland Bürgmann"
-    ],
-    "is_editorial": false,
-    "abstract_missing": false,
-    "always_include": false,
-    "score_boost": 0.0,
-    "score": 3.0,
-    "matched": [
-      "solid earth"
-    ],
-    "published": "2026-10-30",
-    "first_seen": "2026-10-30"
-  },
-  {
-    "title": "Magnetite Oxidation and Matrix Lithology Affect Sedimentary Recording of Geomagnetic Field Intensity: Evidence From Synthetic Sediment Deposition Experiments",
-    "journal": "JGR Solid Earth",
-    "source": "rss:jgr-solidearth",
-    "url": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2026JB034480?af=R",
-    "doi": "10.1029/2026jb034480",
-    "abstract": "Journal of Geophysical Research: Solid Earth, Volume 131, Issue 11, November 2026.",
-    "authors": [
-      "Kuang He",
-      "Huafeng Qin",
-      "Sophie C. Roud",
-      "Min Zhang",
-      "Yifei Hou",
-      "Wenhui Li",
-      "Liao Chang",
-      "Zhaoxia Jiang",
-      "Sanzhong Li",
-      "Tilo von Dobeneck"
-    ],
-    "is_editorial": false,
-    "abstract_missing": false,
-    "always_include": false,
-    "score_boost": 0.0,
-    "score": 3.0,
-    "matched": [
-      "solid earth"
-    ],
-    "published": "2026-10-29",
-    "first_seen": "2026-10-30"
-  },
-  {
-    "title": "A Unified Joint Inversion Framework of Surface Wave Dispersion Data With Teleseismic and Local Body Wave Traveltimes: Methodology and Applications to Dense Arrays",
-    "journal": "JGR Solid Earth",
-    "source": "rss:jgr-solidearth",
-    "url": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2026JB034934?af=R",
-    "doi": "10.1029/2026jb034934",
-    "abstract": "Journal of Geophysical Research: Solid Earth, Volume 131, Issue 11, November 2026.",
-    "authors": [
-      "Yichen Pan",
-      "Ying Liu",
-      "Huajian Yao",
-      "Jikun Feng",
-      "Hongjian Fang"
-    ],
-    "is_editorial": false,
-    "abstract_missing": false,
-    "always_include": false,
-    "score_boost": 0.0,
-    "score": 3.0,
-    "matched": [
-      "solid earth"
-    ],
-    "published": "2026-10-29",
-    "first_seen": "2026-10-30"
-  },
-  {
-    "title": "Do Shallow Slip Deficits Reflect Fault Structural Maturity or Modeling Choices? A Comparative Analysis of Tibetan Strike‐Slip Earthquakes",
-    "journal": "JGR Solid Earth",
-    "source": "rss:jgr-solidearth",
-    "url": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025JB032186?af=R",
-    "doi": "10.1029/2025jb032186",
-    "abstract": "Journal of Geophysical Research: Solid Earth, Volume 131, Issue 11, November 2026.",
-    "authors": [
-      "É. Gaudreau",
-      "E. Nissen",
-      "J. Liu"
-    ],
-    "is_editorial": false,
-    "abstract_missing": false,
-    "always_include": false,
-    "score_boost": 0.0,
-    "score": 3.0,
-    "matched": [
-      "solid earth"
-    ],
-    "published": "2026-10-29",
-    "first_seen": "2026-10-30"
-  },
-  {
-    "title": "Issue Information",
-    "journal": "JGR Solid Earth",
-    "source": "rss:jgr-solidearth",
-    "url": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/jgrb.70654?af=R",
-    "doi": "10.1029/jgrb.70654",
-    "abstract": "Journal of Geophysical Research: Solid Earth, Volume 131, Issue 11, November 2026.",
-    "authors": [],
-    "is_editorial": false,
-    "abstract_missing": false,
-    "always_include": false,
-    "score_boost": 0.0,
-    "score": 3.0,
-    "matched": [
-      "solid earth"
-    ],
-    "published": "2026-10-29",
-    "first_seen": "2026-10-30"
+    "first_seen": "2026-11-07"
   },
   {
     "title": "PKPPcP–PcPPKP Splitting: Observations, Modeling, and Implications for 3‐D Earth's Mantle Heterogeneity",
@@ -3233,6 +3536,52 @@
     "first_seen": "2026-11-06"
   },
   {
+    "title": "Marine Sediment Imaging With Distributed Acoustic Sensing Offshore Central Chile",
+    "journal": "JGR Solid Earth",
+    "source": "rss:jgr-solidearth",
+    "url": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2026JB034065?af=R",
+    "doi": "10.1029/2026jb034065",
+    "abstract": "Journal of Geophysical Research: Solid Earth, Volume 131, Issue 11, November 2026.",
+    "authors": [
+      "Clara Vernet",
+      "Diane Rivet",
+      "Alister Trabattoni",
+      "Marie Baillet"
+    ],
+    "is_editorial": false,
+    "abstract_missing": false,
+    "always_include": false,
+    "score_boost": 0.0,
+    "score": 3.0,
+    "matched": [
+      "solid earth"
+    ],
+    "published": "2026-11-07",
+    "first_seen": "2026-11-07"
+  },
+  {
+    "title": "Glaciotectonic Spectrum",
+    "journal": "Transactions of the Kansas Academy of Science",
+    "source": "openalex:cryosphere",
+    "url": "https://doi.org/10.1660/062.129.0308",
+    "doi": "10.1660/062.129.0308",
+    "abstract": "Glaciotectonic landforms include a spectrum of hill-hole pairs, composite ridges, push moraines, cupola hills, and drumlins with deformed internal structures. Their regional distribution as well as buried glaciotectonic features are reviewed with an emphasis on Scandinavia, adjacent Russia, and Baltic nations. LiDAR and ground investigations were the keys for recognizing murtoos as a new category of distinct glaciotectonic landforms, which are particularly well documented in Finland and Sweden. Three main zones of glacial landscapes are recognized for ice-sheet glaciation - outer, intermediate, and inner, as well as a transitional boundary between the outer and intermediate zones. Glaciotectonic phenomena are numerous and widespread in all of these zones wherever the substratum consists of sedimentary bedrock or unconsolidated sediments.",
+    "authors": [
+      "James Sandusky Aber",
+      "Susan Ward Aber"
+    ],
+    "is_editorial": false,
+    "abstract_missing": false,
+    "always_include": false,
+    "score_boost": 0.0,
+    "score": 3.0,
+    "matched": [
+      "ice sheet"
+    ],
+    "published": "2026-11-05",
+    "first_seen": "2026-11-07"
+  },
+  {
     "title": "Drivers of 2024 Record Low Sea Ice in Eastern Hudson Bay: A Satellite Era Perspective",
     "journal": "JGR Atmospheres",
     "source": "rss:jgr-atmospheres",
@@ -3305,31 +3654,6 @@
     ],
     "published": "2026-11-06",
     "first_seen": "2026-11-06"
-  },
-  {
-    "title": "Towards high-fidelity simulations of coastal submesoscale baroclinic instabilities with MPAS-O (vE3SM3.0.0) – Part 1: Idealized experiments",
-    "journal": "Geoscientific Model Development",
-    "source": "rss:gmd",
-    "url": "https://doi.org/10.5194/gmd-19-10321-2026",
-    "doi": "10.5194/gmd-19-10321-2026",
-    "abstract": "Physical dynamics of ocean flows at fine spatial scales are challenging for regional and global scale ocean models due to high computational effort associated with smaller grid cell sizes. We compared two ocean models: a regional model (ROMS; Regional Ocean Modeling System) and global model (MPAS-O; Model for Prediction Across Scales – Ocean) across a range of resolutions (10 km to 100 m) in an idealized domain, and found that their similarities may hold promise for future coupling between them.",
-    "authors": [
-      "Kyle E. Hinson",
-      "Dylan R. Schlichting",
-      "Robert D. Hetland",
-      "Darren Engwirda",
-      "Katherine M. Smith",
-      "Mark R. Petersen",
-      "Kaila Uyeda"
-    ],
-    "is_editorial": false,
-    "abstract_missing": false,
-    "always_include": true,
-    "score_boost": 0.0,
-    "score": 0.0,
-    "matched": [],
-    "published": "2026-10-30",
-    "first_seen": "2026-10-30"
   },
   {
     "title": "Multiwave Interference Characteristics of Semidiurnal Internal Tides in the Northern South China Sea: Perspective of Energetics From Mooring Array Observations",
