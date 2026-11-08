@@ -1,46 +1,5 @@
 [
   {
-    "title": "Lead isotope evidence for Antarctic Ice Sheet changes in the Weddell Sea sector since the Last Glacial Maximum",
-    "journal": "Boreas",
-    "source": "openalex:paleoclimate",
-    "url": "https://doi.org/10.1111/bor.70095",
-    "doi": "10.1111/bor.70095",
-    "abstract": "The Weddell Sea influences global ocean circulation and sea level through modulating Antarctic Bottom Water formation and Antarctic Ice Sheet discharges, but the history of ice‐sheet dynamics in this region remains poorly constrained due to limited well‐dated geological records. To provide a new geochemical perspective on ice‐sheet dynamics since the Last Glacial Maximum (LGM), this study presents paired authigenic and detrital Pb isotope records from sediment core PS1599‐3 recovered from the continental slope north of the Filchner Trough. Comparison with Antarctic Pb isotope provinces indicates that both detrital and authigenic Pb signatures were possibly sourced from a Shackleton Range‐like region in the south‐eastern Weddell Sea sector of East Antarctica. This suggests that dominant upstream drainage sources remained broadly stable throughout the last ~23 ka. We interpret the downcore Pb isotope variations to primarily reflect changes in the delivery of subglacial weathering‐derived Pb associated with grounding‐line dynamics in the Filchner Trough. Authigenic 206 Pb/ 204 Pb ratios show a sharp increase at ~23 ka, followed by two decreases at ~20 and 11–9 ka. We suggest that a re‐advance of grounded ice near the LGM was followed by initial retreat at ~20 ka and further grounding‐line retreat or reorganization during the Early Holocene. These findings highlight the use of authigenic Pb isotopes as potential tracers for reconstructing polar ice‐sheet dynamics and meltwater influences.",
-    "authors": [
-      "Huang Huang",
-      "Yuanyang Hu",
-      "Marcus Gutjahr",
-      "Florian Kirsch",
-      "Lijuan Lu",
-      "Jianjun Zou",
-      "Xuefa Shi",
-      "Michael Bollen",
-      "Jimin Yu",
-      "Gerhard Kühn"
-    ],
-    "is_editorial": false,
-    "abstract_missing": false,
-    "always_include": false,
-    "score_boost": 0.0,
-    "score": 48.0,
-    "matched": [
-      "ice sheet",
-      "subglacial",
-      "Antarctic",
-      "Antarctica",
-      "polar",
-      "meltwater",
-      "ocean circulation",
-      "last glacial maximum",
-      "LGM",
-      "Holocene",
-      "sediment core",
-      "sea level"
-    ],
-    "published": "2026-10-28",
-    "first_seen": "2026-10-31"
-  },
-  {
     "title": "Cascading impacts of Atlantic meridional overturning circulation weakening and collapse on marine biogeochemistry",
     "journal": "Communications Earth & Environment",
     "source": "openalex:cites-me",
@@ -69,6 +28,38 @@
     ],
     "published": "2026-11-04",
     "first_seen": "2026-11-06"
+  },
+  {
+    "title": "Evaluating ice shelf basal melt rates in the Southern Ocean high-resolution model against satellite remote sensing",
+    "journal": "Frontiers in Marine Science",
+    "source": "openalex:cryosphere",
+    "url": "https://doi.org/10.3389/fmars.2026.1996088",
+    "doi": "10.3389/fmars.2026.1996088",
+    "abstract": "Ice shelf melt rates by a warm ocean have a critical impact on ice sheet mass balance in Antarctica and in turn on the rates of sea level rise. Validating and tuning modeled ice shelf melt rates is a challenge. Here we discuss the issues by presenting validation of melt rates calculated from the Southern Ocean high-resolution model (SOhi) over the year 2007. SOhi includes full physics, tides, and an updated bathymetric compilation. We compare the model results to two satellite-derived estimates. Overall, we find that the model overestimates ice shelf melt, which we attribute to the ocean model initial (warm) conditions in some areas, bathymetric uncertainties in others, simplified physics on some ice shelves, and also to the inherent limitations of the satellite-derived estimates. The SOhi model nevertheless provides a comprehensive, detailed mapping of ice shelf melt rates around Antarctica; it captures higher melt near grounding lines and ice fronts, areas of freezing versus areas of high melt water production. The identified discrepancies between model and satellite-estimates provide guidelines for model improvements, requirements for additional observations of ice shelf cavities, and assembling of calibration/validation datasets to constrain the models.",
+    "authors": [
+      "Andy Dinh",
+      "Eric J. Rignot",
+      "Matthew R. Mazloff",
+      "Ian G. Fenty"
+    ],
+    "is_editorial": false,
+    "abstract_missing": false,
+    "always_include": false,
+    "score_boost": 0.0,
+    "score": 40.0,
+    "matched": [
+      "ice sheet",
+      "ice shelf",
+      "grounding line",
+      "Antarctica",
+      "basal melt",
+      "Southern Ocean",
+      "sea level",
+      "sea-level rise",
+      "remote sensing"
+    ],
+    "published": "2026-11-06",
+    "first_seen": "2026-11-08"
   },
   {
     "title": "Radiative effects of decreased North America and European aerosols weaken the AMOC via wind-driven freshwater advection",
@@ -102,6 +93,40 @@
     ],
     "published": "2026-11-05",
     "first_seen": "2026-11-07"
+  },
+  {
+    "title": "SURFACE OCEANOGRAPHIC VARIABILITY DURING THE LAST GLACIAL MAXIMUM AND LATE HOLOCENE IN THE INDONESIAN MARITIME CONTINENT",
+    "journal": "BULLETIN OF THE MARINE GEOLOGY",
+    "source": "openalex:paleoclimate",
+    "url": "https://doi.org/10.32693/bomg.41.1.2026.976",
+    "doi": "10.32693/bomg.41.1.2026.976",
+    "abstract": "This study provides a statistical characterization of surface oceanography in the Indonesian Maritime Continent (IMC) during the Last Glacial Maximum (LGM; 23–19 ka) and Late Holocene (LH; 4–0 ka). Using the lgmDA v2.1 paleoclimate data assimilation product, we analyze sea surface temperature (SST), sea surface salinity (SSS), and seawater $\\delta^{18}$O. Results indicate the LGM was significantly cooler, saltier, and isotopically enriched, with reduced spatial heterogeneity compared to the LH. Comprehensive nonparametric testing confirms these differences reflect fundamental changes in distributional properties, not merely mean-state shifts. The findings suggest a major oceanographic regime shift, likely driven by lower sea levels, a weakened ITF, enhanced stratification, and a drier regional climate during the LGM. This work offers a statistical framework for understanding IMC sensitivity to glacial-interglacial forcing.",
+    "authors": [
+      "Daffa Mazdhania",
+      "Sandy Herho",
+      "Iwan P. Anwar",
+      "Marfasran Hendrizan",
+      "Siti Kaban",
+      "Faruq Khadami",
+      "Rima Rachmayani",
+      "Sri Yudawati Cahyarini"
+    ],
+    "is_editorial": false,
+    "abstract_missing": false,
+    "always_include": false,
+    "score_boost": 0.0,
+    "score": 32.0,
+    "matched": [
+      "sea surface temperature",
+      "paleoclimate",
+      "last glacial maximum",
+      "LGM",
+      "interglacial",
+      "Holocene",
+      "data assimilation"
+    ],
+    "published": "2026-11-05",
+    "first_seen": "2026-11-08"
   },
   {
     "title": "North Atlantic response to a quasi-realistic Greenland meltwater forcing in eddy-rich EC-Earth3P-VHR hosing simulations",
@@ -302,41 +327,6 @@
     "first_seen": "2026-11-07"
   },
   {
-    "title": "Holocene water mass structure changes in Lake Nurume, Lützow-Holm Bay, East Antarctica",
-    "journal": "Progress in Earth and Planetary Science",
-    "source": "openalex:paleoclimate",
-    "url": "https://doi.org/10.1186/s40645-026-00849-0",
-    "doi": "10.1186/s40645-026-00849-0",
-    "abstract": "Abstract Paleoenvironmental reconstructions using sediments from isolation basins including lakes are useful approaches to obtain evidence of sea-level and ice-sheet changes in Antarctica. However, a detailed study using multiple sediment cores of how isolation basins respond to external forcings is needed to improve the accuracy of paleoenvironmental reconstructions. We reconstructed how the water mass structure of Lake Nurume, located in Langhovde, Lützow-Holm Bay, East Antarctica, changed in response to sea-level and ice-sheet changes during the Holocene using sediments from different water depths and nearby trenches. Sedimentary observations, diatom analyses, and X-ray fluorescence core scanner analyses were conducted to reconstruct the three-dimensional characterization of water mass structure combined with the paleotopographic reconstruction using glacial isostatic adjustment modelling. Sedimentation resumed at approximately 6.6 cal kyr BP when the lake became ice-free and marine conditions, as evidenced by the presence of marine diatoms and shell fossils. At approximately 2.0 cal kyr BP, laminated structures appeared in sediment cores, accompanied by a decrease in benthic diatoms. This transition is interpreted as a response to ice-sheet readvance, whereby the ice margin approached the lake, increasing freshwater input and reducing vertical mixing. The resulting stratification caused anoxic conditions in the bottom water. Finally, at approximately 0.5 cal kyr BP, the lake became completely isolated from the sea, establishing its current water mass structure. These findings contribute to more accurate paleoenvironmental reconstructions such as sea-level and ice-sheet changes using sediments from isolation basins in Antarctica.",
-    "authors": [
-      "Takeshige Ishiwa",
-      "Kota Katsuki",
-      "Yuki Tokuda",
-      "Takuya Itaki",
-      "Satoshi Sasaki",
-      "Kaihe Yamazaki",
-      "Takayuki Omori",
-      "Jun’ichi Okuno",
-      "Minoru Ikehara",
-      "Yûsuke Suganuma"
-    ],
-    "is_editorial": false,
-    "abstract_missing": false,
-    "always_include": false,
-    "score_boost": 0.0,
-    "score": 24.0,
-    "matched": [
-      "ice sheet",
-      "Antarctica",
-      "Holocene",
-      "sediment core",
-      "glacial isostatic adjustment",
-      "sea level"
-    ],
-    "published": "2026-10-29",
-    "first_seen": "2026-10-31"
-  },
-  {
     "title": "Transition to a much warmer climate for the global ocean and Antarctic Ice Sheet coupled system, and its reversibility",
     "journal": "The Cryosphere",
     "source": "rss:tc",
@@ -452,79 +442,6 @@
     ],
     "published": "2026-11-03",
     "first_seen": "2026-11-05"
-  },
-  {
-    "title": "Atmospheric stabilization of the East Antarctic ice sheet under warming",
-    "journal": "Nature Climate Change",
-    "source": "rss:nclimate",
-    "url": "https://www.nature.com/articles/s41558-026-02791-x",
-    "doi": "10.1038/s41558-026-02791-x",
-    "abstract": "Nature Climate Change, Published online: 30 October 2026; doi:10.1038/s41558-026-02791-x The long-term response of the Greenland and Antarctic ice sheets to warming is often studied using ice-only simulations. Here the authors use a coupled ice–atmosphere–ocean model and find that East Antarctica remains stable even under higher warming because changes in atmospheric circulation increase precipitation sensitivity.",
-    "authors": [
-      "Kyung-Sook Yun",
-      "Axel Timmermann"
-    ],
-    "is_editorial": false,
-    "abstract_missing": false,
-    "always_include": false,
-    "score_boost": 0.0,
-    "score": 20.0,
-    "matched": [
-      "ice sheet",
-      "Antarctic",
-      "Antarctica",
-      "Greenland",
-      "climate change"
-    ],
-    "published": null,
-    "first_seen": "2026-10-31"
-  },
-  {
-    "title": "Workshop report: Lake KINneret Drilling (KIND) – reconstructing Pliocene–Quaternary hydroclimate and seismic history of the Levant",
-    "journal": "Scientific Drilling",
-    "source": "openalex:paleoclimate",
-    "url": "https://doi.org/10.5194/sd-35-255-2026",
-    "doi": "10.5194/sd-35-255-2026",
-    "abstract": "The southern Levant extends between the hyperarid Sahara–Arabia Desert belt in the south and the temperate Mediterranean climate zone in the north, making the regional hydroclimate extremely sensitive to even small perturbations of global climate. The region further served as a major pathway for the “out-of-Africa” dispersal of fauna, flora, and hominins throughout the Quaternary, as well as for human cultural development from the Paleolithic to the Neolithic. Spanning the length of the Levant is the Dead Sea Transform (DST) that transfers the opening at the Red Sea in the south to the collision at the Taurus Mountains in the north. Pull-apart basins along the DST host the hypersaline Dead Sea and freshwater Lake Kinneret, whose sedimentary records document the regional hydroclimate and seismic history. Lake Kinneret (a.k.a. the Sea of Galilee) is the largest freshwater lake in the Levant, whose precursors have deposited a thick sequence of lacustrine sediments since the late Miocene. Seismic profiles across the tectonically subsiding basin in the middle of the modern lake, as well as existing short sediment cores, indicate that the sedimentary sequences are generally bounded by two N–S-striking longitudinal faults and generally maintain stratigraphic order. The sedimentary column is dominated by primary authigenic calcite, whose chemical and isotopic composition documents regional hydrology and lacustrine conditions from at least the Pliocene. Accordingly, the sedimentary record of Lake Kinneret holds the potential to serve as one of the longest and most highly resolved lacustrine records since the Pliocene, yielding sub-centennial records of hydroclimate, paleoseismicity, geomagnetism, and paleobotanics in a region of fundamental importance for the global understanding of climate change, tectonics, and human evolution. The Lake KINneret Drilling (KIND) project aims to establish an exceptionally long Pliocene–Quaternary chronostratigraphic reference record that will contribute to a meridional synthesis of continental and marine core records along the East African Rift–Dead Sea Transform (EARDST) corridor. Owing to its location, the KIND record will yield transformative contributions to climate modeling and to our understanding of climate change in the eastern Mediterranean, a recognized global warming “hotspot”. Moreover, it will document seismic activity along the DST over long timescales, providing a basis for policymakers to prepare for this potential major hazard to infrastructure and human life. Taken together, the KIND project will provide unique and much-needed records from a tectonically active region that is projected to become increasingly arid over the coming century and that is already burdened by severe geopolitical strife. These records are critical for identifying and quantifying regional climate change patterns, assessing seismic risks, and evaluating the ecological impacts of these processes.",
-    "authors": [
-      "Adi Torfstein",
-      "Eshly Aizenshtat-Soffer",
-      "Moshe Armon",
-      "Catherine Beck",
-      "S. L. Goldstein",
-      "Hannah Hartung",
-      "Yael Kiro",
-      "Dafna Langgut",
-      "Thomas Litt",
-      "Shmuel Marco",
-      "Steffen Mischke",
-      "Mario Morellón",
-      "Anders J. Noren",
-      "Perach Nuriel",
-      "Lisa E. Park Boush",
-      "Adina Paytan",
-      "Simona Pierdominici",
-      "Elena Robakiewicz",
-      "Ron Shaar",
-      "Mordechai Stein",
-      "Martin H. Trauth",
-      "Nadav Wetzler",
-      "Charlotte Zachow"
-    ],
-    "is_editorial": false,
-    "abstract_missing": false,
-    "always_include": false,
-    "score_boost": 0.0,
-    "score": 19.0,
-    "matched": [
-      "Pliocene",
-      "Quaternary",
-      "sediment core",
-      "climate change",
-      "global warming"
-    ],
-    "published": "2026-10-29",
-    "first_seen": "2026-10-31"
   },
   {
     "title": "Imaging the Ross Ice Streams of West Antarctica using active source seismology",
@@ -732,6 +649,36 @@
     ],
     "published": "2026-11-06",
     "first_seen": "2026-11-07"
+  },
+  {
+    "title": "Humid periods over western Sahara during the Middle Miocene Climate Transition and their implications on the carbon cycle",
+    "journal": "Science Advances",
+    "source": "openalex:paleoclimate",
+    "url": "https://doi.org/10.1126/sciadv.aec7963",
+    "doi": "10.1126/sciadv.aec7963",
+    "abstract": "The Middle Miocene expansion of the Antarctic Ice Sheet coincides with major sedimentological changes in Malta. This interval also saw reorganisations in ocean circulation linked to closure of the Mesopotamian Seaway (MSR-events) and perturbations in the carbon cycle (CM events). The final CM event (CM-6), slightly lags the main glacial phase and remains difficult to interpret due to competing mechanisms and conflicting p CO 2 reconstructions. To explore links between cryosphere, circulation, hydroclimate, and the carbon cycle, we present new geochemical records from Malta. Our records show that cryospheric expansion was followed by large, precessionally paced variations in sea-surface salinity and a marked regional increase in biological productivity. The results indicate a shift toward stronger monsoonal influence, delivering enhanced freshwater and nutrient fluxes to the region. This enhanced local biological carbon pump may have acted as a positive feedback to a global CO 2 drawdown. However, any contribution to global CO 2 drawdown remains tentative and cannot be confirmed without contemporaneous high-resolution open-ocean records.",
+    "authors": [
+      "Raymond Zammit",
+      "Caroline H. Lear",
+      "Lucas Joost Lourens",
+      "Paul Nicholas Pearson",
+      "Amy Sparkes",
+      "Marcus P. S. Badger"
+    ],
+    "is_editorial": false,
+    "abstract_missing": false,
+    "always_include": false,
+    "score_boost": 0.0,
+    "score": 16.0,
+    "matched": [
+      "ice sheet",
+      "cryosphere",
+      "Antarctic",
+      "ocean circulation",
+      "carbon cycle"
+    ],
+    "published": "2026-11-06",
+    "first_seen": "2026-11-08"
   },
   {
     "title": "Investigating the transition in ice dynamics from a land- to lake-terminating glacier using a simple glacier dynamics model",
@@ -1045,32 +992,6 @@
     "first_seen": "2026-11-07"
   },
   {
-    "title": "Empirical evidence of overestimated Ku-band sea ice radar freeboards in satellite altimetry",
-    "journal": "The Cryosphere",
-    "source": "rss:tc",
-    "url": "https://doi.org/10.5194/tc-20-6181-2026",
-    "doi": "10.5194/tc-20-6181-2026",
-    "abstract": "Arctic sea ice thickness is commonly estimated using radar measurements from satellites. This technique assumes that the snow on sea ice is \"invisible\" to the radar signals. We studied if this assumption is valid and found that the radar measurements work well in cold conditions, when air temperatures are below –10 °C. However, the radar measurements can overestimate ice thickness during warmer periods, especially if there is new snowfall and if the snow contains salt.",
-    "authors": [
-      "Catherine Taelman",
-      "Jack C. Landy",
-      "Robbie D. C. Mallett",
-      "Polona Itkin"
-    ],
-    "is_editorial": false,
-    "abstract_missing": false,
-    "always_include": true,
-    "score_boost": 0.0,
-    "score": 10.0,
-    "matched": [
-      "Arctic",
-      "sea ice",
-      "satellite altimetry"
-    ],
-    "published": "2026-10-30",
-    "first_seen": "2026-10-31"
-  },
-  {
     "title": "Record‐Shattering Winter “Heatwave” Over the Antarctic Peninsula in 2026, Associated Primarily With Tropical East Indian Ocean Surface Temperature Anomalies",
     "journal": "Geophysical Research Letters",
     "source": "rss:grl",
@@ -1120,30 +1041,35 @@
     "first_seen": "2026-11-07"
   },
   {
-    "title": "Deploying machine learning components coupled to Earth  System Models with OASIS3-MCT (v6) and Eophis (v1.1)",
-    "journal": "Geoscientific Model Development",
-    "source": "rss:gmd",
-    "url": "https://doi.org/10.5194/gmd-19-10345-2026",
-    "doi": "10.5194/gmd-19-10345-2026",
-    "abstract": "Scientists use programs, called Earth System Models, to study and predict climate. These models are based on physical theories but can be completed with AI tools. However, combining these tools with traditional models is difficult due to their different nature. Our research introduces a new method that connects these AI tools with existing climate models. We tested this method by integrating it with an ocean model. This work should help scientists explore new ways of making climate predictions.",
+    "title": "The evolution of Upper Circumpolar Deep Water in the Southwest Pacific Ocean since 30 ka: evidence from Neodymium isotopes",
+    "journal": "Quaternary Science Reviews",
+    "source": "openalex:paleoclimate",
+    "url": "https://doi.org/10.1016/j.quascirev.2026.110358",
+    "doi": "10.1016/j.quascirev.2026.110358",
+    "abstract": "The geometry and ventilation of upper deep-water masses in the Pacific sector of the Southern Ocean are critical to glacial carbon storage, yet their evolution since the Last Glacial Maximum remains poorly constrained. Here, we present the foraminiferal neodymium isotope composition (ε Nd ) from core MD97-2115 (eastern Chatham Rise, 2160 m water depth), which is located at the present-day boundary between Upper Circumpolar Deep Water (UCDW) and modified North Pacific Deep Water (mNPDW) in the Southwest Pacific, to reconstruct the upper deep-water mass changes since 30 ka. Combining quantitative binary mixing calculations with vertical ε Nd gradients relative to Lower Circumpolar Deep Water, we suggest substantial shifts in the geometry and mixing of UCDW and mNPDW since 30 ka. The variation phases include reduced UCDW influence during 30–20 ka, enhanced UCDW contribution between 20 and 14.3 ka, slightly decreased UCDW during 14.3–11.4 ka, and stable Holocene conditions. The glacial dominance of mNPDW is consistent with basin-wide evidence for enhanced storage of respired carbon in Pacific-sourced deep waters, likely contributing to the maintenance of low atmospheric CO 2 during the glacial period. Crucially, the early rapid increase in UCDW at ∼20 ka preceded the penetration of North Atlantic-sourced water into Southern Ocean and the deglacial CO 2 increase by several millennia, implying a critical role for Antarctic and Southern Ocean processes in establishing the oceanic precondition for glacial termination. During the last deglacial period, the decoupling between our reconstruction and atmospheric CO 2 evolution suggests that water-mass geometry alone is insufficient to drive the full deglacial CO 2 increase, pointing to additional roles for processes such as regional outgassing and variability in air–sea gas exchange efficiency.",
     "authors": [
-      "Alexis Barge",
-      "Julien Le Sommer",
-      "Andrea Storto",
-      "Sophie Valcke"
+      "Xiaojie Tang",
+      "Giuseppe Siani",
+      "Christophe Colin",
+      "Élisabeth Michel",
+      "Bruno Millet",
+      "Rosella Pinna‐Jamme",
+      "Arnaud Dapoigny",
+      "Zhaojie Yu"
     ],
     "is_editorial": false,
     "abstract_missing": false,
-    "always_include": true,
+    "always_include": false,
     "score_boost": 0.0,
-    "score": 9.0,
+    "score": 10.0,
     "matched": [
-      "Earth system model",
-      "Earth system",
-      "machine learning"
+      "Antarctic",
+      "Southern Ocean",
+      "last glacial maximum",
+      "Holocene"
     ],
-    "published": "2026-10-29",
-    "first_seen": "2026-10-31"
+    "published": "2026-11-06",
+    "first_seen": "2026-11-08"
   },
   {
     "title": "A Basin‐Wise GLOF Susceptibility Assessment in the Western Himalayas: Integrating Remote Sensing‐ GIS and Multi‐Criteria Decision Analysis",
@@ -1290,86 +1216,6 @@
     ],
     "published": "2026-11-05",
     "first_seen": "2026-11-07"
-  },
-  {
-    "title": "Moment Tensor Inversion Reveals Diverse Mechanisms for Icequakes in Ross Ice Shelf Rift WR4",
-    "journal": "Geophysical Research Letters",
-    "source": "rss:grl",
-    "url": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2026GL124895?af=R",
-    "doi": "10.1029/2026gl124895",
-    "abstract": "Geophysical Research Letters, Volume 53, Issue 21, 16 November 2026.",
-    "authors": [
-      "Farzaneh Aziz Zanjani",
-      "Douglas A. Wiens",
-      "Michael E. Wysession",
-      "Dougal D. Hansen",
-      "Richard C. Aster",
-      "A. A. Nyblade"
-    ],
-    "is_editorial": false,
-    "abstract_missing": false,
-    "always_include": false,
-    "score_boost": 0.0,
-    "score": 8.0,
-    "matched": [
-      "ice shelf"
-    ],
-    "published": "2026-10-30",
-    "first_seen": "2026-10-31"
-  },
-  {
-    "title": "Assessment of snow depth retrievability from passive microwave observations over Arctic sea ice: a global sensitivity analysis",
-    "journal": "The Cryosphere",
-    "source": "rss:tc",
-    "url": "https://doi.org/10.5194/tc-20-6157-2026",
-    "doi": "10.5194/tc-20-6157-2026",
-    "abstract": "Passive microwave retrieval of snow depth remains constrained by snow and ice conditions. By combining the Snow Microwave Radiative Transfer model with global sensitivity analysis, this study quantifies how snow grain radius, density, and sea ice type affect snow depth retrievability across channels. The small grain radius of new snow limits retrieval performance and increases its sensitivity to sea ice type, while the use of the 89 GHz channel may help address this limitation.",
-    "authors": [
-      "Ziyu Yan",
-      "Yufang Ye",
-      "Georg Heygster",
-      "Bin Cheng",
-      "Carolina Gabarró",
-      "Ferran Hernández-Macià",
-      "Xiao Cheng"
-    ],
-    "is_editorial": false,
-    "abstract_missing": false,
-    "always_include": true,
-    "score_boost": 0.0,
-    "score": 8.0,
-    "matched": [
-      "Arctic",
-      "sea ice",
-      "sensitivity analysis"
-    ],
-    "published": "2026-10-30",
-    "first_seen": "2026-10-31"
-  },
-  {
-    "title": "Southern Ocean productivity and carbonate chemistry imprinted on coccolith morphology across the Last Glacial-Holocene transition",
-    "journal": "Global and Planetary Change",
-    "source": "openalex:paleoclimate",
-    "url": "https://doi.org/10.1016/j.gloplacha.2026.105782",
-    "doi": "10.1016/j.gloplacha.2026.105782",
-    "abstract": null,
-    "authors": [
-      "Abhilash Nair",
-      "Shramik Patil",
-      "Nikita Mestry",
-      "Rahul Mohan"
-    ],
-    "is_editorial": false,
-    "abstract_missing": true,
-    "always_include": false,
-    "score_boost": 0.0,
-    "score": 8.0,
-    "matched": [
-      "Southern Ocean",
-      "Holocene"
-    ],
-    "published": "2026-10-24",
-    "first_seen": "2026-10-31"
   },
   {
     "title": "A global inventory of rock glaciers",
@@ -1630,6 +1476,33 @@
     "first_seen": "2026-11-07"
   },
   {
+    "title": "Summer temperature reconstructions since the last deglaciation based on carbonate clumped isotopes from Serling Co in the central Tibetan Plateau",
+    "journal": "Global and Planetary Change",
+    "source": "openalex:paleoclimate",
+    "url": "https://doi.org/10.1016/j.gloplacha.2026.105789",
+    "doi": "10.1016/j.gloplacha.2026.105789",
+    "abstract": null,
+    "authors": [
+      "Xinghuan Zhu",
+      "Liping Zhu",
+      "Jianting Ju",
+      "Junbo Wang",
+      "Qingfeng Ma",
+      "Qiangqiang Kou",
+      "Xiangjun Wu"
+    ],
+    "is_editorial": false,
+    "abstract_missing": true,
+    "always_include": false,
+    "score_boost": 0.0,
+    "score": 8.0,
+    "matched": [
+      "deglaciation"
+    ],
+    "published": "2026-11-01",
+    "first_seen": "2026-11-08"
+  },
+  {
     "title": "Bayesian Calibration of Dynamic Models of Earthquake Sequences Using Observations From Past Large Earthquakes",
     "journal": "JGR Solid Earth",
     "source": "rss:jgr-solidearth",
@@ -1653,52 +1526,6 @@
     ],
     "published": "2026-11-06",
     "first_seen": "2026-11-06"
-  },
-  {
-    "title": "Record-breaking retraction: scholarly publisher pulls 1,400 conference papers on one day",
-    "journal": "Nature",
-    "source": "rss:nature",
-    "url": "https://www.nature.com/articles/d41586-026-03455-8",
-    "doi": "10.1038/d41586-026-03455-8",
-    "abstract": "Nature, Published online: 30 October 2026; doi:10.1038/d41586-026-03455-8 Announcement by IEEE follows publication of a study showing the retracted papers are linked to paper mills.",
-    "authors": [
-      "Miryam Naddaf"
-    ],
-    "is_editorial": false,
-    "abstract_missing": false,
-    "always_include": false,
-    "score_boost": 0.0,
-    "score": 6.0,
-    "matched": [
-      "record-breaking"
-    ],
-    "published": null,
-    "first_seen": "2026-10-31"
-  },
-  {
-    "title": "Coarse climate model grids underestimate coastal humid-heat extremes",
-    "journal": "Science Advances",
-    "source": "rss:sciadv",
-    "url": "https://www.science.org/doi/abs/10.1126/sciadv.ael4020?af=R",
-    "doi": "10.1126/sciadv.ael4020?af=r",
-    "abstract": "Science Advances, Volume 12, Issue 44, October 2026.",
-    "authors": [
-      "Cosimo E. Carniel",
-      "Jonathan D. Wille",
-      "Lukas Brunner",
-      "Diana Francis",
-      "Erich M. Fischer"
-    ],
-    "is_editorial": false,
-    "abstract_missing": false,
-    "always_include": false,
-    "score_boost": 0.0,
-    "score": 6.0,
-    "matched": [
-      "heat extreme"
-    ],
-    "published": null,
-    "first_seen": "2026-10-31"
   },
   {
     "title": "Regional climatic change following the Eocene–Oligocene Transition in central northern Tibet",
@@ -2084,6 +1911,77 @@
     "first_seen": "2026-11-07"
   },
   {
+    "title": "Investigating Two Antarctic Coastal Polynyas in a High‐Resolution Ocean‐Sea Ice‐Atmosphere Coupled Model",
+    "journal": "JGR Oceans",
+    "source": "rss:jgr-oceans",
+    "url": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2026JC024517?af=R",
+    "doi": "10.1029/2026jc024517",
+    "abstract": "Journal of Geophysical Research: Oceans, Volume 131, Issue 11, November 2026.",
+    "authors": [
+      "M. Noel",
+      "C. Rousset",
+      "S. Masson"
+    ],
+    "is_editorial": false,
+    "abstract_missing": false,
+    "always_include": false,
+    "score_boost": 0.0,
+    "score": 6.0,
+    "matched": [
+      "Antarctic",
+      "sea ice"
+    ],
+    "published": "2026-11-07",
+    "first_seen": "2026-11-08"
+  },
+  {
+    "title": "Cosmogenic-nuclide joint inversion reveals progressive establishment of selective linear erosion over ca. 2.5–0.7 Ma on two glaciated passive margins",
+    "journal": "Quaternary Science Reviews",
+    "source": "openalex:paleoclimate",
+    "url": "https://doi.org/10.1016/j.quascirev.2026.110366",
+    "doi": "10.1016/j.quascirev.2026.110366",
+    "abstract": null,
+    "authors": [
+      "Zuoheng Shen",
+      "Wei Zhang",
+      "Yijie Zhai",
+      "Bingqian Shao"
+    ],
+    "is_editorial": false,
+    "abstract_missing": true,
+    "always_include": false,
+    "score_boost": 0.0,
+    "score": 6.0,
+    "matched": [
+      "cosmogenic"
+    ],
+    "published": "2026-11-06",
+    "first_seen": "2026-11-08"
+  },
+  {
+    "title": "Paleoclimate implications of quartz arenites over geologic time: A preliminary study",
+    "journal": "Journal of Palaeogeography",
+    "source": "openalex:paleoclimate",
+    "url": "https://doi.org/10.1016/j.jop.2026.100434",
+    "doi": "10.1016/j.jop.2026.100434",
+    "abstract": null,
+    "authors": [
+      "David K. Larue",
+      "E. Mazko",
+      "Shanan E. Peters"
+    ],
+    "is_editorial": false,
+    "abstract_missing": true,
+    "always_include": false,
+    "score_boost": 0.0,
+    "score": 6.0,
+    "matched": [
+      "paleoclimate"
+    ],
+    "published": "2026-11-01",
+    "first_seen": "2026-11-08"
+  },
+  {
     "title": "Technical note: Evaluation of snow water equivalent from large-scale land-surface products over Italy",
     "journal": "Hydrology and earth system sciences",
     "source": "openalex:cryosphere",
@@ -2136,27 +2034,27 @@
     "first_seen": "2026-11-05"
   },
   {
-    "title": "Hydroclimate Variability at Lake Tana, Ethiopia, Over the Past 6,000 Years: A Critical Synthesis of Geochemical and Isotopic Records",
-    "journal": "Science Discovery Environment",
-    "source": "openalex:paleoclimate",
-    "url": "https://doi.org/10.11648/j.sdenv.20260104.12",
-    "doi": "10.11648/j.sdenv.20260104.12",
-    "abstract": "Lake Tana, the source of the Blue Nile in the northwestern Ethiopian highlands, is a climatically sensitive archive at the northern margin of the Intertropical Convergence Zone (ITCZ). Its sediments record changes in the balance between Atlantic/Congo Basin moisture and Indian Ocean/Red Sea moisture, making it a key site for understanding Afro-Asian monsoon dynamics. This review critically synthesizes geochemical (XRF element ratios: Zr/Rb, Ca/Ti, Rb/K) and isotopic (leaf-wax δD) records from Lake Tana to reconstruct hydroclimate variability over the past 6,000 years, evaluate proxy reliability, and identify research gaps. Available evidence indicates that the African Humid Period (AHP) terminated at Lake Tana by approximately 8,000 cal BP, significantly earlier than in the Sahara and North Africa (~5,000 cal BP), δDwax records indicate that this transition was driven by eastward migration of the Congo Air Boundary (CAB), not solely by ITCZ southward retreat. Late Holocene aridification culminated in a pronounced low-stand at ~4,200 cal BP, coeval with the Egyptian Old Kingdom collapse. Existing XRF data (366–150,190 yr) provide a foundation but lack the sampling density needed to resolve centennial-scale variability in the past 6,000 years, and no dedicated high-resolution study exists for the past 2,000 years, a period encompassing the Aksumite civilization and the Little Ice Age. A dedicated high-resolution geochemical and isotopic study is urgently needed to address outstanding questions about natural variability versus anthropogenic impact, and to provide a longer historical context for water resource management in the Blue Nile basin under future global warming.",
+    "title": "Contrasting Terminus Dynamics of Lake-Terminating Glaciers in Lago Argentino (Patagonia), 2016–2026: A Training-Free Sentinel-2/Sentinel-1 Workflow",
+    "journal": "Geomatics",
+    "source": "openalex:cryosphere",
+    "url": "https://doi.org/10.3390/geomatics6060138",
+    "doi": "10.3390/geomatics6060138",
+    "abstract": "Lake-terminating glaciers of the Southern Patagonian Icefield are retreating rapidly, yet dense multi-glacier records of their termini remain scarce. We present a training-free workflow in Google Earth Engine that measures ice-area change within a fixed terminus domain from every usable Sentinel-2 scene (per-scene Otsu threshold on the near-infrared band, with cloud screening restricted to lake pixels) and delineates annual terminus positions automatically. Applied to Perito Moreno, Upsala and Spegazzini glaciers (Lago Argentino, Argentina) for October–March 2016–2026, it yielded 260 scenes. Perito Moreno showed no significant trend until mid-2019 and then lost 0.39 km2 a−1 (p < 0.001); its terminus retreated by about 580 m in nine summers; the two most recent summers showed the largest seasonal losses of the record (≈1.6–1.7 km2); and in March 2026 the front detached from Península de Magallanes. Upsala retreated by about 1010 m (≈130 m a−1), whereas Spegazzini remained within ±100 m of its 2017 position. Warm, dry summers in 2021–2022 affected all three glaciers, so their contrasting responses suggest that basin geometry and lateral support modulate the response to a common climate. Sentinel-1 reproduced the Perito Moreno decline but failed in iceberg-choked Brazo Upsala.",
     "authors": [
-      "Belay Sitotaw Goshu"
+      "Carmen Fattore",
+      "Jairo R. Coronado-Hernández"
     ],
     "is_editorial": false,
     "abstract_missing": false,
     "always_include": false,
     "score_boost": 0.0,
-    "score": 4.0,
+    "score": 5.0,
     "matched": [
-      "Holocene",
-      "proxy",
-      "global warming"
+      "glacier",
+      "iceberg"
     ],
-    "published": "2026-10-29",
-    "first_seen": "2026-10-31"
+    "published": "2026-11-06",
+    "first_seen": "2026-11-08"
   },
   {
     "title": "Ice breakup dynamics on the Kuskokwim River: climatic trends and hydro-meteorological drivers",
@@ -3582,29 +3480,81 @@
     "first_seen": "2026-11-07"
   },
   {
-    "title": "Drivers of 2024 Record Low Sea Ice in Eastern Hudson Bay: A Satellite Era Perspective",
-    "journal": "JGR Atmospheres",
-    "source": "rss:jgr-atmospheres",
-    "url": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2026JD047706?af=R",
-    "doi": "10.1029/2026jd047706",
-    "abstract": "Journal of Geophysical Research: Atmospheres, Volume 131, Issue 21, 16 November 2026.",
+    "title": "3D Displacement From Shaded Relief Feature Offsets: Multi‐Decadal Deceleration and Secondary Mini‐Sliding at the Slumgullion Landslide, Colorado, USA",
+    "journal": "JGR Solid Earth",
+    "source": "rss:jgr-solidearth",
+    "url": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2026JB034517?af=R",
+    "doi": "10.1029/2026jb034517",
+    "abstract": "Journal of Geophysical Research: Solid Earth, Volume 131, Issue 11, November 2026.",
     "authors": [
-      "Richard Dworak",
-      "Yinghui Liu",
-      "Jeffrey R. Key",
-      "Xuanji Wang",
-      "Walter N. Meier"
+      "Xie Hu",
+      "Kristy F. Tiampo",
+      "Roland Bürgmann",
+      "William Schulz",
+      "Zhong Lu",
+      "Ryan Cassotto",
+      "Kathryn Materna",
+      "Liwei Hu",
+      "Zhuoyi Zhao"
     ],
-    "is_editorial": true,
+    "is_editorial": false,
     "abstract_missing": false,
     "always_include": false,
     "score_boost": 0.0,
-    "score": 2.0,
+    "score": 3.0,
     "matched": [
-      "sea ice"
+      "solid earth"
     ],
-    "published": "2026-10-30",
-    "first_seen": "2026-10-31"
+    "published": "2026-11-08",
+    "first_seen": "2026-11-08"
+  },
+  {
+    "title": "Wave‐Induced Fluid Flow Observations in Partially Saturated Unconsolidated Soils: Experiments and Modeling",
+    "journal": "JGR Solid Earth",
+    "source": "rss:jgr-solidearth",
+    "url": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2026JB034639?af=R",
+    "doi": "10.1029/2026jb034639",
+    "abstract": "Journal of Geophysical Research: Solid Earth, Volume 131, Issue 11, November 2026.",
+    "authors": [
+      "Guillaume Flood‐Page",
+      "Santiago Solazzi",
+      "Luc Boutonnier",
+      "Jean‐Michel Pereira"
+    ],
+    "is_editorial": false,
+    "abstract_missing": false,
+    "always_include": false,
+    "score_boost": 0.0,
+    "score": 3.0,
+    "matched": [
+      "solid earth"
+    ],
+    "published": "2026-11-08",
+    "first_seen": "2026-11-08"
+  },
+  {
+    "title": "Interpreting Synthetic Aperture Radar Backscatter During Effusive Eruptions: Insights From Rift and Summit Activity at Kīlauea, Island of Hawai'i",
+    "journal": "JGR Solid Earth",
+    "source": "rss:jgr-solidearth",
+    "url": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2026JB034913?af=R",
+    "doi": "10.1029/2026jb034913",
+    "abstract": "Journal of Geophysical Research: Solid Earth, Volume 131, Issue 11, November 2026.",
+    "authors": [
+      "E. W. Dualeh",
+      "S. K. Ebmeier",
+      "T. J. Wright",
+      "M. P. Poland"
+    ],
+    "is_editorial": false,
+    "abstract_missing": false,
+    "always_include": false,
+    "score_boost": 0.0,
+    "score": 3.0,
+    "matched": [
+      "solid earth"
+    ],
+    "published": "2026-11-08",
+    "first_seen": "2026-11-08"
   },
   {
     "title": "Leveraging leaf-level optimality processes with explicit  acclimation improves global GPP representation in  an individual-based DGVM (LPJ-GUESS v4.1.1)",
