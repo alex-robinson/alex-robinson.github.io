@@ -393,65 +393,6 @@
     "first_seen": "2026-11-07"
   },
   {
-    "title": "Transition to a much warmer climate for the global ocean and Antarctic Ice Sheet coupled system, and its reversibility",
-    "journal": "The Cryosphere",
-    "source": "rss:tc",
-    "url": "https://doi.org/10.5194/tc-20-6241-2026",
-    "doi": "10.5194/tc-20-6241-2026",
-    "abstract": "How the Antarctic ice sheet responds to rapid ocean warming remains uncertain. To explore this, we used a coupled ocean–ice sheet model. We compared simulations under present-day conditions with simulations under strong future warming for 50 years, then returned to today's climate. The ocean warmed quickly but recovered within decades. In contrast, several ice streams continued to retreat for centuries. This shows that even brief warming could cause lasting ice loss and sea-level rise.",
-    "authors": [
-      "Pierre Mathiot",
-      "Nicolas C. Jourdain",
-      "Benoit Urruty",
-      "Fabien Gillet-Chaulet",
-      "Olivier Gagliardini",
-      "Gael Durand"
-    ],
-    "is_editorial": false,
-    "abstract_missing": false,
-    "always_include": true,
-    "score_boost": 0.0,
-    "score": 24.0,
-    "matched": [
-      "ice sheet",
-      "ice stream",
-      "Antarctic",
-      "sea level",
-      "sea-level rise"
-    ],
-    "published": "2026-11-02",
-    "first_seen": "2026-11-02"
-  },
-  {
-    "title": "Forçamento orbital e assimetria hemisférica da insolação no pleistoceno-holoceno",
-    "journal": "Revista Cerrados",
-    "source": "openalex:paleoclimate",
-    "url": "https://www.periodicos.unimontes.br/cerrados/article/view/10826",
-    "doi": "10.46551/rc24482692202640",
-    "abstract": "This study models the seasonal and latitudinal redistribution of orbital insolation for five Pleistocene-Holocene periods: MIS 11 (~400 ka), the Last Interglacial (~125 ka), the Last Glacial Maximum (~21 ka), the early Holocene (~11.7 ka), and the present (0 ka BP = 1950 CE), across nine latitudes from 65°S to 65°N. ORBIT91 parameters were used to calculate Earth-Sun distance, solar declination, photoperiod, and daily top-of-atmosphere insolation. At 65°N during the June solstice, Q ranged from 466.0 W m⁻² in MIS 11 to 537.4 W m⁻² in the Last Interglacial. During austral summer, however, the present has the highest value among the analyzed periods at 40°S, 60°S, and 65°S; at 65°S it reaches 510.9 W m⁻², about 7% above the present-day peak at 65°N. The current precessional configuration, with perihelion near the December solstice, explains this asymmetry. The caloric summer metric, surface-energy scenarios, and comparison with FAO-56 complement the analysis. The results frame insolation as a seasonal forcing capable of modulating hemispheric energy contrasts, whose climatic expression depends on atmospheric circulation and Earth-system feedbacks. The transmittance and evaporation scenarios represent idealized energy bounds rather than observed or reconstructed surface-climate conditions.",
-    "authors": [
-      "Manoel Reinaldo Leite",
-      "Mônica Oliveira Alves",
-      "Matheus Felipe Rodrigues Leite"
-    ],
-    "is_editorial": false,
-    "abstract_missing": false,
-    "always_include": false,
-    "score_boost": 0.0,
-    "score": 21.0,
-    "matched": [
-      "last glacial maximum",
-      "interglacial",
-      "last interglacial",
-      "insolation",
-      "MIS stage",
-      "Holocene",
-      "Earth system"
-    ],
-    "published": "2026-10-30",
-    "first_seen": "2026-11-02"
-  },
-  {
     "title": "Latitudinal Heterogeneity in South Asian Monsoon Changes Since the Last Glacial Maximum Revealed by Ganga–Brahmaputra Vegetation Record",
     "journal": "Paleoceanography and Paleoclimatology",
     "source": "openalex:paleoclimate",
@@ -746,32 +687,32 @@
     "first_seen": "2026-11-08"
   },
   {
-    "title": "Investigating the transition in ice dynamics from a land- to lake-terminating glacier using a simple glacier dynamics model",
-    "journal": "The Cryosphere",
-    "source": "rss:tc",
-    "url": "https://doi.org/10.5194/tc-20-6221-2026",
-    "doi": "10.5194/tc-20-6221-2026",
-    "abstract": "As climate change creates new lakes at the front of retreating glaciers, these ice bodies often accelerate and lose mass more quickly. We used a computer model to study this process at an Icelandic glacier. Our results show that thinning ice is the main driver for recent acceleration, with 37 % of the total ice loss resulting from the presence of the lake. These findings imply that as lakes grow globally, glaciers could vanish more rapidly than predicted, enhancing the rate of sea level rise.",
+    "title": "Toward Spectrally Consistent Solar Radiative Coupling Between the Atmosphere and the Cryosphere in Earth System Models",
+    "journal": "JGR Atmospheres",
+    "source": "rss:jgr-atmospheres",
+    "url": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2026JD046553?af=R",
+    "doi": "10.1029/2026jd046553",
+    "abstract": "Journal of Geophysical Research: Atmospheres, Volume 131, Issue 22, 28 November 2026.",
     "authors": [
-      "Jaime Otero",
-      "Daniel Goldberg",
-      "Peter Nienow",
-      "Yefan Wang"
+      "Juan P. Tolento",
+      "Charles S. Zender",
+      "Andrew F. Roberts",
+      "Erin E. Thomas",
+      "Lili Manzo",
+      "Mark Flanner"
     ],
     "is_editorial": false,
     "abstract_missing": false,
-    "always_include": true,
+    "always_include": false,
     "score_boost": 0.0,
-    "score": 15.0,
+    "score": 16.0,
     "matched": [
-      "ice dynamics",
-      "glacier",
-      "sea level",
-      "sea-level rise",
-      "climate change"
+      "cryosphere",
+      "Earth system model",
+      "Earth system"
     ],
-    "published": "2026-11-02",
-    "first_seen": "2026-11-02"
+    "published": "2026-11-10",
+    "first_seen": "2026-11-10"
   },
   {
     "title": "Regional Arboreal Pollen Input and Its Millennial-Scale Variability Recorded in an Alpine Lake in the Hengduan Mountains, China",
@@ -855,29 +796,6 @@
     ],
     "published": null,
     "first_seen": "2026-11-04"
-  },
-  {
-    "title": "EnsAI: An Emulator for Atmospheric Ammonia Ensembles",
-    "journal": "arXiv physics.ao-ph",
-    "source": "rss:arxiv-ao-ph",
-    "url": "https://arxiv.org/abs/2504.16024",
-    "doi": null,
-    "abstract": "arXiv:2504.16024v4 Announce Type: replace Abstract: Ensemble-based methods for data assimilation and emissions inversions are a popular way to encode flow-dependency within the model error covariance. While most ensemble methods do not require the use of an adjoint model, the need to repeatedly run a geophysical model to generate the ensemble can be a significant computational burden. In this paper, we introduce EnsAI, a new AI-based ensemble generation system for surface ammonia concentrations. When trained on an ensemble for ammonia generated by the GEM-MACH air quality model, it was shown that the ensembles produced by EnsAI can accurately reproduce the meteorology-dependent features of the original ensemble, while generating the ensemble 3,300 times faster than the original GEM-MACH ensemble. While EnsAI requires an upfront cost for generating the ensemble used for training, as well as the training itself, the long term computational savings can greatly exceed these initial computational costs. When used in an emissions inversion system, EnsAI produced similar inversion results to those in which the original GEM-MACH ensemble was used while using significantly less computational resources.",
-    "authors": [
-      "Michael Sitwell"
-    ],
-    "is_editorial": false,
-    "abstract_missing": false,
-    "always_include": false,
-    "score_boost": 0.0,
-    "score": 12.0,
-    "matched": [
-      "data assimilation",
-      "emulator",
-      "ensemble"
-    ],
-    "published": "2026-11-02",
-    "first_seen": "2026-11-02"
   },
   {
     "title": "Volcanic impacts on East Asian climate since 1400: insights from climate reconstructions and paleoclimate reanalysis",
@@ -1133,6 +1051,36 @@
     "first_seen": "2026-11-08"
   },
   {
+    "title": "Enhanced Land‐Surface Processes Sustain Evapotranspiration and Improve Tropical Climate Variability in a Coupled Earth System Model",
+    "journal": "JGR Atmospheres",
+    "source": "rss:jgr-atmospheres",
+    "url": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2026JD047646?af=R",
+    "doi": "10.1029/2026jd047646",
+    "abstract": "Journal of Geophysical Research: Atmospheres, Volume 131, Issue 22, 28 November 2026.",
+    "authors": [
+      "P. V. Rajesh",
+      "Rosimitha Panda",
+      "C. Gnanaseelan",
+      "Amit Kumar Sharma",
+      "Masud Kawsar",
+      "Bushra Shaikh",
+      "Jasti S. Chowdary",
+      "Anant Parekh",
+      "Saikat Pramanik"
+    ],
+    "is_editorial": false,
+    "abstract_missing": false,
+    "always_include": false,
+    "score_boost": 0.0,
+    "score": 10.0,
+    "matched": [
+      "Earth system model",
+      "Earth system"
+    ],
+    "published": "2026-11-10",
+    "first_seen": "2026-11-10"
+  },
+  {
     "title": "A Basin‐Wise GLOF Susceptibility Assessment in the Western Himalayas: Integrating Remote Sensing‐ GIS and Multi‐Criteria Decision Analysis",
     "journal": "Transactions in GIS",
     "source": "openalex:cryosphere",
@@ -1304,36 +1252,6 @@
     ],
     "published": "2026-11-09",
     "first_seen": "2026-11-09"
-  },
-  {
-    "title": "A global inventory of rock glaciers",
-    "journal": "Earth System Science Data",
-    "source": "rss:essd",
-    "url": "https://doi.org/10.5194/essd-2026-575",
-    "doi": "10.5194/essd-2026-575",
-    "abstract": "Preprint under review for ESSD (discussion: open, 0 comments) Rock glaciers are widely distributed in mountain permafrost regions, but existing regional inventories are fragmented, inconsistent, and geographically incomplete, limiting global understanding. We developed the first globally consistent inventory using high-resolution satellite imagery, artificial intelligence, and expert review. This openly available dataset enables global comparisons and supports research on mountain permafrost, water resources, climate change, and environmental change.",
-    "authors": [
-      "Jinhao Xu",
-      "Min Feng",
-      "Yanan Su",
-      "Dezhao Yan",
-      "Qinglin Wu",
-      "Peng Zhao",
-      "Xuefei Zhang",
-      "Xin Li"
-    ],
-    "is_editorial": false,
-    "abstract_missing": false,
-    "always_include": false,
-    "score_boost": 0.0,
-    "score": 8.0,
-    "matched": [
-      "glacier",
-      "permafrost",
-      "climate change"
-    ],
-    "published": "2026-11-02",
-    "first_seen": "2026-11-02"
   },
   {
     "title": "Neuromodulation-inspired gated associative memory networks: Extended memory retrieval and emergent multistability",
@@ -1614,30 +1532,6 @@
     ],
     "published": "2026-11-06",
     "first_seen": "2026-11-06"
-  },
-  {
-    "title": "Beyond evaporation: Strengthening the paleoclimatic interpretation of lacustrine dolomite",
-    "journal": "Solid Earth Sciences",
-    "source": "openalex:paleoclimate",
-    "url": "https://doi.org/10.1016/j.sesci.2026.100345",
-    "doi": "10.1016/j.sesci.2026.100345",
-    "abstract": null,
-    "authors": [
-      "Marie Frances Villegas",
-      "Marissa Palomares",
-      "Alberto P. Calixto",
-      "Aldonato R. Villegas"
-    ],
-    "is_editorial": false,
-    "abstract_missing": true,
-    "always_include": false,
-    "score_boost": 0.0,
-    "score": 6.0,
-    "matched": [
-      "paleoclimate"
-    ],
-    "published": "2026-11-02",
-    "first_seen": "2026-11-02"
   },
   {
     "title": "Exposing the Forcing of the Global and Nino 3.4 Temperatures to Higher Levels by the South East Asian Aerosol Plume Using CMIP6, MERRA‐2, MODIS on TERRA, Last Millennium Ensemble, and Volcanic Eruption Data",
@@ -2145,6 +2039,30 @@
     "first_seen": "2026-11-09"
   },
   {
+    "title": "A Causal Effect Network Analysis of Summer Compound Heatwave and Drought Events Over the Yangtze River Basin",
+    "journal": "JGR Atmospheres",
+    "source": "rss:jgr-atmospheres",
+    "url": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2026JD048173?af=R",
+    "doi": "10.1029/2026jd048173",
+    "abstract": "Journal of Geophysical Research: Atmospheres, Volume 131, Issue 22, 28 November 2026.",
+    "authors": [
+      "Keying Xue",
+      "Wei Li",
+      "Yang Chen",
+      "Cenxiao Sun"
+    ],
+    "is_editorial": false,
+    "abstract_missing": false,
+    "always_include": false,
+    "score_boost": 0.0,
+    "score": 6.0,
+    "matched": [
+      "heat wave"
+    ],
+    "published": "2026-11-10",
+    "first_seen": "2026-11-10"
+  },
+  {
     "title": "Technical note: Evaluation of snow water equivalent from large-scale land-surface products over Italy",
     "journal": "Hydrology and earth system sciences",
     "source": "openalex:cryosphere",
@@ -2314,140 +2232,30 @@
     "first_seen": "2026-11-09"
   },
   {
-    "title": "On the Differential Conditioning of Sub‐Antarctic Mode Water and Antarctic Intermediate Water Over Decadal Time Scales",
-    "journal": "JGR Oceans",
-    "source": "rss:jgr-oceans",
-    "url": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025JC023265?af=R",
-    "doi": "10.1029/2025jc023265",
-    "abstract": "Journal of Geophysical Research: Oceans, Volume 131, Issue 11, November 2026.",
+    "title": "All IPCC AR6 regions are close to their 1.5 °C- and 2 °C-equivalent warming limits",
+    "journal": "Nature Climate Change",
+    "source": "rss:nclimate",
+    "url": "https://www.nature.com/articles/s41558-026-02790-y",
+    "doi": "10.1038/s41558-026-02790-y",
+    "abstract": "Nature Climate Change, Published online: 09 November 2026; doi:10.1038/s41558-026-02790-y Climate targets are set for global temperatures, but what they mean regionally is less clear. Here the authors quantify the amount of human-induced warming in individual IPCC regions and find that, by 2025, they had reached 90–94% (65–76%) of their expected warming levels at the 1.5 °C (2 °C) global warming thresholds.",
     "authors": [
-      "W. M. Balch",
-      "D. J. McGillicuddy Jr.",
-      "H. Oliver",
-      "N. R. Bates",
-      "P. L. Morton",
-      "D. T. Drapeau",
-      "S. R. Pinkham",
-      "B. C. Bowler",
-      "R. Garley",
-      "M. Enright",
-      "J. Happell"
+      "Tong Li",
+      "Francis W. Zwiers",
+      "Xuebin Zhang",
+      "Qiaohong Sun"
     ],
     "is_editorial": false,
     "abstract_missing": false,
     "always_include": false,
     "score_boost": 0.0,
-    "score": 4.0,
+    "score": 5.0,
     "matched": [
-      "Antarctic"
+      "climate change",
+      "global warming",
+      "IPCC"
     ],
-    "published": "2026-11-02",
-    "first_seen": "2026-11-02"
-  },
-  {
-    "title": "Isotopic Insight Into Nitrate Sources and Cycling in Polar Sea Ice",
-    "journal": "JGR Oceans",
-    "source": "rss:jgr-oceans",
-    "url": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2026JC024211?af=R",
-    "doi": "10.1029/2026jc024211",
-    "abstract": "Journal of Geophysical Research: Oceans, Volume 131, Issue 11, November 2026.",
-    "authors": [
-      "Imali Kaushalya Herath",
-      "Guitao Shi",
-      "Yanfen Li",
-      "Yilan Li",
-      "Danhe Wang",
-      "Meredith Hastings"
-    ],
-    "is_editorial": false,
-    "abstract_missing": false,
-    "always_include": false,
-    "score_boost": 0.0,
-    "score": 4.0,
-    "matched": [
-      "polar",
-      "sea ice"
-    ],
-    "published": "2026-11-01",
-    "first_seen": "2026-11-02"
-  },
-  {
-    "title": "MLAWind: a monthly sea surface wind dataset derived from an interpretable machine learning approach integrating in-situ observations and satellite data",
-    "journal": "Earth System Science Data",
-    "source": "rss:essd",
-    "url": "https://doi.org/10.5194/essd-18-7963-2026",
-    "doi": "10.5194/essd-18-7963-2026",
-    "abstract": "This study develops a monthly near-global sea surface wind dataset (MLAWind) from 1950–2023 through an interpretable machine learning framework integrating in-situ observations and satellite data. Evaluations show that MLAWind achieves comparable performance to the widely-used reanalysis datasets at different time scales. It provides reliable historical wind data during both satellite and non-satellite periods, demonstrating broad application prospects in ocean and climate research.",
-    "authors": [
-      "Weihao Guo",
-      "Rongwang Zhang",
-      "Xin Wang",
-      "Dongxiao Wang"
-    ],
-    "is_editorial": false,
-    "abstract_missing": false,
-    "always_include": false,
-    "score_boost": 0.0,
-    "score": 4.0,
-    "matched": [
-      "reanalysis",
-      "machine learning"
-    ],
-    "published": "2026-11-02",
-    "first_seen": "2026-11-02"
-  },
-  {
-    "title": "SATFRONT: Detecting Atmospheric Fronts with Satellite Data using Machine Learning",
-    "journal": "arXiv physics.ao-ph",
-    "source": "rss:arxiv-ao-ph",
-    "url": "https://arxiv.org/abs/2610.42111",
-    "doi": null,
-    "abstract": "arXiv:2610.42111v1 Announce Type: new Abstract: Atmospheric fronts are associated with much of the high-impact weather in the mid-latitudes, yet their identification and classification remain largely manual and subjective. Existing deep learning approaches rely primarily on gridded reanalysis or forecast data, limiting their applicability to satellite observations available for time-critical applications. We introduce SATFRONT, a machine learning framework for detecting cold, warm, and occluded fronts over Europe from geostationary satellite observations, with reanalysis data as an optional additional input. The model is trained on frontal analyses from five European national meteorological services and evaluated against UK Met Office analyses for 2024. Using satellite observations alone, SATFRONT achieves a Critical Success Index (CSI) of 0.428 at a 150 km tolerance, within the range of agreement between analyses from different meteorological services (0.277-0.501) and higher than that of an operational rule-based front detector that uses satellite data (0.133). Adding ERA5 reanalysis increases the CSI to 0.591. ERA5 substantially improves the placement of individual fronts, although its effect on their annual spatial distribution varies by front type. These results demonstrate that cold, warm, and occluded fronts can be detected directly from geostationary satellite observations, providing a basis for automated frontal analyses at the high temporal frequency required for time-critical applications.",
-    "authors": [
-      "Ioannis Dravilas",
-      "Miruna Stoicescu",
-      "Roope Tervo",
-      "Carlos Horn",
-      "Oriol Hinojo Comellas",
-      "Sina Montazeri",
-      "Andrea Meraner",
-      "Ana Lucic"
-    ],
-    "is_editorial": false,
-    "abstract_missing": false,
-    "always_include": false,
-    "score_boost": 0.0,
-    "score": 4.0,
-    "matched": [
-      "reanalysis",
-      "machine learning"
-    ],
-    "published": "2026-11-02",
-    "first_seen": "2026-11-02"
-  },
-  {
-    "title": "Machine Learning Sensor Fusion for Water Vapor Radiometry based Tropospheric Delay Calibration",
-    "journal": "arXiv physics.ao-ph",
-    "source": "rss:arxiv-ao-ph",
-    "url": "https://arxiv.org/abs/2610.41052",
-    "doi": null,
-    "abstract": "arXiv:2610.41052v1 Announce Type: cross Abstract: The next-generation Very Large Array (ngVLA) intends to use 22 GHz water vapor radiometry (WVR) to correct for tropospheric phase fluctuations in its high-frequency bands. However, current delay-retrieval methods do not reach the required accuracy and reliability. As a remedy, we propose a machine-learning based retrieval concept and a preliminary architecture, framed as heterogeneous, multi-rate sensor fusion. Atmospheric reanalysis profiles and surface weather set the context in which per-antenna WVR spectra are used to estimate excess path by a Kalman filter whose parameters are learned from high-cadence calibrator phases. The method is being developed, with planned first validation on the 183 GHz WVR system of the Atacama Large Millimeter/submillimeter Array (ALMA).",
-    "authors": [
-      "T. K. Sridharan",
-      "Yoshiharu Asaki",
-      "Brian E. Svoboda"
-    ],
-    "is_editorial": false,
-    "abstract_missing": false,
-    "always_include": false,
-    "score_boost": 0.0,
-    "score": 4.0,
-    "matched": [
-      "reanalysis",
-      "machine learning"
-    ],
-    "published": "2026-11-02",
-    "first_seen": "2026-11-02"
+    "published": null,
+    "first_seen": "2026-11-10"
   },
   {
     "title": "Brazil’s data-driven plan for climate-resilient healthcare",
@@ -3105,112 +2913,52 @@
     "first_seen": "2026-11-09"
   },
   {
-    "title": "Southeast Asian voices on climate change",
-    "journal": "Nature Climate Change",
-    "source": "rss:nclimate",
-    "url": "https://www.nature.com/articles/s41558-026-02783-x",
-    "doi": "10.1038/s41558-026-02783-x",
-    "abstract": "Nature Climate Change, Published online: 02 November 2026; doi:10.1038/s41558-026-02783-x Responding to the increasing risks of climate change in Southeast Asia requires research and effective action that considers the unique challenges of the region. In this Viewpoint, researchers and practitioners from the region share their views on the progress made in understanding and responding to climate change.",
-    "authors": [
-      "Netra Eng",
-      "Inayah Hidayati",
-      "Hồng Xuân Đỗ",
-      "Ma. Laurice Jamero",
-      "Adi Jaya",
-      "Pinida Leelapanang Kamphaengthong",
-      "Keovathanak Khim",
-      "Phouphet Kyophilavong",
-      "Wilfredo Y. Licuanan",
-      "Maggie Chel Gee Ooi",
-      "Wanida Siriwatthanathadakul Phromlah",
-      "Weerin Wangjiraniran"
-    ],
-    "is_editorial": false,
-    "abstract_missing": false,
-    "always_include": false,
-    "score_boost": 0.0,
-    "score": 3.0,
-    "matched": [
-      "climate change"
-    ],
-    "published": null,
-    "first_seen": "2026-11-02"
-  },
-  {
-    "title": "Value of Adding AI Weather Model Ensembles to a Multi-model Probabilistic Blend",
-    "journal": "arXiv physics.ao-ph",
-    "source": "rss:arxiv-ao-ph",
-    "url": "https://arxiv.org/abs/2610.42130",
-    "doi": null,
-    "abstract": "arXiv:2610.42130v1 Announce Type: new Abstract: Many weather forecasting organizations use a multi-model blend of ensemble members from different prediction systems to obtain a more accurate forecast. Recent studies have shown that blending deterministic AI-based models alongside physics-based models improves the overall forecast skill. However, the incorporation of an ensemble AI-based model into a multi-model blend is yet to be investigated. This study explores the value of blending the ensemble version of the Artificial Intelligence Forecasting System (AIFS-CRPS) with the Met Office's convection permitting physics-based ensemble, MOGREPS-UK. We show that blending site temperature (and wind speed) forecasts over the United Kingdom from both ensemble physics-based and ensemble AI-based models leads to an increase in overall forecast skill spatially, across lead times and across exceedance thresholds, especially when the models have different error characteristics. By decomposing the continuous ranked probability score of the blend into component means and diversity terms, we show that a more accurate blend can be achieved by assigning more weight to more skillful models and using models with complementary errors. For example, we show that a blend of MOGREPS-UK with either AIFS-CRPS or the physics-based Integrated Forecasting System (IFS) is better than a blend of IFS and AIFS-CRPS which are not very diverse. This has implications for the importance of weather model diversity and may lend weight to different model development approaches being pursued in tandem. We also demonstrate that calibrating AIFS-CRPS forecasts yields an increase in forecast skill comparable to calibrated ensemble physics-based forecasts, and calibrating the source forecasts before blending and the blended forecast after blending improves the overall forecast accuracy.",
-    "authors": [
-      "Harris Sop Nkuiate",
-      "Gavin Evans",
-      "Christopher A. T. Ferro",
-      "Frank Kwasniok",
-      "Caroline Bain",
-      "Stefan Siegert"
-    ],
-    "is_editorial": false,
-    "abstract_missing": false,
-    "always_include": false,
-    "score_boost": 0.0,
-    "score": 3.0,
-    "matched": [
-      "ensemble"
-    ],
-    "published": "2026-11-02",
-    "first_seen": "2026-11-02"
-  },
-  {
-    "title": "Stable isotope variability in drip water and its implications for speleothem-based Indian Summer Monsoon reconstruction",
-    "journal": "Journal of Hydrology Regional Studies",
+    "title": "Diatom Records of Peat Sequence From the Late Quaternary to Reconstruct Paleoenvironmental Changes in Baspa Valley, NW Himalaya",
+    "journal": "Proceedings of the National Academy of Sciences India Section A Physical Sciences",
     "source": "openalex:paleoclimate",
-    "url": "https://doi.org/10.1016/j.ejrh.2026.104166",
-    "doi": "10.1016/j.ejrh.2026.104166",
-    "abstract": "Study region Dandak Cave, located in the Core Monsoon Zone of India. Study focus Understanding the transfer of isotopic composition from precipitation through the karst system to cave drip water is essential for interpreting speleothem-based reconstructions of the Indian Summer Monsoon. Drip water was monitored at three sites in Dandak Cave between 2004 and 2006, with measurements of δ 18 O, δ 13 C, and drip rate conducted to investigate the hydrological and geochemical controls on drip water isotopic composition. The observed drip-water δ 18 O was compared with precipitation δ 18 O estimates from a Rayleigh box model and an isotope-enabled general circulation model ensemble. New hydrological insights for the region Drip water δ 18 O displayed a seasonal cycle, with lower (higher) values during the monsoon (non-monsoon) months, consistent with the seasonal evolution of the estimated precipitation δ 18 O. The relatively small amplitude of drip water δ 18 O compared to that of precipitation suggests attenuation of event-scale variability within the soil–epikarst. Although the three monitoring sites differed in mean drip rate and drip rate variability, their seasonal mean δ 18 O values varied by only 0.1–0.2‰, indicating that they record a similar integrated seasonal signal. δ 13 C varied among sites, reflecting the combined influence of drip hydrology, carbon sources, and cave processes. δ 13 C and radiocarbon analyses yielded limestone-derived carbon contributions of 26 ± 3% and 24 ± 4%, respectively, indicating substantial host-rock carbon input.",
+    "url": "https://doi.org/10.1007/s40010-026-01270-4",
+    "doi": "10.1007/s40010-026-01270-4",
+    "abstract": null,
     "authors": [
-      "Kalyani Panchamwar",
-      "Naveen Gandhi",
-      "Amzad Hussain Laskar",
-      "Piyush Ahire",
-      "M. G. Yadava"
+      "Firoz Khan",
+      "Narendra Kumar Meena",
+      "Yaspal Sundriyal",
+      "Sonu Jaglan"
     ],
     "is_editorial": false,
-    "abstract_missing": false,
+    "abstract_missing": true,
     "always_include": false,
     "score_boost": 0.0,
-    "score": 3.0,
+    "score": 4.0,
     "matched": [
-      "radiocarbon",
-      "ensemble"
+      "Quaternary"
     ],
-    "published": "2026-10-31",
-    "first_seen": "2026-11-02"
+    "published": "2026-11-09",
+    "first_seen": "2026-11-10"
   },
   {
-    "title": "Rekonstruksi Iklim Purba Miosen Tengah Berdasarkan Studi Palinologi Formasi Lemau Di Seluma, Bengkulu",
-    "journal": "Jurnal Geosains dan Teknologi",
+    "title": "Sediment accumulation and coarse-particle dynamics recorded by Late Glacial–Holocene loess in the Mesopotamian lowlands",
+    "journal": "Aeolian Research",
     "source": "openalex:paleoclimate",
-    "url": "https://ejournal2.undip.ac.id/index.php/jgt/article/view/30600",
-    "doi": "10.14710/jgt.9.2.2026.146-154",
-    "abstract": "AbstrakFosil polen dan spora yang hadir dalam batuan dapat dimanfaatkan untuk merekonstruksi iklim purba saat batuan tersebut diendapkan. Penelitian mengenai iklim purba menggunakan fosil polen dan spora di Pulau Sumatra masih sangat jarang dilakukan. Penelitian ini bertujuan untuk merekonstruksi iklim purba pada Miosen Tengah di Seluma, Bengkulu menggunakan fosil polen dan spora dari Formasi Lemau. Pengambilan sampel menggunakan metode purposive sampling dari penampang stratigrafi terukur dengan interval sampel 5-8 cm. Analisis laboratorium menggunakan metode hidrogen peroksida dan penentuan iklim berdasarkan kehadiran fosil Arboreal Pollen, Non Arboreal Pollen, Graminae, Montane Pollen dan spora. Dari 9 sampel yang dianalisis, menunjukkan 4 zona perubahan dengan dominasi 3 zona berupa iklim hangat dan lembab dan 1 zona dengan iklim hangat dan kelembaban sedang (Zona 3). Selain itu berdasarkan perbandingan kehadiran fosil Arboreal Pollen dan Non Arboreal Pollen, Zona 1 dan Zona 3 menunjukkan kondisi vegetasi tertutup dan Zona 2 dan Zona 4 menunjukkan kondisi vegetasi terbuka. Iklim hangat yang terjadi di daerah penelitian sebagai dampak dari adanya peristiwa global Middle Miocene Climate Optimum (MMCO) dan Middle Miocen Climate Transition (MMCT).AbstractPollen and spore fossils present in rocks can be used to reconstruct the paleoclimate when the rocks were deposited. Research on paleoclimate using pollen and spore fossils on Sumatra Island is still very rare. This study aims to reconstruct the paleoclimate in the Middle Miocene in Bengkulu using pollen and spore fossils from the Lemau Formation. Sampling used a purposive sampling method from measured stratigraphic cross-sections with a sample interval of 5-8 cm. Laboratory analysis used the hydrogen peroxide method and climate determination based on the presence of Arboreal Pollen, Non-Arboreal Pollen, Graminae, Montane Pollen and spore fossils. Of the 9 samples analyzed, it shows 4 change zones with a dominance of 3 zones in the form of a warm and humid climate and 1 zone with a warm and moderate humidity climate (Zone 3). In addition, based on the comparison of the presence of Arboreal Pollen and Non-Arboreal Pollen fossils, Zone 1 and Zone 3 show closed vegetation conditions and Zone 2 and Zone 4 show open vegetation conditions. The warm climate that occurred in the research area was the impact of the global events of the Middle Miocene Climate Optimum (MMCO) and Middle Miocene Climate Transition (MMCT).",
+    "url": "https://doi.org/10.1016/j.aeolia.2026.101100",
+    "doi": "10.1016/j.aeolia.2026.101100",
+    "abstract": null,
     "authors": [
-      "Sakilla Gia Mentari",
-      "WINANTRIS WINANTRIS",
-      "Lia Jurnaliah",
-      "Ridho Ramadhan Pratama"
+      "Jiasheng Chen",
+      "Ying Cao",
+      "Xiuming Liu",
+      "Siroos Jafari"
     ],
     "is_editorial": false,
-    "abstract_missing": false,
+    "abstract_missing": true,
     "always_include": false,
     "score_boost": 0.0,
-    "score": 3.0,
+    "score": 4.0,
     "matched": [
-      "paleoclimate"
+      "Holocene"
     ],
-    "published": "2026-10-30",
-    "first_seen": "2026-11-02"
+    "published": "2026-11-08",
+    "first_seen": "2026-11-10"
   },
   {
     "title": "Contrasting Effects of Propagating Versus Focused Uplift on Himalayan Erosion",
@@ -3844,6 +3592,72 @@
     "first_seen": "2026-11-09"
   },
   {
+    "title": "Higher warming leads to a larger zero-emissions commitment",
+    "journal": "Nature Climate Change",
+    "source": "rss:nclimate",
+    "url": "https://www.nature.com/articles/s41558-026-02789-5",
+    "doi": "10.1038/s41558-026-02789-5",
+    "abstract": "Nature Climate Change, Published online: 10 November 2026; doi:10.1038/s41558-026-02789-5 Scientific grounds for a net-zero policy assume near-zero committed warming over a few decades after CO2 emissions cease. A modelling study suggests that if prior peak temperatures rise above 2 °C before cessation of CO2 emissions, committed warming increases, making it harder to stabilize global warming.",
+    "authors": [
+      "June-Yi Lee"
+    ],
+    "is_editorial": false,
+    "abstract_missing": false,
+    "always_include": false,
+    "score_boost": 0.0,
+    "score": 3.0,
+    "matched": [
+      "CO2",
+      "climate change",
+      "global warming"
+    ],
+    "published": null,
+    "first_seen": "2026-11-10"
+  },
+  {
+    "title": "Regional climate change approaches Paris limits",
+    "journal": "Nature Climate Change",
+    "source": "rss:nclimate",
+    "url": "https://www.nature.com/articles/s41558-026-02797-5",
+    "doi": "10.1038/s41558-026-02797-5",
+    "abstract": "Nature Climate Change, Published online: 09 November 2026; doi:10.1038/s41558-026-02797-5 It has been surprisingly difficult to calculate how much warming different regions of the Earth have experienced since pre-industrial times. Now, research shows that in most land regions, the temperature thresholds that governments agreed to in Paris to keep below are already dangerously close.",
+    "authors": [
+      "Peter Stott"
+    ],
+    "is_editorial": false,
+    "abstract_missing": false,
+    "always_include": false,
+    "score_boost": 0.0,
+    "score": 3.0,
+    "matched": [
+      "climate change"
+    ],
+    "published": null,
+    "first_seen": "2026-11-10"
+  },
+  {
+    "title": "Co‐Located P and S‐Wave Teleseismic Velocity Tomography of the Alaskan Upper Mantle",
+    "journal": "JGR Solid Earth",
+    "source": "rss:jgr-solidearth",
+    "url": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2026JB034456?af=R",
+    "doi": "10.1029/2026jb034456",
+    "abstract": "Journal of Geophysical Research: Solid Earth, Volume 131, Issue 11, November 2026.",
+    "authors": [
+      "Cristhian Salas",
+      "Zachary C. Eilon"
+    ],
+    "is_editorial": false,
+    "abstract_missing": false,
+    "always_include": false,
+    "score_boost": 0.0,
+    "score": 3.0,
+    "matched": [
+      "solid earth"
+    ],
+    "published": "2026-11-10",
+    "first_seen": "2026-11-10"
+  },
+  {
     "title": "Leveraging leaf-level optimality processes with explicit  acclimation improves global GPP representation in  an individual-based DGVM (LPJ-GUESS v4.1.1)",
     "journal": "Geoscientific Model Development",
     "source": "rss:gmd",
@@ -3912,29 +3726,6 @@
     ],
     "published": "2026-11-06",
     "first_seen": "2026-11-06"
-  },
-  {
-    "title": "Multiwave Interference Characteristics of Semidiurnal Internal Tides in the Northern South China Sea: Perspective of Energetics From Mooring Array Observations",
-    "journal": "JGR Oceans",
-    "source": "rss:jgr-oceans",
-    "url": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2026JC024475?af=R",
-    "doi": "10.1029/2026jc024475",
-    "abstract": "Journal of Geophysical Research: Oceans, Volume 131, Issue 11, November 2026.",
-    "authors": [
-      "Jiahui Li",
-      "Xiaodong Huang",
-      "Yue Wang",
-      "Yunchao Yang",
-      "Wei Zhao"
-    ],
-    "is_editorial": true,
-    "abstract_missing": false,
-    "always_include": false,
-    "score_boost": 0.0,
-    "score": 0.0,
-    "matched": [],
-    "published": "2026-11-01",
-    "first_seen": "2026-11-02"
   },
   {
     "title": "A comment on phylogenetic tests of the haplodiploidy hypothesis for eusociality",
