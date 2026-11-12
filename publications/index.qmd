@@ -5,7 +5,7 @@ title: Publications
 
 **Summary**
 
-- <a href="#articles">65 scientific articles</a>
+- <a href="#articles">69 scientific articles</a>
 - <a href="#reports">4 peer-reviewed commissioned reports</a>
 - 50+ conference presentations (8 invited)
 
@@ -44,6 +44,10 @@ Scopus profile
 <!-- <h3>In progress</h3> -->
 
 <h3 id="2026">2026</h3>
+
+<p>
+[69] Jordan, J. R., Pattyn, F., Abele, D., Albrecht, T., Alvarez-Solas, J., Barnes, J. M., Berends, T. J., Bernales, J. A., Blasco, J., Cheng, G., Choi, Y., Cornford, S. L., Garcia-Molina, C., Gillet-Chaulet, F., Gudmundsson, G. H., Humbert, A., Leguy, G. R., Lipscomb, W. H., Montoya, M., Moreno-Parada, D., Morlighem, M., Pelle, T., <b>Robinson, A.</b>, Rückamp, M., Seroussi, H., Tian, Y., Wagner, L., van de Wal, R. S. W., Zhao, L., and Zwinger, T.: The implementation and effectiveness of Calving Algorithms in numerical ice models (CalvingMIP), The Cryosphere, 20, 6453–6475, https://doi.org/10.5194/tc-20-6453-2026, 2026.
+</p>
 
 <p>
 [68] Grusdt, B., Perrette, M., and <b>Robinson, A.</b>: On combining climate models into weighted ensembles, Earth Syst. Dynam., 17, 1589–1607, https://doi.org/10.5194/esd-17-1589-2026, 2026.
