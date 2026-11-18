@@ -619,6 +619,33 @@
     "first_seen": "2026-11-15"
   },
   {
+    "title": "Characterizing ENSO Teleconnections Impact on Gross Primary Productivity across CMIP6 Earth System Models",
+    "journal": "Journal of Climate",
+    "source": "openalex:0894-8755",
+    "url": "https://doi.org/10.1175/jcli-d-26-0172.1",
+    "doi": "10.1175/jcli-d-26-0172.1",
+    "abstract": "Abstract The El Niño-Southern Oscillation (ENSO) is the dominant mode of interannual variability in the climate system, altering global circulation patterns and causing changes in temperature and precipitation in remote regions through teleconnections. Because ecosystems are sensitive to climate variations, ENSO teleconnections have large implications for the magnitude of carbon uptake by terrestrial vegetation at interannual timescales. Using ten CMIP6 Earth System Models during 1950–2014, we find global carbon uptake is reduced 0.68± 0.18 PgC per °C increase in the Nino3.4 sea surface temperature, primarily due to reduced gross primary productivity (GPP), with a secondary contribution from increased heterotrophic respiration. We quantify the ENSO impact on GPP and identify several key regions in the tropics (Amazon, Southeast Asia) and extratropics (Australia, Northwest North America) where the ensemble shows regionally coherent, statistically significant changes to GPP. In the Amazon, most models suppress GPP due to increased temperature, but three models exhibit a weaker reduction or slight enhancement in GPP. Inter-model differences in background soil moisture state mediate the relative importance of temperature compared to radiation in controlling total and ENSO-driven GPP variability in the Amazon, with drier models exhibiting a stronger temperature-driven response and tending to exhibit greater reductions in GPP associated with ENSO. Our results suggest that, across the ensemble, land model sensitivities to simulated physical climate anomalies play a large role in the GPP response to ENSO conditions and that these responses differ regionally even within the same latitude range.",
+    "authors": [
+      "Maria Salazar",
+      "Gretchen Keppel‐Aleks",
+      "Allison L. Steiner"
+    ],
+    "is_editorial": false,
+    "abstract_missing": false,
+    "always_include": false,
+    "score_boost": 0.0,
+    "score": 23.0,
+    "matched": [
+      "sea surface temperature",
+      "Earth system model",
+      "Earth system",
+      "CMIP",
+      "ensemble"
+    ],
+    "published": "2026-11-16",
+    "first_seen": "2026-11-18"
+  },
+  {
     "title": "A large ice‐dammed lake in the western Danish North Sea: Deglacial evolution and ice‐margin dynamics",
     "journal": "Journal of Quaternary Science",
     "source": "openalex:paleoclimate",
@@ -650,6 +677,65 @@
     ],
     "published": "2026-11-10",
     "first_seen": "2026-11-12"
+  },
+  {
+    "title": "Millennial-scale variability in Greenland dust provenance during Dansgaard–Oeschger events of the last glacial period",
+    "journal": "PNAS",
+    "source": "rss:pnas",
+    "url": "https://www.pnas.org/doi/abs/10.1073/pnas.2618898123?af=R",
+    "doi": "10.1073/pnas.2618898123?af=r",
+    "abstract": "Proceedings of the National Academy of Sciences, Volume 123, Issue 46, November 2026. SignificanceGreenland ice-core records show dust concentrations up to 15 times higher during colder than warmer phases of abrupt climate shifts in the last glacial period. Earlier studies identified East Asian deserts as the primary dust source. Here, ...",
+    "authors": [
+      "Seokhyun RoChanghee HanYeongcheol HanSoon Do HurChul-Un RoJørgen Peder SteffensenAnders SvenssonHubertus FischerAndrea BurkeKhanghyun LeeAhhyung LeeSungmin Hongahttps://ror.org/01easw929Department of Ocean Sciences",
+      "Inha University",
+      "Incheon 22212",
+      "Republic of Koreabhttps://ror.org/00n14a494Division of Glacial",
+      "Earth Sciences",
+      "Korea Polar Research Institute",
+      "Incheon 21990",
+      "Republic of Koreachttps://ror.org/02wn5qz54School of Earth",
+      "Environmental Sciences",
+      "University of St Andrews",
+      "St Andrews KY16 9TS",
+      "United Kingdomdhttps://ror.org/01wjejq96Department of Earth System Sciences",
+      "Yonsei University",
+      "Seoul 03722",
+      "Republic of Koreaehttps://ror.org/01easw929Department of Chemistry",
+      "Inha University",
+      "Incheon 22212",
+      "Republic of Koreafhttps://ror.org/01easw929Particle Pollution Research",
+      "Management Center",
+      "Inha University",
+      "Incheon 21999",
+      "Republic of Koreaghttps://ror.org/035b05819Physics of Ice",
+      "Climate",
+      "Earth",
+      "Niels Bohr Institute",
+      "University of Copenhagen",
+      "Copenhagen DK-2200",
+      "Denmarkhhttps://ror.org/02k7v4d05Climate",
+      "Environmental Physics",
+      "Physics Institute",
+      "Oeschger Centre for Climate Change Research",
+      "University of Bern",
+      "Bern 3012",
+      "Switzerlandihttps://ror.org/00n14a494Unit of Antarctic Inland Research",
+      "Korea Polar Research Institute",
+      "Incheon 21990",
+      "Republic of Korea"
+    ],
+    "is_editorial": false,
+    "abstract_missing": false,
+    "always_include": false,
+    "score_boost": 0.0,
+    "score": 22.0,
+    "matched": [
+      "Greenland",
+      "Dansgaard-Oeschger",
+      "millennial-scale"
+    ],
+    "published": null,
+    "first_seen": "2026-11-18"
   },
   {
     "title": "The Radiative Forcing Model Intercomparison Project (RFMIP2.0) for CMIP7",
@@ -865,6 +951,32 @@
     "first_seen": "2026-11-14"
   },
   {
+    "title": "Quantifying Thermal Inertia Effect of Permafrost in the Community Earth System Model Version 1.2",
+    "journal": "JGR Atmospheres",
+    "source": "rss:jgr-atmospheres",
+    "url": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2026JD047586?af=R",
+    "doi": "10.1029/2026jd047586",
+    "abstract": "Journal of Geophysical Research: Atmospheres, Volume 131, Issue 22, 28 November 2026.",
+    "authors": [
+      "Yihui Chen",
+      "Donglin Guo",
+      "Huijun Wang",
+      "Vladimir E. Romanovsky"
+    ],
+    "is_editorial": false,
+    "abstract_missing": false,
+    "always_include": false,
+    "score_boost": 0.0,
+    "score": 18.0,
+    "matched": [
+      "permafrost",
+      "Earth system model",
+      "Earth system"
+    ],
+    "published": "2026-11-17",
+    "first_seen": "2026-11-18"
+  },
+  {
     "title": "The implementation and effectiveness of Calving Algorithms in numerical ice models (CalvingMIP)",
     "journal": "The Cryosphere",
     "source": "rss:tc",
@@ -944,19 +1056,25 @@
     "first_seen": "2026-11-16"
   },
   {
-    "title": "Toward Spectrally Consistent Solar Radiative Coupling Between the Atmosphere and the Cryosphere in Earth System Models",
-    "journal": "JGR Atmospheres",
-    "source": "rss:jgr-atmospheres",
-    "url": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2026JD046553?af=R",
-    "doi": "10.1029/2026jd046553",
-    "abstract": "Journal of Geophysical Research: Atmospheres, Volume 131, Issue 22, 28 November 2026.",
+    "title": "Isotope-based age scale with multi-month precision for the SE-Dome II ice core from Southeast Greenland over the past 150 years",
+    "journal": "Climate of the Past",
+    "source": "rss:cp",
+    "url": "https://doi.org/10.5194/cp-22-2045-2026",
+    "doi": "10.5194/cp-22-2045-2026",
+    "abstract": "We developed a new 150-year age scale for an ice core from southeast Greenland by matching its oxygen-isotope variations with climate-model simulations. The record resolves changes over several months and shows that snowfall remained nearly evenly distributed through the seasons from 1871 to 2020. This stability suggests that the regional balance of atmospheric circulation and moisture transport changed little at this site despite recent Arctic warming.",
     "authors": [
-      "Juan P. Tolento",
-      "Charles S. Zender",
-      "Andrew F. Roberts",
-      "Erin E. Thomas",
-      "Lili Manzo",
-      "Mark Flanner"
+      "Saaya Hamamoto",
+      "Yoshinori Iizuka",
+      "Takuro Aizawa",
+      "Kaoru Kawakami",
+      "Mai Matsumoto",
+      "Sumito Matoba",
+      "Hayoung Bong",
+      "Kei Yoshimura",
+      "Atsushi Okazaki",
+      "Laura J. Dietrich",
+      "Hans Christian Steen-Larsen",
+      "Ryu Uemura"
     ],
     "is_editorial": false,
     "abstract_missing": false,
@@ -964,12 +1082,12 @@
     "score_boost": 0.0,
     "score": 16.0,
     "matched": [
-      "cryosphere",
-      "Earth system model",
-      "Earth system"
+      "Greenland",
+      "Arctic",
+      "ice core"
     ],
-    "published": "2026-11-10",
-    "first_seen": "2026-11-10"
+    "published": "2026-11-17",
+    "first_seen": "2026-11-18"
   },
   {
     "title": "Early warning of critical transitions: Distinguishing tipping points from turing destabilizations",
@@ -1238,34 +1356,31 @@
     "first_seen": "2026-11-17"
   },
   {
-    "title": "Enhanced Land‐Surface Processes Sustain Evapotranspiration and Improve Tropical Climate Variability in a Coupled Earth System Model",
-    "journal": "JGR Atmospheres",
-    "source": "rss:jgr-atmospheres",
-    "url": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2026JD047646?af=R",
-    "doi": "10.1029/2026jd047646",
-    "abstract": "Journal of Geophysical Research: Atmospheres, Volume 131, Issue 22, 28 November 2026.",
+    "title": "Intensification of compound wind drought and heatwave events under climate change",
+    "journal": "PNAS",
+    "source": "rss:pnas",
+    "url": "https://www.pnas.org/doi/abs/10.1073/pnas.2604442123?af=R",
+    "doi": "10.1073/pnas.2604442123?af=r",
+    "abstract": "Proceedings of the National Academy of Sciences, Volume 123, Issue 46, November 2026. SignificanceAs renewable energy penetration increases, electricity systems will become increasingly vulnerable to extreme weather. One particularly critical hazard is the compound wind drought–heatwave (WDHW), during which weak winds suppress power ...",
     "authors": [
-      "P. V. Rajesh",
-      "Rosimitha Panda",
-      "C. Gnanaseelan",
-      "Amit Kumar Sharma",
-      "Masud Kawsar",
-      "Bushra Shaikh",
-      "Jasti S. Chowdary",
-      "Anant Parekh",
-      "Saikat Pramanik"
+      "Meng QuLu ShenXinrong YangFengwei WanHuiru ZhongSheng Wuahttps://ror.org/02v51f717Department of Atmospheric",
+      "Oceanic Sciences",
+      "School of Physics",
+      "Peking University",
+      "Beijing 100871",
+      "China"
     ],
     "is_editorial": false,
     "abstract_missing": false,
     "always_include": false,
     "score_boost": 0.0,
-    "score": 10.0,
+    "score": 11.0,
     "matched": [
-      "Earth system model",
-      "Earth system"
+      "heat wave",
+      "climate change"
     ],
-    "published": "2026-11-10",
-    "first_seen": "2026-11-10"
+    "published": null,
+    "first_seen": "2026-11-18"
   },
   {
     "title": "Hydro-ecological responses to AMOC in North China during Heinrich 4 and 5 stadials",
@@ -1696,6 +1811,42 @@
     "first_seen": "2026-11-17"
   },
   {
+    "title": "Long-term observations of hydrography, phytoplankton pigments, and suspended particles in Potter Cove (Antarctica), 1991–2025",
+    "journal": "Earth System Science Data",
+    "source": "rss:essd",
+    "url": "https://doi.org/10.5194/essd-2026-846",
+    "doi": "10.5194/essd-2026-846",
+    "abstract": "Preprint under review for ESSD (discussion: open, 0 comments) Antarctica is changing, but long-term coastal observations remain rare. This study brings together more than 30 years of data from Potter Cove, Antarctica, including seawater temperature, salt content, microscopic plant pigments, and suspended particles. By combining thousands of observations collected across seasons, this dataset provides a unique resource for understanding environmental change and ecosystem responses, aiding to understand how Antarctic coastal waters may change in the future.",
+    "authors": [
+      "Irene Ruth Schloss",
+      "Luz Marina Suklje",
+      "María Liliana Quartino",
+      "Gustavo Adolfo Ferreyra",
+      "Oscar González",
+      "Alejandro Ulrich",
+      "Silvia A. Rodríguez",
+      "Eduardo Ruiz Barlett",
+      "Gabriela Tosonotto",
+      "Facundo Matías Barrera",
+      "Gabriela Campana",
+      "Dolores Deregibus",
+      "Camila Neder",
+      "Kerstin Jerosch",
+      "Mohamed Adjou"
+    ],
+    "is_editorial": false,
+    "abstract_missing": false,
+    "always_include": false,
+    "score_boost": 0.0,
+    "score": 8.0,
+    "matched": [
+      "Antarctic",
+      "Antarctica"
+    ],
+    "published": "2026-11-17",
+    "first_seen": "2026-11-18"
+  },
+  {
     "title": "Tracking danger on the peaks",
     "journal": "Science",
     "source": "openalex:cryosphere",
@@ -1774,28 +1925,72 @@
     "first_seen": "2026-11-15"
   },
   {
-    "title": "A Causal Effect Network Analysis of Summer Compound Heatwave and Drought Events Over the Yangtze River Basin",
-    "journal": "JGR Atmospheres",
-    "source": "rss:jgr-atmospheres",
-    "url": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2026JD048173?af=R",
-    "doi": "10.1029/2026jd048173",
-    "abstract": "Journal of Geophysical Research: Atmospheres, Volume 131, Issue 22, 28 November 2026.",
+    "title": "The importance of deep time from Hutton to Earth system science",
+    "journal": "Nature Reviews Earth & Environment",
+    "source": "rss:natrev-ee",
+    "url": "https://www.nature.com/articles/s43017-026-00853-4",
+    "doi": "10.1038/s43017-026-00853-4",
+    "abstract": "Nature Reviews Earth & Environment, Published online: 18 November 2026; doi:10.1038/s43017-026-00853-4 Modern observations sample only a brief interval of Earth history, limiting tests of Earth system behaviour beyond present conditions. Integrating deep-time evidence with observations and Earth system model results can extend empirical testing across a much wider range of environmental conditions.",
     "authors": [
-      "Keying Xue",
-      "Wei Li",
-      "Yang Chen",
-      "Cenxiao Sun"
+      "Chengshan Wang",
+      "Robert M. Hazen",
+      "Michael J. Benton",
+      "Marcia Bjornerud",
+      "Kim A. Cheek",
+      "Sierd Cloetingh",
+      "Robert Frodeman",
+      "Bilal U. Haq",
+      "Vincent Ialenti",
+      "Lee R. Kump",
+      "Timothy M. Lenton",
+      "Dietmar Müller",
+      "Shanan E. Peters",
+      "Zoe Shipton",
+      "Neil Shubin",
+      "Hans Thybo",
+      "Chao Ma"
     ],
     "is_editorial": false,
     "abstract_missing": false,
     "always_include": false,
     "score_boost": 0.0,
-    "score": 6.0,
+    "score": 7.0,
     "matched": [
+      "Earth system model",
+      "Earth system"
+    ],
+    "published": null,
+    "first_seen": "2026-11-18"
+  },
+  {
+    "title": "A new high-resolution daily mean South China Sea Ocean Reanalysis dataset: SCSORA",
+    "journal": "Earth System Science Data",
+    "source": "rss:essd",
+    "url": "https://doi.org/10.5194/essd-18-8471-2026",
+    "doi": "10.5194/essd-18-8471-2026",
+    "abstract": "This research presents a high-resolution ocean reanalysis dataset for the South China Sea covering 2001 to 2024. The dataset assimilates satellite remote sensing data and in-situ observations. It provides daily mean three-dimensional fields of temperature, salinity, currents, and sea surface height. Validation results show good agreement with observations. The dataset has been used to support studies of marine heatwaves, mesoscale eddies, and related processes in this important region.",
+    "authors": [
+      "Xuri Zhang",
+      "Xueming Zhu",
+      "Ziqing Zu",
+      "Guokun Lv",
+      "Hailong Wang",
+      "Yan Yan",
+      "Jian Liu",
+      "Hui Wang"
+    ],
+    "is_editorial": false,
+    "abstract_missing": false,
+    "always_include": false,
+    "score_boost": 0.0,
+    "score": 7.0,
+    "matched": [
+      "reanalysis",
+      "remote sensing",
       "heat wave"
     ],
-    "published": "2026-11-10",
-    "first_seen": "2026-11-10"
+    "published": "2026-11-18",
+    "first_seen": "2026-11-18"
   },
   {
     "title": "Bayesian knockoff filter for controlling false discovery rate",
@@ -2384,30 +2579,66 @@
     "first_seen": "2026-11-17"
   },
   {
-    "title": "All IPCC AR6 regions are close to their 1.5 °C- and 2 °C-equivalent warming limits",
-    "journal": "Nature Climate Change",
-    "source": "rss:nclimate",
-    "url": "https://www.nature.com/articles/s41558-026-02790-y",
-    "doi": "10.1038/s41558-026-02790-y",
-    "abstract": "Nature Climate Change, Published online: 09 November 2026; doi:10.1038/s41558-026-02790-y Climate targets are set for global temperatures, but what they mean regionally is less clear. Here the authors quantify the amount of human-induced warming in individual IPCC regions and find that, by 2025, they had reached 90–94% (65–76%) of their expected warming levels at the 1.5 °C (2 °C) global warming thresholds.",
+    "title": "Programmable multistable structures via bioinspired, mechanically guided 4D printing",
+    "journal": "PNAS",
+    "source": "rss:pnas",
+    "url": "https://www.pnas.org/doi/abs/10.1073/pnas.2614289123?af=R",
+    "doi": "10.1073/pnas.2614289123?af=r",
+    "abstract": "Proceedings of the National Academy of Sciences, Volume 123, Issue 46, November 2026. SignificanceMultistable structures, capable of rapid and complex shape morphing, are highly sought after for actuators, energy harvesting, and flexible devices. Inspired by growth-induced shape formation in plant leaves and fruits, we propose a ...",
     "authors": [
-      "Tong Li",
-      "Francis W. Zwiers",
-      "Xuebin Zhang",
-      "Qiaohong Sun"
+      "Yan ZhaoHanlin ZhuYifeng HeYilong ZhangXin YeRui LvYuanyuan TianZhixun WangJinwu XiangShiwei ZhaoKun ZhouChao JiangaState Key Laboratory of Advanced Design",
+      "Manufacturing for Vehicle Body",
+      "College of Mechanical",
+      "Vehicle Engineering",
+      "Hunan University",
+      "Changsha 410082",
+      "People’s Republic of Chinabhttps://ror.org/0030zas98Department of Electrical",
+      "Electronic Engineering",
+      "The Hong Kong Polytechnic University",
+      "Hong Kong 999077",
+      "Special Administrative Regionchttps://ror.org/00wk2mp56School of Aeronautic Science",
+      "Engineering",
+      "Beihang University",
+      "Beijing 100191",
+      "People’s Republic of ChinadSingapore Centre for 3D Printing",
+      "School of Mechanical",
+      "Aerospace Engineering",
+      "Nanyang Technological University",
+      "Singapore 639798",
+      "Singapore"
     ],
     "is_editorial": false,
     "abstract_missing": false,
     "always_include": false,
     "score_boost": 0.0,
-    "score": 5.0,
+    "score": 6.0,
     "matched": [
-      "climate change",
-      "global warming",
-      "IPCC"
+      "multistable"
     ],
     "published": null,
-    "first_seen": "2026-11-10"
+    "first_seen": "2026-11-18"
+  },
+  {
+    "title": "Contrasting Linkages Between Summer Humid Heatwaves and Rainfall Anomalies Across Eurasia",
+    "journal": "JGR Atmospheres",
+    "source": "rss:jgr-atmospheres",
+    "url": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2026JD047779?af=R",
+    "doi": "10.1029/2026jd047779",
+    "abstract": "Journal of Geophysical Research: Atmospheres, Volume 131, Issue 22, 28 November 2026.",
+    "authors": [
+      "Mengyuan Long",
+      "Jianping Tang"
+    ],
+    "is_editorial": false,
+    "abstract_missing": false,
+    "always_include": false,
+    "score_boost": 0.0,
+    "score": 6.0,
+    "matched": [
+      "heat wave"
+    ],
+    "published": "2026-11-17",
+    "first_seen": "2026-11-18"
   },
   {
     "title": "Reach-scale LCOE of run-of-river hydropower under glacier retreat and winter ice in the Tien Shan",
@@ -2594,52 +2825,84 @@
     "first_seen": "2026-11-16"
   },
   {
-    "title": "Diatom Records of Peat Sequence From the Late Quaternary to Reconstruct Paleoenvironmental Changes in Baspa Valley, NW Himalaya",
-    "journal": "Proceedings of the National Academy of Sciences India Section A Physical Sciences",
-    "source": "openalex:paleoclimate",
-    "url": "https://doi.org/10.1007/s40010-026-01270-4",
-    "doi": "10.1007/s40010-026-01270-4",
-    "abstract": null,
+    "title": "GPU-accelerated atmospheric chemical kinetics using single precision in the ECHAM/MESSy (EMAC) model v2.55 with MEDINA v2.0",
+    "journal": "Geoscientific Model Development",
+    "source": "rss:gmd",
+    "url": "https://doi.org/10.5194/gmd-19-10989-2026",
+    "doi": "10.5194/gmd-19-10989-2026",
+    "abstract": "We address a major bottleneck in Earth system models, the high computational cost of simulating atmospheric chemical reactions, using graphics processing units. The MEDINA code-to-code compiler supports switching from double-precision to single-precision arithmetic on the accelerator, reducing average processing times by 30 %. Tests showed that this more efficient approach maintains high accuracy, with results matching traditional methods within 0.004 %.",
     "authors": [
-      "Firoz Khan",
-      "Narendra Kumar Meena",
-      "Yaspal Sundriyal",
-      "Sonu Jaglan"
+      "Kyriacos Sophocleous",
+      "Timo Kirfel",
+      "Domenico Taraborrelli",
+      "Theodoros Christoudias"
     ],
     "is_editorial": false,
-    "abstract_missing": true,
-    "always_include": false,
+    "abstract_missing": false,
+    "always_include": true,
     "score_boost": 0.0,
-    "score": 4.0,
+    "score": 5.0,
     "matched": [
-      "Quaternary"
+      "Earth system model",
+      "Earth system"
     ],
-    "published": "2026-11-09",
-    "first_seen": "2026-11-10"
+    "published": "2026-11-18",
+    "first_seen": "2026-11-18"
   },
   {
-    "title": "Sediment accumulation and coarse-particle dynamics recorded by Late Glacial–Holocene loess in the Mesopotamian lowlands",
-    "journal": "Aeolian Research",
-    "source": "openalex:paleoclimate",
-    "url": "https://doi.org/10.1016/j.aeolia.2026.101100",
-    "doi": "10.1016/j.aeolia.2026.101100",
-    "abstract": null,
+    "title": "The ocean–atmosphere turbulent flux algorithm in E3SMv2 does not always converge to unique and physical solutions:  analysis and potential remedy",
+    "journal": "Geoscientific Model Development",
+    "source": "rss:gmd",
+    "url": "https://doi.org/10.5194/gmd-19-10957-2026",
+    "doi": "10.5194/gmd-19-10957-2026",
+    "abstract": "Accurately computing ocean–atmosphere turbulent fluxes, which measure the transfer of momentum, heat, and water between the Earth and its oceans, in Earth system models is important for overall model accuracy. Under certain meteorological conditions, the set of equations utilized in many Earth system models to parameterize these fluxes can have no solution or more than one solution. Modifying the equations to address these issues leads to substantial changes to the simulated turbulent fluxes.",
     "authors": [
-      "Jiasheng Chen",
-      "Ying Cao",
-      "Xiuming Liu",
-      "Siroos Jafari"
+      "Justin Dong",
+      "Michael A. Brunke",
+      "Xubin Zeng",
+      "Carol S. Woodward",
+      "Hui Wan",
+      "Christopher J. Vogl"
     ],
     "is_editorial": false,
-    "abstract_missing": true,
+    "abstract_missing": false,
+    "always_include": true,
+    "score_boost": 0.0,
+    "score": 5.0,
+    "matched": [
+      "Earth system model",
+      "Earth system"
+    ],
+    "published": "2026-11-17",
+    "first_seen": "2026-11-18"
+  },
+  {
+    "title": "Learning Calibrated and Samplable Predictive Distributions of Surface-Ocean $\\Delta p$CO$_2$ Using Tabular Diffusion Models",
+    "journal": "arXiv physics.ao-ph",
+    "source": "rss:arxiv-ao-ph",
+    "url": "https://arxiv.org/abs/2611.21769",
+    "doi": null,
+    "abstract": "arXiv:2611.21769v1 Announce Type: cross Abstract: The ocean absorbs almost 30% of anthropogenic CO$_2$ emissions, but quantifying this sink requires estimating surface-ocean CO$_2$ from observations that are sparse in space and time. Most existing machine-learning estimates of this field are deterministic, giving a single value per grid point, with uncertainty approximated post hoc via residuals, ensembles, or prescribed distributions. We instead learn a conditional predictive distribution for each observation: using Treeffuser, a conditional diffusion model with gradient-boosted-tree score functions, we estimate the full predictive distribution of $\\Delta p$CO$_2$ (the sea-air $p$CO$_2$ difference) from 13 environmental, spatial, and temporal predictors. On a held-out SOCAT test set, Treeffuser attains the lowest continuous ranked probability score among the uncertainty-quantification methods evaluated (8.229 $\\mu$atm) and the coverage closest to the nominal 68% / 95% levels (0.686 / 0.930), while retaining point-prediction skill comparable to a deterministic XGBoost baseline (RMSE 18.4 vs. 17.7 $\\mu$atm; $R^2$ 0.77 vs. 0.79). These results show that conditional diffusion can provide well-calibrated, observation-level uncertainties while largely preserving point-prediction skill. Because Treeffuser is generative, its samples can support probabilistic analyses of $\\Delta p$CO$_2$; extending this to spatially coherent field reconstruction will require modeling dependence across grid cells and evaluation on spatially held-out data.",
+    "authors": [
+      "Gabriele Accarino",
+      "Mohammad M. Amirian",
+      "Thea H. Heimdal",
+      "Amanda R. Fay",
+      "Galen A. McKinley",
+      "Viviana Acquaviva"
+    ],
+    "is_editorial": false,
+    "abstract_missing": false,
     "always_include": false,
     "score_boost": 0.0,
-    "score": 4.0,
+    "score": 5.0,
     "matched": [
-      "Holocene"
+      "uncertainty quantification",
+      "ensemble",
+      "machine learning"
     ],
-    "published": "2026-11-08",
-    "first_seen": "2026-11-10"
+    "published": "2026-11-18",
+    "first_seen": "2026-11-18"
   },
   {
     "title": "Predictability Limit of RMM Index Modulated by Diverse ENSO Events",
@@ -3149,70 +3412,124 @@
     "first_seen": "2026-11-17"
   },
   {
-    "title": "Higher warming leads to a larger zero-emissions commitment",
-    "journal": "Nature Climate Change",
-    "source": "rss:nclimate",
-    "url": "https://www.nature.com/articles/s41558-026-02789-5",
-    "doi": "10.1038/s41558-026-02789-5",
-    "abstract": "Nature Climate Change, Published online: 10 November 2026; doi:10.1038/s41558-026-02789-5 Scientific grounds for a net-zero policy assume near-zero committed warming over a few decades after CO2 emissions cease. A modelling study suggests that if prior peak temperatures rise above 2 °C before cessation of CO2 emissions, committed warming increases, making it harder to stabilize global warming.",
+    "title": "Optimal scenario design for climate emulation",
+    "journal": "PNAS",
+    "source": "rss:pnas",
+    "url": "https://www.pnas.org/doi/abs/10.1073/pnas.2620731123?af=R",
+    "doi": "10.1073/pnas.2620731123?af=r",
+    "abstract": "Proceedings of the National Academy of Sciences, Volume 123, Issue 46, November 2026. SignificanceClimate emulators developed through machine learning promise to revolutionize impact assessments by offering an inexpensive way to explore future climates. However, these models often fail to generalize to scenarios that differ from their ...",
     "authors": [
-      "June-Yi Lee"
+      "Christopher B. WomackShahine BouabidAndrei SokolovPopat SalunkeGlenn FlierlSebastian D. EasthamNoelle E. Selinahttps://ror.org/042nb2s44Department of Aeronautics",
+      "Astronautics",
+      "Massachusetts Institute of Technology",
+      "Cambridge 02139",
+      "MAbhttps://ror.org/042nb2s44Center for Sustainability Science",
+      "Strategy",
+      "Massachusetts Institute of Technology",
+      "Cambridge 02139",
+      "MAchttps://ror.org/042nb2s44Department of Earth",
+      "Atmospheric",
+      "Planetary Sciences",
+      "Massachusetts Institute of Technology",
+      "Cambridge 02139",
+      "MAdhttps://ror.org/041kmwe10Department of Aeronautics",
+      "Brahmal Vasudevan Institute for Sustainable Aviation",
+      "Imperial College London",
+      "London SW7 2AZ",
+      "United Kingdomehttps://ror.org/042nb2s44Institute for Data",
+      "Systems",
+      "Society",
+      "Massachusetts Institute of Technology",
+      "Cambridge 02139",
+      "MA"
     ],
     "is_editorial": false,
     "abstract_missing": false,
     "always_include": false,
     "score_boost": 0.0,
-    "score": 3.0,
+    "score": 4.0,
     "matched": [
-      "CO2",
-      "climate change",
-      "global warming"
+      "emulator",
+      "machine learning"
     ],
     "published": null,
-    "first_seen": "2026-11-10"
+    "first_seen": "2026-11-18"
   },
   {
-    "title": "Regional climate change approaches Paris limits",
-    "journal": "Nature Climate Change",
-    "source": "rss:nclimate",
-    "url": "https://www.nature.com/articles/s41558-026-02797-5",
-    "doi": "10.1038/s41558-026-02797-5",
-    "abstract": "Nature Climate Change, Published online: 09 November 2026; doi:10.1038/s41558-026-02797-5 It has been surprisingly difficult to calculate how much warming different regions of the Earth have experienced since pre-industrial times. Now, research shows that in most land regions, the temperature thresholds that governments agreed to in Paris to keep below are already dangerously close.",
+    "title": "Tree‐Ring δ18O Indicates Moisture Variation and Water Vapor Sources on the Eastern Tibetan Plateau",
+    "journal": "JGR Atmospheres",
+    "source": "rss:jgr-atmospheres",
+    "url": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2026JD047046?af=R",
+    "doi": "10.1029/2026jd047046",
+    "abstract": "Journal of Geophysical Research: Atmospheres, Volume 131, Issue 22, 28 November 2026.",
     "authors": [
-      "Peter Stott"
+      "Linlin Cui",
+      "Zeyu Zheng",
+      "Jinjian Li",
+      "Takeshi Nakatsuka",
+      "Zhen Li",
+      "Masaki Sano",
+      "Shanlei Sun"
     ],
     "is_editorial": false,
     "abstract_missing": false,
     "always_include": false,
     "score_boost": 0.0,
-    "score": 3.0,
+    "score": 4.0,
     "matched": [
-      "climate change"
+      "d18O"
     ],
-    "published": null,
-    "first_seen": "2026-11-10"
+    "published": "2026-11-17",
+    "first_seen": "2026-11-18"
   },
   {
-    "title": "Co‐Located P and S‐Wave Teleseismic Velocity Tomography of the Alaskan Upper Mantle",
-    "journal": "JGR Solid Earth",
-    "source": "rss:jgr-solidearth",
-    "url": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2026JB034456?af=R",
-    "doi": "10.1029/2026jb034456",
-    "abstract": "Journal of Geophysical Research: Solid Earth, Volume 131, Issue 11, November 2026.",
+    "title": "Data‐Driven Flux Parameterization for the Atmospheric Boundary Layer",
+    "journal": "JAMES",
+    "source": "rss:james",
+    "url": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2026MS006075?af=R",
+    "doi": "10.1029/2026ms006075",
+    "abstract": "Journal of Advances in Modeling Earth Systems, Volume 18, Issue 11, November 2026.",
     "authors": [
-      "Cristhian Salas",
-      "Zachary C. Eilon"
+      "Abed Hammoud",
+      "Edriss S. Titi",
+      "Mitchell Bushuk",
+      "Marc Calaf",
+      "Khaled Ghannam",
+      "Elie Bou‐Zeid"
     ],
     "is_editorial": false,
     "abstract_missing": false,
     "always_include": false,
     "score_boost": 0.0,
-    "score": 3.0,
+    "score": 4.0,
     "matched": [
-      "solid earth"
+      "parameterization"
     ],
-    "published": "2026-11-10",
-    "first_seen": "2026-11-10"
+    "published": "2026-11-17",
+    "first_seen": "2026-11-18"
+  },
+  {
+    "title": "A regime dependent parameterization of the refractive-index structure parameter $C_n^2$",
+    "journal": "arXiv physics.ao-ph",
+    "source": "rss:arxiv-ao-ph",
+    "url": "https://arxiv.org/abs/2611.22641",
+    "doi": null,
+    "abstract": "arXiv:2611.22641v1 Announce Type: new Abstract: Vertical profiles of the refractive-index (RI) structure parameter, $C_n^2$, are required in atmospheric-optics calculations. The Hufnagel--Valley (HV) model is a useful reference profile and it is widely used however, it is difficult to say that it produces consistent results at the observed altitude, magnitude, and thickness of all turbulent layers and it can diverge from realistic measurements in particular height ranges, sites, and stability regimes. This study develops a regime-dependent RI structure parameter considering meteorological conditions and, more importantly, it provides a structure that can be calibrated against measured $C_n^2$ throughout the surface layer (SL), atmospheric boundary layer (ABL), and free atmosphere. The formulation combines SL including distinct unstable, near-neutral, and stable limits; convective ABL; and free-atmospheric turbulence when kinetic-energy and temperature-variance dissipation rates are available. The $C_n^2$ is formed by weighting the contribution of different layers. We use representative, physically plausible meteorological profiles to examine the model's limiting behavior, transitions between atmospheric regimes, continuity, sensitivity to its parameters, and propagation-related differences from the HV 5/7 model. The intended outcome is a measurement-calibrated model that remains physically interpretable across meteorological regimes.",
+    "authors": [
+      "Yal\\c{c}{\\i}n Ata",
+      "Muhsin Caner G\\\"ok\\c{c}e",
+      "Yahya Baykal"
+    ],
+    "is_editorial": false,
+    "abstract_missing": false,
+    "always_include": false,
+    "score_boost": 0.0,
+    "score": 4.0,
+    "matched": [
+      "parameterization"
+    ],
+    "published": "2026-11-18",
+    "first_seen": "2026-11-18"
   },
   {
     "title": "Biotech innovations are an opportunity to limit climate change",
@@ -3923,6 +4240,82 @@
     "first_seen": "2026-11-17"
   },
   {
+    "title": "Global gridded air-sea oxygen flux inferred from a machine learning-based dissolved oxygen product",
+    "journal": "Earth System Science Data",
+    "source": "rss:essd",
+    "url": "https://doi.org/10.5194/essd-18-8407-2026",
+    "doi": "10.5194/essd-18-8407-2026",
+    "abstract": "We produce monthly air-sea O2 flux estimates (2004-2024) on a 1°×1° grid using machine learning-based dissolved oxygen fields (GOBAI-O2, Sharp et al., 2023). Fluxes are calculated with multiple gas exchange schemes and wind products, then constrained to match independent regional to global annual mean flux estimates. We evaluate flux seasonal cycles and annual patterns against atmospheric O2 observations and quantify flux uncertainties from multiple sources.",
+    "authors": [
+      "Yuming Jin",
+      "Britton B. Stephens",
+      "Eric J. Morgan",
+      "Manfredi Manizza",
+      "Jonathan Sharp"
+    ],
+    "is_editorial": false,
+    "abstract_missing": false,
+    "always_include": false,
+    "score_boost": 0.0,
+    "score": 3.0,
+    "matched": [
+      "machine learning"
+    ],
+    "published": "2026-11-17",
+    "first_seen": "2026-11-18"
+  },
+  {
+    "title": "Bridging the knowledge gaps: A global mapping of capacity building offerings on climate change and health",
+    "journal": "PLOS Climate",
+    "source": "rss:plos-climate",
+    "url": "https://journals.plos.org/climate/article?id=10.1371/journal.pclm.0000987",
+    "doi": "10.1371/journal.pclm.0000987",
+    "abstract": "by Jaafar Tfayli, Sara Kassab, Zahraa Chamseddine, Shadi Saleh, Nour El Arnaout Climate change is an escalating global health threat with disproportionate effects in climate-vulnerable regions. Building capacity at the intersection of climate and health is essential to equip healthcare systems and professionals to assess risks and sustain resilient services. This study maps online publicly accessible capacity-building offerings on climate change and health, focusing on accessibility and applicability to the Middle East and North Africa (MENA) region. A rapid web mapping review identified courses, non-accredited certificates, accredited certificates, and diplomas offered by universities and institutions, excluding master's and PhD programs. Learning outcomes/objectives and metadata (provider type, geography, modality, language, credentialing) were extracted and thematically coded to characterize targeted domains. Twenty-two offerings were identified. Most were courses 82% (n = 18), followed by non-accredited certificates 9% (n = 2), accredited certificates 4.5% (n = 1), and diplomas 4.5% (n = 1). Providers included academic institutions 50% (n = 11), international organizations 27% (n = 6), and e-learning platforms 23% (n = 5). Delivery was predominantly online, 77% (n = 17), with some hybrid, 23% (n = 5) (Fig 2A). Nearly all offerings were in English, 96% (n = 21), with one multilingual; none were in Arabic. Provider geography was largely global (n = 13) or based in the United States (n = 6), with isolated entries from Germany (n = 1), Australia (n = 1), and Kenya (n = 1). No offerings originated from the MENA region. Thematically, programs emphasized climate Change and health policy, governance, leadership, and health impacts, while equity, resilience, competency alignment, applied operations, and stackable credentialing were minimally addressed. Overall, the landscape remains fragmented and rooted in the global north. Key gaps include co-designed, practice-oriented training with climate-vulnerable regions, especially MENA, embedding clear competencies, authentic assessment, and multilingual accessibility.",
+    "authors": [
+      "Jaafar Tfayli",
+      "Sara Kassab",
+      "Zahraa Chamseddine",
+      "Shadi Saleh",
+      "Nour El Arnaout"
+    ],
+    "is_editorial": false,
+    "abstract_missing": false,
+    "always_include": false,
+    "score_boost": 0.0,
+    "score": 3.0,
+    "matched": [
+      "climate change"
+    ],
+    "published": "2026-11-17",
+    "first_seen": "2026-11-18"
+  },
+  {
+    "title": "Projection of global daily CO2 emissions in 2026",
+    "journal": "arXiv physics.ao-ph",
+    "source": "rss:arxiv-ao-ph",
+    "url": "https://arxiv.org/abs/2611.22406",
+    "doi": null,
+    "abstract": "arXiv:2611.22406v1 Announce Type: new Abstract: Global fossil-fuel combustion and industrial-process CO2 emissions remain close to historical highs, yet the recent slowdown in growth is difficult to assess before conventional inventories become available. We project emissions for 2026 and examine daily departures during major climate and energy disruptions. Carbon Monitor activity-based estimates from 1 January 2019 to 30 September 2026 are combined with Prophet projections for 1 October to 31 December across 47 region-sector series. Global emissions are estimated at 38.1 Gt CO2 in 2026, 36.6 Mt CO2 (+0.10%) above 2025. The reference 68% range for the year-on-year rate is +0.011% to +0.18%. Five September-cutoff hindcasts show lower daily forecast errors for Prophet than for a seasonal-naive benchmark. Regional increases total 0.32 Gt and decreases total 0.29 Gt, so 94.0% of the 0.61 Gt gross movement cancels in the global sum. China contributes the largest reduction (-0.19 Gt), concentrated in industry and ground transport, whereas India contributes the largest increase (+0.19 Gt), led by power and industry. Heat-period power anomalies differ among countries and can be muted by summer averaging, while aviation and shipping show different disruption and recovery profiles. Resolving the near-zero global change reveals where reductions are concentrated and where continued growth offsets them, providing a timely basis for assessing the breadth of mitigation progress.",
+    "authors": [
+      "Tao Li",
+      "Zhu Deng",
+      "Philippe Ciais",
+      "Steve J. Davis",
+      "Ling Ye",
+      "Zhu Liu"
+    ],
+    "is_editorial": false,
+    "abstract_missing": false,
+    "always_include": false,
+    "score_boost": 0.0,
+    "score": 3.0,
+    "matched": [
+      "CO2"
+    ],
+    "published": "2026-11-18",
+    "first_seen": "2026-11-18"
+  },
+  {
     "title": "Evaluating extreme precipitation forecasts: a threshold-weighted, spatial verification approach for comparing an AI weather prediction model against a high-resolution NWP model",
     "journal": "Geoscientific Model Development",
     "source": "rss:gmd",
@@ -4194,5 +4587,60 @@
     "matched": [],
     "published": "2026-11-17",
     "first_seen": "2026-11-17"
+  },
+  {
+    "title": "Evaluation of precipitation variability over complex terrain based on observations and high resolution WRF v4.2.2 modelling",
+    "journal": "Geoscientific Model Development",
+    "source": "rss:gmd",
+    "url": "https://doi.org/10.5194/gmd-19-10933-2026",
+    "doi": "10.5194/gmd-19-10933-2026",
+    "abstract": "This study compares observed and simulated rainfall in a mountainous area in central Spain from 1991 to 2020. It uses data from high and low elevations, along with long-term simulations and tests at very fine detail. While the finest detail tends to overestimate rainy days, it better captures heavy rainfall events. Overall, the results improve understanding of rainfall patterns and the benefits of higher detail.",
+    "authors": [
+      "Emilio Greciano-Zamorano",
+      "J. Fidel González-Rouco",
+      "Jorge Navarro-Montesinos",
+      "Cristina Vegas-Cañas",
+      "Félix García-Pereira",
+      "Elena García-Bustamante",
+      "Esteban Rodríguez-Guisado",
+      "Ernesto Rodríguez-Camino",
+      "Juan Carlos Sánchez-Perrino",
+      "Rita M. Cardoso",
+      "Sara Madera-Sánchez",
+      "Almudena García-García",
+      "Francisco José Cuesta-Valero",
+      "Hugo Beltrami",
+      "Freddy Pinochet-Erazo"
+    ],
+    "is_editorial": false,
+    "abstract_missing": false,
+    "always_include": true,
+    "score_boost": 0.0,
+    "score": 0.0,
+    "matched": [],
+    "published": "2026-11-17",
+    "first_seen": "2026-11-18"
+  },
+  {
+    "title": "The stippled grid points are statistically significant: (mis)uses  of false discovery rate correction for geospatial data",
+    "journal": "Geoscientific Model Development",
+    "source": "rss:gmd",
+    "url": "https://doi.org/10.5194/gmd-19-10917-2026",
+    "doi": "10.5194/gmd-19-10917-2026",
+    "abstract": "When testing whether signals on maps are statistically meaningful, scientists must account for multiple testing. Otherwise, some results may appear significant purely by chance. We show that the widely used Benjamini–Hochberg correction can be misleading: simply changing the geographic region analyzed can make the same data appear far more statistically significant, even though nothing has changed. We recommend transparent reporting and using region-wide averages instead of pointwise testing.",
+    "authors": [
+      "Michael Konrad Schutte",
+      "Leonardo Olivetti",
+      "Flavio Maria Emanuele Pons",
+      "Gabriele Messori"
+    ],
+    "is_editorial": false,
+    "abstract_missing": false,
+    "always_include": true,
+    "score_boost": 0.0,
+    "score": 0.0,
+    "matched": [],
+    "published": "2026-11-17",
+    "first_seen": "2026-11-18"
   }
 ]
