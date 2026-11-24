@@ -1,36 +1,5 @@
 [
   {
-    "title": "Ice-dynamic regime of the Northeast Greenland Ice Stream derived from the mass flux balance of englacial units",
-    "journal": "Annals of Glaciology",
-    "source": "openalex:cryosphere",
-    "url": "https://doi.org/10.1017/aog.2026.10064",
-    "doi": "10.1017/aog.2026.10064",
-    "abstract": "An assumption commonly used for ice streams in ice sheet models is that the vertical profile of horizontal velocity is constant throughout the ice column from the surface to the base.Here, we use airborne radar data for mass flux balance analysis of the central part of the Northeast Greenland Ice Stream, to ascertain whether this assumption is broadly applicable in the ice stream's central region where the ice flow appears to be channelled by a large subglacial trough.We investigate the along-flow evolution of mass flux balance of both the full ice thickness and three englacial units in steady-state, and analyse the spatial variation of their imbalances.We assess the potential over-and under-estimation of ice flow velocity within the ice column and infer vertical shear profile models for our study region.These inferences suggest that the ice stream in this central region is flowing as a block, or plugflow, rather than with deformation from internal shearing, despite large variations in bed topography, basal shear stresses, and in a region with relatively slow ice flow velocities.",
-    "authors": [
-      "Charlotte Carter",
-      "Steven Franke",
-      "Daniela Jansen",
-      "Niklas Neckel",
-      "Olaf Eisen"
-    ],
-    "is_editorial": false,
-    "abstract_missing": false,
-    "always_include": false,
-    "score_boost": 0.0,
-    "score": 55.0,
-    "matched": [
-      "ice sheet",
-      "ice stream",
-      "subglacial",
-      "ice flow",
-      "englacial",
-      "Greenland",
-      "Northeast Greenland Ice Stream"
-    ],
-    "published": "2026-11-03",
-    "first_seen": "2026-11-16"
-  },
-  {
     "title": "Permafrost carbon–climate feedback amplifies Earth system tipping risks",
     "journal": "Environmental Research Letters",
     "source": "openalex:cites-me",
@@ -102,37 +71,6 @@
     ],
     "published": "2026-11-20",
     "first_seen": "2026-11-22"
-  },
-  {
-    "title": "Ice surface change drives subglacial hydrologic reorganization and interior speedup in northwest Greenland",
-    "journal": "Journal of Glaciology",
-    "source": "openalex:cryosphere",
-    "url": "https://doi.org/10.1017/jog.2026.10223",
-    "doi": "10.1017/jog.2026.10223",
-    "abstract": "Abstract Changes in ice surface elevation and slope influence subglacial water pressure and sliding velocity. Leveraging changes in elevation observed by the Ice, Cloud and land-Elevation satellite (ICESat) and ICESat-2 missions, we use coupled subglacial hydrology–ice dynamics modeling applied to a section of the northwest Greenland ice sheet to explore (i) how decadal-scale changes in ice surface elevation influence changes in winter background subglacial hydrology and corresponding ice velocity, and (ii) how much seasonal response is attributable to geometry versus environmental forcing. Our simulations suggest complex reorganization of the subglacial hydrologic system between 2004 and 2020, resulting from changes in surface elevation, driving redistribution of freshwater flux, an overall acceleration trend in the interior and an increase in background basal melt. Without changing hydrological conditions, geometry changes alone lead to greater interior acceleration, suggesting that changes in the subglacial system help to mitigate this speedup. We also find that the winter background state of the subglacial system modulates the seasonal response. This work demonstrates feedbacks that influence mass loss from the Greenland ice sheet as surface elevation evolves, highlighting the subtleties involved in accounting for changes in effective pressure, ice velocity and basal melt due to changes in subglacial hydrology.",
-    "authors": [
-      "Aleah Nicholson Sommers",
-      "Aaron Stubblefield",
-      "Lauren C. Andrews",
-      "Colin Meyer",
-      "Benjamin Smith"
-    ],
-    "is_editorial": false,
-    "abstract_missing": false,
-    "always_include": false,
-    "score_boost": 0.0,
-    "score": 33.0,
-    "matched": [
-      "ice sheet",
-      "subglacial",
-      "subglacial hydrology",
-      "ice dynamics",
-      "Greenland",
-      "basal melt",
-      "mass loss"
-    ],
-    "published": "2026-11-05",
-    "first_seen": "2026-11-16"
   },
   {
     "title": "The balance of evidence indicates a slowing AMOC",
@@ -259,41 +197,6 @@
     ],
     "published": "2026-11-19",
     "first_seen": "2026-11-22"
-  },
-  {
-    "title": "Landscape evolution at an emerging englacial esker in Southeast Iceland over weekly-to-annual timescales",
-    "journal": "Journal of Glaciology",
-    "source": "openalex:cryosphere",
-    "url": "https://doi.org/10.1017/jog.2026.10129",
-    "doi": "10.1017/jog.2026.10129",
-    "abstract": "Abstract Eskers are used to characterize glacial drainage systems to inform ice-sheet modeling. However, the connection between eskers preserved in the paleoglaciologic record and the conditions required to deposit them is not well understood, particularly for englacial eskers. We use uncrewed aerial vehicle data over weekly-to-annual timescales from 2021 to 2024 at Breiðamerkurjökull in Iceland to investigate how englacial eskers evolve after emerging from the glacier. During the study period, an esker emerged from an englacial conduit, experienced significant modification and was emplaced on the outwash plain at the edge of a proglacial lake. We find that englacial eskers experience significant erosion and modification as they interact with proglacial lakes or streams and their ice cores melt, implying that englacial eskers are not generally well preserved in the paleoglaciologic record. Both esker morphology and stratigraphy evolved over the study period, indicating that when observed in preserved englacial eskers, they do not necessarily reflect conduit emplacement conditions. Englacial eskers deposited at the edge of overdeepenings may be more likely to be preserved than those deposited elsewhere. Additionally, surface ice topography evolution is assessed to identify structural hazards at an esker-forming glacier margin, which is critical as glacial-related hazards increase in a warming climate.",
-    "authors": [
-      "K. A. Bennett",
-      "Amy Lally",
-      "Alicia M. Rutledge",
-      "Ari Koeppel",
-      "Christopher Scott Edwards",
-      "Lauren Edgar",
-      "Elizabeth Rampe",
-      "Helen Eifert",
-      "Marie Henderson",
-      "Natalie A. Jones",
-      "An Li"
-    ],
-    "is_editorial": false,
-    "abstract_missing": false,
-    "always_include": false,
-    "score_boost": 0.0,
-    "score": 24.0,
-    "matched": [
-      "ice sheet",
-      "ice-sheet modelling",
-      "englacial",
-      "glacier",
-      "ice core"
-    ],
-    "published": "2026-11-09",
-    "first_seen": "2026-11-16"
   },
   {
     "title": "Characterizing ENSO Teleconnections Impact on Gross Primary Productivity across CMIP6 Earth System Models",
@@ -614,30 +517,31 @@
     "first_seen": "2026-11-23"
   },
   {
-    "title": "Evidence for subglacial flooding in labyrinthine channels on Devon Island, Nunavut, Canada",
+    "title": "An accurate present-day model of the Antarctic ice sheet is necessary but insufficient for an accurate projection of its future evolution",
     "journal": "The Cryosphere",
     "source": "rss:tc",
-    "url": "https://doi.org/10.5194/tc-20-6565-2026",
-    "doi": "10.5194/tc-20-6565-2026",
-    "abstract": "We describe the morphological characteristics of anastomosing (labyrinthine) bedrock channels to enhance the current understanding of subglacial meltwater dynamics of the Innuitian Ice Sheet. Our work reveals a morphological similarity between labyrinthine channels and other landscapes modified by glacial floods. We argue that the presence of anastomosis, distinct erosional surfaces, and longitudinal profile slope breaks imply formation by short-lived episodes of erosion associated with floods.",
+    "url": "https://doi.org/10.5194/tc-20-6883-2026",
+    "doi": "10.5194/tc-20-6883-2026",
+    "abstract": "Computer models of the Antarctic ice sheet can project how much it will melt in response to climate change. That depends on the properties of the rock and the water beneath the ice, about which we know very little. That means the amount of sea-level in the future is very uncertain. Techniques to reduce that uncertainty do not always work as well as expected. We must get actual measurements of the bottom of the ice to improve our understanding of the ice sheet, and our knowledge of its future.",
     "authors": [
-      "Simona F. Ruso",
-      "Gordon R. Osinski",
-      "Anna Grau Galofre",
-      "Antero Kukko"
+      "Constantijn J. Berends",
+      "Jorge A. Bernales",
+      "Erwin Lambert",
+      "Roderik S. W. van de Wal"
     ],
     "is_editorial": false,
     "abstract_missing": false,
     "always_include": true,
     "score_boost": 0.0,
-    "score": 17.0,
+    "score": 18.0,
     "matched": [
       "ice sheet",
-      "subglacial",
-      "meltwater"
+      "Antarctic",
+      "sea level",
+      "climate change"
     ],
-    "published": "2026-11-16",
-    "first_seen": "2026-11-16"
+    "published": "2026-11-24",
+    "first_seen": "2026-11-24"
   },
   {
     "title": "Isotope-based age scale with multi-month precision for the SE-Dome II ice core from Southeast Greenland over the past 150 years",
@@ -731,6 +635,34 @@
     "first_seen": "2026-11-22"
   },
   {
+    "title": "Drivers of reduced permafrost cooling efficacy of equatorial stratospheric aerosol injection in the Eastern Arctic compared to a moderate emission pathway",
+    "journal": "Earth System Dynamics",
+    "source": "rss:esd",
+    "url": "https://doi.org/10.5194/esd-17-1779-2026",
+    "doi": "10.5194/esd-17-1779-2026",
+    "abstract": "The Arctic is warming faster than the rest of the world, causing permafrost – frozen ground – to thaw and release gases that accelerate climate change. Because emissions are not falling quickly enough, ways to cool the planet by reflecting sunlight back to space are being explored. Using climate model experiments, we study how this could affect permafrost. We find it could slow overall loss later this century, but shift thaw patterns, reducing it in some regions while increasing it in others.",
+    "authors": [
+      "Isaline Businger",
+      "Rhonda C. Müller",
+      "Raleigh Grysko",
+      "Jacqueline Oehri",
+      "Jin-Soo Kim",
+      "Gabriela Schaepman-Strub"
+    ],
+    "is_editorial": false,
+    "abstract_missing": false,
+    "always_include": false,
+    "score_boost": 0.0,
+    "score": 16.0,
+    "matched": [
+      "Arctic",
+      "permafrost",
+      "climate change"
+    ],
+    "published": "2026-11-24",
+    "first_seen": "2026-11-24"
+  },
+  {
     "title": "Early warning of critical transitions: Distinguishing tipping points from turing destabilizations",
     "journal": "Physica D Nonlinear Phenomena",
     "source": "openalex:cites-me",
@@ -781,36 +713,6 @@
     "first_seen": "2026-11-22"
   },
   {
-    "title": "Surface melt variability over the Shackleton Ice Shelf from high-resolution sentinel-1 sar observations during 2015–2023",
-    "journal": "International Journal of Digital Earth",
-    "source": "openalex:cryosphere",
-    "url": "https://doi.org/10.1080/17538947.2026.2744437",
-    "doi": "10.1080/17538947.2026.2744437",
-    "abstract": null,
-    "authors": [
-      "Qi Zhu",
-      "Lu Zhang",
-      "Yuqian Zhang",
-      "Yiming Liu",
-      "Dong Liang",
-      "Rachel Meixiang Chen",
-      "Zherong Wu",
-      "Mengru Xiao",
-      "Huadong Guo"
-    ],
-    "is_editorial": false,
-    "abstract_missing": true,
-    "always_include": false,
-    "score_boost": 0.0,
-    "score": 14.0,
-    "matched": [
-      "ice shelf",
-      "surface melt"
-    ],
-    "published": "2026-11-14",
-    "first_seen": "2026-11-16"
-  },
-  {
     "title": "Spatial Shift in Southern Ocean Seasonal Ice Zone Production Trends",
     "journal": "Journal of Climate",
     "source": "openalex:0894-8755",
@@ -835,35 +737,6 @@
     ],
     "published": "2026-11-20",
     "first_seen": "2026-11-22"
-  },
-  {
-    "title": "Development of a semi-persistent floating terminus at San Quintín Glacier (Northern Patagonia Icefield), the last piedmont glacier in the Andes",
-    "journal": "Annals of Glaciology",
-    "source": "openalex:cryosphere",
-    "url": "https://doi.org/10.1017/aog.2026.10060",
-    "doi": "10.1017/aog.2026.10060",
-    "abstract": "Abstract The piedmont lobe of San Quintín Glacier, the largest outlet of the Northern Patagonia Icefield, has recently entered a phase of rapid frontal retreat. We present results from a helicopter-borne ground-penetrating radar (GPR) survey conducted in May 2019 in the terminal zone of the glacier, combined with satellite-derived ice velocity, frontal position and surface elevation change data. GPR measurements along the flowline indicate ice thicknesses of 215–240 m in the lowermost 1400 m of the glacier. The inferred grounding line is located approximately 1500 m upstream from the 2019 calving front. Analysis of surface elevation change in 2017–19 shows mean thinning rates of -5.43 plus or minus $\\pm$ ± 1.58 m a minus 1 $^{-1}$ − 1 upstream and -1.08 plus or minus $\\pm$ ± 1.39 m a minus 1 $^{-1}$ − 1 near the terminus. Satellite-derived velocities reach up to 1050 m a minus 1 $^{-1}$ − 1 in the lower glacier, with higher values observed in the later part of the observation period. Residual bed reflection power derived from the GPR profiles indicates the presence of water at the glacier bed in the terminal zone. Taken together, these observations are consistent with the development of a semi-persistent floating terminus, where basal water and buoyancy modulate surface elevation change and control frontal stability and calving style. The results provide new observational constraints on the transient behaviour of floating termini at fast-flowing outlet glaciers in lacustrine settings.",
-    "authors": [
-      "Michał Pętlicki",
-      "Andrés Rivera",
-      "Jonathan Oberreuter",
-      "Jose Andres Uribe",
-      "Johannes Reinthaler",
-      "Francisca Bown"
-    ],
-    "is_editorial": false,
-    "abstract_missing": false,
-    "always_include": false,
-    "score_boost": 0.0,
-    "score": 13.0,
-    "matched": [
-      "grounding line",
-      "glacier",
-      "calving",
-      "outlet glacier"
-    ],
-    "published": "2026-11-04",
-    "first_seen": "2026-11-16"
   },
   {
     "title": "Coupled Ocean–Atmosphere Processes Associated with Realistically Sized Weddell Sea Polynyas in CMIP6 Models",
@@ -1171,6 +1044,33 @@
     ],
     "published": "2026-11-23",
     "first_seen": "2026-11-23"
+  },
+  {
+    "title": "Alternate states and intermingledness in complex high-dimensional systems",
+    "journal": "PLOS Climate",
+    "source": "rss:plos-climate",
+    "url": "https://journals.plos.org/climate/article?id=10.1371/journal.pclm.0001081",
+    "doi": "10.1371/journal.pclm.0001081",
+    "abstract": "by George Datseris, Johannes Lohmann, Oisín Hamilton, Jacob Haqq-Misra Many natural systems posses, and can transition between, multiple alternative states. For example, a climate “tipping element” is a climate component that can transition to an alternative steady state due to an external perturbation such as global warming. Despite the potential impact, existence of alternate states in realistic, complex simulations (e.g., climate models) remain poorly understood. Arguably a reason for this is the lack of applicable methodology that explicitly targets finite yet high-dimensional datasets. In this work we utilize recent progress in computational nonlinear dynamics to formulate a workflow that analyses potentially multi-state simulation data and decides algorithmically what are the alternate states contained within, if any are clearly distinguishable. The framework undergoes an optimization routine that showcases which observables in the data best differentiate the alternate states, and which ones do not differentiate at all, which could be used to guide monitoring and early-warning for multistable components in climate or ecosystems. Finally, once the alternate states have been found, we define an indicator called “intermingledness”. It quantifies differences and similarities between alternate states, as well as for their basins of attraction (if applicable), across various diagnostic variables. We analyse and present results using three diverse climate datasets: Atlantic ocean circulation, atmospheric midlatitude flow, and habitability of exoplanets. The method is not exclusive to climatic data, but applicable to a variety of cases characterised by high dimensional data and presence of alternate states, including complex networks such as power grids or biological networks. We also provide easy-to-use open source code for applying the workflow to new data.",
+    "authors": [
+      "George Datseris",
+      "Johannes Lohmann",
+      "Oisín Hamilton",
+      "Jacob Haqq-Misra"
+    ],
+    "is_editorial": false,
+    "abstract_missing": false,
+    "always_include": false,
+    "score_boost": 0.0,
+    "score": 11.0,
+    "matched": [
+      "tipping element",
+      "multistable",
+      "ocean circulation",
+      "global warming"
+    ],
+    "published": "2026-11-23",
+    "first_seen": "2026-11-24"
   },
   {
     "title": "Future meltwater dynamics and water balance components under climate warming and land use change in a cryosphere-dominated basin of the Tibetan plateau",
@@ -1755,113 +1655,28 @@
     "first_seen": "2026-11-23"
   },
   {
-    "title": "As El Niño builds, studies of extreme marine heatwaves must start now",
-    "journal": "Nature",
-    "source": "rss:nature",
-    "url": "https://www.nature.com/articles/d41586-026-03715-7",
-    "doi": "10.1038/d41586-026-03715-7",
-    "abstract": "Nature, Published online: 16 November 2026; doi:10.1038/d41586-026-03715-7 Researchers must track warming oceans and use the knowledge gained to inform strategies for sustaining fisheries and communities that depend on them.",
+    "title": "Receiver Functions in the San Fernando Valley, California: Graph‐Regularized Bayesian Approach for Gravity‐Informed Mapping",
+    "journal": "JGR Solid Earth",
+    "source": "rss:jgr-solidearth",
+    "url": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025JB033636?af=R",
+    "doi": "10.1029/2025jb033636",
+    "abstract": "Journal of Geophysical Research: Solid Earth, Volume 131, Issue 11, November 2026.",
     "authors": [
-      "Alistair J. Hobday",
-      "Kathryn E. Smith",
-      "Claire M. Spillman",
-      "Karen Filbee-Dexter",
-      "Neil J. Holbrook",
-      "Caroline Rowland",
-      "Dan A. Smale",
-      "Grant Smith",
-      "Mads S. Thomsen",
-      "Thomas Wernberg",
-      "Alex Sen Gupta"
+      "Valeria Villa",
+      "Robert W. Clayton",
+      "Patricia Persaud"
     ],
     "is_editorial": false,
     "abstract_missing": false,
     "always_include": false,
     "score_boost": 0.0,
-    "score": 6.0,
+    "score": 7.0,
     "matched": [
-      "heat wave"
+      "solid earth",
+      "Bayesian"
     ],
-    "published": null,
-    "first_seen": "2026-11-16"
-  },
-  {
-    "title": "Hybrid Spectral Downscaling of Directional Wave Spectra in the Gulf of Panama: Seasonal Organization and Transformation of Offshore Wave Systems",
-    "journal": "JGR Oceans",
-    "source": "rss:jgr-oceans",
-    "url": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2026JC024543?af=R",
-    "doi": "10.1029/2026jc024543",
-    "abstract": "Journal of Geophysical Research: Oceans, Volume 131, Issue 11, November 2026.",
-    "authors": [
-      "Ruby Vallarino‐Castillo",
-      "Gabriel Bellido",
-      "Laura Cagigal",
-      "Vicente Negro‐Valdecantos",
-      "Jesús Portilla‐Yandún",
-      "Fernando Méndez",
-      "José A. A. Antolínez"
-    ],
-    "is_editorial": false,
-    "abstract_missing": false,
-    "always_include": false,
-    "score_boost": 0.0,
-    "score": 6.0,
-    "matched": [
-      "downscaling"
-    ],
-    "published": "2026-11-16",
-    "first_seen": "2026-11-16"
-  },
-  {
-    "title": "WeatherDreamer: Learning a World Model from Multimodal Earth Observations",
-    "journal": "arXiv physics.ao-ph",
-    "source": "rss:arxiv-ao-ph",
-    "url": "https://arxiv.org/abs/2611.18393",
-    "doi": null,
-    "abstract": "arXiv:2611.18393v1 Announce Type: cross Abstract: Machine learning weather models now rival operational global forecasts but still start from analyses produced by separate, expensive data assimilation (DA) systems, which for global models are typically updated every six hours. Observation-to-observation models avoid this dependence, but most omit the recursive filtering cycle that lets DA systems carry a background state through sparse, irregular observations. We introduce WeatherDreamer, a world model that learns this cycle end-to-end from 18 global observing systems, without reanalysis. It infers a latent state from observations, carries it forward hour by hour with learned dynamics, corrects it each hour with new observations, and can predict what any of its observing systems would measure at any location. At held-out stations, its ensembles beat NOAA's Global Ensemble Forecast System (GEFS) for temperature, dew point and wind out to 12 h and are better calibrated than GEFS and the ECMWF ensemble. Precipitation, cloud-top height and solar irradiance, never inputs at inference, are inferred with skill matching or exceeding operational products at short leads. Against the first guess of NOAA's Gridpoint Statistical Interpolation (GSI) DA system, WeatherDreamer's short-range departures are within 10% of GSI's at surface stations and within 25% for moisture-sensitive microwave channels, but up to five times larger for temperature-sounding channels. Never given observation errors, its learned update assumes errors close to known instrument and retrieval errors of microwave sounders and scatterometer winds. WeatherDreamer also separates viewing geometry from atmospheric state, recovering 83-96% of observed limb darkening and producing seamless nadir-view imagery. Producing an hourly global analysis in about 1.5 minutes on one GPU, WeatherDreamer shows that assimilation and forecasting can be learned together directly from observations.",
-    "authors": [
-      "Kate Duffy",
-      "Elise Penn",
-      "Tristan Ballard",
-      "August Posch",
-      "Thomas J. Vandal"
-    ],
-    "is_editorial": false,
-    "abstract_missing": false,
-    "always_include": false,
-    "score_boost": 0.0,
-    "score": 6.0,
-    "matched": [
-      "data assimilation",
-      "reanalysis",
-      "ensemble",
-      "machine learning"
-    ],
-    "published": "2026-11-16",
-    "first_seen": "2026-11-16"
-  },
-  {
-    "title": "Snow cover modelling in the Východné Tatry (Slovakia) and Tatry Wysokie (Poland) Mountains in the period 1991–2020 using downscaling and interpolation techniques",
-    "journal": "Theoretical and Applied Climatology",
-    "source": "openalex:cryosphere",
-    "url": "https://doi.org/10.1007/s00704-026-06723-9",
-    "doi": "10.1007/s00704-026-06723-9",
-    "abstract": null,
-    "authors": [
-      "Marcel Vasiľák",
-      "Tomáš Fedor",
-      "Peter Zaujec"
-    ],
-    "is_editorial": false,
-    "abstract_missing": true,
-    "always_include": false,
-    "score_boost": 0.0,
-    "score": 6.0,
-    "matched": [
-      "downscaling"
-    ],
-    "published": "2026-11-14",
-    "first_seen": "2026-11-16"
+    "published": "2026-11-23",
+    "first_seen": "2026-11-24"
   },
   {
     "title": "Review Article: A Systematic Review of Acquisition and Processing Approaches for Earth Observations of Arctic Sea Ice Melt Ponds",
@@ -2408,66 +2223,6 @@
     "first_seen": "2026-11-23"
   },
   {
-    "title": "A global 0.05° dataset of daily latent heat flux and resistances (2001–2020) derived via the Energy-Resistance-Coupling framework",
-    "journal": "Earth System Science Data",
-    "source": "rss:essd",
-    "url": "https://doi.org/10.5194/essd-2026-678",
-    "doi": "10.5194/essd-2026-678",
-    "abstract": "Preprint under review for ESSD (discussion: open, 0 comments) We developed a daily global dataset describing latent heat flux and the resistances that regulate land–atmosphere water and energy exchange from 2001 to 2020 at 0.05° resolution. The product was evaluated against 244 flux-tower sites and performs robustly across climates and ecosystems. It provides new information for studying drought, ecosystem water stress, land–atmosphere coupling, and Earth system models.",
-    "authors": [
-      "Lingfei Zhang",
-      "Xiaowei Wang",
-      "Yazhen Jiang",
-      "Shuqing Wang",
-      "Menglin Si",
-      "Cheng Huang"
-    ],
-    "is_editorial": false,
-    "abstract_missing": false,
-    "always_include": false,
-    "score_boost": 0.0,
-    "score": 5.0,
-    "matched": [
-      "Earth system model",
-      "Earth system"
-    ],
-    "published": "2026-11-16",
-    "first_seen": "2026-11-16"
-  },
-  {
-    "title": "Tracing Uncertainties of Extreme El Ni\\~{n}o Prediction to Mesoscale Ocean Currents",
-    "journal": "arXiv physics.ao-ph",
-    "source": "rss:arxiv-ao-ph",
-    "url": "https://arxiv.org/abs/2611.17854",
-    "doi": null,
-    "abstract": "arXiv:2611.17854v1 Announce Type: new Abstract: The predictability of the El Ni\\~{n}o-Southern Oscillation (ENSO) has historically been linked to large-scale errors in models' initial conditions such as heat content and surface wind stress. Here we demonstrate that these slowly evolving errors may ultimately originate from mesoscale errors in initial oceanic states that are common in current models and ocean observation systems. This hidden source of ENSO forecast uncertainty, in terms of mesoscale ocean-current errors, is convincingly exposed by the conditional nonlinear optimal perturbation (CNOP) method applied to a differentiable ocean AI model. The CNOP-identified most influential current errors are strongly event-dependent. For the 1997/98 El Ni\\~{n}o, the initial current errors in the eastern Pacific results in the largest forecast error through locally suppressing original subsurface warming. For the 2015/16 event, the dominate error originates from the western Pacific, which reorganizes upper ocean temperature structure and affects the eastern Pacific through the equatorial waveguide. Further analysis reveals that these current errors perturb mesoscale eddy count and eddy kinetic energy triggering large-scale temperature errors that hinder El Ni\\~{n}o development. The timing of the maximum growth rate of the obtained CNOP error is well aligned with the spring predictability barrier of ENSO, and the error structures are reflected in simulated analysis errors caused by unresolved mesoscale currents. These findings extend the potential source of ENSO predictability beyond large-scale thermal signals, reveal for the first time an uncharted route of ENSO forecast failure, and provide an important physical basis for targeted ocean observations and data assimilation in the future.",
-    "authors": [
-      "Bo Qin",
-      "Zeyun Yang",
-      "Qiaofei Xue",
-      "Yanan Ding",
-      "Jinyu Wang",
-      "Chaopeng Ji",
-      "Shijin Yuan",
-      "Bin Mu",
-      "Wansuo Duan",
-      "Guokun Dai",
-      "Mu Mu",
-      "Yi Deng"
-    ],
-    "is_editorial": false,
-    "abstract_missing": false,
-    "always_include": false,
-    "score_boost": 0.0,
-    "score": 5.0,
-    "matched": [
-      "predictability",
-      "data assimilation"
-    ],
-    "published": "2026-11-16",
-    "first_seen": "2026-11-16"
-  },
-  {
     "title": "GPU-accelerated atmospheric chemical kinetics using single precision in the ECHAM/MESSy (EMAC) model v2.55 with MEDINA v2.0",
     "journal": "Geoscientific Model Development",
     "source": "rss:gmd",
@@ -2739,31 +2494,6 @@
     ],
     "published": "2026-11-23",
     "first_seen": "2026-11-23"
-  },
-  {
-    "title": "Controls of Radiocarbon in Dissolved Organic Carbon in the Southwestern Indian Ocean",
-    "journal": "Geophysical Research Letters",
-    "source": "rss:grl",
-    "url": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2026GL125325?af=R",
-    "doi": "10.1029/2026gl125325",
-    "abstract": "Geophysical Research Letters, Volume 53, Issue 22, 28 November 2026.",
-    "authors": [
-      "Yeongjin Ryu",
-      "Taehee Na",
-      "Taekeun Rho",
-      "Ellen R. M. Druffel",
-      "Jeomshik Hwang"
-    ],
-    "is_editorial": false,
-    "abstract_missing": false,
-    "always_include": false,
-    "score_boost": 0.0,
-    "score": 4.0,
-    "matched": [
-      "radiocarbon"
-    ],
-    "published": "2026-11-16",
-    "first_seen": "2026-11-16"
   },
   {
     "title": "To tip or not to tip",
@@ -3204,87 +2934,53 @@
     "first_seen": "2026-11-23"
   },
   {
-    "title": "Knowledge-guided machine learning deciphers spatiotemporal dynamics in chemical reactor systems",
-    "journal": "Nature Communications",
-    "source": "rss:ncomms",
-    "url": "https://www.nature.com/articles/s41467-026-79078-4",
-    "doi": "10.1038/s41467-026-79078-4",
-    "abstract": "Nature Communications, Published online: 16 November 2026; doi:10.1038/s41467-026-79078-4 A physics-informed neural network embeds coking and heat transfer knowledge via an output integration layer and region-weighted loss to predict reactor spatiotemporal fields; it matches conventional simulation results, improves peak wall temperature accuracy, and runs about five orders of magnitude faster than conventional simulations.",
+    "title": "Canyon‐Trapped Topographic Rossby Waves and Their Role in Antarctic Bottom Water Formation off Cape Darnley",
+    "journal": "Geophysical Research Letters",
+    "source": "rss:grl",
+    "url": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2026GL126492?af=R",
+    "doi": "10.1029/2026gl126492",
+    "abstract": "Geophysical Research Letters, Volume 53, Issue 22, 28 November 2026.",
     "authors": [
-      "Shiyi Tang",
-      "Zhaoyang Duan",
-      "Zhou Tian",
-      "Wenli Du",
-      "Feng Qian"
+      "Kay I. Ohshima",
+      "Yoshihiro Nakayama",
+      "Toru Takatsuka",
+      "Mizuki Kuga",
+      "Vigan Mensah"
     ],
     "is_editorial": false,
     "abstract_missing": false,
     "always_include": false,
     "score_boost": 0.0,
-    "score": 3.0,
+    "score": 4.0,
     "matched": [
-      "machine learning",
-      "neural network"
+      "Antarctic"
     ],
-    "published": null,
-    "first_seen": "2026-11-16"
+    "published": "2026-11-23",
+    "first_seen": "2026-11-24"
   },
   {
-    "title": "Rapid ice loss events in a warming Arctic",
-    "journal": "Nature Reviews Earth & Environment",
-    "source": "rss:natrev-ee",
-    "url": "https://www.nature.com/articles/s43017-026-00848-1",
-    "doi": "10.1038/s43017-026-00848-1",
-    "abstract": "Nature Reviews Earth & Environment, Published online: 16 November 2026; doi:10.1038/s43017-026-00848-1 The gradual transition of the Arctic sea-ice cover towards a seasonal ice-free state will likely be accelerated by rapid ice loss events (RILEs). This Review explores the mechanisms and impacts of RILEs and their projected role in Arctic sea-ice loss.",
+    "title": "Regional September Sea Ice Growth Associated With the Post‐2007 Slowdown in Arctic Sea Ice Decline",
+    "journal": "JGR Atmospheres",
+    "source": "rss:jgr-atmospheres",
+    "url": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2026JD047585?af=R",
+    "doi": "10.1029/2026jd047585",
+    "abstract": "Journal of Geophysical Research: Atmospheres, Volume 131, Issue 22, 28 November 2026.",
     "authors": [
-      "Jakob Dörr",
-      "François Massonnet",
-      "Annelies Sticker",
-      "Dániel Topál",
-      "Patricia DeRepentigny",
-      "Alison Delhasse",
-      "David Docquier",
-      "Lauren Hoffman",
-      "Marika M. Holland",
-      "Alexandra Jahn",
-      "Mehdi Pasha Karami",
-      "Torben Koenigk",
-      "Bruno Tremblay",
-      "Marius Årthun"
+      "Yijun Yang",
+      "Bingyi Wu",
+      "Xiang Zhang"
     ],
     "is_editorial": false,
     "abstract_missing": false,
     "always_include": false,
     "score_boost": 0.0,
-    "score": 3.0,
+    "score": 4.0,
     "matched": [
-      "Arctic"
+      "Arctic",
+      "sea ice"
     ],
-    "published": null,
-    "first_seen": "2026-11-16"
-  },
-  {
-    "title": "Identify Transient Supershear Rupture Through Deciphering Near‐Fault Data",
-    "journal": "JGR Solid Earth",
-    "source": "rss:jgr-solidearth",
-    "url": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2026JB035022?af=R",
-    "doi": "10.1029/2026jb035022",
-    "abstract": "Journal of Geophysical Research: Solid Earth, Volume 131, Issue 11, November 2026.",
-    "authors": [
-      "Di Deng",
-      "Suli Yao",
-      "Hongfeng Yang"
-    ],
-    "is_editorial": false,
-    "abstract_missing": false,
-    "always_include": false,
-    "score_boost": 0.0,
-    "score": 3.0,
-    "matched": [
-      "solid earth"
-    ],
-    "published": "2026-11-16",
-    "first_seen": "2026-11-16"
+    "published": "2026-11-24",
+    "first_seen": "2026-11-24"
   },
   {
     "title": "From Apparent Permeability Enhancement to Vortex‐Induced Suppression: Three‐Stage Flow Transition in Fracture–Vug Media",
@@ -3995,6 +3691,35 @@
     "first_seen": "2026-11-23"
   },
   {
+    "title": "Slab‐Width Control on Trench Geometry, Plate Rotation, and Slab Morphology During Corner‐Initiated Subduction",
+    "journal": "JGR Solid Earth",
+    "source": "rss:jgr-solidearth",
+    "url": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2026JB034836?af=R",
+    "doi": "10.1029/2026jb034836",
+    "abstract": "Journal of Geophysical Research: Solid Earth, Volume 131, Issue 11, November 2026.",
+    "authors": [
+      "Chunyang Wang",
+      "Weiwei Ding",
+      "Wouter P. Schellart",
+      "Pingchuan Tan",
+      "Xiangtian Wen",
+      "Zhengyi Tong",
+      "Yuwei Liu",
+      "Yinxia Fang",
+      "Jiabiao Li"
+    ],
+    "is_editorial": false,
+    "abstract_missing": false,
+    "always_include": false,
+    "score_boost": 0.0,
+    "score": 3.0,
+    "matched": [
+      "solid earth"
+    ],
+    "published": "2026-11-23",
+    "first_seen": "2026-11-24"
+  },
+  {
     "title": "FluidUrban v1.0: enhancing urban ventilation and pollutant dispersion modelling with three-dimensional dynamic adaptive meshes optimisation",
     "journal": "Geoscientific Model Development",
     "source": "rss:gmd",
@@ -4023,27 +3748,31 @@
     "first_seen": "2026-11-20"
   },
   {
-    "title": "EGGS-WG: an open source global gridded stochastic  weather generator derived from ERA5-Land",
+    "title": "Coupling LaMEM 3.0.1 and FastScape 2.8.4 for self-consistent 3D thermo-mechanical and landscape evolution modeling",
     "journal": "Geoscientific Model Development",
     "source": "rss:gmd",
-    "url": "https://doi.org/10.5194/gmd-19-10863-2026",
-    "doi": "10.5194/gmd-19-10863-2026",
-    "abstract": "Stochastic Weather Generators are simple models that can be used to produce realistic, simulated weather. Specifically, they use a combination of statistical techniques and existing measurements to make possible futures. This paper documents the release and provides validation of an open-source modern model, EGGS-WG. It produces daily rainfall values and hourly air temperature and dew point temperature values. The simulation quality is shown to be high when validated against ERA5-Land.",
+    "url": "https://doi.org/10.5194/gmd-19-11189-2026",
+    "doi": "10.5194/gmd-19-11189-2026",
+    "abstract": "The quantitative interaction between tectonics and landscape remains incompletely understood. We developed a 3D numerical tool coupling tectonic and surface processes, enabling the investigation of their dynamic interplay. We test different tectonic scenarios, such as plume and oceanic subduction, with coupled tectonic-landscape evolution, providing a new numerical module to advance our understanding of Earth system evolution.",
     "authors": [
-      "Alex Schuddeboom",
-      "Christian Zammit",
-      "David Plew",
-      "Piet Verburg",
-      "Aidin Jabbari"
+      "Yun Luo",
+      "Jianfeng Yang",
+      "Boris J. P. Kaus",
+      "Anton A. Popov",
+      "Shaohui Liu",
+      "Xiaoping Yuan",
+      "Liang Zhao"
     ],
     "is_editorial": false,
     "abstract_missing": false,
     "always_include": true,
     "score_boost": 0.0,
-    "score": 0.0,
-    "matched": [],
-    "published": "2026-11-16",
-    "first_seen": "2026-11-16"
+    "score": 1.0,
+    "matched": [
+      "Earth system"
+    ],
+    "published": "2026-11-24",
+    "first_seen": "2026-11-24"
   },
   {
     "title": "Linking ridge shapes to the ice thickness distribution via discrete element simulations",
@@ -4268,5 +3997,47 @@
     "matched": [],
     "published": "2026-11-23",
     "first_seen": "2026-11-23"
+  },
+  {
+    "title": "A new Monte Carlo treatment of multiple scattering of light by black carbon aggregates with varying levels of compactness",
+    "journal": "Geoscientific Model Development",
+    "source": "rss:gmd",
+    "url": "https://doi.org/10.5194/gmd-19-11165-2026",
+    "doi": "10.5194/gmd-19-11165-2026",
+    "abstract": "Previous studies have demonstrated that particle shape affects the single scattering properties of black carbon (BC) aerosol. Using a specialized model, we investigate the multiple scattering properties of BC aerosol. We find that BC particle shape significantly influences the distribution of light transmitted, reflected, and absorbed by a BC layer. Our results also predict a lower fraction of light reflected by a BC layer than standard radiative transfer approximations.",
+    "authors": [
+      "Ynon Hefets",
+      "Carynelisa Haspel"
+    ],
+    "is_editorial": false,
+    "abstract_missing": false,
+    "always_include": true,
+    "score_boost": 0.0,
+    "score": 0.0,
+    "matched": [],
+    "published": "2026-11-24",
+    "first_seen": "2026-11-24"
+  },
+  {
+    "title": "Idealised framework to prescribe sea surface temperatures to investigate the atmospheric circulation response",
+    "journal": "Geoscientific Model Development",
+    "source": "rss:gmd",
+    "url": "https://doi.org/10.5194/gmd-19-11209-2026",
+    "doi": "10.5194/gmd-19-11209-2026",
+    "abstract": "We propose an idealised framework to study how the shape of midlatitude SST fronts controls the atmospheric general circulation. The new SST profile enables separate changes in the geometric properties of extratropical SST fronts, such as strength, width, position, and maximum SST. The response of storm tracks, jets, and the water cycle to changes in frontal parameters are briefly discussed. This approach provides a basis for more targeted studies on the role of SST fronts on the atmosphere.",
+    "authors": [
+      "Fumiaki Ogawa",
+      "Andrea Marcheggiani",
+      "Hisashi Nakamura",
+      "Thomas Spengler"
+    ],
+    "is_editorial": false,
+    "abstract_missing": false,
+    "always_include": true,
+    "score_boost": 0.0,
+    "score": 0.0,
+    "matched": [],
+    "published": "2026-11-24",
+    "first_seen": "2026-11-24"
   }
 ]
